@@ -1,0 +1,62 @@
+
+314_pickbg.png
+size: 1929,951
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/guangyun
+  rotate: false
+  xy: 1615, 90
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+effect/qipao01
+  rotate: false
+  xy: 1156, 69
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+effect/shuiwen
+  rotate: false
+  xy: 1788, 310
+  size: 116, 112
+  orig: 116, 112
+  offset: 0, 0
+  index: -1
+pick/di
+  rotate: true
+  xy: 0, 103
+  size: 848, 1360
+  orig: 848, 1360
+  offset: 0, 0
+  index: -1
+pick/ding
+  rotate: false
+  xy: 1362, 162
+  size: 251, 107
+  orig: 251, 107
+  offset: 0, 0
+  index: -1
+pick/youzhu1
+  rotate: true
+  xy: 0, 0
+  size: 101, 1154
+  orig: 101, 1154
+  offset: 0, 0
+  index: -1
+pick/youzhu2
+  rotate: false
+  xy: 1788, 424
+  size: 141, 527
+  orig: 141, 527
+  offset: 0, 0
+  index: -1
+pick/yun
+  rotate: false
+  xy: 1362, 271
+  size: 424, 680
+  orig: 424, 680
+  offset: 0, 0
+  index: -1

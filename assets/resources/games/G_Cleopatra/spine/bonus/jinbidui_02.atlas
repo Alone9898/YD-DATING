@@ -1,0 +1,27 @@
+
+jinbidui_02.png
+size: 382,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaoliang02
+  rotate: false
+  xy: 0, 141
+  size: 381, 113
+  orig: 381, 113
+  offset: 0, 0
+  index: -1
+gaoliang03_0
+  rotate: false
+  xy: 0, 256
+  size: 382, 124
+  orig: 382, 124
+  offset: 0, 0
+  index: -1
+gaoling01
+  rotate: false
+  xy: 0, 44
+  size: 364, 95
+  orig: 364, 95
+  offset: 0, 0
+  index: -1

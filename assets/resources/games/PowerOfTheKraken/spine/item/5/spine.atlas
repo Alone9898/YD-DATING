@@ -1,0 +1,76 @@
+
+314_m4.png
+size: 577,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/guangyun
+  rotate: false
+  xy: 335, 4
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+effect/xx
+  rotate: false
+  xy: 335, 18
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+images/diyun
+  rotate: false
+  xy: 2, 3
+  size: 241, 200
+  orig: 241, 200
+  offset: 0, 0
+  index: -1
+images/t1
+  rotate: false
+  xy: 469, 6
+  size: 84, 95
+  orig: 84, 95
+  offset: 0, 0
+  index: -1
+images/t2
+  rotate: false
+  xy: 469, 103
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+images/t3
+  rotate: true
+  xy: 361, 2
+  size: 73, 106
+  orig: 73, 106
+  offset: 0, 0
+  index: -1
+images/t4
+  rotate: true
+  xy: 245, 15
+  size: 27, 88
+  orig: 27, 88
+  offset: 0, 0
+  index: -1
+images/t5
+  rotate: true
+  xy: 420, 100
+  size: 103, 47
+  orig: 103, 47
+  offset: 0, 0
+  index: -1
+images/tou1
+  rotate: true
+  xy: 353, 77
+  size: 126, 65
+  orig: 126, 65
+  offset: 0, 0
+  index: -1
+images/tou2
+  rotate: true
+  xy: 245, 44
+  size: 159, 106
+  orig: 159, 106
+  offset: 0, 0
+  index: -1

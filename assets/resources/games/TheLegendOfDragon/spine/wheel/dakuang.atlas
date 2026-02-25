@@ -1,0 +1,146 @@
+
+dakuang.png
+size: 1527,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dakuang/dakuang_00
+  rotate: false
+  xy: 0, 0
+  size: 149, 173
+  orig: 216, 233
+  offset: 32, 25
+  index: -1
+dakuang/dakuang_01
+  rotate: false
+  xy: 1072, 181
+  size: 151, 167
+  orig: 216, 233
+  offset: 30, 24
+  index: -1
+dakuang/dakuang_02
+  rotate: false
+  xy: 462, 5
+  size: 151, 170
+  orig: 216, 233
+  offset: 29, 23
+  index: -1
+dakuang/dakuang_03
+  rotate: false
+  xy: 771, 179
+  size: 149, 169
+  orig: 216, 233
+  offset: 29, 24
+  index: -1
+dakuang/dakuang_04
+  rotate: false
+  xy: 618, 179
+  size: 151, 169
+  orig: 216, 233
+  offset: 28, 25
+  index: -1
+dakuang/dakuang_05
+  rotate: false
+  xy: 0, 175
+  size: 153, 173
+  orig: 216, 233
+  offset: 27, 21
+  index: -1
+dakuang/dakuang_06
+  rotate: false
+  xy: 151, 1
+  size: 155, 172
+  orig: 216, 233
+  offset: 26, 23
+  index: -1
+dakuang/dakuang_07
+  rotate: false
+  xy: 311, 177
+  size: 153, 171
+  orig: 216, 233
+  offset: 29, 23
+  index: -1
+dakuang/dakuang_08
+  rotate: false
+  xy: 916, 9
+  size: 155, 168
+  orig: 216, 233
+  offset: 28, 22
+  index: -1
+dakuang/dakuang_09
+  rotate: false
+  xy: 1377, 21
+  size: 148, 163
+  orig: 216, 233
+  offset: 36, 28
+  index: -1
+dakuang/dakuang_10
+  rotate: false
+  xy: 1227, 22
+  size: 148, 160
+  orig: 216, 233
+  offset: 37, 32
+  index: -1
+dakuang/dakuang_11
+  rotate: false
+  xy: 1377, 186
+  size: 150, 162
+  orig: 216, 233
+  offset: 36, 31
+  index: -1
+dakuang/dakuang_12
+  rotate: false
+  xy: 1225, 184
+  size: 150, 164
+  orig: 216, 233
+  offset: 36, 30
+  index: -1
+dakuang/dakuang_13
+  rotate: false
+  xy: 1073, 13
+  size: 152, 166
+  orig: 216, 233
+  offset: 35, 29
+  index: -1
+dakuang/dakuang_14
+  rotate: false
+  xy: 922, 180
+  size: 148, 168
+  orig: 216, 233
+  offset: 36, 28
+  index: -1
+dakuang/dakuang_15
+  rotate: false
+  xy: 764, 8
+  size: 150, 169
+  orig: 216, 233
+  offset: 35, 27
+  index: -1
+dakuang/dakuang_16
+  rotate: false
+  xy: 615, 6
+  size: 147, 170
+  orig: 216, 233
+  offset: 34, 26
+  index: -1
+dakuang/dakuang_17
+  rotate: false
+  xy: 466, 178
+  size: 150, 170
+  orig: 216, 233
+  offset: 33, 26
+  index: -1
+dakuang/dakuang_18
+  rotate: false
+  xy: 308, 2
+  size: 152, 172
+  orig: 216, 233
+  offset: 32, 25
+  index: -1
+dakuang/dakuang_19
+  rotate: false
+  xy: 155, 176
+  size: 154, 172
+  orig: 216, 233
+  offset: 31, 25
+  index: -1

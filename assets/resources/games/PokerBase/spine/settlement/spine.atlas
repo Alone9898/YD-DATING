@@ -1,0 +1,237 @@
+
+spine.png
+size: 821,821
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RP
+  rotate: true
+  xy: 694, 183
+  size: 97, 113
+  orig: 130, 130
+  offset: 17, 5
+  index: -1
+duanwei
+  rotate: false
+  xy: 599, 696
+  size: 106, 123
+  orig: 130, 130
+  offset: 11, 4
+  index: -1
+hd
+  rotate: false
+  xy: 482, 496
+  size: 241, 50
+  orig: 250, 50
+  offset: 5, 0
+  index: -1
+icon_league_big_2
+  rotate: false
+  xy: 707, 695
+  size: 105, 124
+  orig: 130, 130
+  offset: 12, 3
+  index: -1
+icon_league_big_3
+  rotate: false
+  xy: 702, 569
+  size: 105, 124
+  orig: 130, 130
+  offset: 12, 3
+  index: -1
+icon_league_big_4
+  rotate: false
+  xy: 491, 370
+  size: 105, 124
+  orig: 130, 130
+  offset: 12, 3
+  index: -1
+icon_league_big_5
+  rotate: true
+  xy: 598, 389
+  size: 105, 124
+  orig: 130, 130
+  offset: 12, 3
+  index: -1
+icon_league_big_6
+  rotate: true
+  xy: 598, 282
+  size: 105, 124
+  orig: 130, 130
+  offset: 12, 3
+  index: -1
+icon_league_big_7
+  rotate: true
+  xy: 482, 548
+  size: 121, 119
+  orig: 130, 130
+  offset: 5, 8
+  index: -1
+shoujidianliang/shoujidianliang_00
+  rotate: false
+  xy: 2, 291
+  size: 168, 172
+  orig: 181, 181
+  offset: 9, 9
+  index: -1
+shoujidianliang/shoujidianliang_01
+  rotate: false
+  xy: 2, 645
+  size: 169, 174
+  orig: 181, 181
+  offset: 6, 7
+  index: -1
+shoujidianliang/shoujidianliang_02
+  rotate: false
+  xy: 2, 465
+  size: 165, 178
+  orig: 181, 181
+  offset: 8, 2
+  index: -1
+shoujidianliang/shoujidianliang_03
+  rotate: false
+  xy: 169, 469
+  size: 162, 174
+  orig: 181, 181
+  offset: 10, 4
+  index: -1
+shoujidianliang/shoujidianliang_04
+  rotate: true
+  xy: 164, 132
+  size: 157, 172
+  orig: 181, 181
+  offset: 13, 2
+  index: -1
+shoujidianliang/shoujidianliang_05
+  rotate: true
+  xy: 338, 145
+  size: 155, 171
+  orig: 181, 181
+  offset: 12, 0
+  index: -1
+shoujidianliang/shoujidianliang_06
+  rotate: true
+  xy: 173, 651
+  size: 168, 166
+  orig: 181, 181
+  offset: 8, 3
+  index: -1
+shoujidianliang/shoujidianliang_07
+  rotate: true
+  xy: 328, 302
+  size: 165, 161
+  orig: 181, 181
+  offset: 10, 6
+  index: -1
+shoujidianliang/shoujidianliang_08
+  rotate: true
+  xy: 2, 120
+  size: 169, 160
+  orig: 181, 181
+  offset: 12, 10
+  index: -1
+shoujidianliang/shoujidianliang_09
+  rotate: true
+  xy: 172, 293
+  size: 174, 154
+  orig: 181, 181
+  offset: 7, 14
+  index: -1
+shoujidianliang/shoujidianliang_10
+  rotate: true
+  xy: 333, 476
+  size: 173, 147
+  orig: 181, 181
+  offset: 6, 18
+  index: -1
+shoujidianliang/shoujidianliang_11
+  rotate: false
+  xy: 439, 3
+  size: 168, 140
+  orig: 181, 181
+  offset: 8, 22
+  index: -1
+shoujidianliang/shoujidianliang_12
+  rotate: true
+  xy: 341, 657
+  size: 162, 134
+  orig: 181, 181
+  offset: 10, 25
+  index: -1
+shoujidianliang/shoujidianliang_13
+  rotate: false
+  xy: 282, 2
+  size: 155, 128
+  orig: 181, 181
+  offset: 13, 27
+  index: -1
+shoujidianliang/shoujidianliang_14
+  rotate: true
+  xy: 477, 671
+  size: 148, 120
+  orig: 181, 181
+  offset: 16, 31
+  index: -1
+shoujidianliang/shoujidianliang_15
+  rotate: false
+  xy: 2, 4
+  size: 142, 114
+  orig: 181, 181
+  offset: 19, 33
+  index: -1
+shoujidianliang/shoujidianliang_16
+  rotate: false
+  xy: 146, 12
+  size: 134, 106
+  orig: 181, 181
+  offset: 23, 36
+  index: -1
+shoujidianliang/shoujidianliang_17
+  rotate: true
+  xy: 603, 568
+  size: 126, 97
+  orig: 181, 181
+  offset: 27, 39
+  index: -1
+shoujidianliang/shoujidianliang_18
+  rotate: true
+  xy: 725, 450
+  size: 117, 85
+  orig: 181, 181
+  offset: 32, 43
+  index: -1
+shoujidianliang/shoujidianliang_19
+  rotate: true
+  xy: 724, 340
+  size: 108, 79
+  orig: 181, 181
+  offset: 37, 47
+  index: -1
+shoujidianliang/shoujidianliang_20
+  rotate: true
+  xy: 511, 203
+  size: 98, 73
+  orig: 181, 181
+  offset: 42, 51
+  index: -1
+shoujidianliang/shoujidianliang_21
+  rotate: false
+  xy: 491, 303
+  size: 84, 65
+  orig: 181, 181
+  offset: 50, 56
+  index: -1
+shoujidianliang/shoujidianliang_22
+  rotate: false
+  xy: 511, 149
+  size: 64, 52
+  orig: 181, 181
+  offset: 61, 63
+  index: -1
+starbg
+  rotate: false
+  xy: 586, 173
+  size: 106, 107
+  orig: 110, 110
+  offset: 2, 2
+  index: -1

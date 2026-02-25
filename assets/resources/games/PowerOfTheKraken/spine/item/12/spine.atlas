@@ -1,0 +1,20 @@
+
+314_10.png
+size: 246,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/xx
+  rotate: false
+  xy: 165, 59
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+images/10
+  rotate: false
+  xy: 2, 2
+  size: 161, 135
+  orig: 161, 135
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+zhuanpan_03.png
+size: 1381,431
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qipanzhuan01_0/qipanzhuan01_0
+  rotate: false
+  xy: 830, 146
+  size: 274, 142
+  orig: 293, 150
+  offset: 6, 8
+  index: -1
+qipanzhuan01_0/qipanzhuan01_15
+  rotate: false
+  xy: 830, 146
+  size: 274, 142
+  orig: 293, 150
+  offset: 6, 8
+  index: -1
+qipanzhuan01_0/qipanzhuan01_1
+  rotate: false
+  xy: 830, 0
+  size: 273, 144
+  orig: 293, 150
+  offset: 7, 6
+  index: -1
+qipanzhuan01_0/qipanzhuan01_10
+  rotate: false
+  xy: 1106, 146
+  size: 273, 142
+  orig: 293, 150
+  offset: 7, 8
+  index: -1
+qipanzhuan01_0/qipanzhuan01_11
+  rotate: false
+  xy: 279, 291
+  size: 273, 140
+  orig: 293, 150
+  offset: 7, 10
+  index: -1
+qipanzhuan01_0/qipanzhuan01_12
+  rotate: false
+  xy: 556, 148
+  size: 272, 141
+  orig: 293, 150
+  offset: 7, 9
+  index: -1
+qipanzhuan01_0/qipanzhuan01_13
+  rotate: false
+  xy: 554, 291
+  size: 271, 140
+  orig: 293, 150
+  offset: 6, 10
+  index: -1
+qipanzhuan01_0/qipanzhuan01_14
+  rotate: false
+  xy: 827, 291
+  size: 273, 140
+  orig: 293, 150
+  offset: 6, 10
+  index: -1
+qipanzhuan01_0/qipanzhuan01_2
+  rotate: false
+  xy: 0, 3
+  size: 272, 143
+  orig: 293, 150
+  offset: 7, 7
+  index: -1
+qipanzhuan01_0/qipanzhuan01_3
+  rotate: false
+  xy: 1102, 290
+  size: 273, 141
+  orig: 293, 150
+  offset: 6, 9
+  index: -1
+qipanzhuan01_0/qipanzhuan01_4
+  rotate: false
+  xy: 0, 148
+  size: 275, 141
+  orig: 293, 150
+  offset: 7, 9
+  index: -1
+qipanzhuan01_0/qipanzhuan01_5
+  rotate: false
+  xy: 274, 3
+  size: 275, 143
+  orig: 293, 150
+  offset: 8, 7
+  index: -1
+qipanzhuan01_0/qipanzhuan01_6
+  rotate: false
+  xy: 551, 3
+  size: 277, 143
+  orig: 293, 150
+  offset: 6, 7
+  index: -1
+qipanzhuan01_0/qipanzhuan01_7
+  rotate: false
+  xy: 277, 148
+  size: 277, 141
+  orig: 293, 150
+  offset: 6, 9
+  index: -1
+qipanzhuan01_0/qipanzhuan01_8
+  rotate: false
+  xy: 0, 291
+  size: 277, 140
+  orig: 293, 150
+  offset: 6, 10
+  index: -1
+qipanzhuan01_0/qipanzhuan01_9
+  rotate: false
+  xy: 1105, 0
+  size: 276, 144
+  orig: 293, 150
+  offset: 7, 6
+  index: -1

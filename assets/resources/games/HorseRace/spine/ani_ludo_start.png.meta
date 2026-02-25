@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a95edcb0-477d-437a-bbd1-31e4cbe7d87c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 904,
+  "height": 158,
+  "platformSettings": {},
+  "subMetas": {
+    "ani_ludo_start": {
+      "ver": "1.0.4",
+      "uuid": "f741d115-f105-48c9-bdff-8bd0a8dff0eb",
+      "rawTextureUuid": "a95edcb0-477d-437a-bbd1-31e4cbe7d87c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 900,
+      "height": 153,
+      "rawWidth": 904,
+      "rawHeight": 158,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,174 @@
+
+SJJB_01.png
+size: 1123,194
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baolizi/lizi_1
+  rotate: true
+  xy: 1049, 117
+  size: 75, 72
+  orig: 100, 98
+  offset: 9, 15
+  index: -1
+baolizi/lizi_10
+  rotate: false
+  xy: 385, 2
+  size: 96, 92
+  orig: 100, 98
+  offset: 0, 2
+  index: -1
+baolizi/lizi_11
+  rotate: false
+  xy: 680, 3
+  size: 96, 93
+  orig: 100, 98
+  offset: 1, 2
+  index: -1
+baolizi/lizi_12
+  rotate: false
+  xy: 486, 98
+  size: 96, 94
+  orig: 100, 98
+  offset: 2, 2
+  index: -1
+baolizi/lizi_13
+  rotate: true
+  xy: 292, 96
+  size: 96, 95
+  orig: 100, 98
+  offset: 2, 1
+  index: -1
+baolizi/lizi_14
+  rotate: true
+  xy: 2, 95
+  size: 97, 95
+  orig: 100, 98
+  offset: 1, 1
+  index: -1
+baolizi/lizi_15
+  rotate: true
+  xy: 582, 2
+  size: 94, 96
+  orig: 100, 98
+  offset: 1, 0
+  index: -1
+baolizi/lizi_16
+  rotate: false
+  xy: 99, 95
+  size: 95, 97
+  orig: 100, 98
+  offset: 1, 0
+  index: -1
+baolizi/lizi_17
+  rotate: true
+  xy: 584, 98
+  size: 94, 96
+  orig: 100, 98
+  offset: 1, 0
+  index: -1
+baolizi/lizi_18
+  rotate: false
+  xy: 389, 97
+  size: 95, 95
+  orig: 100, 98
+  offset: 1, 1
+  index: -1
+baolizi/lizi_19
+  rotate: false
+  xy: 682, 100
+  size: 95, 92
+  orig: 100, 98
+  offset: 1, 1
+  index: -1
+baolizi/lizi_2
+  rotate: false
+  xy: 1039, 28
+  size: 82, 78
+  orig: 100, 98
+  offset: 6, 12
+  index: -1
+baolizi/lizi_20
+  rotate: false
+  xy: 101, 3
+  size: 93, 90
+  orig: 100, 98
+  offset: 2, 2
+  index: -1
+baolizi/lizi_21
+  rotate: false
+  xy: 196, 2
+  size: 92, 90
+  orig: 100, 98
+  offset: 1, 2
+  index: -1
+baolizi/lizi_22
+  rotate: false
+  xy: 778, 7
+  size: 89, 91
+  orig: 100, 98
+  offset: 5, 1
+  index: -1
+baolizi/lizi_23
+  rotate: true
+  xy: 954, 17
+  size: 88, 83
+  orig: 100, 98
+  offset: 4, 9
+  index: -1
+baolizi/lizi_24
+  rotate: true
+  xy: 964, 108
+  size: 84, 83
+  orig: 100, 98
+  offset: 6, 9
+  index: -1
+baolizi/lizi_3
+  rotate: true
+  xy: 869, 17
+  size: 88, 83
+  orig: 100, 98
+  offset: 3, 10
+  index: -1
+baolizi/lizi_4
+  rotate: true
+  xy: 779, 100
+  size: 92, 87
+  orig: 100, 98
+  offset: 1, 8
+  index: -1
+baolizi/lizi_5
+  rotate: false
+  xy: 868, 107
+  size: 94, 85
+  orig: 100, 98
+  offset: 1, 6
+  index: -1
+baolizi/lizi_6
+  rotate: false
+  xy: 290, 4
+  size: 93, 88
+  orig: 100, 98
+  offset: 3, 4
+  index: -1
+baolizi/lizi_7
+  rotate: false
+  xy: 2, 4
+  size: 97, 89
+  orig: 100, 98
+  offset: 1, 4
+  index: -1
+baolizi/lizi_8
+  rotate: false
+  xy: 483, 2
+  size: 97, 93
+  orig: 100, 98
+  offset: 1, 1
+  index: -1
+baolizi/lizi_9
+  rotate: true
+  xy: 196, 94
+  size: 98, 94
+  orig: 100, 98
+  offset: 0, 1
+  index: -1

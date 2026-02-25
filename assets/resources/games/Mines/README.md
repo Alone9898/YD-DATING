@@ -1,0 +1,1 @@
+git submodule add ssh://git@git.jiuyi.com:22222/CasinoClient/YD_Table_Mines.git assets/resources/games/Mines

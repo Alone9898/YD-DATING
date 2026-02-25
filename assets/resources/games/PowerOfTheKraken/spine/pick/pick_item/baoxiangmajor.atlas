@@ -1,0 +1,55 @@
+
+baoxiangmajor.png
+size: 868,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow100
+  rotate: false
+  xy: 2, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Particle_Circle_Outerglow_01
+  rotate: false
+  xy: 260, 6
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+images/major
+  rotate: false
+  xy: 613, 2
+  size: 172, 56
+  orig: 174, 58
+  offset: 1, 1
+  index: -1
+images/zibao
+  rotate: false
+  xy: 613, 60
+  size: 168, 75
+  orig: 170, 77
+  offset: 1, 1
+  index: -1
+low_406_trail01
+  rotate: false
+  xy: 516, 11
+  size: 95, 249
+  orig: 128, 256
+  offset: 16, 5
+  index: -1
+ros_flare01
+  rotate: false
+  xy: 743, 137
+  size: 123, 123
+  orig: 128, 128
+  offset: 2, 2
+  index: -1
+xxx
+  rotate: false
+  xy: 613, 137
+  size: 128, 123
+  orig: 128, 123
+  offset: 0, 0
+  index: -1

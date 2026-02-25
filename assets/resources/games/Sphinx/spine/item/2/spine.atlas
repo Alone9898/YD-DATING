@@ -1,0 +1,104 @@
+
+spine.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/474lan
+  rotate: false
+  xy: 272, 68
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+images/beijing
+  rotate: false
+  xy: 2, 2
+  size: 114, 92
+  orig: 114, 92
+  offset: 0, 0
+  index: -1
+images/guang
+  rotate: false
+  xy: 157, 39
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+images/guangtiao
+  rotate: true
+  xy: 2, 96
+  size: 23, 257
+  orig: 23, 257
+  offset: 0, 0
+  index: -1
+images/huzi
+  rotate: false
+  xy: 378, 86
+  size: 13, 33
+  orig: 13, 33
+  offset: 0, 0
+  index: -1
+images/lian
+  rotate: false
+  xy: 218, 41
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+images/she_shenti
+  rotate: true
+  xy: 272, 42
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+images/she_tou1
+  rotate: false
+  xy: 393, 108
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+images/she_tou2
+  rotate: false
+  xy: 310, 51
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+images/toufa1
+  rotate: false
+  xy: 157, 2
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+images/toufa2
+  rotate: false
+  xy: 118, 6
+  size: 37, 88
+  orig: 37, 88
+  offset: 0, 0
+  index: -1
+images/yanpi1
+  rotate: true
+  xy: 261, 105
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+images/yanpi2
+  rotate: true
+  xy: 378, 70
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+images/zhuanguang01
+  rotate: false
+  xy: 325, 68
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1

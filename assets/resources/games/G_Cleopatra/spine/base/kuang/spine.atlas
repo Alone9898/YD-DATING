@@ -1,0 +1,146 @@
+
+186_zjlx_01.png
+size: 458,458
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zjlx_0/zjlx_0
+  rotate: false
+  xy: 0, 366
+  size: 116, 92
+  orig: 142, 109
+  offset: 8, 8
+  index: -1
+zjlx_0/zjlx_1
+  rotate: true
+  xy: 364, 356
+  size: 102, 94
+  orig: 142, 109
+  offset: 9, 6
+  index: -1
+zjlx_0/zjlx_10
+  rotate: false
+  xy: 0, 271
+  size: 114, 93
+  orig: 142, 109
+  offset: 18, 7
+  index: -1
+zjlx_0/zjlx_11
+  rotate: false
+  xy: 116, 271
+  size: 96, 93
+  orig: 142, 109
+  offset: 36, 8
+  index: -1
+zjlx_0/zjlx_12
+  rotate: true
+  xy: 95, 0
+  size: 83, 93
+  orig: 142, 109
+  offset: 49, 8
+  index: -1
+zjlx_0/zjlx_13
+  rotate: true
+  xy: 204, 15
+  size: 75, 93
+  orig: 142, 109
+  offset: 56, 8
+  index: -1
+zjlx_0/zjlx_14
+  rotate: true
+  xy: 109, 178
+  size: 91, 92
+  orig: 142, 109
+  offset: 40, 9
+  index: -1
+zjlx_0/zjlx_15
+  rotate: false
+  xy: 0, 178
+  size: 107, 91
+  orig: 142, 109
+  offset: 24, 10
+  index: -1
+zjlx_0/zjlx_16
+  rotate: false
+  xy: 204, 155
+  size: 121, 75
+  orig: 142, 109
+  offset: 9, 26
+  index: -1
+zjlx_0/zjlx_17
+  rotate: true
+  xy: 327, 108
+  size: 122, 60
+  orig: 142, 109
+  offset: 8, 40
+  index: -1
+zjlx_0/zjlx_18
+  rotate: true
+  xy: 389, 156
+  size: 121, 60
+  orig: 142, 109
+  offset: 8, 40
+  index: -1
+zjlx_0/zjlx_19
+  rotate: false
+  xy: 242, 303
+  size: 120, 76
+  orig: 142, 109
+  offset: 8, 24
+  index: -1
+zjlx_0/zjlx_2
+  rotate: true
+  xy: 0, 0
+  size: 83, 93
+  orig: 142, 109
+  offset: 9, 7
+  index: -1
+zjlx_0/zjlx_3
+  rotate: true
+  xy: 364, 279
+  size: 75, 93
+  orig: 142, 109
+  offset: 9, 7
+  index: -1
+zjlx_0/zjlx_4
+  rotate: true
+  xy: 108, 85
+  size: 91, 94
+  orig: 142, 109
+  offset: 9, 6
+  index: -1
+zjlx_0/zjlx_5
+  rotate: false
+  xy: 0, 85
+  size: 106, 91
+  orig: 142, 109
+  offset: 10, 6
+  index: -1
+zjlx_0/zjlx_6
+  rotate: false
+  xy: 118, 374
+  size: 122, 84
+  orig: 142, 109
+  offset: 10, 7
+  index: -1
+zjlx_0/zjlx_7
+  rotate: false
+  xy: 214, 232
+  size: 122, 69
+  orig: 142, 109
+  offset: 10, 7
+  index: -1
+zjlx_0/zjlx_8
+  rotate: false
+  xy: 204, 92
+  size: 121, 61
+  orig: 142, 109
+  offset: 11, 7
+  index: -1
+zjlx_0/zjlx_9
+  rotate: false
+  xy: 242, 381
+  size: 120, 77
+  orig: 142, 109
+  offset: 12, 7
+  index: -1

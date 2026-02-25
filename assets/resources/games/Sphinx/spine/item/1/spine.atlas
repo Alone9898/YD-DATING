@@ -1,0 +1,146 @@
+
+spine.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ggg
+  rotate: false
+  xy: 2, 6
+  size: 138, 120
+  orig: 138, 120
+  offset: 0, 0
+  index: -1
+images/k
+  rotate: false
+  xy: 142, 14
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+images/shinnn_0
+  rotate: false
+  xy: 272, 29
+  size: 134, 97
+  orig: 134, 97
+  offset: 0, 0
+  index: -1
+images/wild
+  rotate: false
+  xy: 408, 30
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+images/yuan
+  rotate: true
+  xy: 761, 11
+  size: 115, 98
+  orig: 115, 98
+  offset: 0, 0
+  index: -1
+s_0
+  rotate: false
+  xy: 633, 5
+  size: 125, 29
+  orig: 125, 29
+  offset: 0, 0
+  index: -1
+s_1
+  rotate: false
+  xy: 956, 2
+  size: 126, 34
+  orig: 126, 34
+  offset: 0, 0
+  index: -1
+s_10
+  rotate: false
+  xy: 956, 38
+  size: 127, 88
+  orig: 127, 88
+  offset: 0, 0
+  index: -1
+s_11
+  rotate: false
+  xy: 633, 36
+  size: 126, 90
+  orig: 126, 90
+  offset: 0, 0
+  index: -1
+s_12
+  rotate: true
+  xy: 538, 3
+  size: 123, 93
+  orig: 123, 93
+  offset: 0, 0
+  index: -1
+s_13
+  rotate: true
+  xy: 861, 5
+  size: 121, 93
+  orig: 121, 93
+  offset: 0, 0
+  index: -1
+s_14
+  rotate: true
+  xy: 1085, 10
+  size: 116, 93
+  orig: 116, 93
+  offset: 0, 0
+  index: -1
+s_2
+  rotate: false
+  xy: 1309, 6
+  size: 125, 41
+  orig: 125, 41
+  offset: 0, 0
+  index: -1
+s_3
+  rotate: false
+  xy: 1439, 5
+  size: 127, 47
+  orig: 127, 47
+  offset: 0, 0
+  index: -1
+s_4
+  rotate: false
+  xy: 1570, 5
+  size: 129, 53
+  orig: 129, 53
+  offset: 0, 0
+  index: -1
+s_5
+  rotate: false
+  xy: 1701, 66
+  size: 130, 60
+  orig: 130, 60
+  offset: 0, 0
+  index: -1
+s_6
+  rotate: false
+  xy: 1570, 60
+  size: 129, 66
+  orig: 129, 66
+  offset: 0, 0
+  index: -1
+s_7
+  rotate: false
+  xy: 1439, 54
+  size: 129, 72
+  orig: 129, 72
+  offset: 0, 0
+  index: -1
+s_8
+  rotate: false
+  xy: 1309, 49
+  size: 128, 77
+  orig: 128, 77
+  offset: 0, 0
+  index: -1
+s_9
+  rotate: false
+  xy: 1180, 43
+  size: 127, 83
+  orig: 127, 83
+  offset: 0, 0
+  index: -1

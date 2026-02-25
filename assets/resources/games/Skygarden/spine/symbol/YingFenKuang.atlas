@@ -1,0 +1,76 @@
+
+YingFenKuang.png
+size: 1533,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/yfk/yfk_000
+  rotate: true
+  xy: 957, 4
+  size: 166, 154
+  orig: 180, 160
+  offset: 10, 6
+  index: -1
+images/yfk/yfk_001
+  rotate: true
+  xy: 801, 3
+  size: 167, 154
+  orig: 180, 160
+  offset: 10, 6
+  index: -1
+images/yfk/yfk_002
+  rotate: true
+  xy: 644, 4
+  size: 166, 155
+  orig: 180, 160
+  offset: 10, 5
+  index: -1
+images/yfk/yfk_003
+  rotate: true
+  xy: 326, 2
+  size: 168, 156
+  orig: 180, 160
+  offset: 9, 4
+  index: -1
+images/yfk/yfk_004
+  rotate: true
+  xy: 484, 5
+  size: 165, 158
+  orig: 180, 160
+  offset: 9, 2
+  index: -1
+images/yfk/yfk_005
+  rotate: true
+  xy: 164, 5
+  size: 165, 160
+  orig: 180, 160
+  offset: 8, 0
+  index: -1
+images/yfk/yfk_006
+  rotate: true
+  xy: 2, 2
+  size: 168, 160
+  orig: 180, 160
+  offset: 8, 0
+  index: -1
+images/yfk/yfk_007
+  rotate: true
+  xy: 1113, 7
+  size: 163, 144
+  orig: 180, 160
+  offset: 9, 8
+  index: -1
+images/yfk/yfk_008
+  rotate: true
+  xy: 1259, 10
+  size: 160, 138
+  orig: 180, 160
+  offset: 10, 10
+  index: -1
+images/yfk/yfk_009
+  rotate: true
+  xy: 1399, 17
+  size: 153, 132
+  orig: 180, 160
+  offset: 14, 16
+  index: -1

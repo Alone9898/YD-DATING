@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "4eba96c3-3994-400c-8493-a77e21542f4f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 297,
+  "height": 306,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_teenpatti_chair": {
+      "ver": "1.0.4",
+      "uuid": "9bf90180-feb7-4cba-a8e6-f791d245434e",
+      "rawTextureUuid": "4eba96c3-3994-400c-8493-a77e21542f4f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 0,
+      "width": 291,
+      "height": 306,
+      "rawWidth": 297,
+      "rawHeight": 306,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

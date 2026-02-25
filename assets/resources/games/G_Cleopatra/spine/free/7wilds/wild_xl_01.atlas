@@ -1,0 +1,139 @@
+
+wild_xl_01.png
+size: 690,688
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangdian01
+  rotate: false
+  xy: 577, 28
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+guangquan01
+  rotate: false
+  xy: 495, 1
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+lizi01_0/lizi01_0
+  rotate: true
+  xy: 508, 225
+  size: 146, 126
+  orig: 217, 206
+  offset: 27, 36
+  index: -1
+lizi01_0/lizi01_1
+  rotate: false
+  xy: 345, 18
+  size: 148, 133
+  orig: 217, 206
+  offset: 29, 32
+  index: -1
+lizi01_0/lizi01_10
+  rotate: true
+  xy: 0, 314
+  size: 185, 183
+  orig: 217, 206
+  offset: 16, 8
+  index: -1
+lizi01_0/lizi01_11
+  rotate: false
+  xy: 0, 501
+  size: 183, 187
+  orig: 217, 206
+  offset: 17, 6
+  index: -1
+lizi01_0/lizi01_12
+  rotate: false
+  xy: 178, 45
+  size: 165, 147
+  orig: 217, 206
+  offset: 14, 25
+  index: -1
+lizi01_0/lizi01_13
+  rotate: false
+  xy: 185, 194
+  size: 170, 144
+  orig: 217, 206
+  offset: 12, 28
+  index: -1
+lizi01_0/lizi01_14
+  rotate: false
+  xy: 0, 22
+  size: 172, 115
+  orig: 217, 206
+  offset: 11, 58
+  index: -1
+lizi01_0/lizi01_15
+  rotate: false
+  xy: 357, 153
+  size: 151, 70
+  orig: 217, 206
+  offset: 32, 98
+  index: -1
+lizi01_0/lizi01_2
+  rotate: false
+  xy: 510, 83
+  size: 143, 140
+  orig: 217, 206
+  offset: 36, 29
+  index: -1
+lizi01_0/lizi01_3
+  rotate: false
+  xy: 357, 225
+  size: 149, 146
+  orig: 217, 206
+  offset: 33, 26
+  index: -1
+lizi01_0/lizi01_4
+  rotate: false
+  xy: 367, 373
+  size: 154, 151
+  orig: 217, 206
+  offset: 31, 24
+  index: -1
+lizi01_0/lizi01_5
+  rotate: true
+  xy: 534, 529
+  size: 159, 156
+  orig: 217, 206
+  offset: 29, 21
+  index: -1
+lizi01_0/lizi01_6
+  rotate: false
+  xy: 367, 526
+  size: 165, 162
+  orig: 217, 206
+  offset: 26, 18
+  index: -1
+lizi01_0/lizi01_7
+  rotate: false
+  xy: 185, 340
+  size: 170, 168
+  orig: 217, 206
+  offset: 23, 15
+  index: -1
+lizi01_0/lizi01_8
+  rotate: false
+  xy: 0, 139
+  size: 176, 173
+  orig: 217, 206
+  offset: 20, 13
+  index: -1
+lizi01_0/lizi01_9
+  rotate: false
+  xy: 185, 510
+  size: 180, 178
+  orig: 217, 206
+  offset: 19, 10
+  index: -1
+xingguang
+  rotate: false
+  xy: 523, 410
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1

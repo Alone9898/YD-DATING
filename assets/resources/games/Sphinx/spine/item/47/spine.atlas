@@ -1,0 +1,356 @@
+
+caibi_megacoin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CmnBG_Eff_Lens01
+  rotate: false
+  xy: 412, 382
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Morgana_Skin11_Z_tar_snare
+  rotate: true
+  xy: 174, 2
+  size: 48, 49
+  orig: 64, 64
+  offset: 8, 8
+  index: -1
+boost
+  rotate: false
+  xy: 2, 66
+  size: 185, 58
+  orig: 185, 58
+  offset: 0, 0
+  index: -1
+cmn_dis00
+  rotate: false
+  xy: 2, 254
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: false
+  xy: 225, 19
+  size: 53, 53
+  orig: 64, 64
+  offset: 6, 5
+  index: -1
+guangci_0_0
+  rotate: false
+  xy: 385, 207
+  size: 111, 105
+  orig: 111, 105
+  offset: 0, 0
+  index: -1
+luodiglow_0
+  rotate: false
+  xy: 260, 367
+  size: 150, 143
+  orig: 188, 167
+  offset: 17, 5
+  index: -1
+mega
+  rotate: false
+  xy: 2, 126
+  size: 206, 126
+  orig: 206, 126
+  offset: 0, 0
+  index: -1
+megasao/megasao_0
+  rotate: true
+  xy: 955, 260
+  size: 43, 67
+  orig: 146, 102
+  offset: 16, 25
+  index: -1
+megasao/megasao_1
+  rotate: true
+  xy: 579, 123
+  size: 48, 75
+  orig: 146, 102
+  offset: 16, 17
+  index: -1
+megasao/megasao_10
+  rotate: true
+  xy: 869, 313
+  size: 77, 85
+  orig: 146, 102
+  offset: 37, 7
+  index: -1
+megasao/megasao_11
+  rotate: false
+  xy: 570, 260
+  size: 77, 85
+  orig: 146, 102
+  offset: 42, 7
+  index: -1
+megasao/megasao_12
+  rotate: false
+  xy: 649, 260
+  size: 77, 85
+  orig: 146, 102
+  offset: 48, 7
+  index: -1
+megasao/megasao_13
+  rotate: false
+  xy: 656, 173
+  size: 76, 85
+  orig: 146, 102
+  offset: 54, 7
+  index: -1
+megasao/megasao_14
+  rotate: true
+  xy: 781, 235
+  size: 76, 85
+  orig: 146, 102
+  offset: 56, 7
+  index: -1
+megasao/megasao_15
+  rotate: true
+  xy: 868, 236
+  size: 75, 85
+  orig: 146, 102
+  offset: 59, 7
+  index: -1
+megasao/megasao_16
+  rotate: true
+  xy: 780, 160
+  size: 73, 85
+  orig: 146, 102
+  offset: 62, 7
+  index: -1
+megasao/megasao_17
+  rotate: true
+  xy: 298, 69
+  size: 72, 85
+  orig: 146, 102
+  offset: 65, 7
+  index: -1
+megasao/megasao_18
+  rotate: true
+  xy: 385, 69
+  size: 70, 85
+  orig: 146, 102
+  offset: 68, 7
+  index: -1
+megasao/megasao_19
+  rotate: true
+  xy: 472, 69
+  size: 69, 85
+  orig: 146, 102
+  offset: 70, 7
+  index: -1
+megasao/megasao_2
+  rotate: true
+  xy: 656, 118
+  size: 53, 80
+  orig: 146, 102
+  offset: 16, 12
+  index: -1
+megasao/megasao_20
+  rotate: true
+  xy: 559, 55
+  size: 66, 85
+  orig: 146, 102
+  offset: 73, 7
+  index: -1
+megasao/megasao_21
+  rotate: true
+  xy: 646, 52
+  size: 64, 85
+  orig: 146, 102
+  offset: 76, 7
+  index: -1
+megasao/megasao_22
+  rotate: true
+  xy: 88, 3
+  size: 61, 84
+  orig: 146, 102
+  offset: 79, 7
+  index: -1
+megasao/megasao_23
+  rotate: true
+  xy: 210, 74
+  size: 58, 84
+  orig: 146, 102
+  offset: 82, 7
+  index: -1
+megasao/megasao_24
+  rotate: true
+  xy: 280, 11
+  size: 56, 84
+  orig: 146, 102
+  offset: 84, 7
+  index: -1
+megasao/megasao_25
+  rotate: true
+  xy: 451, 14
+  size: 53, 83
+  orig: 146, 102
+  offset: 87, 7
+  index: -1
+megasao/megasao_26
+  rotate: false
+  xy: 728, 265
+  size: 51, 82
+  orig: 146, 102
+  offset: 89, 7
+  index: -1
+megasao/megasao_27
+  rotate: true
+  xy: 536, 4
+  size: 49, 80
+  orig: 146, 102
+  offset: 91, 7
+  index: -1
+megasao/megasao_28
+  rotate: true
+  xy: 618, 3
+  size: 47, 77
+  orig: 146, 102
+  offset: 93, 7
+  index: -1
+megasao/megasao_29
+  rotate: false
+  xy: 734, 192
+  size: 44, 71
+  orig: 146, 102
+  offset: 96, 8
+  index: -1
+megasao/megasao_3
+  rotate: true
+  xy: 366, 9
+  size: 58, 83
+  orig: 146, 102
+  offset: 16, 9
+  index: -1
+megasao/megasao_4
+  rotate: true
+  xy: 2, 2
+  size: 62, 84
+  orig: 146, 102
+  offset: 17, 8
+  index: -1
+megasao/megasao_5
+  rotate: false
+  xy: 956, 305
+  size: 66, 85
+  orig: 146, 102
+  offset: 19, 7
+  index: -1
+megasao/megasao_6
+  rotate: false
+  xy: 498, 227
+  size: 70, 85
+  orig: 146, 102
+  offset: 21, 7
+  index: -1
+megasao/megasao_7
+  rotate: false
+  xy: 505, 140
+  size: 72, 85
+  orig: 146, 102
+  offset: 25, 7
+  index: -1
+megasao/megasao_8
+  rotate: false
+  xy: 579, 173
+  size: 75, 85
+  orig: 146, 102
+  offset: 27, 7
+  index: -1
+megasao/megasao_9
+  rotate: true
+  xy: 782, 313
+  size: 77, 85
+  orig: 146, 102
+  offset: 31, 7
+  index: -1
+zidi/zidi_0
+  rotate: true
+  xy: 260, 263
+  size: 102, 118
+  orig: 188, 176
+  offset: 39, 24
+  index: -1
+zidi/zidi_1
+  rotate: false
+  xy: 210, 134
+  size: 86, 118
+  orig: 188, 176
+  offset: 47, 24
+  index: -1
+zidi/zidi_10
+  rotate: false
+  xy: 662, 392
+  size: 117, 118
+  orig: 188, 176
+  offset: 34, 24
+  index: -1
+zidi/zidi_11
+  rotate: false
+  xy: 542, 392
+  size: 118, 118
+  orig: 188, 176
+  offset: 33, 24
+  index: -1
+zidi/zidi_2
+  rotate: true
+  xy: 412, 314
+  size: 66, 118
+  orig: 188, 176
+  offset: 57, 24
+  index: -1
+zidi/zidi_3
+  rotate: true
+  xy: 542, 347
+  size: 43, 118
+  orig: 188, 176
+  offset: 69, 24
+  index: -1
+zidi/zidi_4
+  rotate: false
+  xy: 998, 392
+  size: 17, 118
+  orig: 188, 176
+  offset: 83, 24
+  index: -1
+zidi/zidi_5
+  rotate: true
+  xy: 662, 349
+  size: 41, 118
+  orig: 188, 176
+  offset: 73, 24
+  index: -1
+zidi/zidi_6
+  rotate: true
+  xy: 385, 141
+  size: 64, 118
+  orig: 188, 176
+  offset: 62, 24
+  index: -1
+zidi/zidi_7
+  rotate: false
+  xy: 298, 143
+  size: 85, 118
+  orig: 188, 176
+  offset: 52, 24
+  index: -1
+zidi/zidi_8
+  rotate: false
+  xy: 895, 392
+  size: 101, 118
+  orig: 188, 176
+  offset: 44, 24
+  index: -1
+zidi/zidi_9
+  rotate: false
+  xy: 781, 392
+  size: 112, 118
+  orig: 188, 176
+  offset: 37, 24
+  index: -1

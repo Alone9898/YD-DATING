@@ -1,0 +1,55 @@
+
+314_jp_lock.png
+size: 365,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00001_000
+  rotate: false
+  xy: 118, 316
+  size: 245, 104
+  orig: 245, 104
+  offset: 0, 0
+  index: -1
+0001_000
+  rotate: false
+  xy: 118, 210
+  size: 245, 104
+  orig: 245, 104
+  offset: 0, 0
+  index: -1
+001_000
+  rotate: false
+  xy: 2, 422
+  size: 258, 105
+  orig: 258, 105
+  offset: 0, 0
+  index: -1
+01_000
+  rotate: true
+  xy: 2, 42
+  size: 378, 114
+  orig: 378, 114
+  offset: 0, 0
+  index: -1
+guangtiao_002
+  rotate: false
+  xy: 262, 495
+  size: 98, 32
+  orig: 98, 32
+  offset: 0, 0
+  index: -1
+lizi_0006
+  rotate: false
+  xy: 118, 28
+  size: 180, 180
+  orig: 182, 182
+  offset: 1, 1
+  index: -1
+qipao_000
+  rotate: false
+  xy: 2, 2
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

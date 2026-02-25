@@ -1,0 +1,20 @@
+
+sdrk_jzt_02.png
+size: 190,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinzita/menghei01
+  rotate: false
+  xy: 0, 136
+  size: 190, 52
+  orig: 192, 54
+  offset: 1, 1
+  index: -1
+jinzita/zi
+  rotate: false
+  xy: 0, 110
+  size: 171, 24
+  orig: 173, 26
+  offset: 1, 1
+  index: -1

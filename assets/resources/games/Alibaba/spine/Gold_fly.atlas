@@ -1,0 +1,265 @@
+
+Gold_fly.png
+size: 976,974
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gold_r/Gold_r_00
+  rotate: false
+  xy: 2, 27
+  size: 94, 96
+  orig: 240, 240
+  offset: 72, 72
+  index: -1
+Gold_r/Gold_r_01
+  rotate: false
+  xy: 828, 876
+  size: 94, 96
+  orig: 240, 240
+  offset: 72, 72
+  index: -1
+Gold_r/Gold_r_02
+  rotate: false
+  xy: 98, 27
+  size: 94, 96
+  orig: 240, 240
+  offset: 72, 72
+  index: -1
+Gold_r/Gold_r_03
+  rotate: false
+  xy: 828, 778
+  size: 94, 96
+  orig: 240, 240
+  offset: 72, 72
+  index: -1
+Gold_r/Gold_r_04
+  rotate: true
+  xy: 598, 123
+  size: 94, 96
+  orig: 240, 240
+  offset: 72, 72
+  index: -1
+Gold_r/Gold_r_05
+  rotate: false
+  xy: 696, 121
+  size: 93, 96
+  orig: 240, 240
+  offset: 73, 72
+  index: -1
+Gold_r/Gold_r_06
+  rotate: true
+  xy: 200, 67
+  size: 93, 96
+  orig: 240, 240
+  offset: 73, 72
+  index: -1
+Gold_r/Gold_r_07
+  rotate: true
+  xy: 781, 371
+  size: 93, 95
+  orig: 240, 240
+  offset: 73, 72
+  index: -1
+Gold_r/Gold_r_08
+  rotate: false
+  xy: 877, 476
+  size: 93, 94
+  orig: 240, 240
+  offset: 73, 73
+  index: -1
+Gold_r/Gold_r_09
+  rotate: false
+  xy: 878, 380
+  size: 93, 94
+  orig: 240, 240
+  offset: 73, 73
+  index: -1
+Gold_r/Gold_r_10
+  rotate: false
+  xy: 791, 177
+  size: 93, 94
+  orig: 240, 240
+  offset: 73, 73
+  index: -1
+Gold_r/Gold_r_11
+  rotate: false
+  xy: 791, 81
+  size: 93, 94
+  orig: 240, 240
+  offset: 73, 73
+  index: -1
+Gold_r/Gold_r_12
+  rotate: true
+  xy: 399, 78
+  size: 93, 94
+  orig: 240, 240
+  offset: 73, 73
+  index: -1
+Gold_r/Gold_r_13
+  rotate: true
+  xy: 298, 67
+  size: 93, 96
+  orig: 240, 240
+  offset: 73, 72
+  index: -1
+Gold_r/Gold_r_14
+  rotate: false
+  xy: 781, 466
+  size: 94, 96
+  orig: 240, 240
+  offset: 72, 72
+  index: -1
+Gold_r/Gold_r_15
+  rotate: false
+  xy: 772, 273
+  size: 94, 96
+  orig: 240, 240
+  offset: 72, 72
+  index: -1
+Gold_r/Gold_r_16
+  rotate: false
+  xy: 495, 77
+  size: 94, 94
+  orig: 240, 240
+  offset: 72, 72
+  index: -1
+Gold_r/Gold_r_17
+  rotate: false
+  xy: 591, 28
+  size: 94, 93
+  orig: 240, 240
+  offset: 72, 72
+  index: -1
+Gold_r/Gold_r_18
+  rotate: true
+  xy: 886, 285
+  size: 93, 88
+  orig: 240, 240
+  offset: 73, 76
+  index: -1
+Gold_r/Gold_r_19
+  rotate: true
+  xy: 886, 192
+  size: 91, 88
+  orig: 240, 240
+  offset: 74, 76
+  index: -1
+suilie/suilie_00
+  rotate: false
+  xy: 598, 219
+  size: 172, 165
+  orig: 212, 218
+  offset: 22, 32
+  index: -1
+suilie/suilie_01
+  rotate: false
+  xy: 602, 386
+  size: 177, 176
+  orig: 212, 218
+  offset: 19, 25
+  index: -1
+suilie/suilie_02
+  rotate: true
+  xy: 404, 173
+  size: 186, 192
+  orig: 212, 218
+  offset: 14, 14
+  index: -1
+suilie/suilie_03
+  rotate: false
+  xy: 602, 564
+  size: 192, 199
+  orig: 212, 218
+  offset: 10, 9
+  index: -1
+suilie/suilie_04
+  rotate: false
+  xy: 423, 765
+  size: 203, 207
+  orig: 212, 218
+  offset: 4, 4
+  index: -1
+suilie/suilie_05
+  rotate: false
+  xy: 215, 762
+  size: 206, 210
+  orig: 212, 218
+  offset: 2, 2
+  index: -1
+suilie/suilie_06
+  rotate: false
+  xy: 2, 758
+  size: 211, 214
+  orig: 212, 218
+  offset: 0, 0
+  index: -1
+suilie/suilie_07
+  rotate: false
+  xy: 2, 541
+  size: 202, 215
+  orig: 212, 218
+  offset: 10, 0
+  index: -1
+suilie/suilie_08
+  rotate: false
+  xy: 628, 767
+  size: 198, 205
+  orig: 212, 218
+  offset: 10, 11
+  index: -1
+suilie/suilie_09
+  rotate: false
+  xy: 2, 333
+  size: 198, 206
+  orig: 212, 218
+  offset: 10, 10
+  index: -1
+suilie/suilie_10
+  rotate: false
+  xy: 2, 125
+  size: 196, 206
+  orig: 212, 218
+  offset: 10, 11
+  index: -1
+suilie/suilie_11
+  rotate: false
+  xy: 206, 552
+  size: 196, 204
+  orig: 212, 218
+  offset: 10, 13
+  index: -1
+suilie/suilie_12
+  rotate: false
+  xy: 404, 559
+  size: 196, 201
+  orig: 212, 218
+  offset: 10, 16
+  index: -1
+suilie/suilie_13
+  rotate: false
+  xy: 206, 353
+  size: 196, 197
+  orig: 212, 218
+  offset: 10, 20
+  index: -1
+suilie/suilie_14
+  rotate: false
+  xy: 404, 361
+  size: 191, 196
+  orig: 212, 218
+  offset: 12, 21
+  index: -1
+suilie/suilie_15
+  rotate: true
+  xy: 202, 162
+  size: 189, 195
+  orig: 212, 218
+  offset: 13, 22
+  index: -1
+suilie/suilie_16
+  rotate: false
+  xy: 796, 572
+  size: 154, 193
+  orig: 212, 218
+  offset: 23, 23
+  index: -1

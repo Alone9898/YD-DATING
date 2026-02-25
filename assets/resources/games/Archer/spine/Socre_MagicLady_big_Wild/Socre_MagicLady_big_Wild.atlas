@@ -1,0 +1,209 @@
+
+Socre_MagicLady_big_Wild.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cditu
+  rotate: false
+  xy: 2, 289
+  size: 260, 220
+  orig: 260, 220
+  offset: 0, 0
+  index: -1
+WILD
+  rotate: false
+  xy: 2, 67
+  size: 260, 220
+  orig: 260, 220
+  offset: 0, 0
+  index: -1
+Zditu
+  rotate: false
+  xy: 264, 289
+  size: 260, 220
+  orig: 260, 220
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 264, 67
+  size: 260, 220
+  orig: 260, 220
+  offset: 0, 0
+  index: -1
+saoguang/saoguang (2)
+  rotate: false
+  xy: 1179, 332
+  size: 34, 65
+  orig: 34, 65
+  offset: 0, 0
+  index: -1
+saoguang/saoguang (3)
+  rotate: true
+  xy: 1086, 194
+  size: 56, 88
+  orig: 56, 88
+  offset: 0, 0
+  index: -1
+saoguang/saoguang (4)
+  rotate: true
+  xy: 1760, 430
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+saoguang/saoguang (5)
+  rotate: true
+  xy: 1473, 420
+  size: 89, 94
+  orig: 89, 94
+  offset: 0, 0
+  index: -1
+saoguang/saoguang (6)
+  rotate: true
+  xy: 1376, 425
+  size: 84, 95
+  orig: 84, 95
+  offset: 0, 0
+  index: -1
+saoguang/saoguang (7)
+  rotate: true
+  xy: 1569, 421
+  size: 88, 92
+  orig: 88, 92
+  offset: 0, 0
+  index: -1
+saoguang/saoguang (8)
+  rotate: true
+  xy: 1663, 429
+  size: 80, 95
+  orig: 80, 95
+  offset: 0, 0
+  index: -1
+saoguang/saoguang (9)
+  rotate: true
+  xy: 2, 2
+  size: 63, 88
+  orig: 63, 88
+  offset: 0, 0
+  index: -1
+zimu/D
+  rotate: false
+  xy: 1086, 252
+  size: 91, 145
+  orig: 91, 145
+  offset: 0, 0
+  index: -1
+zimu/I
+  rotate: true
+  xy: 669, 107
+  size: 66, 137
+  orig: 66, 137
+  offset: 0, 0
+  index: -1
+zimu/L
+  rotate: true
+  xy: 1226, 431
+  size: 78, 148
+  orig: 78, 148
+  offset: 0, 0
+  index: -1
+zimu/W
+  rotate: true
+  xy: 526, 74
+  size: 99, 141
+  orig: 99, 141
+  offset: 0, 0
+  index: -1
+序列/wwww04
+  rotate: false
+  xy: 526, 399
+  size: 138, 110
+  orig: 138, 110
+  offset: 0, 0
+  index: -1
+序列/wwww05
+  rotate: false
+  xy: 526, 287
+  size: 138, 110
+  orig: 138, 110
+  offset: 0, 0
+  index: -1
+序列/wwww07
+  rotate: false
+  xy: 666, 399
+  size: 138, 110
+  orig: 138, 110
+  offset: 0, 0
+  index: -1
+序列/wwww09
+  rotate: false
+  xy: 526, 175
+  size: 138, 110
+  orig: 138, 110
+  offset: 0, 0
+  index: -1
+序列/wwww11
+  rotate: false
+  xy: 666, 287
+  size: 138, 110
+  orig: 138, 110
+  offset: 0, 0
+  index: -1
+序列/wwww13
+  rotate: false
+  xy: 806, 399
+  size: 138, 110
+  orig: 138, 110
+  offset: 0, 0
+  index: -1
+序列/wwww15
+  rotate: false
+  xy: 666, 175
+  size: 138, 110
+  orig: 138, 110
+  offset: 0, 0
+  index: -1
+序列/wwww17
+  rotate: false
+  xy: 806, 287
+  size: 138, 110
+  orig: 138, 110
+  offset: 0, 0
+  index: -1
+序列/wwww19
+  rotate: false
+  xy: 946, 399
+  size: 138, 110
+  orig: 138, 110
+  offset: 0, 0
+  index: -1
+序列/wwww21
+  rotate: false
+  xy: 806, 175
+  size: 138, 110
+  orig: 138, 110
+  offset: 0, 0
+  index: -1
+序列/wwww23
+  rotate: false
+  xy: 946, 287
+  size: 138, 110
+  orig: 138, 110
+  offset: 0, 0
+  index: -1
+序列/wwww25
+  rotate: false
+  xy: 1086, 399
+  size: 138, 110
+  orig: 138, 110
+  offset: 0, 0
+  index: -1
+序列/wwww27
+  rotate: false
+  xy: 946, 175
+  size: 138, 110
+  orig: 138, 110
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,230 @@
+
+beishuxunhuan.png
+size: 1921,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao/bao_00
+  rotate: false
+  xy: 0, 141
+  size: 136, 125
+  orig: 199, 125
+  offset: 8, 0
+  index: -1
+bao/bao_01
+  rotate: false
+  xy: 0, 14
+  size: 136, 125
+  orig: 199, 125
+  offset: 8, 0
+  index: -1
+bao/bao_02
+  rotate: false
+  xy: 138, 141
+  size: 136, 125
+  orig: 199, 125
+  offset: 8, 0
+  index: -1
+bao/bao_03
+  rotate: false
+  xy: 138, 14
+  size: 136, 125
+  orig: 199, 125
+  offset: 8, 0
+  index: -1
+bao/bao_04
+  rotate: false
+  xy: 276, 141
+  size: 136, 125
+  orig: 199, 125
+  offset: 8, 0
+  index: -1
+bao/bao_05
+  rotate: false
+  xy: 276, 14
+  size: 136, 125
+  orig: 199, 125
+  offset: 8, 0
+  index: -1
+bao/bao_06
+  rotate: false
+  xy: 414, 141
+  size: 136, 125
+  orig: 199, 125
+  offset: 8, 0
+  index: -1
+bao/bao_07
+  rotate: false
+  xy: 414, 14
+  size: 136, 125
+  orig: 199, 125
+  offset: 8, 0
+  index: -1
+bao/bao_08
+  rotate: false
+  xy: 552, 141
+  size: 136, 125
+  orig: 199, 125
+  offset: 8, 0
+  index: -1
+bao/bao_09
+  rotate: false
+  xy: 552, 14
+  size: 135, 125
+  orig: 199, 125
+  offset: 8, 0
+  index: -1
+bao/bao_10
+  rotate: false
+  xy: 689, 14
+  size: 135, 125
+  orig: 199, 125
+  offset: 8, 0
+  index: -1
+bao/bao_11
+  rotate: false
+  xy: 690, 141
+  size: 135, 125
+  orig: 199, 125
+  offset: 8, 0
+  index: -1
+bao/bao_12
+  rotate: false
+  xy: 826, 14
+  size: 135, 125
+  orig: 199, 125
+  offset: 8, 0
+  index: -1
+bao/bao_13
+  rotate: false
+  xy: 827, 141
+  size: 130, 125
+  orig: 199, 125
+  offset: 9, 0
+  index: -1
+bao/bao_14
+  rotate: false
+  xy: 959, 141
+  size: 130, 125
+  orig: 199, 125
+  offset: 9, 0
+  index: -1
+bao/bao_15
+  rotate: false
+  xy: 963, 14
+  size: 130, 125
+  orig: 199, 125
+  offset: 9, 0
+  index: -1
+bao/bao_16
+  rotate: false
+  xy: 1091, 141
+  size: 130, 125
+  orig: 199, 125
+  offset: 9, 0
+  index: -1
+bao/bao_17
+  rotate: false
+  xy: 1095, 14
+  size: 130, 125
+  orig: 199, 125
+  offset: 9, 0
+  index: -1
+bao/bao_18
+  rotate: false
+  xy: 1223, 141
+  size: 130, 125
+  orig: 199, 125
+  offset: 9, 0
+  index: -1
+bao/bao_19
+  rotate: false
+  xy: 1227, 14
+  size: 127, 125
+  orig: 199, 125
+  offset: 11, 0
+  index: -1
+bao/bao_20
+  rotate: false
+  xy: 1355, 141
+  size: 127, 125
+  orig: 199, 125
+  offset: 11, 0
+  index: -1
+bao/bao_21
+  rotate: false
+  xy: 1356, 15
+  size: 125, 124
+  orig: 199, 125
+  offset: 11, 0
+  index: -1
+bao/bao_22
+  rotate: false
+  xy: 1483, 16
+  size: 123, 123
+  orig: 199, 125
+  offset: 12, 0
+  index: -1
+bao/bao_23
+  rotate: false
+  xy: 1484, 144
+  size: 120, 122
+  orig: 199, 125
+  offset: 13, 0
+  index: -1
+bao/bao_24
+  rotate: false
+  xy: 1606, 146
+  size: 114, 120
+  orig: 199, 125
+  offset: 16, 0
+  index: -1
+倍数/theme186_free_text_muti_1
+  rotate: false
+  xy: 1725, 51
+  size: 84, 70
+  orig: 84, 70
+  offset: 0, 0
+  index: -1
+倍数/theme186_free_text_muti_10
+  rotate: false
+  xy: 1608, 68
+  size: 115, 76
+  orig: 115, 77
+  offset: 0, 0
+  index: -1
+倍数/theme186_free_text_muti_2
+  rotate: false
+  xy: 1822, 195
+  size: 96, 71
+  orig: 97, 71
+  offset: 1, 0
+  index: -1
+倍数/theme186_free_text_muti_4
+  rotate: false
+  xy: 1725, 123
+  size: 97, 70
+  orig: 97, 70
+  offset: 0, 0
+  index: -1
+倍数/theme186_free_text_muti_5
+  rotate: false
+  xy: 1608, 0
+  size: 93, 66
+  orig: 93, 66
+  offset: 0, 0
+  index: -1
+倍数/theme186_free_text_muti_6
+  rotate: false
+  xy: 1824, 123
+  size: 97, 70
+  orig: 97, 70
+  offset: 0, 0
+  index: -1
+倍数/theme186_free_text_muti_8
+  rotate: false
+  xy: 1722, 195
+  size: 98, 71
+  orig: 98, 71
+  offset: 0, 0
+  index: -1

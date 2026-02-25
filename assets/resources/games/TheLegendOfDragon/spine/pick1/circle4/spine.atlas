@@ -1,0 +1,111 @@
+
+xiaolvquan.png
+size: 595,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/xlvquan/xlvquan_00
+  rotate: false
+  xy: 242, 98
+  size: 117, 46
+  orig: 120, 50
+  offset: 3, 2
+  index: -1
+ef/xlvquan/xlvquan_01
+  rotate: false
+  xy: 0, 49
+  size: 117, 47
+  orig: 120, 50
+  offset: 3, 2
+  index: -1
+ef/xlvquan/xlvquan_02
+  rotate: false
+  xy: 239, 49
+  size: 116, 47
+  orig: 120, 50
+  offset: 4, 2
+  index: -1
+ef/xlvquan/xlvquan_03
+  rotate: false
+  xy: 357, 49
+  size: 115, 47
+  orig: 120, 50
+  offset: 4, 2
+  index: -1
+ef/xlvquan/xlvquan_04
+  rotate: false
+  xy: 355, 1
+  size: 115, 46
+  orig: 120, 50
+  offset: 4, 2
+  index: -1
+ef/xlvquan/xlvquan_05
+  rotate: false
+  xy: 122, 98
+  size: 118, 46
+  orig: 120, 50
+  offset: 2, 2
+  index: -1
+ef/xlvquan/xlvquan_06
+  rotate: false
+  xy: 119, 50
+  size: 118, 46
+  orig: 120, 50
+  offset: 2, 2
+  index: -1
+ef/xlvquan/xlvquan_07
+  rotate: false
+  xy: 0, 98
+  size: 120, 46
+  orig: 120, 50
+  offset: 0, 2
+  index: -1
+ef/xlvquan/xlvquan_08
+  rotate: false
+  xy: 0, 0
+  size: 117, 47
+  orig: 120, 50
+  offset: 2, 1
+  index: -1
+ef/xlvquan/xlvquan_09
+  rotate: false
+  xy: 119, 0
+  size: 116, 48
+  orig: 120, 50
+  offset: 4, 1
+  index: -1
+ef/xlvquan/xlvquan_10
+  rotate: false
+  xy: 361, 98
+  size: 116, 46
+  orig: 120, 50
+  offset: 4, 2
+  index: -1
+ef/xlvquan/xlvquan_11
+  rotate: false
+  xy: 479, 98
+  size: 116, 46
+  orig: 120, 50
+  offset: 2, 2
+  index: -1
+ef/xlvquan/xlvquan_12
+  rotate: false
+  xy: 474, 50
+  size: 116, 46
+  orig: 120, 50
+  offset: 2, 2
+  index: -1
+ef/xlvquan/xlvquan_13
+  rotate: false
+  xy: 474, 1
+  size: 114, 47
+  orig: 120, 50
+  offset: 2, 2
+  index: -1
+ef/xlvquan/xlvquan_14
+  rotate: false
+  xy: 237, 1
+  size: 116, 46
+  orig: 120, 50
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,216 @@
+
+superbiaoti.png
+size: 713,548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaott/biaott_00
+  rotate: false
+  xy: 652, 9
+  size: 41, 49
+  orig: 449, 203
+  offset: 43, 56
+  index: -1
+biaott/biaott_01
+  rotate: false
+  xy: 594, 0
+  size: 56, 58
+  orig: 449, 203
+  offset: 42, 54
+  index: -1
+biaott/biaott_02
+  rotate: false
+  xy: 639, 413
+  size: 71, 66
+  orig: 449, 203
+  offset: 42, 53
+  index: -1
+biaott/biaott_03
+  rotate: false
+  xy: 603, 133
+  size: 88, 75
+  orig: 449, 203
+  offset: 41, 52
+  index: -1
+biaott/biaott_04
+  rotate: false
+  xy: 536, 210
+  size: 105, 80
+  orig: 449, 203
+  offset: 41, 52
+  index: -1
+biaott/biaott_05
+  rotate: false
+  xy: 0, 0
+  size: 124, 85
+  orig: 449, 203
+  offset: 41, 52
+  index: -1
+biaott/biaott_06
+  rotate: false
+  xy: 356, 109
+  size: 143, 88
+  orig: 449, 203
+  offset: 42, 52
+  index: -1
+biaott/biaott_07
+  rotate: false
+  xy: 371, 199
+  size: 163, 91
+  orig: 449, 203
+  offset: 42, 52
+  index: -1
+biaott/biaott_08
+  rotate: false
+  xy: 210, 294
+  size: 183, 92
+  orig: 449, 203
+  offset: 43, 53
+  index: -1
+biaott/biaott_09
+  rotate: false
+  xy: 0, 273
+  size: 202, 91
+  orig: 449, 203
+  offset: 46, 54
+  index: -1
+biaott/biaott_10
+  rotate: false
+  xy: 0, 458
+  size: 209, 90
+  orig: 449, 203
+  offset: 60, 56
+  index: -1
+biaott/biaott_11
+  rotate: false
+  xy: 211, 463
+  size: 211, 85
+  orig: 449, 203
+  offset: 79, 61
+  index: -1
+biaott/biaott_12
+  rotate: false
+  xy: 211, 388
+  size: 212, 73
+  orig: 449, 203
+  offset: 99, 73
+  index: -1
+biaott/biaott_13
+  rotate: false
+  xy: 425, 386
+  size: 212, 76
+  orig: 449, 203
+  offset: 119, 70
+  index: -1
+biaott/biaott_14
+  rotate: false
+  xy: 424, 464
+  size: 211, 84
+  orig: 449, 203
+  offset: 140, 62
+  index: -1
+biaott/biaott_15
+  rotate: false
+  xy: 0, 366
+  size: 208, 90
+  orig: 449, 203
+  offset: 160, 55
+  index: -1
+biaott/biaott_16
+  rotate: false
+  xy: 0, 180
+  size: 200, 91
+  orig: 449, 203
+  offset: 173, 54
+  index: -1
+biaott/biaott_17
+  rotate: false
+  xy: 0, 87
+  size: 188, 91
+  orig: 449, 203
+  offset: 186, 53
+  index: -1
+biaott/biaott_18
+  rotate: false
+  xy: 395, 292
+  size: 176, 92
+  orig: 449, 203
+  offset: 199, 52
+  index: -1
+biaott/biaott_19
+  rotate: false
+  xy: 204, 201
+  size: 165, 91
+  orig: 449, 203
+  offset: 211, 51
+  index: -1
+biaott/biaott_20
+  rotate: false
+  xy: 202, 109
+  size: 152, 90
+  orig: 449, 203
+  offset: 224, 51
+  index: -1
+biaott/biaott_21
+  rotate: false
+  xy: 573, 296
+  size: 140, 88
+  orig: 449, 203
+  offset: 236, 51
+  index: -1
+biaott/biaott_22
+  rotate: false
+  xy: 246, 21
+  size: 128, 86
+  orig: 449, 203
+  offset: 248, 51
+  index: -1
+biaott/biaott_23
+  rotate: false
+  xy: 126, 2
+  size: 118, 83
+  orig: 449, 203
+  offset: 258, 51
+  index: -1
+biaott/biaott_24
+  rotate: false
+  xy: 376, 27
+  size: 110, 80
+  orig: 449, 203
+  offset: 267, 51
+  index: -1
+biaott/biaott_25
+  rotate: false
+  xy: 501, 120
+  size: 100, 77
+  orig: 449, 203
+  offset: 276, 51
+  index: -1
+biaott/biaott_26
+  rotate: false
+  xy: 501, 44
+  size: 91, 74
+  orig: 449, 203
+  offset: 285, 51
+  index: -1
+biaott/biaott_27
+  rotate: false
+  xy: 603, 60
+  size: 83, 71
+  orig: 449, 203
+  offset: 293, 51
+  index: -1
+biaott/biaott_28
+  rotate: false
+  xy: 637, 481
+  size: 74, 67
+  orig: 449, 203
+  offset: 302, 52
+  index: -1
+biaott/biaott_29
+  rotate: false
+  xy: 643, 230
+  size: 67, 64
+  orig: 449, 203
+  offset: 309, 52
+  index: -1

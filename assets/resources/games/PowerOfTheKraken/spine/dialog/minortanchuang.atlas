@@ -1,0 +1,118 @@
+
+minortanchuang.png
+size: 1541,1545
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 516, 118
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+Mask011
+  rotate: false
+  xy: 707, 52
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Water_040_tex
+  rotate: false
+  xy: 2, 118
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 1343, 935
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/1000
+  rotate: true
+  xy: 1295, 1190
+  size: 353, 209
+  orig: 353, 209
+  offset: 0, 0
+  index: -1
+images/bet
+  rotate: false
+  xy: 1176, 14
+  size: 363, 83
+  orig: 363, 83
+  offset: 0, 0
+  index: -1
+images/bg1
+  rotate: false
+  xy: 2, 2
+  size: 703, 114
+  orig: 703, 114
+  offset: 0, 0
+  index: -1
+images/bg2
+  rotate: false
+  xy: 799, 807
+  size: 542, 253
+  orig: 542, 253
+  offset: 0, 0
+  index: -1
+images/diglow
+  rotate: false
+  xy: 2, 632
+  size: 795, 911
+  orig: 795, 911
+  offset: 0, 0
+  index: -1
+images/grand
+  rotate: false
+  xy: 799, 584
+  size: 566, 221
+  orig: 566, 221
+  offset: 0, 0
+  index: -1
+images/shuziban
+  rotate: false
+  xy: 774, 362
+  size: 739, 220
+  orig: 739, 220
+  offset: 0, 0
+  index: -1
+images/yu
+  rotate: false
+  xy: 774, 38
+  size: 400, 322
+  orig: 400, 322
+  offset: 0, 0
+  index: -1
+images/zi1
+  rotate: true
+  xy: 1473, 626
+  size: 562, 46
+  orig: 562, 46
+  offset: 0, 0
+  index: -1
+lizi2424
+  rotate: false
+  xy: 799, 1062
+  size: 494, 481
+  orig: 494, 481
+  offset: 0, 0
+  index: -1
+shuihua
+  rotate: false
+  xy: 1176, 99
+  size: 264, 261
+  orig: 264, 261
+  offset: 0, 0
+  index: -1
+xxx
+  rotate: false
+  xy: 1295, 1065
+  size: 128, 123
+  orig: 128, 123
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+JP_Kuang.png
+size: 435,1062
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/k/jpk1_000
+  rotate: false
+  xy: 2, 898
+  size: 263, 80
+  orig: 270, 80
+  offset: 5, 0
+  index: -1
+images/k/jpk1_001
+  rotate: false
+  xy: 2, 816
+  size: 264, 80
+  orig: 270, 80
+  offset: 5, 0
+  index: -1
+images/k/jpk1_002
+  rotate: false
+  xy: 2, 652
+  size: 265, 80
+  orig: 270, 80
+  offset: 3, 0
+  index: -1
+images/k/jpk1_003
+  rotate: false
+  xy: 2, 570
+  size: 265, 80
+  orig: 270, 80
+  offset: 3, 0
+  index: -1
+images/k/jpk1_004
+  rotate: false
+  xy: 2, 406
+  size: 266, 80
+  orig: 270, 80
+  offset: 2, 0
+  index: -1
+images/k/jpk1_005
+  rotate: false
+  xy: 2, 324
+  size: 267, 80
+  orig: 270, 80
+  offset: 1, 0
+  index: -1
+images/k/jpk1_006
+  rotate: false
+  xy: 2, 734
+  size: 263, 80
+  orig: 270, 80
+  offset: 4, 0
+  index: -1
+images/k/jpk1_007
+  rotate: true
+  xy: 351, 533
+  size: 263, 80
+  orig: 270, 80
+  offset: 4, 0
+  index: -1
+images/k/jpk1_008
+  rotate: true
+  xy: 268, 800
+  size: 260, 80
+  orig: 270, 80
+  offset: 6, 0
+  index: -1
+images/k/jpk1_009
+  rotate: true
+  xy: 350, 798
+  size: 262, 80
+  orig: 270, 80
+  offset: 5, 0
+  index: -1
+images/k/jpk1_010
+  rotate: true
+  xy: 269, 534
+  size: 262, 80
+  orig: 270, 80
+  offset: 5, 0
+  index: -1
+images/k/jpk1_011
+  rotate: false
+  xy: 2, 488
+  size: 263, 80
+  orig: 270, 80
+  offset: 4, 0
+  index: -1
+images/k/jpk1_012
+  rotate: true
+  xy: 271, 268
+  size: 263, 80
+  orig: 270, 80
+  offset: 4, 0
+  index: -1
+images/k/jpk1_013
+  rotate: true
+  xy: 353, 268
+  size: 263, 80
+  orig: 270, 80
+  offset: 3, 0
+  index: -1
+images/k/jpk1_014
+  rotate: false
+  xy: 2, 242
+  size: 263, 80
+  orig: 270, 80
+  offset: 3, 0
+  index: -1
+images/k/jpk1_015
+  rotate: false
+  xy: 2, 160
+  size: 263, 80
+  orig: 270, 80
+  offset: 3, 0
+  index: -1
+images/k/jpk1_016
+  rotate: false
+  xy: 2, 78
+  size: 264, 80
+  orig: 270, 80
+  offset: 3, 0
+  index: -1
+images/k/jpk1_017
+  rotate: true
+  xy: 268, 2
+  size: 264, 80
+  orig: 270, 80
+  offset: 3, 0
+  index: -1
+images/k/jpk1_018
+  rotate: true
+  xy: 350, 2
+  size: 264, 80
+  orig: 270, 80
+  offset: 3, 0
+  index: -1
+images/k/jpk1_019
+  rotate: false
+  xy: 2, 980
+  size: 261, 80
+  orig: 270, 80
+  offset: 6, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+eff_spine_yddmn_txtx.png
+size: 630,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 538, 171
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 387, 20
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+guangmang
+  rotate: false
+  xy: 1, 6
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: false
+  xy: 258, 78
+  size: 184, 184
+  orig: 184, 184
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 258, 1
+  size: 128, 38
+  orig: 128, 38
+  offset: 0, 0
+  index: -1
+num
+  rotate: false
+  xy: 258, 40
+  size: 149, 37
+  orig: 149, 37
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 538, 108
+  size: 62, 62
+  orig: 64, 64
+  offset: 1, 1
+  index: -1
+winner
+  rotate: true
+  xy: 443, 3
+  size: 259, 94
+  orig: 259, 94
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+db.png
+size: 501,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/fg_0
+  rotate: false
+  xy: 0, 0
+  size: 501, 277
+  orig: 529, 308
+  offset: 16, 23
+  index: -1

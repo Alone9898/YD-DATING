@@ -1,0 +1,90 @@
+
+spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dengshenx4/1
+  rotate: false
+  xy: 332, 273
+  size: 200, 232
+  orig: 200, 232
+  offset: 0, 0
+  index: -1
+dengshenx4/2
+  rotate: false
+  xy: 534, 313
+  size: 188, 192
+  orig: 188, 192
+  offset: 0, 0
+  index: -1
+houfa
+  rotate: false
+  xy: 203, 30
+  size: 86, 120
+  orig: 86, 120
+  offset: 0, 0
+  index: -1
+huzhi
+  rotate: false
+  xy: 479, 148
+  size: 67, 123
+  orig: 67, 123
+  offset: 0, 0
+  index: -1
+shengti
+  rotate: false
+  xy: 2, 152
+  size: 328, 353
+  orig: 328, 353
+  offset: 0, 0
+  index: -1
+shouzhuo
+  rotate: false
+  xy: 855, 408
+  size: 101, 97
+  orig: 101, 97
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 724, 355
+  size: 129, 150
+  orig: 129, 150
+  offset: 0, 0
+  index: -1
+xianliang
+  rotate: true
+  xy: 2, 2
+  size: 148, 199
+  orig: 148, 199
+  offset: 0, 0
+  index: -1
+youerhuanqiang
+  rotate: true
+  xy: 855, 333
+  size: 73, 111
+  orig: 73, 111
+  offset: 0, 0
+  index: -1
+zg_1
+  rotate: false
+  xy: 291, 71
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+zuoerhuanqiang
+  rotate: true
+  xy: 724, 309
+  size: 44, 108
+  orig: 44, 108
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 332, 157
+  size: 114, 145
+  orig: 114, 145
+  offset: 0, 0
+  index: -1

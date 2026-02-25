@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bonus_huo_up_loop",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.16666666666666666,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "db637615-da97-4b49-9630-ea83ef9d5ca4"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "096fbbb7-c527-4ff9-bff2-fed652f0187f"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "6d29ab6c-a0eb-4ac4-88e4-62a8baa2582f"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "7c705e04-d428-45c4-8e91-b628aa43486c"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "68770622-53c7-4548-8dd2-f491b014e4d6"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,41 @@
+
+shuiguai_texiao_1.png
+size: 726,726
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+T_qipao1
+  rotate: false
+  xy: 2, 96
+  size: 85, 88
+  orig: 85, 88
+  offset: 0, 0
+  index: -1
+images/te/T_qipao1
+  rotate: false
+  xy: 2, 96
+  size: 85, 88
+  orig: 85, 88
+  offset: 0, 0
+  index: -1
+images/te/dan12_3
+  rotate: false
+  xy: 2, 186
+  size: 288, 538
+  orig: 288, 538
+  offset: 0, 0
+  index: -1
+images/te/glow1
+  rotate: true
+  xy: 292, 2
+  size: 310, 330
+  orig: 310, 330
+  offset: 0, 0
+  index: -1
+images/te/gsb_theme10095_tex0158
+  rotate: false
+  xy: 292, 314
+  size: 410, 410
+  orig: 410, 410
+  offset: 0, 0
+  index: -1

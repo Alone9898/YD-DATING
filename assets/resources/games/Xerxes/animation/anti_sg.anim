@@ -1,0 +1,191 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "anti_sg",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6666666666666666,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "Effect-Pomi_kgk00": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_kgk01": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": true
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_kgk02": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.2,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_kgk04": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": true
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_kgk03": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.2,
+              "value": true
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_kgk05": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.4,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_kgk06": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.4,
+              "value": true
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_kgk08": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.6,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_kgk07": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": true
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_kgk09": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.6,
+              "value": true
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

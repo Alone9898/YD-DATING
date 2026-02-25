@@ -1,0 +1,55 @@
+
+baoxianggrand.png
+size: 868,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow100
+  rotate: false
+  xy: 2, 12
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Particle_Circle_Outerglow_01
+  rotate: false
+  xy: 260, 14
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+images/grand
+  rotate: false
+  xy: 613, 2
+  size: 178, 57
+  orig: 180, 59
+  offset: 1, 1
+  index: -1
+images/hongbao
+  rotate: false
+  xy: 613, 61
+  size: 183, 82
+  orig: 185, 84
+  offset: 1, 1
+  index: -1
+low_406_trail01
+  rotate: false
+  xy: 516, 19
+  size: 95, 249
+  orig: 128, 256
+  offset: 16, 5
+  index: -1
+ros_flare01
+  rotate: false
+  xy: 743, 145
+  size: 123, 123
+  orig: 128, 128
+  offset: 2, 2
+  index: -1
+xxx
+  rotate: false
+  xy: 613, 145
+  size: 128, 123
+  orig: 128, 123
+  offset: 0, 0
+  index: -1

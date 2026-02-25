@@ -1,0 +1,76 @@
+
+shuiguai_qiantui_3.png
+size: 1095,1093
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/123,456,789,000,000
+  rotate: false
+  xy: 479, 444
+  size: 611, 170
+  orig: 611, 170
+  offset: 0, 0
+  index: -1
+images/bx_1
+  rotate: false
+  xy: 2, 616
+  size: 475, 475
+  orig: 475, 475
+  offset: 0, 0
+  index: -1
+images/bx_2
+  rotate: false
+  xy: 2, 139
+  size: 475, 475
+  orig: 475, 475
+  offset: 0, 0
+  index: -1
+images/bx_3
+  rotate: false
+  xy: 479, 616
+  size: 475, 475
+  orig: 475, 475
+  offset: 0, 0
+  index: -1
+images/bx_chujiao
+  rotate: false
+  xy: 956, 1025
+  size: 77, 66
+  orig: 77, 66
+  offset: 0, 0
+  index: -1
+images/bx_yingzi
+  rotate: true
+  xy: 1029, 379
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+images/bx_zhujiao
+  rotate: true
+  xy: 479, 208
+  size: 234, 344
+  orig: 234, 344
+  offset: 0, 0
+  index: -1
+images/j12
+  rotate: false
+  xy: 825, 232
+  size: 202, 210
+  orig: 202, 210
+  offset: 0, 0
+  index: -1
+images/jiao
+  rotate: true
+  xy: 479, 32
+  size: 174, 306
+  orig: 174, 306
+  offset: 0, 0
+  index: -1
+rognqi
+  rotate: false
+  xy: 1092, 1090
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

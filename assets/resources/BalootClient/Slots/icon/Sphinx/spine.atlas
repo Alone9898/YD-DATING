@@ -1,0 +1,48 @@
+
+spine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lark20210709-170856
+  rotate: false
+  xy: 410, 85
+  size: 236, 236
+  orig: 236, 236
+  offset: 0, 0
+  index: -1
+bj
+  rotate: false
+  xy: 2, 85
+  size: 406, 236
+  orig: 406, 236
+  offset: 0, 0
+  index: -1
+dvv
+  rotate: false
+  xy: 648, 174
+  size: 234, 262
+  orig: 234, 262
+  offset: 0, 0
+  index: -1
+fffffffffff
+  rotate: false
+  xy: 2, 2
+  size: 409, 81
+  orig: 409, 81
+  offset: 0, 0
+  index: -1
+gfsk
+  rotate: false
+  xy: 2, 323
+  size: 611, 113
+  orig: 611, 113
+  offset: 0, 0
+  index: -1
+ggggd
+  rotate: false
+  xy: 884, 344
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,110 @@
+// Learn cc.Class:
+//  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/class.html
+//  - [English] http://www.cocos2d-x.org/docs/creator/en/scripting/class.html
+// Learn Attribute:
+//  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/reference/attributes.html
+//  - [English] http://www.cocos2d-x.org/docs/creator/en/scripting/reference/attributes.html
+// Learn life-cycle callbacks:
+//  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/life-cycle-callbacks.html
+//  - [English] http://www.cocos2d-x.org/docs/creator/en/scripting/life-cycle-callbacks.html
+
+let EventId = require("EventDef");
+EventId.SHOW_SCORE_LOG = "show_score_log";           // 显示上下分记录
+EventId.SHOW_MODIFY_PSW = "show_modify_psw";         // 显示修改密码
+EventId.ENTER_HALL = "enter_hall";
+EventId.ENTER_GAME_EVENT = 'enter_game_event';        // 进入某个游戏
+EventId.ENTER_LOGIN_SUCCESS = 'enter_login_success';  // 成功登录
+EventId.ENTER_LOGIN_FAILE = 'ENTER_LOGIN_FAILE';      // 登录失败
+EventId.STOP_ACTION = "stop_action";                  // 停止动画
+EventId.LOGOUT = "logout";                            // 登出
+EventId.UPDATE_GAME_LIST = "update_game_list";        // 更新列表
+EventId.UPATE_COINS = "upate_coins";                  // 更新金币
+EventId.EXIT_GAME = "exit_game";                      // 退出游戏
+EventId.SHOW_BIGBANG = "show_bigbang";                // 显示Bigbang动画
+EventId.HIDE_BIGBANG = "hide_bigbang";                // 隐藏Bigbang动画
+EventId.RECHARGE_SUCC = "recharge_succ";              // 上下分成功
+EventId.SPECIAL_ACTION_FINISH = "special_action_finish";   // 特殊动画，主要指停止后，结算前播放动画
+EventId.LOAD_ITEM_FINISH = "load_Items_finish";       // 加载item完成
+EventId.SHOW_ALL_GAMEITEM = "show_all_gameitem";       // 显示所有游戏图标
+EventId.SHOW_RANDJACKPOT = "show_randjackpot";         // 显示randjackpot动画
+EventId.HIDE_RANDJACKPOT = "hide_randjackpot";          // 隐藏randjackpot动画
+EventId.RELOGIN = "game_relogin";                       // 重新登录
+EventId.PAUSE_PLAY_BIGWIN = "pause_play_bigwin";        // 暂停播放bigwin
+EventId.PLAY_BIGWIN = "play_bigwin";                    // 播放bigwin
+EventId.SET_SHAKE = "set_shake";                        // 开关震动
+EventId.UPDATE_REDPACK = "UPDATE_REDPACK"               // 更新红包
+EventId.HALL_EFF_SHOWCOINS = "HALL_EFF_SHOWCOINS"       // 开红包金币显示
+EventId.HALL_EFF_SHOWLUCKPACK = "HALL_EFF_SHOWLUCKPACK"       // 显示幸运红包动画节点
+EventId.HALL_EFF_OPENLUCKBOX = "HALL_EFF_OPENLUCKBOX"       // 显示开宝箱界面
+EventId.HALL_EFF_SHOWLUCKRAIN = "HALL_EFF_SHOWLUCKRAIN" //显示红包雨
+EventId.HALL_FAV_GAME_CHANGE = "HALL_FAV_GAME_CHANGE"   //喜爱的gameid发生变化
+EventId.SHOW_RED_HEART_ANI = "SHOW_RED_HEART_ANI"               //播放喜爱动画
+EventId.SHOW_SETTING = "show_setting"                    // 显示设置页面
+EventId.REGISTER_ACCOUNT = "register_account";            // 注册事件
+EventId.HALL_RECYCLE_ITEM = "HALL_RECYCLE_ITEM";            // hall回收item
+EventId.HALL_SHOW_RIBBON = "HALL_SHOW_RIBBON";            // hall显示彩带
+EventId.HALL_SHOW_WINJP = "HALL_SHOW_WINJP";            // hall 显示jp中奖
+EventId.RESUME_HALL_BGM = "RESUME_HALL_BGM";    //恢复大厅的BGM
+EventId.HALL_SHOW_JP_NODE = "HALL_SHOW_JP_NODE";    //是否显示大厅的JP节点
+EventId.HALL_SHOW_CASINO = "HALL_SHOW_CASINO";            // hall 显示Casino
+EventId.SHOW_LOCK_TIP = "SHOW_LOCK_TIP";                 // 显示游戏未解锁提示
+EventId.REFUSH_LV_EXP = "REFUSH_LV_EXP";                //游戏里面刷新等级经验
+EventId.PULL_LV_UP = "PULL_LV_UP";                //游戏经验等级提升
+EventId.REFUSH_GAME_JP = "REFUSH_GAME_JP";              //同步奖池了，需要刷新奖池的值
+EventId.REFUSH_RED_TIPS = "REFUSH_RED_TIPS";             //同步小红点
+EventId.GET_JACKPOT_OTHER = "GET_JACKPOT_OTHER";        //其他玩家大奖通知
+EventId.HALL_ONETIMEONLY_TIME = "HALL_ONETIMEONLY_TIME";//one time only时间
+EventId.SHOW_LEVEL_UP_GIFT = "SHOW_LEVEL_UP_GIFT";      //等级提示获得等级礼包
+EventId.HIDE_SHOP = "HIDE_SHOP";      //隐藏Shop
+EventId.START_GAME_ID = "START_GAME_ID";        //跳转游戏
+EventId.UPDATE_STAMP = "UPDATE_STAMP";      // 更新邮票界面
+EventId.HIDE_HALL_MENU = "HIDE_HALL_MENU";  // 隐藏大厅菜单
+EventId.FB_BIND_SUCCESS = "FB_BIND_SUCCESS"; //FB绑定成功
+EventId.GO_HALL_TAB = "GO_HALL_TAB";//跳转大厅的制定页面0开始
+EventId.REFUSH_PIG_BANK = "REFUSH_PIG_BANK";//刷新金猪
+EventId.CLOSE_POP_SHOP = "CLOSE_POP_SHOP"; //关闭弹窗的shop
+EventId.REFUSH_HALL_BONUS_LIST = "REFUSH_HALL_BONUS_LIST"//刷新bonus列表
+EventId.UPTATE_HALL_TOP_POSITION = "UPTATE_HALL_TOP_POSITION" //刷新Top节点的位置
+EventId.RESET_HALL_TOP_POSITION = "RESET_HALL_TOP_POSITION" //恢复Top节点的默认位置
+EventId.CHANGE_HALLTAB = 'CHANGE_HALLTAB' //大厅切换Tab
+EventId.PAY_RESULT = 'PAY_RESULT'       //支付结果通知 0 失败 1 成功
+EventId.REFUSH_QUEST_PRO = 'REFUSH_QUEST_PRO';      //刷新Quest在游戏中的进度
+EventId.CLOSE_BIG_LV_UP = 'CLOSE_BIG_LV_UP';      //关闭每5级的大的升级弹窗
+EventId.HEROCARD_CHANGE_CAMP = 'HEROCARD_CHANGE_CAMP' //Herocard切换势力
+EventId.SCROLL_HALL_GAME = 'SCROLL_HALL_GAME'   //大厅滚动到某个游戏
+EventId.HEROCARD_CHANGE_CARD = 'HEROCARD_CHANGE_CARD' //Herocard切换卡牌
+EventId.COMM_ITEM_ADD = 'COMM_ITEM_ADD' //物品数量变化
+EventId.GET_GUIDETASK_REFUSH = 'GET_GUIDETASK_REFUSH' //刷新引导任务
+EventId.OPEN_BINGO = 'OPEN_BINGO' //打开bingo
+EventId.OPEN_EXPLORATION = 'OPEN_EXPLORATION' //打开骑士的探索
+EventId.SLIVERICON_SHOW = 'SLIVERICON_SHOW' //银锤子的入口显示
+EventId.HEROPALACE_SHOW= 'HEROPALACE_SHOW' //打开富豪厅
+EventId.HEROPALACE_CLOSE= 'HEROPALACE_CLOSE' //关闭富豪厅
+EventId.HEROPALACE_REFUSH='HEROPALACE_REFUSH' //刷新富豪厅
+EventId.REFUSH_BONUS_ONLINE_TIME = 'REFUSH_BONUS_ONLINE_TIME' //刷新BOUNSE-online的剩余时间
+EventId.RECORD_HALL_SCROLL = 'RECORD_HALL_SCROLL' //记录大厅滚动位置
+EventId.UPATE_DIAMOND = 'UPATE_DIAMOND'     //更新钻石数量
+EventId.SET_RED = 'SET_RED'                         //显示首充小红点
+EventId.CLOSE_FIRST_ICON = 'CLOSE_FIRST_ICON'       //关闭首充大厅按钮
+EventId.CLEAN_LOCAL_RED = 'CLEAN_LOCAL_RED'         //清除本地红点
+EventId.CLEAN_ACHIEVE_RED = 'CLEAN_ACHIEVE_RED'         //清除成就红点
+EventId.REFUSH_SPINE100_DATA = 'REFUSH_SPINE100_DATA'//100次选择送卡包的活动
+EventId.CHANGE_PROCESSLEN = 'CHANGE_PROCESSLEN'//选择碎片对应的进度条更改
+EventId.FILL_HERO_PIECES = 'FILL_HERO_PIECES'   //点击fill按钮填充
+EventId.HAS_REWARDS = 'HAS_REWARDS'   //奖励已经领取完
+EventId.CHAT_RANK_BET = 'CHAT_RANK_BET'   //聊天排行押注
+EventId.CHECK_HALL_USERACTION = 'CHECK_HALL_USERACTION'   //大厅的用户注册消息
+EventId.CHAT_RANK_BET_CONFIRM = 'CHAT_RANK_BET_CONFIRM' //聊天押注成功
+EventId.STOP_SCROLL = 'STOP_SCROLL'     //碎片转盘停止滚动
+EventId.NEWGUIDE_PRO_UI = 'NEWGUIDE_PRO_UI'     //引导结束处理UI逻辑，带引导id参数
+EventId.CLICK_SKIP = 'CLICK_SKIP'     //点击了跳过碎片按钮
+EventId.CLICK_SKIP = 'CLICK_SKIP'     //点击了跳过碎片按钮
+EventId.MISSION_CLOSE = 'MISSION_CLOSE' //关闭任务界面
+EventId.MISSION_REWARDS = 'MISSION_REWARDS' //领取奖励
+EventId.MISSION_RED_TIPS = 'MISSION_RED_TIPS' //任务小红点
+EventId.MISSION_REFUSH = 'MISSION_REFUSH'   //刷新任务列表
+EventId.CLOSE_CASHBACK = 'CLOSE_CASHBACK' //显示小钱袋弹窗
+EventId.UPDATE_USER_HEAD_PICID = 'UPDATE_USER_HEAD_PICID' //更新头像勾选
+EventId.CLOSE_USER_HEAD = 'CLOSE_USER_HEAD' //关闭选择头像界面
+EventId.SHOW_USER_HEAD_TIP = 'SHOW_USER_HEAD_TIP'   //展示未解锁头像选择提示
+EventId.REFUSH_HEROCARD_RED_TIPS = 'REFUSH_HEROCARD_RED_TIPS'   //显示卡牌小红点数量

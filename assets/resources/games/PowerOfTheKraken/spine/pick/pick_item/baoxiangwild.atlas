@@ -1,0 +1,69 @@
+
+baoxiangwild.png
+size: 1119,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow100
+  rotate: false
+  xy: 2, 5
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Particle_Circle_Outerglow_01
+  rotate: false
+  xy: 260, 7
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+images/diguang
+  rotate: true
+  xy: 516, 7
+  size: 254, 196
+  orig: 254, 196
+  offset: 0, 0
+  index: -1
+images/jack
+  rotate: true
+  xy: 811, 48
+  size: 213, 56
+  orig: 215, 58
+  offset: 1, 1
+  index: -1
+images/jin
+  rotate: false
+  xy: 869, 178
+  size: 174, 83
+  orig: 176, 85
+  offset: 1, 1
+  index: -1
+images/wild
+  rotate: true
+  xy: 1045, 132
+  size: 129, 56
+  orig: 131, 58
+  offset: 1, 1
+  index: -1
+low_406_trail01
+  rotate: false
+  xy: 714, 12
+  size: 95, 249
+  orig: 128, 256
+  offset: 16, 5
+  index: -1
+ros_flare01
+  rotate: false
+  xy: 994, 7
+  size: 123, 123
+  orig: 128, 128
+  offset: 2, 2
+  index: -1
+xxx
+  rotate: true
+  xy: 869, 2
+  size: 128, 123
+  orig: 128, 123
+  offset: 0, 0
+  index: -1

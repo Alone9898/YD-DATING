@@ -1,0 +1,146 @@
+
+xiaokuang.png
+size: 929,99
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaokuang/xiaokuang_00
+  rotate: false
+  xy: 278, 51
+  size: 92, 48
+  orig: 128, 82
+  offset: 14, 22
+  index: -1
+xiaokuang/xiaokuang_01
+  rotate: false
+  xy: 646, 0
+  size: 92, 49
+  orig: 128, 82
+  offset: 14, 21
+  index: -1
+xiaokuang/xiaokuang_02
+  rotate: false
+  xy: 372, 51
+  size: 93, 48
+  orig: 128, 82
+  offset: 14, 22
+  index: -1
+xiaokuang/xiaokuang_03
+  rotate: false
+  xy: 740, 0
+  size: 93, 49
+  orig: 128, 82
+  offset: 14, 21
+  index: -1
+xiaokuang/xiaokuang_04
+  rotate: false
+  xy: 467, 51
+  size: 94, 48
+  orig: 128, 82
+  offset: 14, 21
+  index: -1
+xiaokuang/xiaokuang_05
+  rotate: false
+  xy: 835, 0
+  size: 94, 49
+  orig: 128, 82
+  offset: 14, 21
+  index: -1
+xiaokuang/xiaokuang_06
+  rotate: false
+  xy: 0, 52
+  size: 90, 47
+  orig: 128, 82
+  offset: 14, 22
+  index: -1
+xiaokuang/xiaokuang_07
+  rotate: false
+  xy: 92, 52
+  size: 90, 47
+  orig: 128, 82
+  offset: 14, 22
+  index: -1
+xiaokuang/xiaokuang_08
+  rotate: false
+  xy: 563, 51
+  size: 90, 48
+  orig: 128, 82
+  offset: 14, 21
+  index: -1
+xiaokuang/xiaokuang_09
+  rotate: false
+  xy: 655, 51
+  size: 90, 48
+  orig: 128, 82
+  offset: 14, 21
+  index: -1
+xiaokuang/xiaokuang_10
+  rotate: false
+  xy: 747, 51
+  size: 90, 48
+  orig: 128, 82
+  offset: 14, 21
+  index: -1
+xiaokuang/xiaokuang_11
+  rotate: false
+  xy: 839, 51
+  size: 90, 48
+  orig: 128, 82
+  offset: 14, 21
+  index: -1
+xiaokuang/xiaokuang_12
+  rotate: false
+  xy: 0, 2
+  size: 90, 48
+  orig: 128, 82
+  offset: 14, 21
+  index: -1
+xiaokuang/xiaokuang_13
+  rotate: false
+  xy: 92, 2
+  size: 90, 48
+  orig: 128, 82
+  offset: 14, 21
+  index: -1
+xiaokuang/xiaokuang_14
+  rotate: false
+  xy: 184, 1
+  size: 90, 48
+  orig: 128, 82
+  offset: 14, 22
+  index: -1
+xiaokuang/xiaokuang_15
+  rotate: false
+  xy: 276, 1
+  size: 90, 48
+  orig: 128, 82
+  offset: 14, 22
+  index: -1
+xiaokuang/xiaokuang_16
+  rotate: false
+  xy: 368, 1
+  size: 90, 48
+  orig: 128, 82
+  offset: 14, 22
+  index: -1
+xiaokuang/xiaokuang_17
+  rotate: false
+  xy: 460, 1
+  size: 91, 48
+  orig: 128, 82
+  offset: 14, 22
+  index: -1
+xiaokuang/xiaokuang_18
+  rotate: false
+  xy: 553, 1
+  size: 91, 48
+  orig: 128, 82
+  offset: 14, 22
+  index: -1
+xiaokuang/xiaokuang_19
+  rotate: false
+  xy: 184, 51
+  size: 92, 48
+  orig: 128, 82
+  offset: 14, 22
+  index: -1

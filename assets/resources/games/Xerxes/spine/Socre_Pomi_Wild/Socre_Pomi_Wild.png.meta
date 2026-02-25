@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "d94935e9-12b8-4d78-962e-8ec93a478b37",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "Socre_Pomi_Wild": {
+      "ver": "1.0.4",
+      "uuid": "ef95ccee-1813-48fb-89cc-bc320fae3bc3",
+      "rawTextureUuid": "d94935e9-12b8-4d78-962e-8ec93a478b37",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5.5,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1009,
+      "height": 124,
+      "rawWidth": 1024,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

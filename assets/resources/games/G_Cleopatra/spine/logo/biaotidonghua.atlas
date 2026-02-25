@@ -1,0 +1,139 @@
+
+biaotidonghua.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00001
+  rotate: false
+  xy: 2, 608
+  size: 279, 99
+  orig: 279, 99
+  offset: 0, 0
+  index: -1
+1_00002
+  rotate: false
+  xy: 562, 855
+  size: 279, 99
+  orig: 279, 99
+  offset: 0, 0
+  index: -1
+1_00003
+  rotate: false
+  xy: 2, 507
+  size: 279, 99
+  orig: 279, 99
+  offset: 0, 0
+  index: -1
+1_00004
+  rotate: false
+  xy: 2, 406
+  size: 279, 99
+  orig: 279, 99
+  offset: 0, 0
+  index: -1
+1_00005
+  rotate: true
+  xy: 283, 428
+  size: 279, 99
+  orig: 279, 99
+  offset: 0, 0
+  index: -1
+1_00006
+  rotate: false
+  xy: 2, 305
+  size: 279, 99
+  orig: 279, 99
+  offset: 0, 0
+  index: -1
+1_00007
+  rotate: true
+  xy: 384, 428
+  size: 279, 99
+  orig: 279, 99
+  offset: 0, 0
+  index: -1
+1_00008
+  rotate: false
+  xy: 2, 204
+  size: 279, 99
+  orig: 279, 99
+  offset: 0, 0
+  index: -1
+1_00009
+  rotate: false
+  xy: 2, 103
+  size: 279, 99
+  orig: 279, 99
+  offset: 0, 0
+  index: -1
+1_00010
+  rotate: true
+  xy: 283, 147
+  size: 279, 99
+  orig: 279, 99
+  offset: 0, 0
+  index: -1
+1_00011
+  rotate: false
+  xy: 2, 2
+  size: 279, 99
+  orig: 279, 99
+  offset: 0, 0
+  index: -1
+1_00012
+  rotate: true
+  xy: 384, 147
+  size: 279, 99
+  orig: 279, 99
+  offset: 0, 0
+  index: -1
+1_00013
+  rotate: true
+  xy: 485, 428
+  size: 279, 99
+  orig: 279, 99
+  offset: 0, 0
+  index: -1
+1_00014
+  rotate: true
+  xy: 485, 147
+  size: 279, 99
+  orig: 279, 99
+  offset: 0, 0
+  index: -1
+shangziti
+  rotate: false
+  xy: 2, 709
+  size: 520, 106
+  orig: 520, 106
+  offset: 0, 0
+  index: -1
+shangziti1
+  rotate: false
+  xy: 2, 817
+  size: 558, 198
+  orig: 558, 198
+  offset: 0, 0
+  index: -1
+xiaziti
+  rotate: false
+  xy: 562, 956
+  size: 441, 59
+  orig: 441, 59
+  offset: 0, 0
+  index: -1
+zuohshe
+  rotate: false
+  xy: 283, 79
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+zuohshe1
+  rotate: false
+  xy: 843, 873
+  size: 59, 81
+  orig: 59, 81
+  offset: 0, 0
+  index: -1

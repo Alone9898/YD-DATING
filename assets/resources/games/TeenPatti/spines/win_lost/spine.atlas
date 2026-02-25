@@ -1,0 +1,279 @@
+
+spine.png
+size: 726,726
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangquan_effect_jiesuan
+  rotate: false
+  xy: 247, 506
+  size: 218, 218
+  orig: 250, 250
+  offset: 16, 16
+  index: -1
+txk
+  rotate: false
+  xy: 2, 419
+  size: 170, 170
+  orig: 200, 200
+  offset: 15, 15
+  index: -1
+vs_lose3
+  rotate: true
+  xy: 448, 124
+  size: 165, 80
+  orig: 230, 120
+  offset: 26, 23
+  index: -1
+vs_lose3_ar
+  rotate: true
+  xy: 127, 107
+  size: 175, 81
+  orig: 230, 120
+  offset: 29, 20
+  index: -1
+vs_refuse
+  rotate: false
+  xy: 2, 591
+  size: 243, 133
+  orig: 250, 150
+  offset: 3, 5
+  index: -1
+vs_refuse_ar
+  rotate: true
+  xy: 2, 222
+  size: 195, 123
+  orig: 250, 150
+  offset: 26, 23
+  index: -1
+vs_winner3
+  rotate: false
+  xy: 174, 391
+  size: 229, 113
+  orig: 240, 120
+  offset: 5, 3
+  index: -1
+vs_winner3_ar
+  rotate: false
+  xy: 467, 631
+  size: 190, 93
+  orig: 240, 120
+  offset: 33, 24
+  index: -1
+yanhua/yanhua_00000
+  rotate: true
+  xy: 341, 328
+  size: 61, 59
+  orig: 116, 117
+  offset: 25, 29
+  index: -1
+yanhua/yanhua_00002
+  rotate: true
+  xy: 174, 521
+  size: 68, 67
+  orig: 116, 117
+  offset: 22, 25
+  index: -1
+yanhua/yanhua_00003
+  rotate: false
+  xy: 313, 2
+  size: 77, 77
+  orig: 116, 117
+  offset: 17, 20
+  index: -1
+yanhua/yanhua_00004
+  rotate: false
+  xy: 313, 2
+  size: 77, 77
+  orig: 116, 117
+  offset: 17, 20
+  index: -1
+yanhua/yanhua_00005
+  rotate: false
+  xy: 628, 137
+  size: 84, 84
+  orig: 116, 117
+  offset: 13, 17
+  index: -1
+yanhua/yanhua_00006
+  rotate: false
+  xy: 624, 33
+  size: 90, 91
+  orig: 116, 117
+  offset: 10, 13
+  index: -1
+yanhua/yanhua_00007
+  rotate: true
+  xy: 530, 126
+  size: 95, 96
+  orig: 116, 117
+  offset: 8, 11
+  index: -1
+yanhua/yanhua_00008
+  rotate: true
+  xy: 418, 24
+  size: 98, 100
+  orig: 116, 117
+  offset: 6, 9
+  index: -1
+yanhua/yanhua_00009
+  rotate: false
+  xy: 314, 81
+  size: 102, 102
+  orig: 116, 117
+  offset: 4, 8
+  index: -1
+yanhua/yanhua_00010
+  rotate: false
+  xy: 314, 81
+  size: 102, 102
+  orig: 116, 117
+  offset: 4, 8
+  index: -1
+yanhua/yanhua_00011
+  rotate: true
+  xy: 2, 11
+  size: 103, 104
+  orig: 116, 117
+  offset: 4, 7
+  index: -1
+yanhua/yanhua_00012
+  rotate: false
+  xy: 341, 185
+  size: 105, 104
+  orig: 116, 117
+  offset: 3, 7
+  index: -1
+yanhua/yanhua_00013
+  rotate: false
+  xy: 467, 524
+  size: 105, 105
+  orig: 116, 117
+  offset: 3, 7
+  index: -1
+yanhua/yanhua_00014
+  rotate: true
+  xy: 405, 398
+  size: 106, 105
+  orig: 116, 117
+  offset: 2, 7
+  index: -1
+yanhua/yanhua_00015
+  rotate: false
+  xy: 405, 291
+  size: 105, 105
+  orig: 116, 117
+  offset: 3, 7
+  index: -1
+yanhua/yanhua_00016
+  rotate: false
+  xy: 405, 291
+  size: 105, 105
+  orig: 116, 117
+  offset: 3, 7
+  index: -1
+yanhua/yanhua_00017
+  rotate: false
+  xy: 127, 284
+  size: 105, 105
+  orig: 116, 117
+  offset: 3, 7
+  index: -1
+yanhua/yanhua_00018
+  rotate: false
+  xy: 234, 284
+  size: 105, 105
+  orig: 116, 117
+  offset: 3, 7
+  index: -1
+yanhua/yanhua_00019
+  rotate: false
+  xy: 2, 116
+  size: 104, 104
+  orig: 116, 117
+  offset: 3, 7
+  index: -1
+yanhua/yanhua_00020
+  rotate: false
+  xy: 210, 179
+  size: 102, 103
+  orig: 116, 117
+  offset: 4, 7
+  index: -1
+yanhua/yanhua_00021
+  rotate: false
+  xy: 210, 74
+  size: 101, 103
+  orig: 116, 117
+  offset: 4, 7
+  index: -1
+yanhua/yanhua_00022
+  rotate: false
+  xy: 210, 74
+  size: 101, 103
+  orig: 116, 117
+  offset: 4, 7
+  index: -1
+yanhua/yanhua_00023
+  rotate: false
+  xy: 512, 419
+  size: 101, 103
+  orig: 116, 117
+  offset: 5, 7
+  index: -1
+yanhua/yanhua_00024
+  rotate: false
+  xy: 108, 2
+  size: 100, 103
+  orig: 116, 117
+  offset: 6, 7
+  index: -1
+yanhua/yanhua_00025
+  rotate: true
+  xy: 574, 530
+  size: 99, 104
+  orig: 116, 117
+  offset: 7, 6
+  index: -1
+yanhua/yanhua_00026
+  rotate: true
+  xy: 512, 318
+  size: 99, 103
+  orig: 116, 117
+  offset: 7, 7
+  index: -1
+yanhua/yanhua_00027
+  rotate: true
+  xy: 615, 432
+  size: 96, 103
+  orig: 116, 117
+  offset: 7, 8
+  index: -1
+yanhua/yanhua_00028
+  rotate: true
+  xy: 615, 432
+  size: 96, 103
+  orig: 116, 117
+  offset: 7, 8
+  index: -1
+yanhua/yanhua_00029
+  rotate: true
+  xy: 520, 26
+  size: 96, 102
+  orig: 116, 117
+  offset: 7, 8
+  index: -1
+yanhua/yanhua_00030
+  rotate: true
+  xy: 530, 223
+  size: 93, 103
+  orig: 116, 117
+  offset: 7, 8
+  index: -1
+yanhua/yanhua_00031
+  rotate: false
+  xy: 617, 328
+  size: 93, 102
+  orig: 116, 117
+  offset: 7, 9
+  index: -1

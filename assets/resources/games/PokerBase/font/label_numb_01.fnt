@@ -1,0 +1,14 @@
+info face="face" size=24
+common lineHeight=24 scaleW=79 scaleH=76 pages=1
+page id=0 file="label_numb_01.png"
+chars count=10
+char id=48 x=42 y=0 width=18 height=24 xoffset=0 yoffset=0 xadvance=18 page=0 chnl=15
+char id=49 x=19 y=52 width=11 height=24 xoffset=0 yoffset=0 xadvance=11 page=0 chnl=15
+char id=50 x=40 y=26 width=17 height=24 xoffset=0 yoffset=0 xadvance=17 page=0 chnl=15
+char id=51 x=62 y=0 width=17 height=24 xoffset=0 yoffset=0 xadvance=17 page=0 chnl=15
+char id=52 x=0 y=0 width=19 height=24 xoffset=0 yoffset=0 xadvance=19 page=0 chnl=15
+char id=53 x=62 y=26 width=17 height=24 xoffset=0 yoffset=0 xadvance=17 page=0 chnl=15
+char id=54 x=0 y=26 width=18 height=24 xoffset=0 yoffset=0 xadvance=18 page=0 chnl=15
+char id=55 x=0 y=52 width=17 height=24 xoffset=0 yoffset=0 xadvance=17 page=0 chnl=15
+char id=56 x=21 y=0 width=19 height=24 xoffset=0 yoffset=0 xadvance=19 page=0 chnl=15
+char id=57 x=20 y=26 width=18 height=24 xoffset=0 yoffset=0 xadvance=18 page=0 chnl=15

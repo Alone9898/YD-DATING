@@ -1,0 +1,20 @@
+
+314_qp_xh.png
+size: 149,149
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_00208_a
+  rotate: false
+  xy: 2, 32
+  size: 128, 115
+  orig: 128, 128
+  offset: 0, 6
+  index: -1
+qipao
+  rotate: false
+  xy: 2, 2
+  size: 28, 28
+  orig: 32, 32
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,48 @@
+
+xunhuanguang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CmnBG_Eff_Lens01
+  rotate: false
+  xy: 260, 64
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Morgana_Skin11_Z_tar_snare
+  rotate: false
+  xy: 390, 394
+  size: 48, 49
+  orig: 64, 64
+  offset: 8, 8
+  index: -1
+cmn_dis00
+  rotate: false
+  xy: 2, 187
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: false
+  xy: 2, 2
+  size: 53, 53
+  orig: 64, 64
+  offset: 6, 5
+  index: -1
+yuanxian/yuanxian_0
+  rotate: true
+  xy: 2, 57
+  size: 128, 255
+  orig: 300, 300
+  offset: 22, 22
+  index: -1
+yuanxian/yuanxianliang_0
+  rotate: false
+  xy: 260, 194
+  size: 128, 249
+  orig: 300, 300
+  offset: 22, 22
+  index: -1

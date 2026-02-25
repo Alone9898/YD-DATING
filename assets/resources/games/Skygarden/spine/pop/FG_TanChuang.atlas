@@ -1,0 +1,1049 @@
+
+FG_TanChuang.png
+size: 1907,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/FG-YOU-WON
+  rotate: false
+  xy: 1356, 247
+  size: 212, 51
+  orig: 212, 51
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_000
+  rotate: false
+  xy: 1264, 158
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_001
+  rotate: false
+  xy: 1264, 130
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_002
+  rotate: false
+  xy: 1186, 123
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_003
+  rotate: false
+  xy: 1250, 20
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_004
+  rotate: false
+  xy: 1832, 175
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_005
+  rotate: false
+  xy: 1832, 147
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_006
+  rotate: true
+  xy: 1666, 58
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_007
+  rotate: true
+  xy: 1694, 92
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_008
+  rotate: false
+  xy: 1722, 121
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_009
+  rotate: false
+  xy: 1722, 93
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_010
+  rotate: true
+  xy: 1784, 87
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_011
+  rotate: false
+  xy: 1602, 10
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_012
+  rotate: false
+  xy: 1812, 119
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_013
+  rotate: false
+  xy: 1812, 91
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_014
+  rotate: true
+  xy: 1874, 85
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_015
+  rotate: false
+  xy: 1812, 63
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_016
+  rotate: false
+  xy: 1722, 65
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_017
+  rotate: true
+  xy: 1694, 30
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_018
+  rotate: false
+  xy: 1664, 2
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_019
+  rotate: false
+  xy: 1722, 37
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_020
+  rotate: true
+  xy: 1784, 25
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_021
+  rotate: false
+  xy: 1812, 35
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FG-YOU-WON/FG-YOU-WON_022
+  rotate: true
+  xy: 1874, 23
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES
+  rotate: false
+  xy: 2, 352
+  size: 415, 50
+  orig: 415, 50
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_000
+  rotate: false
+  xy: 274, 261
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_001
+  rotate: false
+  xy: 514, 124
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_002
+  rotate: false
+  xy: 274, 233
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_003
+  rotate: false
+  xy: 276, 205
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_004
+  rotate: false
+  xy: 626, 124
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_005
+  rotate: false
+  xy: 738, 124
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_006
+  rotate: false
+  xy: 850, 124
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_007
+  rotate: false
+  xy: 962, 124
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_008
+  rotate: false
+  xy: 1074, 124
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_009
+  rotate: false
+  xy: 404, 93
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_010
+  rotate: false
+  xy: 404, 65
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_011
+  rotate: false
+  xy: 404, 37
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_012
+  rotate: false
+  xy: 516, 96
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_013
+  rotate: false
+  xy: 516, 68
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_014
+  rotate: false
+  xy: 628, 96
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_015
+  rotate: false
+  xy: 516, 40
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_016
+  rotate: false
+  xy: 628, 68
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_017
+  rotate: false
+  xy: 740, 96
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_018
+  rotate: false
+  xy: 628, 40
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_019
+  rotate: false
+  xy: 740, 68
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_020
+  rotate: false
+  xy: 852, 96
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_021
+  rotate: false
+  xy: 740, 40
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_022
+  rotate: false
+  xy: 852, 68
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_023
+  rotate: false
+  xy: 964, 96
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_024
+  rotate: false
+  xy: 852, 40
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGEXTRA-FREE-GAMES/FGEXTRA-FREE-GAMES_025
+  rotate: false
+  xy: 964, 68
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES
+  rotate: false
+  xy: 2, 289
+  size: 384, 61
+  orig: 384, 61
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_000
+  rotate: false
+  xy: 1076, 96
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_001
+  rotate: false
+  xy: 964, 40
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_002
+  rotate: false
+  xy: 1076, 68
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_003
+  rotate: false
+  xy: 1066, 40
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_004
+  rotate: false
+  xy: 404, 9
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_005
+  rotate: false
+  xy: 516, 12
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_006
+  rotate: false
+  xy: 618, 12
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_007
+  rotate: false
+  xy: 720, 12
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_008
+  rotate: false
+  xy: 822, 12
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_009
+  rotate: false
+  xy: 924, 12
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_010
+  rotate: false
+  xy: 1026, 12
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_011
+  rotate: false
+  xy: 1328, 219
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_012
+  rotate: false
+  xy: 1430, 219
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_013
+  rotate: false
+  xy: 1328, 191
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_014
+  rotate: false
+  xy: 1430, 191
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_015
+  rotate: false
+  xy: 1328, 163
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_016
+  rotate: false
+  xy: 1430, 163
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_017
+  rotate: false
+  xy: 1564, 208
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_018
+  rotate: false
+  xy: 1564, 180
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_019
+  rotate: false
+  xy: 1564, 152
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_020
+  rotate: false
+  xy: 1730, 177
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_021
+  rotate: false
+  xy: 1730, 149
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_022
+  rotate: false
+  xy: 244, 5
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_023
+  rotate: false
+  xy: 1326, 135
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_024
+  rotate: false
+  xy: 1428, 135
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGFREE-GAMES/FGFREE-GAMES_025
+  rotate: false
+  xy: 1326, 107
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+images/FGan
+  rotate: false
+  xy: 2, 210
+  size: 270, 77
+  orig: 270, 77
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_000
+  rotate: true
+  xy: 1532, 165
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_001
+  rotate: true
+  xy: 1666, 154
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_002
+  rotate: true
+  xy: 1698, 154
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_003
+  rotate: false
+  xy: 1428, 103
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_004
+  rotate: false
+  xy: 1178, 91
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_005
+  rotate: false
+  xy: 1178, 59
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_006
+  rotate: true
+  xy: 1260, 48
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_007
+  rotate: true
+  xy: 1292, 48
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_008
+  rotate: false
+  xy: 1324, 75
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_009
+  rotate: false
+  xy: 1324, 43
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_010
+  rotate: false
+  xy: 1406, 71
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_011
+  rotate: false
+  xy: 1406, 39
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_012
+  rotate: false
+  xy: 1168, 27
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_013
+  rotate: true
+  xy: 1488, 21
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_014
+  rotate: false
+  xy: 1312, 11
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_015
+  rotate: false
+  xy: 1394, 7
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_016
+  rotate: false
+  xy: 1530, 120
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_017
+  rotate: false
+  xy: 1520, 88
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_018
+  rotate: false
+  xy: 1520, 56
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_019
+  rotate: false
+  xy: 1520, 24
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_020
+  rotate: true
+  xy: 1602, 38
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_021
+  rotate: false
+  xy: 1612, 120
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGan/FGan_022
+  rotate: true
+  xy: 1634, 38
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+images/FGdb1/FGdb1_000
+  rotate: false
+  xy: 1570, 268
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+images/FGdb1/FGdb1_001
+  rotate: true
+  xy: 244, 38
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+images/FGdb1/FGdb1_002
+  rotate: false
+  xy: 1570, 236
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+images/FGdb1/FGdb1_003
+  rotate: true
+  xy: 276, 33
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+images/FGdb1/FGdb1_004
+  rotate: true
+  xy: 308, 33
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+images/FGdb1/FGdb1_005
+  rotate: true
+  xy: 340, 33
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+images/FGdb1/FGdb1_006
+  rotate: true
+  xy: 372, 33
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+images/FGdb1/FGdb1_007
+  rotate: false
+  xy: 404, 216
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+images/FGdb1/FGdb1_008
+  rotate: false
+  xy: 576, 216
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+images/FGdb1/FGdb1_009
+  rotate: false
+  xy: 748, 216
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+images/FGdb1/FGdb1_010
+  rotate: false
+  xy: 920, 216
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+images/FGdb1/FGdb1_011
+  rotate: false
+  xy: 1092, 216
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+images/FGdb1/FGdb1_012
+  rotate: false
+  xy: 514, 184
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+images/FGdb1/FGdb1_013
+  rotate: false
+  xy: 514, 152
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+images/FGdb1/FGdb1_014
+  rotate: false
+  xy: 686, 184
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+images/FGdb1/FGdb1_015
+  rotate: false
+  xy: 686, 152
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+images/FGdb1/FGdb1_016
+  rotate: false
+  xy: 858, 184
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+images/FGdb1/FGdb1_017
+  rotate: false
+  xy: 858, 152
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+images/FGdb1/FGdb1_018
+  rotate: false
+  xy: 1030, 184
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+images/FGdb1/FGdb1_019
+  rotate: false
+  xy: 1030, 152
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+images/FGdb2/FGdb2_000
+  rotate: true
+  xy: 419, 352
+  size: 50, 240
+  orig: 50, 240
+  offset: 0, 0
+  index: -1
+images/FGdb2/FGdb2_001
+  rotate: true
+  xy: 388, 300
+  size: 50, 240
+  orig: 50, 240
+  offset: 0, 0
+  index: -1
+images/FGdb2/FGdb2_002
+  rotate: true
+  xy: 2, 158
+  size: 50, 240
+  orig: 50, 240
+  offset: 0, 0
+  index: -1
+images/FGdb2/FGdb2_003
+  rotate: true
+  xy: 661, 352
+  size: 50, 240
+  orig: 50, 240
+  offset: 0, 0
+  index: -1
+images/FGdb2/FGdb2_004
+  rotate: true
+  xy: 630, 300
+  size: 50, 240
+  orig: 50, 240
+  offset: 0, 0
+  index: -1
+images/FGdb2/FGdb2_005
+  rotate: true
+  xy: 2, 106
+  size: 50, 240
+  orig: 50, 240
+  offset: 0, 0
+  index: -1
+images/FGdb2/FGdb2_006
+  rotate: true
+  xy: 903, 352
+  size: 50, 240
+  orig: 50, 240
+  offset: 0, 0
+  index: -1
+images/FGdb2/FGdb2_007
+  rotate: true
+  xy: 872, 300
+  size: 50, 240
+  orig: 50, 240
+  offset: 0, 0
+  index: -1
+images/FGdb2/FGdb2_008
+  rotate: true
+  xy: 2, 54
+  size: 50, 240
+  orig: 50, 240
+  offset: 0, 0
+  index: -1
+images/FGdb2/FGdb2_009
+  rotate: true
+  xy: 2, 2
+  size: 50, 240
+  orig: 50, 240
+  offset: 0, 0
+  index: -1
+images/FGdb2/FGdb2_010
+  rotate: true
+  xy: 1145, 352
+  size: 50, 240
+  orig: 50, 240
+  offset: 0, 0
+  index: -1
+images/FGdb2/FGdb2_011
+  rotate: true
+  xy: 1114, 300
+  size: 50, 240
+  orig: 50, 240
+  offset: 0, 0
+  index: -1
+images/FGdb2/FGdb2_012
+  rotate: true
+  xy: 1387, 352
+  size: 50, 240
+  orig: 50, 240
+  offset: 0, 0
+  index: -1
+images/FGdb2/FGdb2_013
+  rotate: true
+  xy: 1356, 300
+  size: 50, 240
+  orig: 50, 240
+  offset: 0, 0
+  index: -1
+images/FGdb2/FGdb2_014
+  rotate: true
+  xy: 1629, 352
+  size: 50, 240
+  orig: 50, 240
+  offset: 0, 0
+  index: -1
+images/FGdb2/FGdb2_015
+  rotate: true
+  xy: 1598, 300
+  size: 50, 240
+  orig: 50, 240
+  offset: 0, 0
+  index: -1
+images/FGdb2/FGdb2_016
+  rotate: true
+  xy: 388, 248
+  size: 50, 240
+  orig: 50, 240
+  offset: 0, 0
+  index: -1
+images/FGdb2/FGdb2_017
+  rotate: true
+  xy: 630, 248
+  size: 50, 240
+  orig: 50, 240
+  offset: 0, 0
+  index: -1
+images/FGdb2/FGdb2_018
+  rotate: true
+  xy: 872, 248
+  size: 50, 240
+  orig: 50, 240
+  offset: 0, 0
+  index: -1
+images/FGdb2/FGdb2_019
+  rotate: true
+  xy: 1114, 248
+  size: 50, 240
+  orig: 50, 240
+  offset: 0, 0
+  index: -1
+images/FGh1
+  rotate: true
+  xy: 1852, 203
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+images/FGh2
+  rotate: true
+  xy: 1202, 151
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1
+images/FGh3
+  rotate: false
+  xy: 1742, 205
+  size: 108, 93
+  orig: 108, 93
+  offset: 0, 0
+  index: -1
+images/FGh4
+  rotate: false
+  xy: 404, 121
+  size: 108, 93
+  orig: 108, 93
+  offset: 0, 0
+  index: -1
+images/FGh5
+  rotate: false
+  xy: 1264, 186
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+images/FGh6
+  rotate: true
+  xy: 1852, 251
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+images/Star_000
+  rotate: false
+  xy: 1840, 300
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

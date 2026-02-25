@@ -1,0 +1,13 @@
+
+symbol_jinbi_02.png
+size: 176,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xuanzhuanguangquan01
+  rotate: false
+  xy: 2, 2
+  size: 172, 170
+  orig: 172, 172
+  offset: 0, 1
+  index: -1

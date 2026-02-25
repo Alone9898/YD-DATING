@@ -1,0 +1,20 @@
+
+deng.png
+size: 30,30
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+db
+  rotate: false
+  xy: 2, 16
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+liangdeng
+  rotate: false
+  xy: 2, 2
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1

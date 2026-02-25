@@ -1,0 +1,20 @@
+
+314_j.png
+size: 219,82
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/xx
+  rotate: false
+  xy: 138, 2
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+images/j
+  rotate: true
+  xy: 2, 6
+  size: 74, 134
+  orig: 74, 134
+  offset: 0, 0
+  index: -1

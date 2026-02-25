@@ -1,0 +1,538 @@
+
+spine.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/1_00002
+  rotate: false
+  xy: 1828, 1606
+  size: 160, 175
+  orig: 160, 175
+  offset: 0, 0
+  index: -1
+1/1_00003
+  rotate: false
+  xy: 1828, 1429
+  size: 160, 175
+  orig: 160, 175
+  offset: 0, 0
+  index: -1
+1/1_00004
+  rotate: false
+  xy: 1358, 1380
+  size: 160, 175
+  orig: 160, 175
+  offset: 0, 0
+  index: -1
+1/1_00005
+  rotate: false
+  xy: 596, 1187
+  size: 160, 175
+  orig: 160, 175
+  offset: 0, 0
+  index: -1
+1/1_00006
+  rotate: true
+  xy: 793, 1309
+  size: 160, 175
+  orig: 160, 175
+  offset: 0, 0
+  index: -1
+1/1_00007
+  rotate: true
+  xy: 970, 1285
+  size: 160, 175
+  orig: 160, 175
+  offset: 0, 0
+  index: -1
+1/1_00008
+  rotate: true
+  xy: 1147, 1285
+  size: 160, 175
+  orig: 160, 175
+  offset: 0, 0
+  index: -1
+1/1_00009
+  rotate: false
+  xy: 596, 1010
+  size: 160, 175
+  orig: 160, 175
+  offset: 0, 0
+  index: -1
+1/1_00010
+  rotate: true
+  xy: 587, 690
+  size: 160, 175
+  orig: 160, 175
+  offset: 0, 0
+  index: -1
+1/1_00011
+  rotate: false
+  xy: 764, 692
+  size: 160, 175
+  orig: 160, 175
+  offset: 0, 0
+  index: -1
+1/1_00012
+  rotate: true
+  xy: 926, 683
+  size: 160, 175
+  orig: 160, 175
+  offset: 0, 0
+  index: -1
+1/1_00013
+  rotate: true
+  xy: 1103, 683
+  size: 160, 175
+  orig: 160, 175
+  offset: 0, 0
+  index: -1
+1/1_00014
+  rotate: false
+  xy: 1337, 1203
+  size: 160, 175
+  orig: 160, 175
+  offset: 0, 0
+  index: -1
+1/1_00015
+  rotate: false
+  xy: 1337, 1026
+  size: 160, 175
+  orig: 160, 175
+  offset: 0, 0
+  index: -1
+AL_bozi1
+  rotate: true
+  xy: 1719, 1302
+  size: 149, 90
+  orig: 149, 90
+  offset: 0, 0
+  index: -1
+AL_gebo1
+  rotate: true
+  xy: 1641, 1783
+  size: 260, 330
+  orig: 260, 330
+  offset: 0, 0
+  index: -1
+AL_gebo2
+  rotate: false
+  xy: 1973, 1952
+  size: 69, 91
+  orig: 69, 91
+  offset: 0, 0
+  index: -1
+AL_gebo3
+  rotate: false
+  xy: 227, 921
+  size: 248, 245
+  orig: 248, 245
+  offset: 0, 0
+  index: -1
+AL_jian
+  rotate: true
+  xy: 847, 1471
+  size: 115, 123
+  orig: 115, 123
+  offset: 0, 0
+  index: -1
+AL_shangyi
+  rotate: true
+  xy: 2, 253
+  size: 389, 192
+  orig: 389, 192
+  offset: 0, 0
+  index: -1
+AL_shangyi3
+  rotate: false
+  xy: 600, 1588
+  size: 392, 455
+  orig: 392, 455
+  offset: 0, 0
+  index: -1
+AL_shou1
+  rotate: false
+  xy: 227, 764
+  size: 247, 155
+  orig: 247, 155
+  offset: 0, 0
+  index: -1
+AL_shou24
+  rotate: true
+  xy: 587, 852
+  size: 156, 169
+  orig: 156, 169
+  offset: 0, 0
+  index: -1
+AL_shou2433
+  rotate: false
+  xy: 1337, 855
+  size: 156, 169
+  orig: 156, 169
+  offset: 0, 0
+  index: -1
+AL_tou
+  rotate: true
+  xy: 286, 1168
+  size: 266, 308
+  orig: 266, 308
+  offset: 0, 0
+  index: -1
+AL_tui1
+  rotate: false
+  xy: 286, 1436
+  size: 312, 607
+  orig: 312, 607
+  offset: 0, 0
+  index: -1
+AL_tui2
+  rotate: false
+  xy: 2, 644
+  size: 223, 627
+  orig: 223, 627
+  offset: 0, 0
+  index: -1
+AL_xiayi
+  rotate: true
+  xy: 994, 1557
+  size: 292, 529
+  orig: 292, 529
+  offset: 0, 0
+  index: -1
+AL_xie1
+  rotate: true
+  xy: 600, 1474
+  size: 112, 245
+  orig: 112, 245
+  offset: 0, 0
+  index: -1
+AL_xie2
+  rotate: false
+  xy: 2, 2
+  size: 242, 249
+  orig: 242, 249
+  offset: 0, 0
+  index: -1
+AL_yixiu
+  rotate: true
+  xy: 994, 1851
+  size: 192, 645
+  orig: 192, 645
+  offset: 0, 0
+  index: -1
+AL_yixiu2
+  rotate: false
+  xy: 2, 1273
+  size: 282, 770
+  orig: 282, 770
+  offset: 0, 0
+  index: -1
+qieping/qieping_1
+  rotate: false
+  xy: 1525, 1658
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_10
+  rotate: true
+  xy: 600, 1364
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_11
+  rotate: true
+  xy: 758, 1199
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_12
+  rotate: true
+  xy: 951, 1175
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_13
+  rotate: true
+  xy: 1144, 1175
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_14
+  rotate: true
+  xy: 758, 1089
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_15
+  rotate: true
+  xy: 951, 1065
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_16
+  rotate: true
+  xy: 1144, 1065
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_17
+  rotate: true
+  xy: 758, 979
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_18
+  rotate: true
+  xy: 951, 955
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_19
+  rotate: true
+  xy: 1144, 955
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_2
+  rotate: false
+  xy: 477, 975
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_20
+  rotate: true
+  xy: 758, 869
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_21
+  rotate: false
+  xy: 477, 782
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_22
+  rotate: true
+  xy: 951, 845
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_23
+  rotate: true
+  xy: 1144, 845
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_24
+  rotate: false
+  xy: 196, 451
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_25
+  rotate: false
+  xy: 196, 258
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_26
+  rotate: false
+  xy: 306, 461
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_27
+  rotate: false
+  xy: 306, 268
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_28
+  rotate: false
+  xy: 246, 65
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_29
+  rotate: false
+  xy: 356, 75
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_3
+  rotate: true
+  xy: 227, 654
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_30
+  rotate: false
+  xy: 1280, 652
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_31
+  rotate: false
+  xy: 1390, 662
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_32
+  rotate: false
+  xy: 1499, 1187
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_33
+  rotate: false
+  xy: 1499, 994
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_34
+  rotate: true
+  xy: 1495, 884
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_35
+  rotate: false
+  xy: 1500, 691
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_36
+  rotate: false
+  xy: 1610, 691
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_37
+  rotate: true
+  xy: 1500, 581
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_38
+  rotate: false
+  xy: 1609, 1260
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_39
+  rotate: false
+  xy: 1609, 1067
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_4
+  rotate: true
+  xy: 1635, 1673
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_40
+  rotate: false
+  xy: 1719, 1109
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_41
+  rotate: true
+  xy: 1811, 1319
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_42
+  rotate: false
+  xy: 1829, 1126
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_43
+  rotate: false
+  xy: 1390, 469
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_44
+  rotate: true
+  xy: 1500, 471
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_5
+  rotate: true
+  xy: 1635, 1563
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_6
+  rotate: false
+  xy: 1525, 1465
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_7
+  rotate: true
+  xy: 1635, 1453
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_8
+  rotate: true
+  xy: 972, 1447
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1
+qieping/qieping_9
+  rotate: true
+  xy: 1165, 1447
+  size: 108, 191
+  orig: 108, 191
+  offset: 0, 0
+  index: -1

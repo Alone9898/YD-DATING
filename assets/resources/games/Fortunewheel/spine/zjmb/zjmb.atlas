@@ -1,0 +1,34 @@
+
+zjmb.png
+size: 679,677
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/xz
+  rotate: false
+  xy: 2, 366
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+images/zjmb
+  rotate: false
+  xy: 2, 590
+  size: 675, 85
+  orig: 675, 85
+  offset: 0, 0
+  index: -1
+images/zjmb1
+  rotate: false
+  xy: 2, 503
+  size: 675, 85
+  orig: 675, 85
+  offset: 0, 0
+  index: -1
+images/zskuang
+  rotate: false
+  xy: 2, 448
+  size: 274, 53
+  orig: 274, 53
+  offset: 0, 0
+  index: -1

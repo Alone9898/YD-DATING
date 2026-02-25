@@ -1,0 +1,41 @@
+
+jijiao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: false
+  xy: 231, 56
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+images/G1
+  rotate: false
+  xy: 2, 16
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+images/ji
+  rotate: false
+  xy: 231, 134
+  size: 114, 109
+  orig: 114, 109
+  offset: 0, 0
+  index: -1
+images/zb1
+  rotate: false
+  xy: 2, 2
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+images/zb2
+  rotate: false
+  xy: 347, 228
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1

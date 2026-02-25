@@ -1,0 +1,230 @@
+
+spine.png
+size: 747,747
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++
+  rotate: false
+  xy: 332, 150
+  size: 54, 58
+  orig: 200, 200
+  offset: 111, 33
+  index: -1
+7day_glow_02
+  rotate: false
+  xy: 571, 499
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+avbn
+  rotate: false
+  xy: 2, 2
+  size: 127, 139
+  orig: 141, 142
+  offset: 1, 1
+  index: -1
+bonus
+  rotate: true
+  xy: 311, 14
+  size: 127, 151
+  orig: 200, 200
+  offset: 46, 25
+  index: -1
+bonus2
+  rotate: true
+  xy: 388, 143
+  size: 94, 111
+  orig: 200, 200
+  offset: 24, 38
+  index: -1
+coin
+  rotate: false
+  xy: 300, 715
+  size: 30, 30
+  orig: 40, 40
+  offset: 5, 5
+  index: -1
+di
+  rotate: true
+  xy: 629, 205
+  size: 186, 114
+  orig: 188, 120
+  offset: 1, 5
+  index: -1
+game
+  rotate: false
+  xy: 131, 6
+  size: 178, 135
+  orig: 200, 200
+  offset: 14, 35
+  index: -1
+jializi
+  rotate: false
+  xy: 309, 695
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+shop
+  rotate: true
+  xy: 426, 463
+  size: 175, 143
+  orig: 200, 200
+  offset: 12, 28
+  index: -1
+social
+  rotate: false
+  xy: 481, 239
+  size: 146, 152
+  orig: 200, 200
+  offset: 27, 18
+  index: -1
+star_small
+  rotate: false
+  xy: 594, 18
+  size: 100, 100
+  orig: 128, 128
+  offset: 16, 12
+  index: -1
+up/image01
+  rotate: true
+  xy: 332, 640
+  size: 105, 127
+  orig: 150, 300
+  offset: 22, 0
+  index: -1
+up/image03
+  rotate: true
+  xy: 571, 393
+  size: 104, 155
+  orig: 150, 300
+  offset: 23, 0
+  index: -1
+up/image05
+  rotate: false
+  xy: 322, 458
+  size: 102, 180
+  orig: 150, 300
+  offset: 24, 0
+  index: -1
+up/image07
+  rotate: false
+  xy: 378, 239
+  size: 101, 217
+  orig: 150, 300
+  offset: 24, 0
+  index: -1
+up/image09
+  rotate: false
+  xy: 198, 199
+  size: 100, 254
+  orig: 150, 300
+  offset: 25, 0
+  index: -1
+up/image11
+  rotate: false
+  xy: 102, 455
+  size: 100, 290
+  orig: 150, 300
+  offset: 26, 0
+  index: -1
+up/image13
+  rotate: false
+  xy: 2, 445
+  size: 98, 300
+  orig: 150, 300
+  offset: 27, 0
+  index: -1
+up/image15
+  rotate: false
+  xy: 2, 143
+  size: 97, 300
+  orig: 150, 300
+  offset: 28, 0
+  index: -1
+up/image17
+  rotate: false
+  xy: 101, 143
+  size: 95, 300
+  orig: 150, 300
+  offset: 28, 0
+  index: -1
+up/image19
+  rotate: false
+  xy: 300, 210
+  size: 76, 244
+  orig: 150, 300
+  offset: 29, 33
+  index: -1
+up/image21
+  rotate: true
+  xy: 464, 671
+  size: 74, 254
+  orig: 150, 300
+  offset: 31, 40
+  index: -1
+up/image23
+  rotate: false
+  xy: 204, 455
+  size: 62, 214
+  orig: 150, 300
+  offset: 43, 40
+  index: -1
+zi/text_hall_tabbar_select_events_en
+  rotate: true
+  xy: 268, 456
+  size: 215, 52
+  orig: 216, 80
+  offset: 1, 13
+  index: -1
+zi/text_hall_tabbar_select_games_en
+  rotate: false
+  xy: 198, 143
+  size: 132, 54
+  orig: 216, 80
+  offset: 42, 15
+  index: -1
+zi/text_hall_tabbar_select_shop_en
+  rotate: true
+  xy: 556, 120
+  size: 117, 55
+  orig: 216, 80
+  offset: 49, 15
+  index: -1
+zi/text_hall_tabbar_select_social_en
+  rotate: true
+  xy: 464, 14
+  size: 127, 51
+  orig: 216, 80
+  offset: 44, 16
+  index: -1
+zi/text_hall_tabbar_unselect_events_en
+  rotate: true
+  xy: 517, 4
+  size: 199, 37
+  orig: 216, 80
+  offset: 9, 21
+  index: -1
+zi/text_hall_tabbar_unselect_games_en
+  rotate: false
+  xy: 613, 164
+  size: 117, 39
+  orig: 216, 80
+  offset: 50, 23
+  index: -1
+zi/text_hall_tabbar_unselect_shop_en
+  rotate: false
+  xy: 204, 673
+  size: 103, 40
+  orig: 216, 80
+  offset: 58, 23
+  index: -1
+zi/text_hall_tabbar_unselect_social_en
+  rotate: true
+  xy: 556, 6
+  size: 112, 36
+  orig: 216, 80
+  offset: 52, 24
+  index: -1

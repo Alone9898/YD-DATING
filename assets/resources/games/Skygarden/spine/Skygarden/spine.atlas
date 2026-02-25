@@ -1,0 +1,202 @@
+
+spine.png
+size: 2008,1924
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4_00042
+  rotate: false
+  xy: 1458, 720
+  size: 538, 729
+  orig: 544, 780
+  offset: 1, 42
+  index: -1
+GN_bozi
+  rotate: false
+  xy: 2, 3
+  size: 61, 65
+  orig: 61, 65
+  offset: 0, 0
+  index: -1
+GN_erhuang
+  rotate: false
+  xy: 65, 37
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+GN_jian
+  rotate: false
+  xy: 549, 1063
+  size: 166, 859
+  orig: 212, 859
+  offset: 0, 0
+  index: -1
+GN_jiao1
+  rotate: true
+  xy: 230, 9
+  size: 121, 227
+  orig: 127, 227
+  offset: 6, 0
+  index: -1
+GN_jiao2
+  rotate: true
+  xy: 717, 969
+  size: 205, 164
+  orig: 205, 164
+  offset: 0, 0
+  index: -1
+GN_pifeng2
+  rotate: false
+  xy: 232, 968
+  size: 315, 954
+  orig: 328, 954
+  offset: 13, 0
+  index: -1
+GN_pifeng23
+  rotate: true
+  xy: 718, 7
+  size: 155, 762
+  orig: 155, 762
+  offset: 0, 0
+  index: -1
+GN_pifu1
+  rotate: true
+  xy: 232, 712
+  size: 254, 733
+  orig: 254, 733
+  offset: 0, 0
+  index: -1
+GN_shangshen
+  rotate: true
+  xy: 833, 166
+  size: 544, 494
+  orig: 587, 505
+  offset: 0, 0
+  index: -1
+GN_shangshen2
+  rotate: true
+  xy: 1482, 1451
+  size: 471, 523
+  orig: 471, 523
+  offset: 0, 0
+  index: -1
+GN_shou1
+  rotate: false
+  xy: 1329, 251
+  size: 135, 104
+  orig: 135, 104
+  offset: 0, 0
+  index: -1
+GN_shou3
+  rotate: true
+  xy: 605, 3
+  size: 159, 111
+  orig: 159, 111
+  offset: 0, 0
+  index: -1
+GN_shoubi
+  rotate: false
+  xy: 1688, 20
+  size: 195, 217
+  orig: 195, 217
+  offset: 0, 0
+  index: -1
+GN_shoubi2
+  rotate: true
+  xy: 1329, 357
+  size: 178, 137
+  orig: 178, 137
+  offset: 0, 0
+  index: -1
+GN_shoubi3
+  rotate: false
+  xy: 1688, 239
+  size: 306, 283
+  orig: 306, 283
+  offset: 0, 0
+  index: -1
+GN_tou
+  rotate: false
+  xy: 717, 1176
+  size: 229, 364
+  orig: 229, 364
+  offset: 0, 0
+  index: -1
+GN_toufa1
+  rotate: true
+  xy: 549, 981
+  size: 80, 118
+  orig: 90, 118
+  offset: 0, 0
+  index: -1
+GN_xiashen
+  rotate: false
+  xy: 967, 715
+  size: 489, 734
+  orig: 489, 734
+  offset: 0, 0
+  index: -1
+GN_xiashen2
+  rotate: true
+  xy: 717, 1542
+  size: 380, 753
+  orig: 380, 753
+  offset: 0, 0
+  index: -1
+GN_yifu1
+  rotate: false
+  xy: 459, 2
+  size: 144, 708
+  orig: 175, 708
+  offset: 0, 0
+  index: -1
+cv/01
+  rotate: false
+  xy: 1329, 537
+  size: 142, 176
+  orig: 230, 617
+  offset: 45, 8
+  index: -1
+cv/03
+  rotate: true
+  xy: 1482, 524
+  size: 194, 490
+  orig: 230, 617
+  offset: 18, 2
+  index: -1
+cv/05
+  rotate: false
+  xy: 605, 164
+  size: 226, 546
+  orig: 230, 617
+  offset: 2, 2
+  index: -1
+cv/09
+  rotate: false
+  xy: 2, 70
+  size: 226, 616
+  orig: 230, 617
+  offset: 2, 1
+  index: -1
+cv/11
+  rotate: false
+  xy: 230, 132
+  size: 220, 554
+  orig: 230, 617
+  offset: 5, 4
+  index: -1
+cv/13
+  rotate: false
+  xy: 1468, 193
+  size: 218, 329
+  orig: 230, 617
+  offset: 6, 6
+  index: -1
+jiancg
+  rotate: false
+  xy: 2, 688
+  size: 228, 1234
+  orig: 282, 1313
+  offset: 19, 0
+  index: -1

@@ -1,0 +1,17 @@
+info face="Arial-Black" size=69 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=89 base=32 scaleW=792 scaleH=0 pages=1 packed=0
+page id=0 file="label_numb_04.png"
+chars count=13
+char id=43 x=0 y=0 width=68 height=89 xoffset=0 yoffset=0 xadvance=68 page=0 chnl=0 letter="+"
+char id=45 x=68 y=0 width=41 height=89 xoffset=0 yoffset=0 xadvance=41 page=0 chnl=0 letter="-"
+char id=46 x=109 y=0 width=34 height=89 xoffset=0 yoffset=0 xadvance=34 page=0 chnl=0 letter="."
+char id=56 x=143 y=0 width=68 height=89 xoffset=0 yoffset=0 xadvance=68 page=0 chnl=0 letter="8"
+char id=57 x=211 y=0 width=65 height=89 xoffset=0 yoffset=0 xadvance=65 page=0 chnl=0 letter="9"
+char id=50 x=276 y=0 width=68 height=89 xoffset=0 yoffset=0 xadvance=68 page=0 chnl=0 letter="2"
+char id=51 x=344 y=0 width=67 height=89 xoffset=0 yoffset=0 xadvance=67 page=0 chnl=0 letter="3"
+char id=48 x=411 y=0 width=65 height=89 xoffset=0 yoffset=0 xadvance=65 page=0 chnl=0 letter="0"
+char id=49 x=476 y=0 width=45 height=89 xoffset=0 yoffset=0 xadvance=45 page=0 chnl=0 letter="1"
+char id=54 x=521 y=0 width=65 height=89 xoffset=0 yoffset=0 xadvance=65 page=0 chnl=0 letter="6"
+char id=55 x=586 y=0 width=69 height=89 xoffset=0 yoffset=0 xadvance=69 page=0 chnl=0 letter="7"
+char id=52 x=655 y=0 width=68 height=89 xoffset=0 yoffset=0 xadvance=68 page=0 chnl=0 letter="4"
+char id=53 x=723 y=0 width=69 height=89 xoffset=0 yoffset=0 xadvance=69 page=0 chnl=0 letter="5"

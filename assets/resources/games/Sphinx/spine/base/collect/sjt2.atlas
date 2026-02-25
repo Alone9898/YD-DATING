@@ -1,0 +1,405 @@
+
+sjt2.png
+size: 1182,1182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+庆祝/g111_0
+  rotate: true
+  xy: 1000, 702
+  size: 34, 44
+  orig: 48, 66
+  offset: 7, 11
+  index: -1
+庆祝/lz_0
+  rotate: true
+  xy: 1047, 625
+  size: 111, 77
+  orig: 158, 113
+  offset: 29, 17
+  index: -1
+庆祝/lz_1
+  rotate: true
+  xy: 803, 199
+  size: 114, 88
+  orig: 158, 113
+  offset: 26, 11
+  index: -1
+庆祝/lz_10
+  rotate: true
+  xy: 1090, 381
+  size: 81, 71
+  orig: 158, 113
+  offset: 33, 22
+  index: -1
+庆祝/lz_11
+  rotate: false
+  xy: 1001, 260
+  size: 74, 78
+  orig: 158, 113
+  offset: 32, 21
+  index: -1
+庆祝/lz_12
+  rotate: false
+  xy: 1003, 180
+  size: 72, 78
+  orig: 158, 113
+  offset: 32, 17
+  index: -1
+庆祝/lz_13
+  rotate: false
+  xy: 998, 28
+  size: 78, 76
+  orig: 158, 113
+  offset: 27, 15
+  index: -1
+庆祝/lz_14
+  rotate: true
+  xy: 179, 102
+  size: 87, 83
+  orig: 158, 113
+  offset: 27, 14
+  index: -1
+庆祝/lz_2
+  rotate: false
+  xy: 784, 112
+  size: 118, 85
+  orig: 158, 113
+  offset: 20, 19
+  index: -1
+庆祝/lz_3
+  rotate: true
+  xy: 845, 4
+  size: 106, 67
+  orig: 158, 113
+  offset: 31, 20
+  index: -1
+庆祝/lz_4
+  rotate: true
+  xy: 884, 327
+  size: 114, 68
+  orig: 158, 113
+  offset: 30, 20
+  index: -1
+庆祝/lz_5
+  rotate: true
+  xy: 914, 14
+  size: 103, 82
+  orig: 158, 113
+  offset: 32, 8
+  index: -1
+庆祝/lz_6
+  rotate: true
+  xy: 954, 340
+  size: 110, 70
+  orig: 158, 113
+  offset: 24, 20
+  index: -1
+庆祝/lz_7
+  rotate: false
+  xy: 1047, 550
+  size: 103, 73
+  orig: 158, 113
+  offset: 31, 21
+  index: -1
+庆祝/lz_8
+  rotate: true
+  xy: 1006, 933
+  size: 118, 70
+  orig: 158, 113
+  offset: 29, 22
+  index: -1
+庆祝/lz_9
+  rotate: false
+  xy: 1003, 106
+  size: 74, 72
+  orig: 158, 113
+  offset: 33, 20
+  index: -1
+庆祝/quannn_00
+  rotate: false
+  xy: 893, 219
+  size: 106, 106
+  orig: 128, 128
+  offset: 11, 11
+  index: -1
+庆祝/quannn_00_0
+  rotate: false
+  xy: 439, 344
+  size: 226, 226
+  orig: 256, 256
+  offset: 15, 15
+  index: -1
+庆祝/s_0
+  rotate: false
+  xy: 1121, 738
+  size: 48, 98
+  orig: 201, 100
+  offset: 77, 2
+  index: -1
+庆祝/s_1
+  rotate: false
+  xy: 1026, 363
+  size: 62, 99
+  orig: 201, 100
+  offset: 70, 1
+  index: -1
+庆祝/s_10
+  rotate: false
+  xy: 616, 113
+  size: 166, 99
+  orig: 201, 100
+  offset: 17, 1
+  index: -1
+庆祝/s_11
+  rotate: false
+  xy: 93, 2
+  size: 175, 98
+  orig: 201, 100
+  offset: 13, 2
+  index: -1
+庆祝/s_12
+  rotate: false
+  xy: 622, 214
+  size: 179, 99
+  orig: 201, 100
+  offset: 11, 1
+  index: -1
+庆祝/s_13
+  rotate: false
+  xy: 439, 243
+  size: 181, 99
+  orig: 201, 100
+  offset: 10, 1
+  index: -1
+庆祝/s_14
+  rotate: true
+  xy: 1083, 998
+  size: 182, 97
+  orig: 201, 100
+  offset: 10, 2
+  index: -1
+庆祝/s_2
+  rotate: true
+  xy: 1078, 923
+  size: 73, 99
+  orig: 201, 100
+  offset: 64, 1
+  index: -1
+庆祝/s_3
+  rotate: true
+  xy: 1024, 464
+  size: 84, 99
+  orig: 201, 100
+  offset: 59, 1
+  index: -1
+庆祝/s_4
+  rotate: false
+  xy: 904, 119
+  size: 97, 98
+  orig: 201, 100
+  offset: 52, 2
+  index: -1
+庆祝/s_5
+  rotate: true
+  xy: 745, 2
+  size: 108, 98
+  orig: 201, 100
+  offset: 46, 2
+  index: -1
+庆祝/s_6
+  rotate: false
+  xy: 1000, 738
+  size: 119, 98
+  orig: 201, 100
+  offset: 41, 2
+  index: -1
+庆祝/s_7
+  rotate: true
+  xy: 947, 568
+  size: 132, 98
+  orig: 201, 100
+  offset: 34, 2
+  index: -1
+庆祝/s_8
+  rotate: false
+  xy: 426, 2
+  size: 143, 98
+  orig: 201, 100
+  offset: 29, 2
+  index: -1
+庆祝/s_9
+  rotate: false
+  xy: 270, 2
+  size: 154, 98
+  orig: 201, 100
+  offset: 23, 2
+  index: -1
+庆祝/shinnn
+  rotate: false
+  xy: 571, 22
+  size: 172, 89
+  orig: 172, 89
+  offset: 0, 0
+  index: -1
+庆祝/shizi
+  rotate: true
+  xy: 1090, 309
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+庆祝/super
+  rotate: false
+  xy: 985, 838
+  size: 167, 83
+  orig: 167, 83
+  offset: 0, 0
+  index: -1
+庆祝/xian_0
+  rotate: false
+  xy: 116, 502
+  size: 35, 16
+  orig: 610, 128
+  offset: 17, 54
+  index: -1
+庆祝/xian_1
+  rotate: true
+  xy: 309, 102
+  size: 157, 128
+  orig: 610, 128
+  offset: 0, 0
+  index: -1
+庆祝/xian_10
+  rotate: true
+  xy: 369, 591
+  size: 459, 128
+  orig: 610, 128
+  offset: 13, 0
+  index: -1
+庆祝/xian_11
+  rotate: true
+  xy: 239, 539
+  size: 511, 128
+  orig: 610, 128
+  offset: 18, 0
+  index: -1
+庆祝/xian_12
+  rotate: false
+  xy: 549, 1053
+  size: 532, 127
+  orig: 610, 128
+  offset: 17, 0
+  index: -1
+庆祝/xian_13
+  rotate: false
+  xy: 2, 1052
+  size: 545, 128
+  orig: 610, 128
+  offset: 34, 0
+  index: -1
+庆祝/xian_14
+  rotate: true
+  xy: 2, 498
+  size: 552, 112
+  orig: 610, 128
+  offset: 37, 9
+  index: -1
+庆祝/xian_15
+  rotate: true
+  xy: 116, 520
+  size: 530, 121
+  orig: 610, 128
+  offset: 78, 3
+  index: -1
+庆祝/xian_16
+  rotate: true
+  xy: 2, 42
+  size: 454, 89
+  orig: 610, 128
+  offset: 144, 18
+  index: -1
+庆祝/xian_17
+  rotate: true
+  xy: 499, 618
+  size: 432, 88
+  orig: 610, 128
+  offset: 156, 21
+  index: -1
+庆祝/xian_18
+  rotate: false
+  xy: 589, 702
+  size: 409, 91
+  orig: 610, 128
+  offset: 189, 18
+  index: -1
+庆祝/xian_19
+  rotate: true
+  xy: 93, 144
+  size: 352, 84
+  orig: 610, 128
+  offset: 232, 18
+  index: -1
+庆祝/xian_2
+  rotate: false
+  xy: 439, 113
+  size: 175, 128
+  orig: 610, 128
+  offset: 12, 0
+  index: -1
+庆祝/xian_3
+  rotate: false
+  xy: 667, 315
+  size: 215, 126
+  orig: 610, 128
+  offset: 15, 0
+  index: -1
+庆祝/xian_4
+  rotate: false
+  xy: 667, 443
+  size: 239, 127
+  orig: 610, 128
+  offset: 15, 0
+  index: -1
+庆祝/xian_5
+  rotate: true
+  xy: 309, 261
+  size: 276, 128
+  orig: 610, 128
+  offset: 16, 0
+  index: -1
+庆祝/xian_6
+  rotate: true
+  xy: 179, 191
+  size: 327, 128
+  orig: 610, 128
+  offset: 14, 0
+  index: -1
+庆祝/xian_7
+  rotate: false
+  xy: 589, 572
+  size: 356, 128
+  orig: 610, 128
+  offset: 11, 0
+  index: -1
+庆祝/xian_8
+  rotate: false
+  xy: 589, 795
+  size: 394, 128
+  orig: 610, 128
+  offset: 12, 0
+  index: -1
+庆祝/xian_9
+  rotate: false
+  xy: 589, 925
+  size: 415, 126
+  orig: 610, 128
+  offset: 13, 0
+  index: -1
+庆祝/xingguang
+  rotate: false
+  xy: 908, 452
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1

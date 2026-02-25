@@ -1,0 +1,230 @@
+
+zhuanpan_04.png
+size: 780,780
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhongjian01_0/zhongjian01_0
+  rotate: true
+  xy: 572, 212
+  size: 91, 89
+  orig: 106, 109
+  offset: 8, 10
+  index: -1
+zhongjian01_0/zhongjian01_1
+  rotate: true
+  xy: 572, 119
+  size: 91, 89
+  orig: 106, 109
+  offset: 8, 10
+  index: -1
+zhongjian01_0/zhongjian01_10
+  rotate: false
+  xy: 648, 410
+  size: 92, 91
+  orig: 106, 109
+  offset: 7, 9
+  index: -1
+zhongjian01_0/zhongjian01_11
+  rotate: false
+  xy: 412, 27
+  size: 90, 90
+  orig: 106, 109
+  offset: 8, 9
+  index: -1
+zhongjian01_0/zhongjian01_12
+  rotate: false
+  xy: 504, 27
+  size: 90, 90
+  orig: 106, 109
+  offset: 8, 9
+  index: -1
+zhongjian01_0/zhongjian01_13
+  rotate: false
+  xy: 640, 318
+  size: 91, 90
+  orig: 106, 109
+  offset: 8, 9
+  index: -1
+zhongjian01_0/zhongjian01_14
+  rotate: true
+  xy: 663, 132
+  size: 91, 89
+  orig: 106, 109
+  offset: 8, 10
+  index: -1
+zhongjian01_0/zhongjian01_15
+  rotate: false
+  xy: 319, 68
+  size: 91, 89
+  orig: 106, 109
+  offset: 8, 10
+  index: -1
+zhongjian01_0/zhongjian01_2
+  rotate: true
+  xy: 663, 225
+  size: 91, 89
+  orig: 106, 109
+  offset: 8, 10
+  index: -1
+zhongjian01_0/zhongjian01_3
+  rotate: false
+  xy: 663, 41
+  size: 90, 89
+  orig: 106, 109
+  offset: 9, 10
+  index: -1
+zhongjian01_0/zhongjian01_4
+  rotate: false
+  xy: 648, 689
+  size: 92, 91
+  orig: 106, 109
+  offset: 7, 9
+  index: -1
+zhongjian01_0/zhongjian01_5
+  rotate: false
+  xy: 0, 28
+  size: 92, 91
+  orig: 106, 109
+  offset: 7, 9
+  index: -1
+zhongjian01_0/zhongjian01_6
+  rotate: false
+  xy: 648, 596
+  size: 92, 91
+  orig: 106, 109
+  offset: 7, 9
+  index: -1
+zhongjian01_0/zhongjian01_7
+  rotate: false
+  xy: 648, 503
+  size: 92, 91
+  orig: 106, 109
+  offset: 7, 9
+  index: -1
+zhongjian01_0/zhongjian01_8
+  rotate: false
+  xy: 478, 212
+  size: 92, 91
+  orig: 106, 109
+  offset: 7, 9
+  index: -1
+zhongjian01_0/zhongjian01_9
+  rotate: false
+  xy: 478, 119
+  size: 92, 91
+  orig: 106, 109
+  offset: 7, 9
+  index: -1
+zhongjianlizi_0/zhongjianlizi_0
+  rotate: false
+  xy: 153, 0
+  size: 158, 148
+  orig: 189, 187
+  offset: 17, 18
+  index: -1
+zhongjianlizi_0/zhongjianlizi_1
+  rotate: false
+  xy: 321, 159
+  size: 155, 152
+  orig: 189, 187
+  offset: 16, 17
+  index: -1
+zhongjianlizi_0/zhongjianlizi_10
+  rotate: false
+  xy: 322, 463
+  size: 163, 156
+  orig: 189, 187
+  offset: 12, 16
+  index: -1
+zhongjianlizi_0/zhongjianlizi_11
+  rotate: true
+  xy: 0, 287
+  size: 164, 155
+  orig: 189, 187
+  offset: 12, 17
+  index: -1
+zhongjianlizi_0/zhongjianlizi_12
+  rotate: true
+  xy: 0, 453
+  size: 166, 155
+  orig: 189, 187
+  offset: 11, 18
+  index: -1
+zhongjianlizi_0/zhongjianlizi_13
+  rotate: true
+  xy: 0, 121
+  size: 164, 151
+  orig: 189, 187
+  offset: 12, 20
+  index: -1
+zhongjianlizi_0/zhongjianlizi_14
+  rotate: false
+  xy: 157, 150
+  size: 160, 152
+  orig: 189, 187
+  offset: 15, 19
+  index: -1
+zhongjianlizi_0/zhongjianlizi_15
+  rotate: false
+  xy: 322, 313
+  size: 158, 148
+  orig: 189, 187
+  offset: 17, 18
+  index: -1
+zhongjianlizi_0/zhongjianlizi_2
+  rotate: true
+  xy: 482, 305
+  size: 155, 156
+  orig: 189, 187
+  offset: 15, 16
+  index: -1
+zhongjianlizi_0/zhongjianlizi_3
+  rotate: false
+  xy: 489, 622
+  size: 157, 158
+  orig: 189, 187
+  offset: 14, 15
+  index: -1
+zhongjianlizi_0/zhongjianlizi_4
+  rotate: false
+  xy: 489, 462
+  size: 157, 158
+  orig: 189, 187
+  offset: 14, 15
+  index: -1
+zhongjianlizi_0/zhongjianlizi_5
+  rotate: true
+  xy: 327, 621
+  size: 159, 160
+  orig: 189, 187
+  offset: 13, 14
+  index: -1
+zhongjianlizi_0/zhongjianlizi_6
+  rotate: false
+  xy: 164, 621
+  size: 161, 159
+  orig: 189, 187
+  offset: 11, 14
+  index: -1
+zhongjianlizi_0/zhongjianlizi_7
+  rotate: false
+  xy: 0, 621
+  size: 162, 159
+  orig: 189, 187
+  offset: 10, 14
+  index: -1
+zhongjianlizi_0/zhongjianlizi_8
+  rotate: false
+  xy: 157, 462
+  size: 163, 157
+  orig: 189, 187
+  offset: 11, 16
+  index: -1
+zhongjianlizi_0/zhongjianlizi_9
+  rotate: false
+  xy: 157, 304
+  size: 162, 156
+  orig: 189, 187
+  offset: 12, 16
+  index: -1

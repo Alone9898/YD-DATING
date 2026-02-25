@@ -1,0 +1,132 @@
+
+ui_bx.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_00000
+  rotate: false
+  xy: 53, 19
+  size: 36, 38
+  orig: 80, 80
+  offset: 24, 22
+  index: -1
+bao_00001
+  rotate: false
+  xy: 390, 134
+  size: 41, 45
+  orig: 80, 80
+  offset: 21, 18
+  index: -1
+bao_00002
+  rotate: false
+  xy: 2, 9
+  size: 49, 48
+  orig: 80, 80
+  offset: 18, 16
+  index: -1
+bao_00003
+  rotate: false
+  xy: 155, 2
+  size: 53, 58
+  orig: 80, 80
+  offset: 14, 10
+  index: -1
+bao_00004
+  rotate: false
+  xy: 322, 43
+  size: 61, 64
+  orig: 80, 80
+  offset: 11, 8
+  index: -1
+bao_00005
+  rotate: false
+  xy: 321, 109
+  size: 67, 70
+  orig: 80, 80
+  offset: 8, 4
+  index: -1
+bao_00006
+  rotate: false
+  xy: 284, 182
+  size: 76, 72
+  orig: 80, 80
+  offset: 4, 6
+  index: -1
+bao_00007
+  rotate: false
+  xy: 438, 109
+  size: 72, 71
+  orig: 80, 80
+  offset: 4, 3
+  index: -1
+bao_00009
+  rotate: false
+  xy: 155, 62
+  size: 71, 72
+  orig: 80, 80
+  offset: 6, 4
+  index: -1
+bao_00011
+  rotate: false
+  xy: 246, 105
+  size: 73, 72
+  orig: 80, 80
+  offset: 4, 4
+  index: -1
+bao_00013
+  rotate: false
+  xy: 2, 59
+  size: 74, 75
+  orig: 80, 80
+  offset: 4, 2
+  index: -1
+bao_00015
+  rotate: false
+  xy: 208, 179
+  size: 74, 75
+  orig: 80, 80
+  offset: 4, 2
+  index: -1
+bao_00017
+  rotate: false
+  xy: 78, 60
+  size: 75, 74
+  orig: 80, 80
+  offset: 4, 2
+  index: -1
+bao_00019
+  rotate: false
+  xy: 362, 181
+  size: 74, 73
+  orig: 80, 80
+  offset: 4, 4
+  index: -1
+bao_00021
+  rotate: false
+  xy: 438, 182
+  size: 72, 72
+  orig: 80, 80
+  offset: 5, 4
+  index: -1
+g
+  rotate: false
+  xy: 246, 39
+  size: 74, 64
+  orig: 80, 68
+  offset: 3, 2
+  index: -1
+logosuo
+  rotate: false
+  xy: 2, 136
+  size: 204, 118
+  orig: 204, 118
+  offset: 0, 0
+  index: -1
+tielian_00000
+  rotate: false
+  xy: 228, 65
+  size: 16, 112
+  orig: 20, 120
+  offset: 2, 4
+  index: -1

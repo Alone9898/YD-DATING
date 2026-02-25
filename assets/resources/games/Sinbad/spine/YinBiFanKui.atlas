@@ -1,0 +1,139 @@
+
+YinBiFanKui.png
+size: 203,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/b4_000
+  rotate: false
+  xy: 2, 196
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+images/b5/b5_000
+  rotate: false
+  xy: 61, 193
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/b5/b5_017
+  rotate: false
+  xy: 61, 193
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/b5/b5_001
+  rotate: true
+  xy: 165, 12
+  size: 29, 23
+  orig: 70, 65
+  offset: 19, 21
+  index: -1
+images/b5/b5_002
+  rotate: true
+  xy: 169, 45
+  size: 36, 32
+  orig: 70, 65
+  offset: 15, 17
+  index: -1
+images/b5/b5_003
+  rotate: false
+  xy: 121, 2
+  size: 42, 39
+  orig: 70, 65
+  offset: 12, 14
+  index: -1
+images/b5/b5_004
+  rotate: false
+  xy: 121, 43
+  size: 46, 45
+  orig: 70, 65
+  offset: 10, 10
+  index: -1
+images/b5/b5_005
+  rotate: true
+  xy: 120, 90
+  size: 50, 53
+  orig: 70, 65
+  offset: 9, 6
+  index: -1
+images/b5/b5_006
+  rotate: true
+  xy: 61, 106
+  size: 53, 57
+  orig: 70, 65
+  offset: 8, 4
+  index: -1
+images/b5/b5_007
+  rotate: false
+  xy: 62, 9
+  size: 57, 57
+  orig: 70, 65
+  offset: 7, 4
+  index: -1
+images/b5/b5_008
+  rotate: false
+  xy: 127, 198
+  size: 58, 58
+  orig: 70, 65
+  offset: 6, 3
+  index: -1
+images/b5/b5_009
+  rotate: false
+  xy: 2, 8
+  size: 58, 58
+  orig: 70, 65
+  offset: 5, 3
+  index: -1
+images/b5/b5_010
+  rotate: false
+  xy: 64, 199
+  size: 61, 57
+  orig: 70, 65
+  offset: 3, 4
+  index: -1
+images/b5/b5_011
+  rotate: true
+  xy: 2, 132
+  size: 62, 57
+  orig: 70, 65
+  offset: 3, 4
+  index: -1
+images/b5/b5_012
+  rotate: true
+  xy: 2, 68
+  size: 62, 55
+  orig: 70, 65
+  offset: 4, 5
+  index: -1
+images/b5/b5_013
+  rotate: false
+  xy: 126, 142
+  size: 59, 54
+  orig: 70, 65
+  offset: 8, 5
+  index: -1
+images/b5/b5_014
+  rotate: false
+  xy: 64, 161
+  size: 60, 36
+  orig: 70, 65
+  offset: 7, 18
+  index: -1
+images/b5/b5_015
+  rotate: false
+  xy: 59, 68
+  size: 56, 36
+  orig: 70, 65
+  offset: 6, 17
+  index: -1
+images/b5/b5_016
+  rotate: true
+  xy: 175, 83
+  size: 57, 25
+  orig: 70, 65
+  offset: 5, 17
+  index: -1

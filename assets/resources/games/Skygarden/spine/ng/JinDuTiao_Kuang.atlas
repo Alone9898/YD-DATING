@@ -1,0 +1,90 @@
+
+JinDuTiao_Kuang.png
+size: 427,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/kk/kk_000
+  rotate: false
+  xy: 424, 493
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/kk/kk_011
+  rotate: false
+  xy: 424, 493
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/kk/kk_001
+  rotate: false
+  xy: 2, 313
+  size: 375, 58
+  orig: 375, 65
+  offset: 0, 4
+  index: -1
+images/kk/kk_002
+  rotate: false
+  xy: 2, 373
+  size: 375, 59
+  orig: 375, 65
+  offset: 0, 3
+  index: -1
+images/kk/kk_003
+  rotate: false
+  xy: 2, 434
+  size: 375, 60
+  orig: 375, 65
+  offset: 0, 2
+  index: -1
+images/kk/kk_004
+  rotate: false
+  xy: 2, 254
+  size: 375, 57
+  orig: 375, 65
+  offset: 0, 4
+  index: -1
+images/kk/kk_005
+  rotate: false
+  xy: 2, 196
+  size: 375, 56
+  orig: 375, 65
+  offset: 0, 6
+  index: -1
+images/kk/kk_006
+  rotate: false
+  xy: 2, 141
+  size: 375, 53
+  orig: 375, 65
+  offset: 0, 6
+  index: -1
+images/kk/kk_007
+  rotate: false
+  xy: 2, 87
+  size: 375, 52
+  orig: 375, 65
+  offset: 0, 7
+  index: -1
+images/kk/kk_008
+  rotate: false
+  xy: 2, 35
+  size: 375, 50
+  orig: 375, 65
+  offset: 0, 7
+  index: -1
+images/kk/kk_009
+  rotate: true
+  xy: 379, 119
+  size: 375, 43
+  orig: 375, 65
+  offset: 0, 12
+  index: -1
+images/kk/kk_010
+  rotate: false
+  xy: 2, 2
+  size: 245, 31
+  orig: 375, 65
+  offset: 52, 20
+  index: -1

@@ -1,0 +1,209 @@
+
+spine.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+X_daow
+  rotate: false
+  xy: 2, 404
+  size: 437, 607
+  orig: 437, 607
+  offset: 0, 0
+  index: -1
+X_fajing
+  rotate: false
+  xy: 3230, 241
+  size: 213, 192
+  orig: 213, 192
+  offset: 0, 0
+  index: -1
+X_jiantou
+  rotate: false
+  xy: 1300, 463
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+X_jiao1
+  rotate: true
+  xy: 1898, 753
+  size: 258, 459
+  orig: 258, 459
+  offset: 0, 0
+  index: -1
+X_jiao1o
+  rotate: true
+  xy: 1851, 288
+  size: 161, 384
+  orig: 161, 384
+  offset: 0, 0
+  index: -1
+X_jiao1r
+  rotate: true
+  xy: 1358, 42
+  size: 221, 325
+  orig: 221, 325
+  offset: 0, 0
+  index: -1
+X_jiao2
+  rotate: false
+  xy: 441, 440
+  size: 383, 571
+  orig: 383, 571
+  offset: 0, 0
+  index: -1
+X_shenti1
+  rotate: true
+  xy: 1407, 748
+  size: 263, 489
+  orig: 263, 489
+  offset: 0, 0
+  index: -1
+X_shenti2
+  rotate: true
+  xy: 446, 116
+  size: 322, 408
+  orig: 322, 408
+  offset: 0, 0
+  index: -1
+X_shou1
+  rotate: true
+  xy: 826, 716
+  size: 295, 579
+  orig: 295, 579
+  offset: 0, 0
+  index: -1
+X_shou2f
+  rotate: true
+  xy: 826, 520
+  size: 194, 566
+  orig: 194, 566
+  offset: 0, 0
+  index: -1
+X_shou2fs
+  rotate: false
+  xy: 1709, 279
+  size: 126, 165
+  orig: 126, 165
+  offset: 0, 0
+  index: -1
+X_touw
+  rotate: true
+  xy: 3445, 268
+  size: 165, 160
+  orig: 165, 160
+  offset: 0, 0
+  index: -1
+X_yao
+  rotate: false
+  xy: 3230, 435
+  size: 376, 274
+  orig: 376, 274
+  offset: 0, 0
+  index: -1
+X_yifu1
+  rotate: true
+  xy: 2, 2
+  size: 98, 455
+  orig: 98, 455
+  offset: 0, 0
+  index: -1
+X_yifu2
+  rotate: true
+  xy: 856, 33
+  size: 183, 500
+  orig: 183, 500
+  offset: 0, 0
+  index: -1
+souhf/0
+  rotate: false
+  xy: 1300, 265
+  size: 407, 179
+  orig: 407, 179
+  offset: 0, 0
+  index: -1
+souhf/1
+  rotate: false
+  xy: 3608, 530
+  size: 407, 179
+  orig: 407, 179
+  offset: 0, 0
+  index: -1
+souhf/2
+  rotate: false
+  xy: 3608, 349
+  size: 407, 179
+  orig: 407, 179
+  offset: 0, 0
+  index: -1
+spine-animation3_7_00000
+  rotate: true
+  xy: 3691, 711
+  size: 300, 374
+  orig: 300, 374
+  offset: 0, 0
+  index: -1
+vvssd/vvd_00000
+  rotate: true
+  xy: 2, 102
+  size: 300, 442
+  orig: 300, 442
+  offset: 0, 0
+  index: -1
+vvssd/vvd_00001
+  rotate: true
+  xy: 2359, 711
+  size: 300, 442
+  orig: 300, 442
+  offset: 0, 0
+  index: -1
+vvssd/vvd_00002
+  rotate: true
+  xy: 2803, 711
+  size: 300, 442
+  orig: 300, 442
+  offset: 0, 0
+  index: -1
+vvssd/vvd_00003
+  rotate: true
+  xy: 3247, 711
+  size: 300, 442
+  orig: 300, 442
+  offset: 0, 0
+  index: -1
+vvssd/vvd_00004
+  rotate: true
+  xy: 856, 218
+  size: 300, 442
+  orig: 300, 442
+  offset: 0, 0
+  index: -1
+vvssd/vvd_00005
+  rotate: true
+  xy: 1407, 446
+  size: 300, 442
+  orig: 300, 442
+  offset: 0, 0
+  index: -1
+vvssd/vvd_00006
+  rotate: true
+  xy: 1898, 451
+  size: 300, 442
+  orig: 300, 442
+  offset: 0, 0
+  index: -1
+vvssd/vvd_00007
+  rotate: true
+  xy: 2342, 409
+  size: 300, 442
+  orig: 300, 442
+  offset: 0, 0
+  index: -1
+vvssd/vvd_00008
+  rotate: true
+  xy: 2786, 409
+  size: 300, 442
+  orig: 300, 442
+  offset: 0, 0
+  index: -1

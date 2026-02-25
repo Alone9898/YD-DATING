@@ -1,0 +1,230 @@
+
+KGuoChang.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/JZ_2_000
+  rotate: false
+  xy: 2, 11
+  size: 320, 149
+  orig: 320, 149
+  offset: 0, 0
+  index: -1
+images/MTG_000
+  rotate: false
+  xy: 2, 162
+  size: 329, 331
+  orig: 329, 331
+  offset: 0, 0
+  index: -1
+images/MTG_015
+  rotate: false
+  xy: 689, 679
+  size: 329, 330
+  orig: 329, 330
+  offset: 0, 0
+  index: -1
+images/j1
+  rotate: false
+  xy: 333, 242
+  size: 250, 251
+  orig: 256, 256
+  offset: 3, 3
+  index: -1
+images/j1_000
+  rotate: false
+  xy: 689, 498
+  size: 182, 179
+  orig: 182, 179
+  offset: 0, 0
+  index: -1
+images/j3
+  rotate: false
+  xy: 1020, 713
+  size: 363, 296
+  orig: 363, 296
+  offset: 0, 0
+  index: -1
+images/j4
+  rotate: false
+  xy: 2, 495
+  size: 685, 514
+  orig: 685, 514
+  offset: 0, 0
+  index: -1
+images/jsg/jsg_001
+  rotate: true
+  xy: 1385, 713
+  size: 13, 22
+  orig: 182, 148
+  offset: 0, 5
+  index: -1
+images/jsg/jsg_002
+  rotate: true
+  xy: 873, 498
+  size: 31, 39
+  orig: 182, 148
+  offset: 0, 0
+  index: -1
+images/jsg/jsg_003
+  rotate: false
+  xy: 1018, 559
+  size: 42, 47
+  orig: 182, 148
+  offset: 0, 0
+  index: -1
+images/jsg/jsg_004
+  rotate: false
+  xy: 1018, 608
+  size: 50, 55
+  orig: 182, 148
+  offset: 0, 0
+  index: -1
+images/jsg/jsg_005
+  rotate: true
+  xy: 324, 2
+  size: 59, 64
+  orig: 182, 148
+  offset: 0, 0
+  index: -1
+images/jsg/jsg_006
+  rotate: false
+  xy: 685, 254
+  size: 68, 71
+  orig: 182, 148
+  offset: 0, 0
+  index: -1
+images/jsg/jsg_007
+  rotate: true
+  xy: 696, 327
+  size: 78, 80
+  orig: 182, 148
+  offset: 0, 0
+  index: -1
+images/jsg/jsg_008
+  rotate: false
+  xy: 324, 63
+  size: 87, 92
+  orig: 182, 148
+  offset: 0, 0
+  index: -1
+images/jsg/jsg_009
+  rotate: false
+  xy: 585, 251
+  size: 98, 102
+  orig: 182, 148
+  offset: 0, 0
+  index: -1
+images/jsg/jsg_010
+  rotate: false
+  xy: 585, 355
+  size: 109, 138
+  orig: 182, 148
+  offset: 0, 0
+  index: -1
+images/jsg/jsg_011
+  rotate: false
+  xy: 1665, 865
+  size: 124, 144
+  orig: 182, 148
+  offset: 0, 0
+  index: -1
+images/jsg/jsg_012
+  rotate: false
+  xy: 1528, 861
+  size: 135, 148
+  orig: 182, 148
+  offset: 0, 0
+  index: -1
+images/jsg/jsg_013
+  rotate: false
+  xy: 1385, 861
+  size: 141, 148
+  orig: 182, 148
+  offset: 8, 0
+  index: -1
+images/jsg/jsg_014
+  rotate: true
+  xy: 873, 531
+  size: 146, 143
+  orig: 182, 148
+  offset: 18, 5
+  index: -1
+images/jsg/jsg_015
+  rotate: false
+  xy: 1385, 728
+  size: 147, 131
+  orig: 182, 148
+  offset: 29, 17
+  index: -1
+images/jsg/jsg_016
+  rotate: false
+  xy: 1791, 889
+  size: 143, 120
+  orig: 182, 148
+  offset: 39, 28
+  index: -1
+images/jsg/jsg_017
+  rotate: true
+  xy: 1936, 877
+  size: 132, 110
+  orig: 182, 148
+  offset: 50, 38
+  index: -1
+images/jsg/jsg_018
+  rotate: false
+  xy: 1534, 760
+  size: 121, 99
+  orig: 182, 148
+  offset: 61, 49
+  index: -1
+images/jsg/jsg_019
+  rotate: false
+  xy: 696, 407
+  size: 113, 89
+  orig: 182, 148
+  offset: 69, 59
+  index: -1
+images/jsg/jsg_020
+  rotate: false
+  xy: 333, 157
+  size: 111, 83
+  orig: 182, 148
+  offset: 71, 65
+  index: -1
+images/jsg/jsg_021
+  rotate: false
+  xy: 446, 163
+  size: 108, 77
+  orig: 182, 148
+  offset: 74, 71
+  index: -1
+images/jsg/jsg_022
+  rotate: true
+  xy: 811, 400
+  size: 96, 75
+  orig: 182, 148
+  offset: 86, 73
+  index: -1
+images/jsg/jsg_023
+  rotate: false
+  xy: 1020, 665
+  size: 68, 46
+  orig: 182, 148
+  offset: 114, 78
+  index: -1
+images/jsg/jsg_024
+  rotate: false
+  xy: 1090, 665
+  size: 52, 46
+  orig: 182, 148
+  offset: 130, 78
+  index: -1
+images/jsg/jsg_025
+  rotate: false
+  xy: 1070, 622
+  size: 38, 41
+  orig: 182, 148
+  offset: 144, 81
+  index: -1

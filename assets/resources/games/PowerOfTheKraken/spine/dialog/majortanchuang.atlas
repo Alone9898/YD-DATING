@@ -1,0 +1,118 @@
+
+majortanchuang.png
+size: 1981,1262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 1491, 748
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+Mask011
+  rotate: false
+  xy: 1749, 752
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Water_040_tex
+  rotate: false
+  xy: 977, 748
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 1328, 135
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/1000
+  rotate: true
+  xy: 1749, 818
+  size: 442, 220
+  orig: 442, 220
+  offset: 0, 0
+  index: -1
+images/bet
+  rotate: false
+  xy: 1328, 4
+  size: 364, 84
+  orig: 364, 84
+  offset: 0, 0
+  index: -1
+images/bg1
+  rotate: false
+  xy: 435, 331
+  size: 322, 132
+  orig: 322, 132
+  offset: 0, 0
+  index: -1
+images/bg2
+  rotate: false
+  xy: 435, 3
+  size: 625, 260
+  orig: 625, 260
+  offset: 0, 0
+  index: -1
+images/diglow
+  rotate: true
+  xy: 2, 465
+  size: 795, 973
+  orig: 795, 973
+  offset: 0, 0
+  index: -1
+images/grand
+  rotate: true
+  xy: 1473, 90
+  size: 656, 236
+  orig: 656, 236
+  offset: 0, 0
+  index: -1
+images/shuziban
+  rotate: true
+  xy: 1711, 7
+  size: 739, 220
+  orig: 739, 220
+  offset: 0, 0
+  index: -1
+images/yu
+  rotate: false
+  xy: 2, 90
+  size: 431, 373
+  orig: 431, 373
+  offset: 0, 0
+  index: -1
+images/zi1
+  rotate: true
+  xy: 1933, 250
+  size: 566, 46
+  orig: 566, 46
+  offset: 0, 0
+  index: -1
+lizi2424
+  rotate: false
+  xy: 977, 265
+  size: 494, 481
+  orig: 494, 481
+  offset: 0, 0
+  index: -1
+shuihua
+  rotate: false
+  xy: 1062, 2
+  size: 264, 261
+  orig: 264, 261
+  offset: 0, 0
+  index: -1
+xxx
+  rotate: false
+  xy: 759, 340
+  size: 128, 123
+  orig: 128, 123
+  offset: 0, 0
+  index: -1

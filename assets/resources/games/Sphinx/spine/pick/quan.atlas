@@ -1,0 +1,27 @@
+
+quan.png
+size: 360,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_10_0
+  rotate: false
+  xy: 0, 0
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+guanghuan01
+  rotate: false
+  xy: 181, 181
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+guangquan_00000
+  rotate: false
+  xy: 0, 181
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1

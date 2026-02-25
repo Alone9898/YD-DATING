@@ -1,0 +1,118 @@
+
+base_jinbi.png
+size: 1056,1054
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0ggg_0
+  rotate: true
+  xy: 827, 782
+  size: 270, 227
+  orig: 275, 273
+  offset: 2, 14
+  index: -1
+0ggg_1
+  rotate: true
+  xy: 825, 509
+  size: 271, 227
+  orig: 275, 273
+  offset: 2, 14
+  index: -1
+0ggg_10
+  rotate: false
+  xy: 276, 362
+  size: 272, 228
+  orig: 275, 273
+  offset: 1, 13
+  index: -1
+0ggg_11
+  rotate: false
+  xy: 551, 365
+  size: 272, 227
+  orig: 275, 273
+  offset: 1, 13
+  index: -1
+0ggg_12
+  rotate: true
+  xy: 825, 235
+  size: 272, 227
+  orig: 275, 273
+  offset: 1, 13
+  index: -1
+0ggg_13
+  rotate: true
+  xy: 232, 87
+  size: 272, 226
+  orig: 275, 273
+  offset: 1, 14
+  index: -1
+0ggg_14
+  rotate: true
+  xy: 460, 90
+  size: 270, 227
+  orig: 275, 273
+  offset: 2, 14
+  index: -1
+0ggg_2
+  rotate: false
+  xy: 551, 594
+  size: 272, 227
+  orig: 275, 273
+  offset: 1, 14
+  index: -1
+0ggg_3
+  rotate: false
+  xy: 2, 361
+  size: 272, 229
+  orig: 275, 273
+  offset: 1, 13
+  index: -1
+0ggg_4
+  rotate: false
+  xy: 277, 592
+  size: 272, 229
+  orig: 275, 273
+  offset: 2, 13
+  index: -1
+0ggg_5
+  rotate: false
+  xy: 553, 823
+  size: 272, 229
+  orig: 275, 273
+  offset: 2, 13
+  index: -1
+0ggg_6
+  rotate: false
+  xy: 2, 592
+  size: 273, 229
+  orig: 275, 273
+  offset: 2, 13
+  index: -1
+0ggg_7
+  rotate: false
+  xy: 2, 823
+  size: 274, 229
+  orig: 275, 273
+  offset: 1, 13
+  index: -1
+0ggg_8
+  rotate: false
+  xy: 278, 823
+  size: 273, 229
+  orig: 275, 273
+  offset: 1, 13
+  index: -1
+0ggg_9
+  rotate: true
+  xy: 2, 86
+  size: 273, 228
+  orig: 275, 273
+  offset: 1, 13
+  index: -1
+xx2
+  rotate: false
+  xy: 2, 44
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1

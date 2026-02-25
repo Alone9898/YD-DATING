@@ -1,0 +1,258 @@
+
+avatarframe_v_0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+avatarframe_v_0_5/01
+  rotate: false
+  xy: 2, 1512
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/02
+  rotate: false
+  xy: 2, 1210
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/03
+  rotate: false
+  xy: 304, 1512
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/04
+  rotate: false
+  xy: 2, 908
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/05
+  rotate: false
+  xy: 304, 1210
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/06
+  rotate: false
+  xy: 606, 1512
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/07
+  rotate: false
+  xy: 2, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/08
+  rotate: false
+  xy: 304, 908
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/09
+  rotate: false
+  xy: 606, 1210
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/10
+  rotate: false
+  xy: 908, 1512
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/11
+  rotate: false
+  xy: 2, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/12
+  rotate: false
+  xy: 304, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/13
+  rotate: false
+  xy: 606, 908
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/14
+  rotate: false
+  xy: 908, 1210
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/15
+  rotate: false
+  xy: 1210, 1512
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/16
+  rotate: false
+  xy: 2, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/17
+  rotate: false
+  xy: 304, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/18
+  rotate: false
+  xy: 606, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/19
+  rotate: false
+  xy: 908, 908
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/20
+  rotate: false
+  xy: 1210, 1210
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/21
+  rotate: false
+  xy: 1512, 1512
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/22
+  rotate: false
+  xy: 304, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/23
+  rotate: false
+  xy: 606, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/24
+  rotate: false
+  xy: 908, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/25
+  rotate: false
+  xy: 1210, 908
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/26
+  rotate: false
+  xy: 1512, 1210
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/27
+  rotate: false
+  xy: 606, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/28
+  rotate: false
+  xy: 908, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/29
+  rotate: false
+  xy: 1210, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/30
+  rotate: false
+  xy: 1512, 908
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/31
+  rotate: false
+  xy: 908, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/32
+  rotate: false
+  xy: 1210, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/33
+  rotate: false
+  xy: 1512, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/34
+  rotate: false
+  xy: 1210, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/35
+  rotate: false
+  xy: 1512, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+avatarframe_v_0_5/36
+  rotate: false
+  xy: 1512, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1

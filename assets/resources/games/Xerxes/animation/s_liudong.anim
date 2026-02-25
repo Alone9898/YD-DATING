@@ -1,0 +1,281 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "s_liudong",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Effect-yanjiang_liudong_03": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-yanjiang_liudong_24": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.9333333333333333,
+              "value": true
+            },
+            {
+              "frame": 1,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-yanjiang_liudong_23": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": true
+            },
+            {
+              "frame": 0.9333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-yanjiang_liudong_21": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.8,
+              "value": true
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-yanjiang_liudong_18": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": true
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-yanjiang_liudong_20": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.8,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-yanjiang_liudong_17": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.6,
+              "value": true
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-yanjiang_liudong_15": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.6,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-yanjiang_liudong_14": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": true
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-yanjiang_liudong_12": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.4,
+              "value": true
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-yanjiang_liudong_11": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.4,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-yanjiang_liudong_09": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": true
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-yanjiang_liudong_08": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.2,
+              "value": true
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-yanjiang_liudong_06": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.2,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-yanjiang_liudong_05": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": true
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

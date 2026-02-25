@@ -1,0 +1,20 @@
+
+denglou_01.png
+size: 148,119
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+theme115_popup_bg2
+  rotate: true
+  xy: 2, 6
+  size: 111, 144
+  orig: 111, 144
+  offset: 0, 0
+  index: -1
+theme115_popup_bg3
+  rotate: true
+  xy: 2, 2
+  size: 2, 50
+  orig: 2, 50
+  offset: 0, 0
+  index: -1

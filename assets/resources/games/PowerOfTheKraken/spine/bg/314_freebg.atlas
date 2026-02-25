@@ -1,0 +1,160 @@
+
+314_freebg.png
+size: 2017,1841
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base/yu01
+  rotate: false
+  xy: 1820, 0
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+base/yu02
+  rotate: false
+  xy: 850, 65
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+base/yu03
+  rotate: false
+  xy: 1414, 653
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+base/yu04
+  rotate: false
+  xy: 1414, 1160
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+base/yu05
+  rotate: true
+  xy: 34, 0
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+base/yu06
+  rotate: true
+  xy: 2005, 1061
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+base/yu07
+  rotate: true
+  xy: 1414, 1118
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1
+base/yu08
+  rotate: true
+  xy: 1856, 0
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+base/yu09
+  rotate: true
+  xy: 2005, 1088
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+effect/guangyun
+  rotate: false
+  xy: 1820, 32
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+effect/qipao01
+  rotate: false
+  xy: 0, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+free/di
+  rotate: false
+  xy: 0, 625
+  size: 848, 1216
+  orig: 848, 1216
+  offset: 0, 0
+  index: -1
+free/dishan
+  rotate: false
+  xy: 0, 34
+  size: 848, 246
+  orig: 848, 246
+  offset: 0, 0
+  index: -1
+free/qianshan
+  rotate: false
+  xy: 850, 1177
+  size: 848, 664
+  orig: 848, 664
+  offset: 0, 0
+  index: -1
+free/xinyun
+  rotate: false
+  xy: 1414, 670
+  size: 589, 446
+  orig: 589, 446
+  offset: 0, 0
+  index: -1
+free/youshan
+  rotate: true
+  xy: 850, 78
+  size: 471, 648
+  orig: 471, 648
+  offset: 0, 0
+  index: -1
+free/youshan1
+  rotate: false
+  xy: 1792, 213
+  size: 152, 455
+  orig: 152, 455
+  offset: 0, 0
+  index: -1
+free/youzhu
+  rotate: false
+  xy: 850, 551
+  size: 562, 624
+  orig: 562, 624
+  offset: 0, 0
+  index: -1
+free/yunying
+  rotate: false
+  xy: 0, 282
+  size: 848, 341
+  orig: 848, 341
+  offset: 0, 0
+  index: -1
+free/zuoshan
+  rotate: false
+  xy: 1700, 1118
+  size: 308, 723
+  orig: 308, 723
+  offset: 0, 0
+  index: -1
+free/zuozhu
+  rotate: false
+  xy: 1500, 208
+  size: 290, 460
+  orig: 290, 460
+  offset: 0, 0
+  index: -1
+free/zyoshan1
+  rotate: false
+  xy: 1500, 10
+  size: 318, 196
+  orig: 318, 196
+  offset: 0, 0
+  index: -1

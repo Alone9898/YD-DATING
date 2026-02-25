@@ -1,0 +1,167 @@
+
+collect_gold.png
+size: 659,555
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+collect_gold
+  rotate: false
+  xy: 533, 18
+  size: 92, 92
+  orig: 100, 100
+  offset: 4, 4
+  index: -1
+collect_lizi/collect_lizi_00
+  rotate: false
+  xy: 374, 326
+  size: 100, 109
+  orig: 121, 127
+  offset: 8, 4
+  index: -1
+collect_lizi/collect_lizi_01
+  rotate: false
+  xy: 260, 211
+  size: 103, 113
+  orig: 121, 127
+  offset: 7, 5
+  index: -1
+collect_lizi/collect_lizi_02
+  rotate: false
+  xy: 122, 33
+  size: 98, 117
+  orig: 121, 127
+  offset: 15, 3
+  index: -1
+collect_lizi/collect_lizi_03
+  rotate: false
+  xy: 167, 191
+  size: 91, 122
+  orig: 121, 127
+  offset: 13, 0
+  index: -1
+collect_lizi/collect_lizi_04
+  rotate: true
+  xy: 570, 350
+  size: 95, 86
+  orig: 121, 127
+  offset: 12, 27
+  index: -1
+collect_lizi/collect_lizi_05
+  rotate: true
+  xy: 466, 112
+  size: 98, 90
+  orig: 121, 127
+  offset: 11, 25
+  index: -1
+collect_lizi/collect_lizi_06
+  rotate: true
+  xy: 436, 8
+  size: 102, 95
+  orig: 121, 127
+  offset: 9, 22
+  index: -1
+collect_lizi/collect_lizi_07
+  rotate: true
+  xy: 222, 2
+  size: 107, 100
+  orig: 121, 127
+  offset: 7, 20
+  index: -1
+collect_lizi/collect_lizi_08
+  rotate: false
+  xy: 324, 5
+  size: 110, 104
+  orig: 121, 127
+  offset: 6, 18
+  index: -1
+collect_lizi/collect_lizi_09
+  rotate: false
+  xy: 381, 445
+  size: 114, 108
+  orig: 121, 127
+  offset: 4, 16
+  index: -1
+collect_lizi/collect_lizi_10
+  rotate: false
+  xy: 2, 37
+  size: 118, 113
+  orig: 121, 127
+  offset: 2, 13
+  index: -1
+collect_lizi/collect_lizi_11
+  rotate: false
+  xy: 258, 437
+  size: 121, 116
+  orig: 121, 127
+  offset: 0, 11
+  index: -1
+collect_lizi/collect_lizi_12
+  rotate: false
+  xy: 497, 447
+  size: 111, 106
+  orig: 121, 127
+  offset: 8, 10
+  index: -1
+collect_lizi/collect_lizi_13
+  rotate: false
+  xy: 258, 326
+  size: 114, 109
+  orig: 121, 127
+  offset: 7, 10
+  index: -1
+collect_lizi/collect_lizi_14
+  rotate: true
+  xy: 365, 207
+  size: 117, 98
+  orig: 121, 127
+  offset: 4, 22
+  index: -1
+collect_lizi/collect_lizi_15
+  rotate: true
+  xy: 476, 329
+  size: 114, 92
+  orig: 121, 127
+  offset: 2, 20
+  index: -1
+collect_lizi/collect_lizi_16
+  rotate: true
+  xy: 465, 212
+  size: 112, 96
+  orig: 121, 127
+  offset: 1, 17
+  index: -1
+collect_lizi/collect_lizi_17
+  rotate: false
+  xy: 365, 112
+  size: 99, 93
+  orig: 121, 127
+  offset: 15, 15
+  index: -1
+collect_lizi/collect_lizi_18
+  rotate: true
+  xy: 558, 117
+  size: 93, 99
+  orig: 121, 127
+  offset: 13, 12
+  index: -1
+collect_lizi/collect_lizi_19
+  rotate: true
+  xy: 260, 111
+  size: 98, 103
+  orig: 121, 127
+  offset: 10, 10
+  index: -1
+gold_add
+  rotate: false
+  xy: 2, 315
+  size: 254, 238
+  orig: 254, 238
+  offset: 0, 0
+  index: -1
+huan
+  rotate: false
+  xy: 2, 152
+  size: 163, 161
+  orig: 163, 161
+  offset: 0, 0
+  index: -1

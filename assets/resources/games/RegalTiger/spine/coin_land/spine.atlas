@@ -1,0 +1,41 @@
+
+symbol_jinbi_01.png
+size: 481,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinbimohu
+  rotate: false
+  xy: 0, 0
+  size: 122, 120
+  orig: 122, 120
+  offset: 0, 0
+  index: -1
+major
+  rotate: false
+  xy: 243, 66
+  size: 125, 54
+  orig: 125, 125
+  offset: 0, 36
+  index: -1
+mian
+  rotate: false
+  xy: 124, 3
+  size: 117, 117
+  orig: 125, 125
+  offset: 4, 7
+  index: -1
+mini
+  rotate: false
+  xy: 370, 71
+  size: 111, 49
+  orig: 125, 125
+  offset: 7, 40
+  index: -1
+minor
+  rotate: false
+  xy: 243, 14
+  size: 125, 50
+  orig: 125, 125
+  offset: 0, 40
+  index: -1

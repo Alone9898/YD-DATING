@@ -1,0 +1,97 @@
+
+spine.png
+size: 235,235
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_LAD_bizi2
+  rotate: false
+  xy: 154, 103
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+2_LAD_erdou1
+  rotate: false
+  xy: 131, 54
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+2_LAD_erdou2
+  rotate: true
+  xy: 154, 86
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+2_LAD_fashi1
+  rotate: false
+  xy: 90, 2
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+2_LAD_fashi2
+  rotate: false
+  xy: 90, 17
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+2_LAD_meimao
+  rotate: false
+  xy: 2, 4
+  size: 46, 10
+  orig: 46, 10
+  offset: 0, 0
+  index: -1
+2_LAD_saihong
+  rotate: false
+  xy: 154, 143
+  size: 60, 14
+  orig: 60, 14
+  offset: 0, 0
+  index: -1
+2_LAD_shenti3
+  rotate: false
+  xy: 154, 159
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+2_LAD_shoubi
+  rotate: false
+  xy: 90, 43
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+2_LAD_touw
+  rotate: true
+  xy: 2, 16
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+2_LAD_yanjing
+  rotate: false
+  xy: 154, 125
+  size: 47, 16
+  orig: 47, 16
+  offset: 0, 0
+  index: -1
+2_LAD_zui
+  rotate: false
+  xy: 216, 149
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 83
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

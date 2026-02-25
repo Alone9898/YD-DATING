@@ -1,0 +1,83 @@
+
+longhudazhan4_paixiao.png
+size: 579,54
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+longhudazhan4_huo_01
+  rotate: false
+  xy: 449, 3
+  size: 40, 49
+  orig: 50, 60
+  offset: 8, 3
+  index: -1
+longhudazhan4_huo_02
+  rotate: false
+  xy: 361, 3
+  size: 41, 49
+  orig: 50, 60
+  offset: 8, 3
+  index: -1
+longhudazhan4_huo_03
+  rotate: false
+  xy: 176, 3
+  size: 46, 49
+  orig: 50, 60
+  offset: 3, 3
+  index: -1
+longhudazhan4_huo_04
+  rotate: false
+  xy: 127, 2
+  size: 47, 50
+  orig: 50, 60
+  offset: 2, 3
+  index: -1
+longhudazhan4_huo_05
+  rotate: false
+  xy: 224, 3
+  size: 45, 49
+  orig: 50, 60
+  offset: 2, 3
+  index: -1
+longhudazhan4_huo_06
+  rotate: false
+  xy: 316, 5
+  size: 43, 47
+  orig: 50, 60
+  offset: 2, 3
+  index: -1
+longhudazhan4_huo_07
+  rotate: false
+  xy: 271, 2
+  size: 43, 50
+  orig: 50, 60
+  offset: 2, 3
+  index: -1
+longhudazhan4_huo_08
+  rotate: false
+  xy: 404, 6
+  size: 43, 46
+  orig: 50, 60
+  offset: 2, 3
+  index: -1
+longhudazhan4_huo_09
+  rotate: false
+  xy: 491, 7
+  size: 43, 45
+  orig: 50, 60
+  offset: 2, 3
+  index: -1
+longhudazhan4_huo_10
+  rotate: false
+  xy: 536, 6
+  size: 41, 46
+  orig: 50, 60
+  offset: 5, 3
+  index: -1
+longhudazhan4_huoxing
+  rotate: true
+  xy: 2, 20
+  size: 32, 123
+  orig: 32, 128
+  offset: 0, 0
+  index: -1

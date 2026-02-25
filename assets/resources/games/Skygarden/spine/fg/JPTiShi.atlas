@@ -1,0 +1,146 @@
+
+JPTiShi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/h_00
+  rotate: false
+  xy: 2, 856
+  size: 230, 110
+  orig: 230, 110
+  offset: 0, 0
+  index: -1
+images/l_00
+  rotate: false
+  xy: 688, 876
+  size: 190, 90
+  orig: 190, 90
+  offset: 0, 0
+  index: -1
+images/li/li_00
+  rotate: false
+  xy: 2, 734
+  size: 220, 120
+  orig: 220, 120
+  offset: 0, 0
+  index: -1
+images/li/li_15
+  rotate: false
+  xy: 2, 734
+  size: 220, 120
+  orig: 220, 120
+  offset: 0, 0
+  index: -1
+images/li/li_01
+  rotate: false
+  xy: 2, 612
+  size: 220, 120
+  orig: 220, 120
+  offset: 0, 0
+  index: -1
+images/li/li_02
+  rotate: false
+  xy: 2, 490
+  size: 220, 120
+  orig: 220, 120
+  offset: 0, 0
+  index: -1
+images/li/li_03
+  rotate: false
+  xy: 2, 368
+  size: 220, 120
+  orig: 220, 120
+  offset: 0, 0
+  index: -1
+images/li/li_04
+  rotate: false
+  xy: 2, 246
+  size: 220, 120
+  orig: 220, 120
+  offset: 0, 0
+  index: -1
+images/li/li_05
+  rotate: false
+  xy: 2, 124
+  size: 220, 120
+  orig: 220, 120
+  offset: 0, 0
+  index: -1
+images/li/li_06
+  rotate: false
+  xy: 2, 2
+  size: 220, 120
+  orig: 220, 120
+  offset: 0, 0
+  index: -1
+images/li/li_07
+  rotate: false
+  xy: 224, 734
+  size: 220, 120
+  orig: 220, 120
+  offset: 0, 0
+  index: -1
+images/li/li_08
+  rotate: false
+  xy: 224, 612
+  size: 220, 120
+  orig: 220, 120
+  offset: 0, 0
+  index: -1
+images/li/li_09
+  rotate: false
+  xy: 224, 490
+  size: 220, 120
+  orig: 220, 120
+  offset: 0, 0
+  index: -1
+images/li/li_10
+  rotate: false
+  xy: 224, 368
+  size: 220, 120
+  orig: 220, 120
+  offset: 0, 0
+  index: -1
+images/li/li_11
+  rotate: false
+  xy: 224, 246
+  size: 220, 120
+  orig: 220, 120
+  offset: 0, 0
+  index: -1
+images/li/li_12
+  rotate: false
+  xy: 224, 124
+  size: 220, 120
+  orig: 220, 120
+  offset: 0, 0
+  index: -1
+images/li/li_13
+  rotate: false
+  xy: 224, 2
+  size: 220, 120
+  orig: 220, 120
+  offset: 0, 0
+  index: -1
+images/li/li_14
+  rotate: false
+  xy: 466, 846
+  size: 220, 120
+  orig: 220, 120
+  offset: 0, 0
+  index: -1
+images/v_00
+  rotate: false
+  xy: 446, 754
+  size: 190, 90
+  orig: 190, 90
+  offset: 0, 0
+  index: -1
+images/z_00
+  rotate: false
+  xy: 234, 856
+  size: 230, 110
+  orig: 230, 110
+  offset: 0, 0
+  index: -1

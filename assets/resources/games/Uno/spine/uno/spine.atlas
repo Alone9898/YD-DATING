@@ -1,0 +1,27 @@
+
+spine.png
+size: 349,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UNO_ar
+  rotate: false
+  xy: 209, 64
+  size: 111, 80
+  orig: 140, 80
+  offset: 16, 0
+  index: -1
+UNO_en
+  rotate: false
+  xy: 209, 146
+  size: 138, 56
+  orig: 140, 80
+  offset: 1, 12
+  index: -1
+UNO_light
+  rotate: true
+  xy: 2, 2
+  size: 200, 205
+  orig: 210, 210
+  offset: 5, 2
+  index: -1

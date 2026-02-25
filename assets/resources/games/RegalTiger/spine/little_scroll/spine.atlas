@@ -1,0 +1,20 @@
+
+JZDH_01.png
+size: 107,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shanguang01
+  rotate: true
+  xy: 2, 2
+  size: 85, 98
+  orig: 98, 98
+  offset: 6, 0
+  index: -1
+theme115_collect_button_normal
+  rotate: true
+  xy: 2, 89
+  size: 64, 103
+  orig: 64, 103
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,223 @@
+
+jptc.png
+size: 1923,1291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g_00
+  rotate: false
+  xy: 2, 70
+  size: 512, 235
+  orig: 620, 294
+  offset: 66, 12
+  index: -1
+sg/grand2_00
+  rotate: true
+  xy: 1760, 665
+  size: 53, 65
+  orig: 356, 107
+  offset: 2, 5
+  index: -1
+sg/grand2_01
+  rotate: false
+  xy: 1797, 221
+  size: 83, 66
+  orig: 356, 107
+  offset: 2, 4
+  index: -1
+sg/grand2_02
+  rotate: false
+  xy: 1018, 35
+  size: 113, 66
+  orig: 356, 107
+  offset: 2, 4
+  index: -1
+sg/grand2_03
+  rotate: true
+  xy: 1692, 655
+  size: 142, 66
+  orig: 356, 107
+  offset: 3, 4
+  index: -1
+sg/grand2_04
+  rotate: false
+  xy: 340, 2
+  size: 166, 66
+  orig: 356, 107
+  offset: 8, 4
+  index: -1
+sg/grand2_05
+  rotate: false
+  xy: 997, 239
+  size: 167, 66
+  orig: 356, 107
+  offset: 37, 4
+  index: -1
+sg/grand2_06
+  rotate: false
+  xy: 2, 2
+  size: 167, 66
+  orig: 356, 107
+  offset: 67, 4
+  index: -1
+sg/grand2_07
+  rotate: false
+  xy: 997, 171
+  size: 167, 66
+  orig: 356, 107
+  offset: 97, 4
+  index: -1
+sg/grand2_08
+  rotate: false
+  xy: 997, 103
+  size: 167, 66
+  orig: 356, 107
+  offset: 127, 4
+  index: -1
+sg/grand2_09
+  rotate: false
+  xy: 171, 2
+  size: 167, 66
+  orig: 356, 107
+  offset: 156, 4
+  index: -1
+sg/grand2_10
+  rotate: false
+  xy: 854, 17
+  size: 162, 66
+  orig: 356, 107
+  offset: 186, 4
+  index: -1
+sg/grand2_11
+  rotate: false
+  xy: 854, 85
+  size: 137, 66
+  orig: 356, 107
+  offset: 216, 4
+  index: -1
+sg/grand2_12
+  rotate: false
+  xy: 1688, 221
+  size: 107, 66
+  orig: 356, 107
+  offset: 246, 4
+  index: -1
+sg/grand2_13
+  rotate: true
+  xy: 1760, 720
+  size: 77, 66
+  orig: 356, 107
+  offset: 276, 4
+  index: -1
+sg/grand2_14
+  rotate: false
+  xy: 1828, 746
+  size: 47, 59
+  orig: 356, 107
+  offset: 306, 4
+  index: -1
+theme227_jp_grand
+  rotate: true
+  xy: 1772, 807
+  size: 482, 149
+  orig: 482, 149
+  offset: 0, 0
+  index: -1
+theme227_jp_grand2
+  rotate: false
+  xy: 1182, 432
+  size: 354, 211
+  orig: 354, 213
+  offset: 0, 1
+  index: -1
+theme227_jp_grand3
+  rotate: false
+  xy: 2, 799
+  size: 588, 490
+  orig: 588, 490
+  offset: 0, 0
+  index: -1
+theme227_jp_maix2
+  rotate: false
+  xy: 1182, 219
+  size: 354, 211
+  orig: 354, 213
+  offset: 0, 1
+  index: -1
+theme227_jp_maix3
+  rotate: false
+  xy: 2, 307
+  size: 588, 490
+  orig: 588, 490
+  offset: 0, 0
+  index: -1
+theme227_jp_major
+  rotate: false
+  xy: 1182, 645
+  size: 508, 152
+  orig: 508, 152
+  offset: 0, 0
+  index: -1
+theme227_jp_major2
+  rotate: true
+  xy: 1688, 289
+  size: 354, 211
+  orig: 354, 213
+  offset: 0, 1
+  index: -1
+theme227_jp_major3
+  rotate: false
+  xy: 592, 799
+  size: 588, 490
+  orig: 588, 490
+  offset: 0, 0
+  index: -1
+theme227_jp_maxi
+  rotate: true
+  xy: 1538, 260
+  size: 383, 148
+  orig: 383, 148
+  offset: 0, 0
+  index: -1
+theme227_jp_mini
+  rotate: false
+  xy: 516, 2
+  size: 336, 149
+  orig: 336, 149
+  offset: 0, 0
+  index: -1
+theme227_jp_mini2
+  rotate: false
+  xy: 1166, 6
+  size: 354, 211
+  orig: 354, 213
+  offset: 0, 1
+  index: -1
+theme227_jp_mini3
+  rotate: false
+  xy: 592, 307
+  size: 588, 490
+  orig: 588, 490
+  offset: 0, 0
+  index: -1
+theme227_jp_minor
+  rotate: false
+  xy: 516, 153
+  size: 479, 152
+  orig: 479, 152
+  offset: 0, 0
+  index: -1
+theme227_jp_minor2
+  rotate: false
+  xy: 1522, 6
+  size: 354, 211
+  orig: 354, 213
+  offset: 0, 1
+  index: -1
+theme227_jp_minor3
+  rotate: false
+  xy: 1182, 799
+  size: 588, 490
+  orig: 588, 490
+  offset: 0, 0
+  index: -1

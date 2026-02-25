@@ -1,0 +1,20 @@
+
+huangzhuzi.png
+size: 203,382
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+龙柱/theme177_pick_jpb_00
+  rotate: false
+  xy: 0, 0
+  size: 100, 382
+  orig: 100, 382
+  offset: 0, 0
+  index: -1
+龙柱/theme177_pick_jpb_0_11
+  rotate: false
+  xy: 102, 1
+  size: 101, 381
+  orig: 101, 381
+  offset: 0, 0
+  index: -1

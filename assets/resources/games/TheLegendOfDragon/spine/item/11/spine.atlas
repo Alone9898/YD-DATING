@@ -1,0 +1,55 @@
+
+spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base_store_0
+  rotate: false
+  xy: 2, 101
+  size: 149, 148
+  orig: 149, 148
+  offset: 0, 0
+  index: -1
+base_store_1
+  rotate: false
+  xy: 153, 101
+  size: 149, 148
+  orig: 149, 148
+  offset: 0, 0
+  index: -1
+guangci01
+  rotate: false
+  xy: 606, 209
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+guangquan01
+  rotate: false
+  xy: 96, 59
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+kuoguang01_0
+  rotate: false
+  xy: 2, 2
+  size: 92, 97
+  orig: 92, 97
+  offset: 0, 0
+  index: -1
+scatter_01/beijing
+  rotate: false
+  xy: 304, 101
+  size: 149, 148
+  orig: 149, 148
+  offset: 0, 0
+  index: -1
+scatter_01/longtou
+  rotate: false
+  xy: 455, 101
+  size: 149, 148
+  orig: 149, 148
+  offset: 0, 0
+  index: -1

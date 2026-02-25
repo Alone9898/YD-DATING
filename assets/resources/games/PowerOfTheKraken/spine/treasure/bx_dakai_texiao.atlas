@@ -1,0 +1,69 @@
+
+bx_dakai_texiao.png
+size: 500,498
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+471
+  rotate: false
+  xy: 229, 47
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tx/471
+  rotate: false
+  xy: 229, 47
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+476
+  rotate: false
+  xy: 359, 47
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tx/gq2_00010
+  rotate: false
+  xy: 2, 29
+  size: 225, 191
+  orig: 225, 191
+  offset: 0, 0
+  index: -1
+tx/guangq
+  rotate: false
+  xy: 2, 222
+  size: 278, 274
+  orig: 278, 274
+  offset: 0, 0
+  index: -1
+tx/lizi
+  rotate: false
+  xy: 434, 255
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tx/q4
+  rotate: false
+  xy: 282, 321
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+tx/star_2
+  rotate: false
+  xy: 229, 180
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+tx/z011
+  rotate: true
+  xy: 282, 177
+  size: 142, 150
+  orig: 142, 150
+  offset: 0, 0
+  index: -1

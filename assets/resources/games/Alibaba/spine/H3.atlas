@@ -1,0 +1,41 @@
+
+H3.png
+size: 432,238
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H3_di
+  rotate: false
+  xy: 204, 122
+  size: 128, 114
+  orig: 128, 114
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 204, 2
+  size: 118, 121
+  orig: 118, 121
+  offset: 0, 0
+  index: -1
+h3
+  rotate: true
+  xy: 327, 4
+  size: 116, 103
+  orig: 116, 103
+  offset: 0, 0
+  index: -1
+h3_add
+  rotate: false
+  xy: 2, 36
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+star_01
+  rotate: false
+  xy: 2, 2
+  size: 30, 32
+  orig: 32, 32
+  offset: 1, 0
+  index: -1

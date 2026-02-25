@@ -1,0 +1,90 @@
+
+JinDuTiao_Hua.png
+size: 477,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/hb/xh_001
+  rotate: true
+  xy: 2, 5
+  size: 55, 51
+  orig: 55, 55
+  offset: 0, 4
+  index: -1
+images/hb/xh_002
+  rotate: true
+  xy: 55, 5
+  size: 55, 51
+  orig: 55, 55
+  offset: 0, 4
+  index: -1
+images/hb/xh_003
+  rotate: true
+  xy: 108, 5
+  size: 55, 51
+  orig: 55, 55
+  offset: 0, 4
+  index: -1
+images/hb/xh_004
+  rotate: true
+  xy: 161, 5
+  size: 55, 51
+  orig: 55, 55
+  offset: 0, 4
+  index: -1
+images/hb/xh_005
+  rotate: true
+  xy: 214, 5
+  size: 55, 51
+  orig: 55, 55
+  offset: 0, 4
+  index: -1
+images/hb/xh_006
+  rotate: true
+  xy: 267, 5
+  size: 55, 51
+  orig: 55, 55
+  offset: 0, 4
+  index: -1
+images/hb/xh_007
+  rotate: true
+  xy: 320, 5
+  size: 55, 51
+  orig: 55, 55
+  offset: 0, 4
+  index: -1
+images/hb/xh_008
+  rotate: true
+  xy: 373, 5
+  size: 55, 51
+  orig: 55, 55
+  offset: 0, 4
+  index: -1
+images/hb/xh_009
+  rotate: true
+  xy: 426, 5
+  size: 55, 49
+  orig: 55, 55
+  offset: 0, 6
+  index: -1
+images/hb/xh_010
+  rotate: false
+  xy: 2, 2
+  size: 32, 1
+  orig: 55, 55
+  offset: 13, 26
+  index: -1
+images/hb/xh_011
+  rotate: false
+  xy: 36, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/hb/xh_000
+  rotate: false
+  xy: 36, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

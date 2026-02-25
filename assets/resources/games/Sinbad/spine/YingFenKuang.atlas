@@ -1,0 +1,146 @@
+
+YingFenKuang.png
+size: 1511,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/yfk/yfk_000
+  rotate: false
+  xy: 458, 2
+  size: 149, 150
+  orig: 150, 150
+  offset: 1, 0
+  index: -1
+images/yfk/yfk_001
+  rotate: false
+  xy: 911, 154
+  size: 148, 150
+  orig: 150, 150
+  offset: 2, 0
+  index: -1
+images/yfk/yfk_002
+  rotate: false
+  xy: 2, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/yfk/yfk_003
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/yfk/yfk_004
+  rotate: false
+  xy: 154, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/yfk/yfk_005
+  rotate: false
+  xy: 154, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/yfk/yfk_006
+  rotate: false
+  xy: 306, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/yfk/yfk_007
+  rotate: false
+  xy: 609, 154
+  size: 149, 150
+  orig: 150, 150
+  offset: 1, 0
+  index: -1
+images/yfk/yfk_008
+  rotate: false
+  xy: 911, 2
+  size: 148, 150
+  orig: 150, 150
+  offset: 1, 0
+  index: -1
+images/yfk/yfk_009
+  rotate: false
+  xy: 1361, 4
+  size: 146, 149
+  orig: 150, 150
+  offset: 3, 1
+  index: -1
+images/yfk/yfk_010
+  rotate: false
+  xy: 1211, 3
+  size: 148, 149
+  orig: 150, 150
+  offset: 2, 1
+  index: -1
+images/yfk/yfk_011
+  rotate: false
+  xy: 1061, 154
+  size: 148, 150
+  orig: 150, 150
+  offset: 2, 0
+  index: -1
+images/yfk/yfk_012
+  rotate: false
+  xy: 609, 2
+  size: 149, 150
+  orig: 150, 150
+  offset: 1, 0
+  index: -1
+images/yfk/yfk_013
+  rotate: false
+  xy: 760, 154
+  size: 149, 150
+  orig: 150, 150
+  offset: 1, 0
+  index: -1
+images/yfk/yfk_014
+  rotate: false
+  xy: 1361, 155
+  size: 148, 149
+  orig: 150, 150
+  offset: 2, 1
+  index: -1
+images/yfk/yfk_015
+  rotate: false
+  xy: 1061, 2
+  size: 148, 150
+  orig: 150, 150
+  offset: 2, 0
+  index: -1
+images/yfk/yfk_016
+  rotate: false
+  xy: 1211, 154
+  size: 148, 150
+  orig: 150, 150
+  offset: 2, 0
+  index: -1
+images/yfk/yfk_017
+  rotate: false
+  xy: 760, 2
+  size: 149, 150
+  orig: 150, 150
+  offset: 1, 0
+  index: -1
+images/yfk/yfk_018
+  rotate: false
+  xy: 306, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/yfk/yfk_019
+  rotate: false
+  xy: 458, 154
+  size: 149, 150
+  orig: 150, 150
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,339 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "kuang_sg",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "Effect-Pomi_zjkg_01": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": false
+            },
+            {
+              "frame": 0.6,
+              "value": true
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_zjkg_02": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_zjkg_03": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": true
+            },
+            {
+              "frame": 0.1,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_zjkg_04": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.1,
+              "value": true
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_zjkg_05": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_zjkg_06": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": true
+            },
+            {
+              "frame": 0.2,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_zjkg_07": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.2,
+              "value": true
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_zjkg_08": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": true
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_zjkg_09": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": true
+            },
+            {
+              "frame": 0.3,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_zjkg_10": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.3,
+              "value": true
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_zjkg_11": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_zjkg_12": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": true
+            },
+            {
+              "frame": 0.4,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_zjkg_13": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.4,
+              "value": true
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_zjkg_14": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": true
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_zjkg_15": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": true
+            },
+            {
+              "frame": 0.5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_zjkg_16": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5,
+              "value": true
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_zjkg_17": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_zjkg_18": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": true
+            },
+            {
+              "frame": 0.6,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

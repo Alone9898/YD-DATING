@@ -1,0 +1,55 @@
+
+touziex.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_flare_00000
+  rotate: false
+  xy: 2, 2
+  size: 102, 104
+  orig: 102, 104
+  offset: 0, 0
+  index: -1
+touzi_1
+  rotate: false
+  xy: 106, 6
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+touzi_2
+  rotate: false
+  xy: 208, 6
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+touzi_3
+  rotate: false
+  xy: 310, 6
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+touzi_4
+  rotate: false
+  xy: 412, 6
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+touzi_5
+  rotate: false
+  xy: 514, 6
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+touzi_6
+  rotate: false
+  xy: 616, 6
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,237 @@
+
+spine.png
+size: 626,626
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+84-1
+  rotate: false
+  xy: 539, 500
+  size: 17, 22
+  orig: 45, 90
+  offset: 13, 0
+  index: -1
+84-2
+  rotate: false
+  xy: 565, 13
+  size: 23, 60
+  orig: 45, 90
+  offset: 10, 0
+  index: -1
+84-3
+  rotate: true
+  xy: 474, 428
+  size: 24, 65
+  orig: 45, 90
+  offset: 9, 0
+  index: -1
+84-4
+  rotate: false
+  xy: 565, 139
+  size: 26, 64
+  orig: 45, 90
+  offset: 8, 0
+  index: -1
+84-5
+  rotate: false
+  xy: 220, 48
+  size: 27, 66
+  orig: 45, 90
+  offset: 8, 0
+  index: -1
+84-6
+  rotate: false
+  xy: 474, 454
+  size: 30, 68
+  orig: 45, 90
+  offset: 6, 0
+  index: -1
+84-7
+  rotate: false
+  xy: 506, 456
+  size: 31, 66
+  orig: 45, 90
+  offset: 5, 3
+  index: -1
+84-8
+  rotate: true
+  xy: 196, 434
+  size: 33, 59
+  orig: 45, 90
+  offset: 4, 11
+  index: -1
+bh_0000_1
+  rotate: false
+  xy: 541, 447
+  size: 14, 20
+  orig: 156, 37
+  offset: 0, 6
+  index: -1
+bh_0001_2
+  rotate: false
+  xy: 593, 143
+  size: 21, 29
+  orig: 156, 37
+  offset: 5, 6
+  index: -1
+bh_0002_3
+  rotate: false
+  xy: 590, 44
+  size: 25, 29
+  orig: 156, 37
+  offset: 13, 6
+  index: -1
+bh_0003_4
+  rotate: false
+  xy: 590, 13
+  size: 25, 29
+  orig: 156, 37
+  offset: 27, 7
+  index: -1
+bh_0004_5
+  rotate: false
+  xy: 565, 75
+  size: 26, 29
+  orig: 156, 37
+  offset: 42, 7
+  index: -1
+bh_0005_6
+  rotate: false
+  xy: 593, 174
+  size: 25, 29
+  orig: 156, 37
+  offset: 58, 8
+  index: -1
+bh_0006_7
+  rotate: true
+  xy: 294, 440
+  size: 27, 35
+  orig: 156, 37
+  offset: 72, 2
+  index: -1
+bh_0007_8
+  rotate: true
+  xy: 257, 439
+  size: 28, 35
+  orig: 156, 37
+  offset: 82, 2
+  index: -1
+bh_0008_9
+  rotate: false
+  xy: 220, 13
+  size: 27, 33
+  orig: 156, 37
+  offset: 95, 2
+  index: -1
+bh_0009_10
+  rotate: true
+  xy: 593, 91
+  size: 19, 30
+  orig: 156, 37
+  offset: 116, 2
+  index: -1
+bh_0010_11
+  rotate: false
+  xy: 565, 106
+  size: 26, 31
+  orig: 156, 37
+  offset: 120, 0
+  index: -1
+bh_0011_12
+  rotate: false
+  xy: 593, 112
+  size: 20, 29
+  orig: 156, 37
+  offset: 136, 0
+  index: -1
+bh_0012_13
+  rotate: false
+  xy: 539, 469
+  size: 16, 29
+  orig: 156, 37
+  offset: 140, 0
+  index: -1
+chedi
+  rotate: false
+  xy: 2, 437
+  size: 192, 30
+  orig: 223, 31
+  offset: 30, 0
+  index: -1
+dengguang
+  rotate: false
+  xy: 398, 64
+  size: 165, 139
+  orig: 186, 139
+  offset: 21, 0
+  index: -1
+kaitoudingguang
+  rotate: false
+  xy: 110, 12
+  size: 108, 102
+  orig: 112, 106
+  offset: 2, 2
+  index: -1
+paoche
+  rotate: false
+  xy: 2, 265
+  size: 402, 161
+  orig: 408, 161
+  offset: 0, 0
+  index: -1
+pdeng1
+  rotate: true
+  xy: 2, 116
+  size: 147, 253
+  orig: 154, 271
+  offset: 7, 10
+  index: -1
+pdeng2
+  rotate: true
+  xy: 406, 205
+  size: 221, 218
+  orig: 222, 225
+  offset: 0, 1
+  index: -1
+pdi
+  rotate: false
+  xy: 2, 524
+  size: 554, 100
+  orig: 564, 102
+  offset: 3, 1
+  index: -1
+pquan
+  rotate: false
+  xy: 2, 469
+  size: 335, 53
+  orig: 336, 54
+  offset: 1, 1
+  index: -1
+pshudeng
+  rotate: false
+  xy: 257, 16
+  size: 139, 247
+  orig: 141, 251
+  offset: 1, 3
+  index: -1
+tuowei
+  rotate: true
+  xy: 558, 428
+  size: 196, 62
+  orig: 198, 67
+  offset: 2, 5
+  index: -1
+车轮
+  rotate: false
+  xy: 2, 8
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+黄光
+  rotate: false
+  xy: 339, 436
+  size: 133, 86
+  orig: 135, 91
+  offset: 2, 1
+  index: -1

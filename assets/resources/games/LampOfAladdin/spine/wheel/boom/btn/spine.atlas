@@ -1,0 +1,209 @@
+
+zhuanpan_02.png
+size: 634,634
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feilizi_0/feilizi_0
+  rotate: true
+  xy: 480, 186
+  size: 84, 94
+  orig: 166, 162
+  offset: 56, 61
+  index: -1
+feilizi_0/feilizi_1
+  rotate: false
+  xy: 461, 107
+  size: 91, 77
+  orig: 166, 162
+  offset: 51, 70
+  index: -1
+feilizi_0/feilizi_10
+  rotate: true
+  xy: 503, 272
+  size: 118, 119
+  orig: 166, 162
+  offset: 16, 29
+  index: -1
+feilizi_0/feilizi_11
+  rotate: false
+  xy: 135, 368
+  size: 123, 123
+  orig: 166, 162
+  offset: 12, 25
+  index: -1
+feilizi_0/feilizi_12
+  rotate: false
+  xy: 135, 245
+  size: 118, 121
+  orig: 166, 162
+  offset: 12, 20
+  index: -1
+feilizi_0/feilizi_13
+  rotate: false
+  xy: 0, 87
+  size: 127, 129
+  orig: 166, 162
+  offset: 8, 16
+  index: -1
+feilizi_0/feilizi_14
+  rotate: true
+  xy: 129, 87
+  size: 129, 118
+  orig: 166, 162
+  offset: 11, 11
+  index: -1
+feilizi_0/feilizi_15
+  rotate: false
+  xy: 271, 507
+  size: 133, 127
+  orig: 166, 162
+  offset: 12, 7
+  index: -1
+feilizi_0/feilizi_16
+  rotate: true
+  xy: 0, 351
+  size: 140, 133
+  orig: 166, 162
+  offset: 10, 5
+  index: -1
+feilizi_0/feilizi_17
+  rotate: false
+  xy: 141, 497
+  size: 128, 137
+  orig: 166, 162
+  offset: 26, 5
+  index: -1
+feilizi_0/feilizi_18
+  rotate: false
+  xy: 0, 218
+  size: 133, 131
+  orig: 166, 162
+  offset: 27, 16
+  index: -1
+feilizi_0/feilizi_19
+  rotate: false
+  xy: 0, 493
+  size: 139, 141
+  orig: 166, 162
+  offset: 23, 11
+  index: -1
+feilizi_0/feilizi_2
+  rotate: true
+  xy: 249, 0
+  size: 99, 84
+  orig: 166, 162
+  offset: 47, 67
+  index: -1
+feilizi_0/feilizi_20
+  rotate: false
+  xy: 406, 513
+  size: 134, 121
+  orig: 166, 162
+  offset: 19, 35
+  index: -1
+feilizi_0/feilizi_21
+  rotate: true
+  xy: 408, 395
+  size: 116, 130
+  orig: 166, 162
+  offset: 14, 28
+  index: -1
+feilizi_0/feilizi_22
+  rotate: false
+  xy: 542, 503
+  size: 81, 131
+  orig: 166, 162
+  offset: 10, 22
+  index: -1
+feilizi_0/feilizi_23
+  rotate: true
+  xy: 271, 426
+  size: 79, 135
+  orig: 166, 162
+  offset: 17, 16
+  index: -1
+feilizi_0/feilizi_24
+  rotate: true
+  xy: 0, 0
+  size: 85, 105
+  orig: 166, 162
+  offset: 16, 20
+  index: -1
+feilizi_0/feilizi_25
+  rotate: true
+  xy: 576, 177
+  size: 93, 45
+  orig: 166, 162
+  offset: 13, 16
+  index: -1
+feilizi_0/feilizi_26
+  rotate: true
+  xy: 335, 33
+  size: 66, 40
+  orig: 166, 162
+  offset: 45, 11
+  index: -1
+feilizi_0/feilizi_27
+  rotate: false
+  xy: 503, 392
+  size: 5, 1
+  orig: 166, 162
+  offset: 111, 49
+  index: -1
+feilizi_0/feilizi_3
+  rotate: false
+  xy: 373, 198
+  size: 105, 86
+  orig: 166, 162
+  offset: 44, 65
+  index: -1
+feilizi_0/feilizi_4
+  rotate: true
+  xy: 540, 392
+  size: 109, 94
+  orig: 166, 162
+  offset: 39, 62
+  index: -1
+feilizi_0/feilizi_5
+  rotate: false
+  xy: 107, 3
+  size: 108, 82
+  orig: 166, 162
+  offset: 35, 63
+  index: -1
+feilizi_0/feilizi_6
+  rotate: false
+  xy: 249, 101
+  size: 111, 96
+  orig: 166, 162
+  offset: 31, 48
+  index: -1
+feilizi_0/feilizi_7
+  rotate: false
+  xy: 255, 199
+  size: 116, 106
+  orig: 166, 162
+  offset: 28, 42
+  index: -1
+feilizi_0/feilizi_8
+  rotate: false
+  xy: 382, 286
+  size: 119, 107
+  orig: 166, 162
+  offset: 24, 38
+  index: -1
+feilizi_0/feilizi_9
+  rotate: false
+  xy: 260, 307
+  size: 120, 117
+  orig: 166, 162
+  offset: 20, 33
+  index: -1
+xiantiao01
+  rotate: true
+  xy: 362, 106
+  size: 90, 97
+  orig: 102, 102
+  offset: 1, 1
+  index: -1

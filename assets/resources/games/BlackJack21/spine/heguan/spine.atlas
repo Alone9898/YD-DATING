@@ -1,0 +1,167 @@
+
+spine.png
+size: 805,805
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/jjdz_b_1_00
+  rotate: false
+  xy: 123, 571
+  size: 120, 232
+  orig: 300, 300
+  offset: 90, 34
+  index: -1
+02/jjdz_b_1_15
+  rotate: false
+  xy: 123, 571
+  size: 120, 232
+  orig: 300, 300
+  offset: 90, 34
+  index: -1
+02/jjdz_b_1_16
+  rotate: false
+  xy: 123, 571
+  size: 120, 232
+  orig: 300, 300
+  offset: 90, 34
+  index: -1
+02/jjdz_b_1_01
+  rotate: false
+  xy: 125, 341
+  size: 111, 228
+  orig: 300, 300
+  offset: 98, 35
+  index: -1
+02/jjdz_b_1_02
+  rotate: true
+  xy: 126, 4
+  size: 106, 218
+  orig: 300, 300
+  offset: 101, 38
+  index: -1
+02/jjdz_b_1_03
+  rotate: true
+  xy: 346, 2
+  size: 109, 207
+  orig: 300, 300
+  offset: 102, 40
+  index: -1
+02/jjdz_b_1_04
+  rotate: true
+  xy: 591, 467
+  size: 117, 203
+  orig: 300, 300
+  offset: 102, 41
+  index: -1
+02/jjdz_b_1_05
+  rotate: false
+  xy: 673, 603
+  size: 123, 200
+  orig: 300, 300
+  offset: 101, 42
+  index: -1
+02/jjdz_b_1_06
+  rotate: true
+  xy: 591, 354
+  size: 111, 201
+  orig: 300, 300
+  offset: 102, 42
+  index: -1
+02/jjdz_b_1_07
+  rotate: false
+  xy: 505, 136
+  size: 111, 216
+  orig: 300, 300
+  offset: 102, 28
+  index: -1
+02/jjdz_b_1_08
+  rotate: false
+  xy: 478, 361
+  size: 111, 219
+  orig: 300, 300
+  offset: 102, 25
+  index: -1
+02/jjdz_b_1_09
+  rotate: false
+  xy: 356, 351
+  size: 120, 223
+  orig: 300, 300
+  offset: 93, 20
+  index: -1
+02/jjdz_b_1_10
+  rotate: false
+  xy: 359, 582
+  size: 148, 221
+  orig: 300, 300
+  offset: 65, 21
+  index: -1
+02/jjdz_b_1_11
+  rotate: false
+  xy: 509, 586
+  size: 162, 217
+  orig: 300, 300
+  offset: 51, 24
+  index: -1
+02/jjdz_b_1_12
+  rotate: false
+  xy: 618, 138
+  size: 174, 214
+  orig: 300, 300
+  offset: 39, 27
+  index: -1
+02/jjdz_b_1_13
+  rotate: false
+  xy: 367, 129
+  size: 136, 220
+  orig: 300, 300
+  offset: 77, 34
+  index: -1
+02/jjdz_b_1_14
+  rotate: false
+  xy: 2, 76
+  size: 122, 230
+  orig: 300, 300
+  offset: 91, 34
+  index: -1
+dealer_00
+  rotate: false
+  xy: 250, 113
+  size: 115, 227
+  orig: 300, 300
+  offset: 94, 26
+  index: -1
+dealer_01
+  rotate: false
+  xy: 245, 576
+  size: 112, 227
+  orig: 300, 300
+  offset: 97, 26
+  index: -1
+dealer_02
+  rotate: false
+  xy: 238, 342
+  size: 116, 227
+  orig: 300, 300
+  offset: 93, 26
+  index: -1
+dealer_03
+  rotate: false
+  xy: 126, 112
+  size: 122, 227
+  orig: 300, 300
+  offset: 87, 26
+  index: -1
+dealer_04
+  rotate: false
+  xy: 2, 308
+  size: 121, 246
+  orig: 300, 300
+  offset: 88, 7
+  index: -1
+dealer_05
+  rotate: false
+  xy: 2, 556
+  size: 119, 247
+  orig: 300, 300
+  offset: 90, 6
+  index: -1

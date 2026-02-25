@@ -1,0 +1,90 @@
+
+jinbizhuan.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fan/fan_00
+  rotate: false
+  xy: 2, 2
+  size: 124, 121
+  orig: 188, 176
+  offset: 30, 22
+  index: -1
+fan/fan_01
+  rotate: false
+  xy: 128, 2
+  size: 123, 121
+  orig: 188, 176
+  offset: 31, 22
+  index: -1
+fan/fan_02
+  rotate: false
+  xy: 253, 2
+  size: 123, 121
+  orig: 188, 176
+  offset: 30, 22
+  index: -1
+fan/fan_03
+  rotate: false
+  xy: 378, 2
+  size: 123, 121
+  orig: 188, 176
+  offset: 30, 22
+  index: -1
+fan/fan_04
+  rotate: false
+  xy: 503, 2
+  size: 122, 121
+  orig: 188, 176
+  offset: 30, 22
+  index: -1
+fan/fan_05
+  rotate: false
+  xy: 627, 2
+  size: 120, 121
+  orig: 188, 176
+  offset: 31, 22
+  index: -1
+fan/fan_06
+  rotate: false
+  xy: 749, 2
+  size: 119, 121
+  orig: 188, 176
+  offset: 31, 22
+  index: -1
+fan/fan_07
+  rotate: false
+  xy: 870, 2
+  size: 117, 121
+  orig: 188, 176
+  offset: 32, 22
+  index: -1
+fan/fan_08
+  rotate: false
+  xy: 989, 2
+  size: 114, 121
+  orig: 188, 176
+  offset: 33, 22
+  index: -1
+fan/fan_09
+  rotate: false
+  xy: 1105, 2
+  size: 110, 121
+  orig: 188, 176
+  offset: 35, 22
+  index: -1
+fan/fan_10
+  rotate: false
+  xy: 1217, 3
+  size: 107, 120
+  orig: 188, 176
+  offset: 36, 22
+  index: -1
+fan/fan_11
+  rotate: true
+  xy: 1326, 20
+  size: 103, 121
+  orig: 188, 176
+  offset: 38, 21
+  index: -1

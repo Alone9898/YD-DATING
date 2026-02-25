@@ -1,0 +1,20 @@
+
+shendengshanshuo.png
+size: 366,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shendeng
+  rotate: false
+  xy: 2, 132
+  size: 310, 232
+  orig: 310, 232
+  offset: 0, 0
+  index: -1
+star_small
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+314_bgty.png
+size: 1853,1781
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base/di
+  rotate: true
+  xy: 0, 933
+  size: 848, 1216
+  orig: 848, 1216
+  offset: 0, 0
+  index: -1
+base/dihsan
+  rotate: false
+  xy: 816, 406
+  size: 848, 246
+  orig: 848, 246
+  offset: 0, 0
+  index: -1
+base/qianshan
+  rotate: true
+  xy: 1218, 933
+  size: 848, 601
+  orig: 848, 601
+  offset: 0, 0
+  index: -1
+base/xinyun
+  rotate: false
+  xy: 0, 27
+  size: 589, 446
+  orig: 589, 446
+  offset: 0, 0
+  index: -1
+base/youshan1
+  rotate: true
+  xy: 0, 475
+  size: 456, 814
+  orig: 456, 814
+  offset: 0, 0
+  index: -1
+base/youshan2
+  rotate: true
+  xy: 1191, 13
+  size: 152, 455
+  orig: 152, 455
+  offset: 0, 0
+  index: -1
+base/youzhu
+  rotate: false
+  xy: 1666, 275
+  size: 178, 475
+  orig: 178, 475
+  offset: 0, 0
+  index: -1
+base/yu01
+  rotate: true
+  xy: 1821, 1713
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+base/yu02
+  rotate: true
+  xy: 1821, 1441
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+base/yu03
+  rotate: true
+  xy: 1821, 1602
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+base/yu04
+  rotate: true
+  xy: 1821, 1669
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+base/yu05
+  rotate: true
+  xy: 1821, 1635
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+base/yu06
+  rotate: true
+  xy: 1821, 1471
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+base/yu07
+  rotate: true
+  xy: 1821, 1528
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1
+base/yu08
+  rotate: true
+  xy: 1821, 1570
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+base/yu09
+  rotate: true
+  xy: 1821, 1498
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+base/yunying
+  rotate: false
+  xy: 816, 654
+  size: 848, 277
+  orig: 848, 277
+  offset: 0, 0
+  index: -1
+base/zuoshan1
+  rotate: true
+  xy: 789, 167
+  size: 237, 821
+  orig: 237, 821
+  offset: 0, 0
+  index: -1
+base/zuoshan2
+  rotate: true
+  xy: 591, 165
+  size: 308, 196
+  orig: 308, 196
+  offset: 0, 0
+  index: -1
+base/zuozhu
+  rotate: true
+  xy: 789, 0
+  size: 165, 400
+  orig: 165, 400
+  offset: 0, 0
+  index: -1
+effect/guangyun
+  rotate: false
+  xy: 1666, 752
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+effect/qipao01
+  rotate: false
+  xy: 1821, 1749
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+shuiguai_jili_2.png
+size: 710,709
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/j3
+  rotate: false
+  xy: 421, 69
+  size: 275, 410
+  orig: 275, 410
+  offset: 0, 0
+  index: -1
+images/j4
+  rotate: false
+  xy: 2, 248
+  size: 322, 459
+  orig: 322, 459
+  offset: 0, 0
+  index: -1
+images/j5
+  rotate: true
+  xy: 2, 2
+  size: 244, 417
+  orig: 244, 417
+  offset: 0, 0
+  index: -1
+images/j6
+  rotate: true
+  xy: 326, 481
+  size: 226, 382
+  orig: 226, 382
+  offset: 0, 0
+  index: -1

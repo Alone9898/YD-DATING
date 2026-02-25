@@ -1,0 +1,13 @@
+
+-200.png
+size: 128,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+theme177_collect_200
+  rotate: false
+  xy: 2, 2
+  size: 65, 22
+  orig: 65, 22
+  offset: 0, 0
+  index: -1

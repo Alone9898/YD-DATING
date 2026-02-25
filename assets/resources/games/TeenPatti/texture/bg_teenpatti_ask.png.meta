@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "7a021b44-7343-4057-9609-c721b215ca47",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 910,
+  "height": 575,
+  "platformSettings": {},
+  "subMetas": {
+    "bg_teenpatti_ask": {
+      "ver": "1.0.4",
+      "uuid": "51c9e272-570b-4068-bd63-4d46946c2a11",
+      "rawTextureUuid": "7a021b44-7343-4057-9609-c721b215ca47",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 3,
+      "width": 910,
+      "height": 568,
+      "rawWidth": 910,
+      "rawHeight": 575,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

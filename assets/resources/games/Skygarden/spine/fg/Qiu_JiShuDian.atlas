@@ -1,0 +1,181 @@
+
+Qiu_JiShuDian.png
+size: 796,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/qiu2_000
+  rotate: false
+  xy: 2, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+images/ti1/ti1_000
+  rotate: false
+  xy: 244, 152
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+images/ti1/ti1_011
+  rotate: false
+  xy: 244, 152
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+images/ti1/ti1_001
+  rotate: false
+  xy: 244, 60
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+images/ti1/ti1_002
+  rotate: false
+  xy: 336, 152
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+images/ti1/ti1_003
+  rotate: false
+  xy: 336, 60
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+images/ti1/ti1_004
+  rotate: false
+  xy: 428, 152
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+images/ti1/ti1_005
+  rotate: false
+  xy: 428, 60
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+images/ti1/ti1_006
+  rotate: false
+  xy: 520, 152
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+images/ti1/ti1_007
+  rotate: false
+  xy: 520, 60
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+images/ti1/ti1_008
+  rotate: false
+  xy: 612, 152
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+images/ti1/ti1_009
+  rotate: false
+  xy: 612, 60
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+images/ti1/ti1_010
+  rotate: false
+  xy: 704, 152
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+images/ti2/ti2_000
+  rotate: false
+  xy: 244, 8
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/ti2/ti2_011
+  rotate: false
+  xy: 244, 8
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/ti2/ti2_001
+  rotate: false
+  xy: 704, 100
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/ti2/ti2_002
+  rotate: false
+  xy: 296, 8
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/ti2/ti2_003
+  rotate: false
+  xy: 348, 8
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/ti2/ti2_004
+  rotate: false
+  xy: 400, 8
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/ti2/ti2_005
+  rotate: false
+  xy: 452, 8
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/ti2/ti2_006
+  rotate: false
+  xy: 504, 8
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/ti2/ti2_007
+  rotate: false
+  xy: 556, 8
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/ti2/ti2_008
+  rotate: false
+  xy: 608, 8
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/ti2/ti2_009
+  rotate: false
+  xy: 660, 8
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/ti2/ti2_010
+  rotate: false
+  xy: 712, 48
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

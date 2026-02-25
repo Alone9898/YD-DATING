@@ -1,0 +1,146 @@
+
+314_superfreebg.png
+size: 1953,1921
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/guangyun
+  rotate: false
+  xy: 1771, 435
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+effect/qipao01
+  rotate: false
+  xy: 1700, 1039
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+superfree/di
+  rotate: false
+  xy: 0, 705
+  size: 848, 1216
+  orig: 848, 1216
+  offset: 0, 0
+  index: -1
+superfree/dihsan
+  rotate: true
+  xy: 1700, 1073
+  size: 848, 246
+  orig: 848, 246
+  offset: 0, 0
+  index: -1
+superfree/houshan
+  rotate: false
+  xy: 850, 1263
+  size: 848, 658
+  orig: 848, 658
+  offset: 0, 0
+  index: -1
+superfree/qianshan
+  rotate: false
+  xy: 0, 2
+  size: 848, 701
+  orig: 848, 701
+  offset: 0, 0
+  index: -1
+superfree/xinyun
+  rotate: true
+  xy: 1323, 329
+  size: 589, 446
+  orig: 589, 446
+  offset: 0, 0
+  index: -1
+superfree/youshan1
+  rotate: false
+  xy: 850, 332
+  size: 471, 586
+  orig: 471, 586
+  offset: 0, 0
+  index: -1
+superfree/youshan2
+  rotate: false
+  xy: 1771, 616
+  size: 152, 455
+  orig: 152, 455
+  offset: 0, 0
+  index: -1
+superfree/yu01
+  rotate: false
+  xy: 1771, 403
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+superfree/yu02
+  rotate: true
+  xy: 1942, 1043
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+superfree/yu03
+  rotate: false
+  xy: 1771, 386
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+superfree/yu04
+  rotate: true
+  xy: 1700, 997
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1
+superfree/yu05
+  rotate: false
+  xy: 1734, 1056
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+superfree/yu06
+  rotate: true
+  xy: 1925, 1028
+  size: 43, 15
+  orig: 43, 15
+  offset: 0, 0
+  index: -1
+superfree/yu07
+  rotate: false
+  xy: 1196, 0
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+superfree/yu08
+  rotate: false
+  xy: 1227, 0
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+superfree/yunying
+  rotate: false
+  xy: 850, 920
+  size: 848, 341
+  orig: 848, 341
+  offset: 0, 0
+  index: -1
+superfree/zuoshan1
+  rotate: true
+  xy: 1196, 14
+  size: 313, 671
+  orig: 313, 671
+  offset: 0, 0
+  index: -1
+superfree/zuoshan2
+  rotate: true
+  xy: 850, 12
+  size: 318, 344
+  orig: 318, 344
+  offset: 0, 0
+  index: -1

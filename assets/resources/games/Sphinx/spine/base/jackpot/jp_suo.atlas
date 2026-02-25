@@ -1,0 +1,41 @@
+
+jp_suo.png
+size: 474,474
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g1
+  rotate: true
+  xy: 2, 52
+  size: 85, 144
+  orig: 85, 144
+  offset: 0, 0
+  index: -1
+g2
+  rotate: true
+  xy: 2, 2
+  size: 48, 81
+  orig: 48, 81
+  offset: 0, 0
+  index: -1
+jb_00
+  rotate: false
+  xy: 2, 139
+  size: 255, 333
+  orig: 268, 339
+  offset: 2, 0
+  index: -1
+shizi
+  rotate: false
+  xy: 148, 63
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+shuguang
+  rotate: true
+  xy: 259, 123
+  size: 349, 210
+  orig: 350, 210
+  offset: 1, 0
+  index: -1

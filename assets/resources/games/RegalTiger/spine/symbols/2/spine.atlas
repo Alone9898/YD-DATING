@@ -1,0 +1,48 @@
+
+symbol_scatter.png
+size: 762,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaoliang01
+  rotate: false
+  xy: 623, 146
+  size: 137, 138
+  orig: 137, 138
+  offset: 0, 0
+  index: -1
+images/di
+  rotate: false
+  xy: 283, 116
+  size: 168, 168
+  orig: 170, 170
+  offset: 1, 1
+  index: -1
+images/xingguang
+  rotate: false
+  xy: 453, 116
+  size: 168, 168
+  orig: 170, 170
+  offset: 1, 1
+  index: -1
+images/zhongjian
+  rotate: false
+  xy: 283, 2
+  size: 112, 112
+  orig: 114, 114
+  offset: 1, 1
+  index: -1
+images/zhongquan
+  rotate: false
+  xy: 623, 12
+  size: 132, 132
+  orig: 134, 134
+  offset: 1, 1
+  index: -1
+xiaoguo01
+  rotate: false
+  xy: 2, 5
+  size: 279, 279
+  orig: 279, 279
+  offset: 0, 0
+  index: -1

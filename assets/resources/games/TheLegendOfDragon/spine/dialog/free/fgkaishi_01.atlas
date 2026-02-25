@@ -1,0 +1,258 @@
+
+fgkaishi_01.png
+size: 691,690
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liuguang01_0/liuguang01_0
+  rotate: false
+  xy: 659, 188
+  size: 30, 28
+  orig: 279, 72
+  offset: 18, 19
+  index: -1
+liuguang01_0/liuguang01_1
+  rotate: true
+  xy: 662, 218
+  size: 39, 29
+  orig: 279, 72
+  offset: 15, 19
+  index: -1
+liuguang01_0/liuguang01_10
+  rotate: false
+  xy: 477, 104
+  size: 109, 39
+  orig: 279, 72
+  offset: 22, 21
+  index: -1
+liuguang01_0/liuguang01_11
+  rotate: false
+  xy: 177, 68
+  size: 112, 39
+  orig: 279, 72
+  offset: 27, 22
+  index: -1
+liuguang01_0/liuguang01_12
+  rotate: false
+  xy: 174, 28
+  size: 111, 38
+  orig: 279, 72
+  offset: 38, 24
+  index: -1
+liuguang01_0/liuguang01_13
+  rotate: false
+  xy: 542, 183
+  size: 115, 37
+  orig: 279, 72
+  offset: 43, 25
+  index: -1
+liuguang01_0/liuguang01_14
+  rotate: false
+  xy: 362, 111
+  size: 113, 37
+  orig: 279, 72
+  offset: 54, 26
+  index: -1
+liuguang01_0/liuguang01_15
+  rotate: false
+  xy: 542, 145
+  size: 116, 36
+  orig: 279, 72
+  offset: 59, 27
+  index: -1
+liuguang01_0/liuguang01_16
+  rotate: false
+  xy: 551, 259
+  size: 118, 35
+  orig: 279, 72
+  offset: 67, 28
+  index: -1
+liuguang01_0/liuguang01_17
+  rotate: false
+  xy: 542, 222
+  size: 118, 35
+  orig: 279, 72
+  offset: 76, 28
+  index: -1
+liuguang01_0/liuguang01_18
+  rotate: false
+  xy: 362, 150
+  size: 121, 36
+  orig: 279, 72
+  offset: 84, 27
+  index: -1
+liuguang01_0/liuguang01_19
+  rotate: false
+  xy: 177, 109
+  size: 122, 37
+  orig: 279, 72
+  offset: 92, 26
+  index: -1
+liuguang01_0/liuguang01_2
+  rotate: false
+  xy: 301, 78
+  size: 48, 32
+  orig: 279, 72
+  offset: 15, 18
+  index: -1
+liuguang01_0/liuguang01_20
+  rotate: false
+  xy: 238, 148
+  size: 122, 38
+  orig: 279, 72
+  offset: 101, 25
+  index: -1
+liuguang01_0/liuguang01_21
+  rotate: false
+  xy: 0, 22
+  size: 123, 40
+  orig: 279, 72
+  offset: 111, 23
+  index: -1
+liuguang01_0/liuguang01_22
+  rotate: false
+  xy: 551, 343
+  size: 124, 41
+  orig: 279, 72
+  offset: 121, 22
+  index: -1
+liuguang01_0/liuguang01_23
+  rotate: false
+  xy: 0, 64
+  size: 127, 42
+  orig: 279, 72
+  offset: 127, 20
+  index: -1
+liuguang01_0/liuguang01_24
+  rotate: false
+  xy: 551, 386
+  size: 126, 44
+  orig: 279, 72
+  offset: 136, 18
+  index: -1
+liuguang01_0/liuguang01_25
+  rotate: false
+  xy: 551, 296
+  size: 117, 45
+  orig: 279, 72
+  offset: 147, 17
+  index: -1
+liuguang01_0/liuguang01_26
+  rotate: true
+  xy: 496, 161
+  size: 109, 44
+  orig: 279, 72
+  offset: 156, 17
+  index: -1
+liuguang01_0/liuguang01_27
+  rotate: true
+  xy: 129, 9
+  size: 97, 43
+  orig: 279, 72
+  offset: 169, 17
+  index: -1
+liuguang01_0/liuguang01_28
+  rotate: false
+  xy: 448, 59
+  size: 95, 43
+  orig: 279, 72
+  offset: 173, 16
+  index: -1
+liuguang01_0/liuguang01_29
+  rotate: false
+  xy: 545, 17
+  size: 85, 43
+  orig: 279, 72
+  offset: 184, 15
+  index: -1
+liuguang01_0/liuguang01_3
+  rotate: false
+  xy: 301, 112
+  size: 58, 34
+  orig: 279, 72
+  offset: 14, 17
+  index: -1
+liuguang01_0/liuguang01_30
+  rotate: true
+  xy: 636, 21
+  size: 79, 40
+  orig: 279, 72
+  offset: 190, 16
+  index: -1
+liuguang01_0/liuguang01_4
+  rotate: true
+  xy: 287, 0
+  size: 66, 36
+  orig: 279, 72
+  offset: 14, 17
+  index: -1
+liuguang01_0/liuguang01_5
+  rotate: false
+  xy: 409, 21
+  size: 74, 36
+  orig: 279, 72
+  offset: 14, 18
+  index: -1
+liuguang01_0/liuguang01_6
+  rotate: false
+  xy: 325, 31
+  size: 82, 37
+  orig: 279, 72
+  offset: 15, 19
+  index: -1
+liuguang01_0/liuguang01_7
+  rotate: false
+  xy: 545, 62
+  size: 89, 38
+  orig: 279, 72
+  offset: 16, 19
+  index: -1
+liuguang01_0/liuguang01_8
+  rotate: false
+  xy: 351, 70
+  size: 95, 39
+  orig: 279, 72
+  offset: 18, 19
+  index: -1
+liuguang01_0/liuguang01_9
+  rotate: false
+  xy: 588, 102
+  size: 103, 41
+  orig: 279, 72
+  offset: 19, 19
+  index: -1
+theme177_dialog_c_1
+  rotate: false
+  xy: 0, 188
+  size: 494, 82
+  orig: 494, 82
+  offset: 0, 0
+  index: -1
+theme177_dialog_c_2
+  rotate: false
+  xy: 0, 108
+  size: 175, 38
+  orig: 175, 38
+  offset: 0, 0
+  index: -1
+theme177_dialog_f_1
+  rotate: false
+  xy: 0, 272
+  size: 549, 418
+  orig: 549, 418
+  offset: 0, 0
+  index: -1
+theme177_dialog_sf_1
+  rotate: false
+  xy: 551, 432
+  size: 127, 258
+  orig: 127, 258
+  offset: 0, 0
+  index: -1
+theme177_dialog_sf_2
+  rotate: false
+  xy: 0, 148
+  size: 236, 38
+  orig: 236, 38
+  offset: 0, 0
+  index: -1

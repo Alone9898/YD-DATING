@@ -1,0 +1,174 @@
+
+symbol_tingzi.png
+size: 571,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaoliang01
+  rotate: true
+  xy: 241, 26
+  size: 114, 101
+  orig: 114, 101
+  offset: 0, 0
+  index: -1
+xaintiao/xiantiao_1
+  rotate: false
+  xy: 165, 2
+  size: 19, 6
+  orig: 60, 51
+  offset: 39, 6
+  index: -1
+xaintiao/xiantiao_10
+  rotate: false
+  xy: 506, 117
+  size: 60, 23
+  orig: 60, 51
+  offset: 0, 11
+  index: -1
+xaintiao/xiantiao_11
+  rotate: false
+  xy: 406, 4
+  size: 59, 24
+  orig: 60, 51
+  offset: 0, 12
+  index: -1
+xaintiao/xiantiao_12
+  rotate: false
+  xy: 447, 54
+  size: 59, 27
+  orig: 60, 51
+  offset: 0, 15
+  index: -1
+xaintiao/xiantiao_13
+  rotate: true
+  xy: 447, 83
+  size: 57, 28
+  orig: 60, 51
+  offset: 1, 17
+  index: -1
+xaintiao/xiantiao_14
+  rotate: false
+  xy: 467, 2
+  size: 53, 28
+  orig: 60, 51
+  offset: 5, 22
+  index: -1
+xaintiao/xiantiao_15
+  rotate: true
+  xy: 477, 88
+  size: 52, 27
+  orig: 60, 51
+  offset: 5, 24
+  index: -1
+xaintiao/xiantiao_16
+  rotate: false
+  xy: 506, 91
+  size: 46, 24
+  orig: 60, 51
+  offset: 6, 27
+  index: -1
+xaintiao/xiantiao_17
+  rotate: false
+  xy: 508, 68
+  size: 45, 21
+  orig: 60, 51
+  offset: 7, 30
+  index: -1
+xaintiao/xiantiao_18
+  rotate: false
+  xy: 122, 2
+  size: 41, 17
+  orig: 60, 51
+  offset: 11, 34
+  index: -1
+xaintiao/xiantiao_19
+  rotate: true
+  xy: 555, 85
+  size: 30, 14
+  orig: 60, 51
+  offset: 11, 37
+  index: -1
+xaintiao/xiantiao_2
+  rotate: false
+  xy: 508, 59
+  size: 50, 7
+  orig: 60, 51
+  offset: 8, 5
+  index: -1
+xaintiao/xiantiao_20
+  rotate: true
+  xy: 560, 57
+  size: 26, 9
+  orig: 60, 51
+  offset: 15, 42
+  index: -1
+xaintiao/xiantiao_3
+  rotate: false
+  xy: 224, 10
+  size: 56, 11
+  orig: 60, 51
+  offset: 3, 4
+  index: -1
+xaintiao/xiantiao_4
+  rotate: false
+  xy: 165, 10
+  size: 57, 11
+  orig: 60, 51
+  offset: 2, 4
+  index: -1
+xaintiao/xiantiao_5
+  rotate: false
+  xy: 62, 3
+  size: 58, 16
+  orig: 60, 51
+  offset: 2, 4
+  index: -1
+xaintiao/xiantiao_6
+  rotate: false
+  xy: 2, 2
+  size: 58, 17
+  orig: 60, 51
+  offset: 2, 4
+  index: -1
+xaintiao/xiantiao_7
+  rotate: false
+  xy: 447, 32
+  size: 60, 20
+  orig: 60, 51
+  offset: 0, 5
+  index: -1
+xaintiao/xiantiao_8
+  rotate: false
+  xy: 282, 2
+  size: 60, 22
+  orig: 60, 51
+  offset: 0, 5
+  index: -1
+xaintiao/xiantiao_9
+  rotate: false
+  xy: 344, 2
+  size: 60, 26
+  orig: 60, 51
+  offset: 0, 7
+  index: -1
+xiaozhuanpan/beijing
+  rotate: false
+  xy: 123, 23
+  size: 116, 117
+  orig: 118, 119
+  offset: 1, 1
+  index: -1
+xiaozhuanpan/kuang
+  rotate: false
+  xy: 2, 21
+  size: 119, 119
+  orig: 121, 121
+  offset: 1, 1
+  index: -1
+xiaozhuanpan/tingzi
+  rotate: true
+  xy: 344, 30
+  size: 110, 101
+  orig: 112, 103
+  offset: 1, 1
+  index: -1

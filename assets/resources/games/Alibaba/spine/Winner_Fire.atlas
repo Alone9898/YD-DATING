@@ -1,0 +1,146 @@
+
+Winner_Fire.png
+size: 894,892
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Winner_Fire/Winner_Fire_00
+  rotate: false
+  xy: 2, 762
+  size: 252, 128
+  orig: 252, 128
+  offset: 0, 0
+  index: -1
+Winner_Fire/Winner_Fire_01
+  rotate: false
+  xy: 2, 632
+  size: 252, 128
+  orig: 252, 128
+  offset: 0, 0
+  index: -1
+Winner_Fire/Winner_Fire_02
+  rotate: false
+  xy: 256, 762
+  size: 252, 128
+  orig: 252, 128
+  offset: 0, 0
+  index: -1
+Winner_Fire/Winner_Fire_03
+  rotate: false
+  xy: 2, 502
+  size: 252, 128
+  orig: 252, 128
+  offset: 0, 0
+  index: -1
+Winner_Fire/Winner_Fire_04
+  rotate: false
+  xy: 256, 632
+  size: 252, 128
+  orig: 252, 128
+  offset: 0, 0
+  index: -1
+Winner_Fire/Winner_Fire_05
+  rotate: false
+  xy: 510, 762
+  size: 252, 128
+  orig: 252, 128
+  offset: 0, 0
+  index: -1
+Winner_Fire/Winner_Fire_06
+  rotate: false
+  xy: 2, 372
+  size: 252, 128
+  orig: 252, 128
+  offset: 0, 0
+  index: -1
+Winner_Fire/Winner_Fire_07
+  rotate: false
+  xy: 256, 502
+  size: 252, 128
+  orig: 252, 128
+  offset: 0, 0
+  index: -1
+Winner_Fire/Winner_Fire_08
+  rotate: false
+  xy: 510, 632
+  size: 252, 128
+  orig: 252, 128
+  offset: 0, 0
+  index: -1
+Winner_Fire/Winner_Fire_09
+  rotate: true
+  xy: 764, 638
+  size: 252, 128
+  orig: 252, 128
+  offset: 0, 0
+  index: -1
+Winner_Fire/Winner_Fire_10
+  rotate: false
+  xy: 2, 242
+  size: 252, 128
+  orig: 252, 128
+  offset: 0, 0
+  index: -1
+Winner_Fire/Winner_Fire_11
+  rotate: false
+  xy: 256, 372
+  size: 252, 128
+  orig: 252, 128
+  offset: 0, 0
+  index: -1
+Winner_Fire/Winner_Fire_12
+  rotate: false
+  xy: 510, 502
+  size: 252, 128
+  orig: 252, 128
+  offset: 0, 0
+  index: -1
+Winner_Fire/Winner_Fire_13
+  rotate: false
+  xy: 2, 112
+  size: 252, 128
+  orig: 252, 128
+  offset: 0, 0
+  index: -1
+Winner_Fire/Winner_Fire_14
+  rotate: false
+  xy: 256, 242
+  size: 252, 128
+  orig: 252, 128
+  offset: 0, 0
+  index: -1
+Winner_Fire/Winner_Fire_15
+  rotate: false
+  xy: 510, 372
+  size: 252, 128
+  orig: 252, 128
+  offset: 0, 0
+  index: -1
+Winner_Fire/Winner_Fire_16
+  rotate: true
+  xy: 764, 384
+  size: 252, 128
+  orig: 252, 128
+  offset: 0, 0
+  index: -1
+Winner_Fire/Winner_Fire_17
+  rotate: false
+  xy: 256, 112
+  size: 252, 128
+  orig: 252, 128
+  offset: 0, 0
+  index: -1
+Winner_Fire/Winner_Fire_18
+  rotate: false
+  xy: 510, 242
+  size: 252, 128
+  orig: 252, 128
+  offset: 0, 0
+  index: -1
+Winner_Fire/Winner_Fire_19
+  rotate: false
+  xy: 510, 112
+  size: 252, 128
+  orig: 252, 128
+  offset: 0, 0
+  index: -1

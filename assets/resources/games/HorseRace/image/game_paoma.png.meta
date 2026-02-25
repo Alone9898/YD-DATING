@@ -1,0 +1,14 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a91d6595-3354-4451-ae02-f1f16e309f05",
+  "type": "raw",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 289,
+  "height": 2016,
+  "platformSettings": {},
+  "subMetas": {}
+}

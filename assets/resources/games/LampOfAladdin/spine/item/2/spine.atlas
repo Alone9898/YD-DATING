@@ -1,0 +1,104 @@
+
+spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/biyan
+  rotate: false
+  xy: 2, 2
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+images/das
+  rotate: false
+  xy: 618, 154
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+images/ddddddddddd
+  rotate: false
+  xy: 406, 120
+  size: 152, 127
+  orig: 152, 127
+  offset: 0, 0
+  index: -1
+images/dfbx
+  rotate: false
+  xy: 707, 196
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+images/di
+  rotate: false
+  xy: 2, 25
+  size: 200, 222
+  orig: 200, 222
+  offset: 0, 0
+  index: -1
+images/diaozh
+  rotate: false
+  xy: 204, 25
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+images/guang
+  rotate: false
+  xy: 707, 211
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+images/k
+  rotate: false
+  xy: 204, 47
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/lian
+  rotate: true
+  xy: 492, 61
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+images/ssss
+  rotate: true
+  xy: 406, 48
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+images/st
+  rotate: false
+  xy: 560, 174
+  size: 83, 73
+  orig: 83, 73
+  offset: 0, 0
+  index: -1
+images/ygbo
+  rotate: false
+  xy: 560, 125
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+images/ysho
+  rotate: false
+  xy: 645, 176
+  size: 60, 71
+  orig: 60, 71
+  offset: 0, 0
+  index: -1
+images/zVx
+  rotate: false
+  xy: 406, 58
+  size: 84, 60
+  orig: 84, 60
+  offset: 0, 0
+  index: -1

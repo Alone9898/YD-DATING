@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "790d9f5c-c6ec-4e1c-a960-6da9c8cb49ac",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "Socre_MagicLady_big_9": {
+      "ver": "1.0.4",
+      "uuid": "7bf9d184-e04b-45a1-84d6-bd1803a73301",
+      "rawTextureUuid": "790d9f5c-c6ec-4e1c-a960-6da9c8cb49ac",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 1,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 1020,
+      "height": 1016,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

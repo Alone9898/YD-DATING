@@ -1,0 +1,20 @@
+
+314_q.png
+size: 234,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/xx
+  rotate: false
+  xy: 153, 33
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+images/q
+  rotate: true
+  xy: 2, 2
+  size: 109, 149
+  orig: 109, 149
+  offset: 0, 0
+  index: -1

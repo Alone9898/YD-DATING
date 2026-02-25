@@ -1,0 +1,111 @@
+
+xiaohuangquan.png
+size: 598,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/xhuangquan/xhuangquan_00
+  rotate: false
+  xy: 120, 54
+  size: 119, 48
+  orig: 120, 50
+  offset: 1, 2
+  index: -1
+ef/xhuangquan/xhuangquan_01
+  rotate: false
+  xy: 362, 106
+  size: 118, 48
+  orig: 120, 50
+  offset: 2, 2
+  index: -1
+ef/xhuangquan/xhuangquan_02
+  rotate: false
+  xy: 362, 56
+  size: 118, 48
+  orig: 120, 50
+  offset: 2, 2
+  index: -1
+ef/xhuangquan/xhuangquan_03
+  rotate: false
+  xy: 482, 105
+  size: 116, 49
+  orig: 120, 50
+  offset: 3, 1
+  index: -1
+ef/xhuangquan/xhuangquan_04
+  rotate: false
+  xy: 241, 5
+  size: 116, 48
+  orig: 120, 50
+  offset: 3, 2
+  index: -1
+ef/xhuangquan/xhuangquan_05
+  rotate: false
+  xy: 242, 55
+  size: 118, 48
+  orig: 120, 50
+  offset: 2, 2
+  index: -1
+ef/xhuangquan/xhuangquan_06
+  rotate: false
+  xy: 242, 105
+  size: 118, 49
+  orig: 120, 50
+  offset: 2, 1
+  index: -1
+ef/xhuangquan/xhuangquan_07
+  rotate: false
+  xy: 0, 104
+  size: 120, 50
+  orig: 120, 50
+  offset: 0, 0
+  index: -1
+ef/xhuangquan/xhuangquan_08
+  rotate: false
+  xy: 120, 2
+  size: 117, 50
+  orig: 120, 50
+  offset: 2, 0
+  index: -1
+ef/xhuangquan/xhuangquan_09
+  rotate: false
+  xy: 0, 52
+  size: 118, 50
+  orig: 120, 50
+  offset: 2, 0
+  index: -1
+ef/xhuangquan/xhuangquan_10
+  rotate: false
+  xy: 122, 104
+  size: 118, 50
+  orig: 120, 50
+  offset: 2, 0
+  index: -1
+ef/xhuangquan/xhuangquan_11
+  rotate: false
+  xy: 362, 6
+  size: 117, 48
+  orig: 120, 50
+  offset: 1, 2
+  index: -1
+ef/xhuangquan/xhuangquan_12
+  rotate: false
+  xy: 481, 3
+  size: 117, 49
+  orig: 120, 50
+  offset: 1, 1
+  index: -1
+ef/xhuangquan/xhuangquan_13
+  rotate: false
+  xy: 482, 54
+  size: 116, 49
+  orig: 120, 50
+  offset: 1, 1
+  index: -1
+ef/xhuangquan/xhuangquan_14
+  rotate: false
+  xy: 0, 0
+  size: 118, 50
+  orig: 120, 50
+  offset: 2, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+dianji.png
+size: 1235,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianji/dianji_00
+  rotate: false
+  xy: 1017, 179
+  size: 95, 95
+  orig: 227, 224
+  offset: 65, 63
+  index: -1
+dianji/dianji_01
+  rotate: true
+  xy: 1121, 50
+  size: 110, 111
+  orig: 227, 224
+  offset: 57, 55
+  index: -1
+dianji/dianji_02
+  rotate: false
+  xy: 763, 19
+  size: 125, 126
+  orig: 227, 224
+  offset: 50, 48
+  index: -1
+dianji/dianji_03
+  rotate: false
+  xy: 1121, 162
+  size: 112, 112
+  orig: 227, 224
+  offset: 56, 56
+  index: -1
+dianji/dianji_04
+  rotate: false
+  xy: 890, 29
+  size: 120, 120
+  orig: 227, 224
+  offset: 52, 52
+  index: -1
+dianji/dianji_05
+  rotate: false
+  xy: 507, 11
+  size: 130, 130
+  orig: 227, 224
+  offset: 47, 47
+  index: -1
+dianji/dianji_06
+  rotate: false
+  xy: 2, 138
+  size: 136, 136
+  orig: 227, 224
+  offset: 44, 44
+  index: -1
+dianji/dianji_07
+  rotate: false
+  xy: 653, 147
+  size: 123, 127
+  orig: 227, 224
+  offset: 50, 50
+  index: -1
+dianji/dianji_08
+  rotate: false
+  xy: 524, 145
+  size: 127, 129
+  orig: 227, 224
+  offset: 48, 49
+  index: -1
+dianji/dianji_09
+  rotate: false
+  xy: 250, 3
+  size: 130, 133
+  orig: 227, 224
+  offset: 46, 47
+  index: -1
+dianji/dianji_10
+  rotate: false
+  xy: 140, 138
+  size: 133, 136
+  orig: 227, 224
+  offset: 44, 45
+  index: -1
+dianji/dianji_11
+  rotate: false
+  xy: 2, 2
+  size: 122, 134
+  orig: 227, 224
+  offset: 56, 47
+  index: -1
+dianji/dianji_12
+  rotate: false
+  xy: 126, 2
+  size: 122, 134
+  orig: 227, 224
+  offset: 56, 48
+  index: -1
+dianji/dianji_13
+  rotate: false
+  xy: 275, 142
+  size: 123, 132
+  orig: 227, 224
+  offset: 56, 49
+  index: -1
+dianji/dianji_14
+  rotate: false
+  xy: 382, 9
+  size: 123, 131
+  orig: 227, 224
+  offset: 56, 50
+  index: -1
+dianji/dianji_15
+  rotate: false
+  xy: 400, 143
+  size: 122, 131
+  orig: 227, 224
+  offset: 56, 50
+  index: -1
+dianji/dianji_16
+  rotate: false
+  xy: 639, 15
+  size: 122, 128
+  orig: 227, 224
+  offset: 56, 51
+  index: -1
+dianji/dianji_17
+  rotate: false
+  xy: 778, 151
+  size: 120, 123
+  orig: 227, 224
+  offset: 57, 52
+  index: -1
+dianji/dianji_18
+  rotate: false
+  xy: 900, 155
+  size: 115, 119
+  orig: 227, 224
+  offset: 59, 55
+  index: -1
+dianji/dianji_19
+  rotate: false
+  xy: 1012, 36
+  size: 107, 117
+  orig: 227, 224
+  offset: 62, 57
+  index: -1

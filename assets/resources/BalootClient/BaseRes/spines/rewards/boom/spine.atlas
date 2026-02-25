@@ -1,0 +1,104 @@
+
+spine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CashBonus_tx_baozha_02
+  rotate: false
+  xy: 2, 167
+  size: 165, 163
+  orig: 165, 163
+  offset: 0, 0
+  index: -1
+CashBonus_tx_baozha_04
+  rotate: false
+  xy: 660, 823
+  size: 165, 163
+  orig: 165, 163
+  offset: 0, 0
+  index: -1
+CashBonus_tx_baozha_06
+  rotate: false
+  xy: 2, 2
+  size: 165, 163
+  orig: 165, 163
+  offset: 0, 0
+  index: -1
+CashBonus_tx_baozha_08
+  rotate: false
+  xy: 169, 167
+  size: 165, 163
+  orig: 165, 163
+  offset: 0, 0
+  index: -1
+CashBonus_tx_baozha_10
+  rotate: false
+  xy: 660, 658
+  size: 165, 163
+  orig: 165, 163
+  offset: 0, 0
+  index: -1
+CashBonus_tx_baozha_12
+  rotate: false
+  xy: 827, 823
+  size: 165, 163
+  orig: 165, 163
+  offset: 0, 0
+  index: -1
+CashBonus_tx_baozha_14
+  rotate: false
+  xy: 169, 2
+  size: 165, 163
+  orig: 165, 163
+  offset: 0, 0
+  index: -1
+CashBonus_tx_baozha_16
+  rotate: false
+  xy: 336, 167
+  size: 165, 163
+  orig: 165, 163
+  offset: 0, 0
+  index: -1
+CashBonus_tx_baozha_18
+  rotate: false
+  xy: 660, 493
+  size: 165, 163
+  orig: 165, 163
+  offset: 0, 0
+  index: -1
+CashBonus_tx_baozha_20
+  rotate: false
+  xy: 827, 658
+  size: 165, 163
+  orig: 165, 163
+  offset: 0, 0
+  index: -1
+CashBonus_tx_baozha_22
+  rotate: false
+  xy: 336, 2
+  size: 165, 163
+  orig: 165, 163
+  offset: 0, 0
+  index: -1
+CashBonus_tx_baozha_24
+  rotate: false
+  xy: 827, 493
+  size: 165, 163
+  orig: 165, 163
+  offset: 0, 0
+  index: -1
+CashBonus_tx_baozha_26
+  rotate: false
+  xy: 660, 328
+  size: 165, 163
+  orig: 165, 163
+  offset: 0, 0
+  index: -1
+CashBonus_tx_baozha_kuosan
+  rotate: false
+  xy: 2, 332
+  size: 656, 654
+  orig: 656, 654
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+header2.png
+size: 321,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ingame_header_footer/header/ingame_header_img04
+  rotate: false
+  xy: 0, 0
+  size: 321, 236
+  orig: 321, 236
+  offset: 0, 0
+  index: -1

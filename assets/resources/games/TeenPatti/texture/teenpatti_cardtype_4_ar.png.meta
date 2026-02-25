@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "6124cd59-6b5a-4f3c-b24c-a11d6e3e22c1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 351,
+  "height": 69,
+  "platformSettings": {},
+  "subMetas": {
+    "teenpatti_cardtype_4_ar": {
+      "ver": "1.0.4",
+      "uuid": "a2b517f5-d836-4883-a7f9-2e7e16a077f0",
+      "rawTextureUuid": "6124cd59-6b5a-4f3c-b24c-a11d6e3e22c1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0.5,
+      "trimX": 99,
+      "trimY": 1,
+      "width": 154,
+      "height": 66,
+      "rawWidth": 351,
+      "rawHeight": 69,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

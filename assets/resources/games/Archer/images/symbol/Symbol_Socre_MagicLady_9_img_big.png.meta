@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c356a007-8621-475c-a03e-68bc59a691ce",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 438,
+  "height": 379,
+  "platformSettings": {},
+  "subMetas": {
+    "Symbol_Socre_MagicLady_9_img_big": {
+      "ver": "1.0.4",
+      "uuid": "eccc139b-aa67-4312-81f8-88387b8350cb",
+      "rawTextureUuid": "c356a007-8621-475c-a03e-68bc59a691ce",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 438,
+      "height": 379,
+      "rawWidth": 438,
+      "rawHeight": 379,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

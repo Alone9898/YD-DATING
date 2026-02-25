@@ -1,0 +1,258 @@
+
+spine.png
+size: 1017,1015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/jjdz_b_1_00
+  rotate: true
+  xy: 427, 743
+  size: 120, 232
+  orig: 300, 300
+  offset: 90, 34
+  index: -1
+02/jjdz_b_1_15
+  rotate: true
+  xy: 427, 743
+  size: 120, 232
+  orig: 300, 300
+  offset: 90, 34
+  index: -1
+02/jjdz_b_1_16
+  rotate: true
+  xy: 427, 743
+  size: 120, 232
+  orig: 300, 300
+  offset: 90, 34
+  index: -1
+02/jjdz_b_2_12
+  rotate: true
+  xy: 427, 743
+  size: 120, 232
+  orig: 300, 300
+  offset: 90, 34
+  index: -1
+02/jjdz_b_1_01
+  rotate: true
+  xy: 660, 477
+  size: 111, 228
+  orig: 300, 300
+  offset: 98, 35
+  index: -1
+02/jjdz_b_1_02
+  rotate: false
+  xy: 908, 795
+  size: 106, 218
+  orig: 300, 300
+  offset: 101, 38
+  index: -1
+02/jjdz_b_1_03
+  rotate: false
+  xy: 121, 3
+  size: 109, 207
+  orig: 300, 300
+  offset: 102, 40
+  index: -1
+02/jjdz_b_1_04
+  rotate: false
+  xy: 2, 7
+  size: 117, 203
+  orig: 300, 300
+  offset: 102, 41
+  index: -1
+02/jjdz_b_1_05
+  rotate: false
+  xy: 882, 593
+  size: 123, 200
+  orig: 300, 300
+  offset: 101, 42
+  index: -1
+02/jjdz_b_1_06
+  rotate: true
+  xy: 802, 79
+  size: 111, 201
+  orig: 300, 300
+  offset: 102, 42
+  index: -1
+02/jjdz_b_1_07
+  rotate: true
+  xy: 581, 22
+  size: 111, 216
+  orig: 300, 300
+  offset: 102, 28
+  index: -1
+02/jjdz_b_1_08
+  rotate: true
+  xy: 581, 135
+  size: 111, 219
+  orig: 300, 300
+  offset: 102, 25
+  index: -1
+02/jjdz_b_1_09
+  rotate: true
+  xy: 594, 355
+  size: 120, 223
+  orig: 300, 300
+  offset: 93, 20
+  index: -1
+02/jjdz_b_1_10
+  rotate: true
+  xy: 437, 865
+  size: 148, 221
+  orig: 300, 300
+  offset: 65, 21
+  index: -1
+02/jjdz_b_1_11
+  rotate: true
+  xy: 661, 728
+  size: 162, 217
+  orig: 300, 300
+  offset: 51, 24
+  index: -1
+02/jjdz_b_1_12
+  rotate: false
+  xy: 384, 527
+  size: 174, 214
+  orig: 300, 300
+  offset: 39, 27
+  index: -1
+02/jjdz_b_1_13
+  rotate: true
+  xy: 660, 590
+  size: 136, 220
+  orig: 300, 300
+  offset: 77, 34
+  index: -1
+02/jjdz_b_1_14
+  rotate: false
+  xy: 346, 270
+  size: 122, 230
+  orig: 300, 300
+  offset: 91, 34
+  index: -1
+02/jjdz_b_2_00
+  rotate: true
+  xy: 169, 751
+  size: 113, 256
+  orig: 300, 300
+  offset: 94, 10
+  index: -1
+02/jjdz_b_2_01
+  rotate: false
+  xy: 165, 492
+  size: 96, 254
+  orig: 300, 300
+  offset: 102, 12
+  index: -1
+02/jjdz_b_2_02
+  rotate: false
+  xy: 560, 511
+  size: 98, 230
+  orig: 300, 300
+  offset: 99, 36
+  index: -1
+02/jjdz_b_2_03
+  rotate: true
+  xy: 819, 337
+  size: 138, 196
+  orig: 300, 300
+  offset: 77, 70
+  index: -1
+02/jjdz_b_2_04
+  rotate: true
+  xy: 819, 192
+  size: 143, 192
+  orig: 300, 300
+  offset: 74, 74
+  index: -1
+02/jjdz_b_2_05
+  rotate: true
+  xy: 594, 248
+  size: 105, 223
+  orig: 300, 300
+  offset: 96, 43
+  index: -1
+02/jjdz_b_2_06
+  rotate: false
+  xy: 123, 217
+  size: 93, 261
+  orig: 300, 300
+  offset: 104, 5
+  index: -1
+02/jjdz_b_2_07
+  rotate: false
+  xy: 2, 212
+  size: 119, 266
+  orig: 300, 300
+  offset: 89, 0
+  index: -1
+02/jjdz_b_2_08
+  rotate: true
+  xy: 169, 866
+  size: 147, 266
+  orig: 300, 300
+  offset: 74, 0
+  index: -1
+02/jjdz_b_2_09
+  rotate: false
+  xy: 2, 480
+  size: 161, 266
+  orig: 300, 300
+  offset: 67, 0
+  index: -1
+02/jjdz_b_2_10
+  rotate: false
+  xy: 2, 748
+  size: 165, 265
+  orig: 300, 300
+  offset: 65, 1
+  index: -1
+02/jjdz_b_2_11
+  rotate: false
+  xy: 218, 253
+  size: 126, 237
+  orig: 300, 300
+  offset: 86, 29
+  index: -1
+dealer_00
+  rotate: false
+  xy: 232, 24
+  size: 115, 227
+  orig: 300, 300
+  offset: 94, 26
+  index: -1
+dealer_01
+  rotate: false
+  xy: 467, 41
+  size: 112, 227
+  orig: 300, 300
+  offset: 97, 26
+  index: -1
+dealer_02
+  rotate: false
+  xy: 349, 41
+  size: 116, 227
+  orig: 300, 300
+  offset: 93, 26
+  index: -1
+dealer_03
+  rotate: false
+  xy: 470, 282
+  size: 122, 227
+  orig: 300, 300
+  offset: 87, 26
+  index: -1
+dealer_04
+  rotate: true
+  xy: 660, 892
+  size: 121, 246
+  orig: 300, 300
+  offset: 88, 7
+  index: -1
+dealer_05
+  rotate: false
+  xy: 263, 502
+  size: 119, 247
+  orig: 300, 300
+  offset: 90, 6
+  index: -1

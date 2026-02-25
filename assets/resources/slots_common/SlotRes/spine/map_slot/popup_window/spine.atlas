@@ -1,0 +1,20 @@
+
+RJTK_01.png
+size: 246,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slotMachine_bg_star_blue
+  rotate: false
+  xy: 2, 2
+  size: 143, 161
+  orig: 143, 161
+  offset: 0, 0
+  index: -1
+slotMachine_bg_star_red
+  rotate: false
+  xy: 147, 47
+  size: 97, 116
+  orig: 97, 116
+  offset: 0, 0
+  index: -1

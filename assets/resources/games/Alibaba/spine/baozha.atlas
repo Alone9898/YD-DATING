@@ -1,0 +1,125 @@
+
+baozha.png
+size: 612,610
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha/baozha_01
+  rotate: true
+  xy: 507, 235
+  size: 104, 103
+  orig: 153, 156
+  offset: 25, 26
+  index: -1
+baozha/baozha_02
+  rotate: false
+  xy: 403, 88
+  size: 122, 122
+  orig: 153, 156
+  offset: 16, 19
+  index: -1
+baozha/baozha_03
+  rotate: false
+  xy: 382, 212
+  size: 123, 127
+  orig: 153, 156
+  offset: 15, 15
+  index: -1
+baozha/baozha_04
+  rotate: true
+  xy: 139, 343
+  size: 131, 136
+  orig: 153, 156
+  offset: 10, 10
+  index: -1
+baozha/baozha_05
+  rotate: false
+  xy: 2, 469
+  size: 135, 139
+  orig: 153, 156
+  offset: 7, 8
+  index: -1
+baozha/baozha_06
+  rotate: false
+  xy: 2, 181
+  size: 129, 143
+  orig: 153, 156
+  offset: 12, 6
+  index: -1
+baozha/baozha_07
+  rotate: true
+  xy: 277, 344
+  size: 130, 136
+  orig: 153, 156
+  offset: 12, 13
+  index: -1
+baozha/baozha_08
+  rotate: false
+  xy: 2, 41
+  size: 132, 138
+  orig: 153, 156
+  offset: 11, 12
+  index: -1
+baozha/baozha_09
+  rotate: true
+  xy: 424, 475
+  size: 133, 139
+  orig: 153, 156
+  offset: 11, 11
+  index: -1
+baozha/baozha_10
+  rotate: false
+  xy: 2, 326
+  size: 132, 141
+  orig: 153, 156
+  offset: 10, 9
+  index: -1
+baozha/baozha_11
+  rotate: true
+  xy: 139, 476
+  size: 132, 141
+  orig: 153, 156
+  offset: 10, 9
+  index: -1
+baozha/baozha_12
+  rotate: true
+  xy: 282, 476
+  size: 132, 140
+  orig: 153, 156
+  offset: 10, 10
+  index: -1
+baozha/baozha_13
+  rotate: true
+  xy: 136, 209
+  size: 132, 134
+  orig: 153, 156
+  offset: 10, 16
+  index: -1
+baozha/baozha_14
+  rotate: false
+  xy: 136, 73
+  size: 132, 134
+  orig: 153, 156
+  offset: 10, 16
+  index: -1
+baozha/baozha_15
+  rotate: true
+  xy: 415, 341
+  size: 132, 135
+  orig: 153, 156
+  offset: 10, 16
+  index: -1
+baozha/baozha_16
+  rotate: false
+  xy: 270, 72
+  size: 131, 134
+  orig: 153, 156
+  offset: 11, 16
+  index: -1
+baozha/baozha_17
+  rotate: false
+  xy: 272, 208
+  size: 108, 133
+  orig: 153, 156
+  offset: 17, 17
+  index: -1

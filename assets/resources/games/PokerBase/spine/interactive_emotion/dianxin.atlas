@@ -1,0 +1,62 @@
+
+dianxin.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DX1
+  rotate: true
+  xy: 393, 4
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+DX2
+  rotate: true
+  xy: 343, 3
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+DX3
+  rotate: true
+  xy: 292, 2
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+DX4
+  rotate: true
+  xy: 442, 5
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+GG
+  rotate: false
+  xy: 235, 5
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+LG
+  rotate: false
+  xy: 140, 5
+  size: 60, 15
+  orig: 60, 15
+  offset: 0, 0
+  index: -1
+panzi
+  rotate: false
+  xy: 2, 4
+  size: 136, 56
+  orig: 136, 56
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 140, 22
+  size: 93, 38
+  orig: 93, 38
+  offset: 0, 0
+  index: -1

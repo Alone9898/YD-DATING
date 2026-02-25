@@ -1,0 +1,13 @@
+
+TanChuang_Guang.png
+size: 400,395
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g2_000
+  rotate: false
+  xy: 2, 2
+  size: 396, 391
+  orig: 410, 410
+  offset: 7, 14
+  index: -1

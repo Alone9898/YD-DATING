@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "357782a4-558c-4e82-b1bf-5f2c92839bbf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 477,
+  "height": 588,
+  "platformSettings": {},
+  "subMetas": {
+    "Pomi_tanban_di2": {
+      "ver": "1.0.4",
+      "uuid": "3d71a55d-dc12-49af-ac40-3ab2c34ecfff",
+      "rawTextureUuid": "357782a4-558c-4e82-b1bf-5f2c92839bbf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 477,
+      "height": 588,
+      "rawWidth": 477,
+      "rawHeight": 588,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

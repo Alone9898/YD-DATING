@@ -1,0 +1,393 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "tc_tit_sg",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "Effect-Pomi_FreespinTb3_06": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_FreespinTb3_08": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_FreespinTb3_10": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": true
+            },
+            {
+              "frame": 0.1,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_FreespinTb3_46": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": true
+            },
+            {
+              "frame": 0.7,
+              "value": false
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_FreespinTb3_44": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_FreespinTb3_42": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.6,
+              "value": true
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_FreespinTb3_40": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": true
+            },
+            {
+              "frame": 0.6,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_FreespinTb3_38": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_FreespinTb3_36": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5,
+              "value": true
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_FreespinTb3_34": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": true
+            },
+            {
+              "frame": 0.5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_FreespinTb3_32": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": true
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_FreespinTb3_30": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.4,
+              "value": true
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_FreespinTb3_28": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": true
+            },
+            {
+              "frame": 0.4,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_FreespinTb3_26": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_FreespinTb3_24": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.3,
+              "value": true
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_FreespinTb3_22": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": true
+            },
+            {
+              "frame": 0.3,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_FreespinTb3_20": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": true
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_FreespinTb3_18": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.2,
+              "value": true
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_FreespinTb3_16": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": true
+            },
+            {
+              "frame": 0.2,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_FreespinTb3_14": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Effect-Pomi_FreespinTb3_12": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.1,
+              "value": true
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

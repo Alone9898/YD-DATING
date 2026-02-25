@@ -1,0 +1,13 @@
+
+jp4.png
+size: 78,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shizi
+  rotate: false
+  xy: 2, 2
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1

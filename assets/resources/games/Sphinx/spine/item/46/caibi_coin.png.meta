@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "cc9deb48-672c-4c3a-9370-5fb65f5914ed",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "caibi_coin": {
+      "ver": "1.0.4",
+      "uuid": "25780e9d-8729-4387-b7f5-3b533959f1de",
+      "rawTextureUuid": "cc9deb48-672c-4c3a-9370-5fb65f5914ed",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -15,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 990,
+      "height": 508,
+      "rawWidth": 1024,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

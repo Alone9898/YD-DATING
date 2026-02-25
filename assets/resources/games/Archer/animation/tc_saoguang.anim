@@ -1,0 +1,151 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "tc_saoguang",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "saoguang1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -171,
+                221.84,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -171,
+                -240.681,
+                0
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1.1,
+              "value": false
+            }
+          ]
+        }
+      },
+      "saoguang2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1.1,
+              "value": false
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -185.796,
+                207,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                171.43,
+                207,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "saoguang3": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 2,
+              "value": false
+            }
+          ],
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                171,
+                218.959,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                171,
+                -236.732,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "saoguang4": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 2,
+              "value": false
+            }
+          ],
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                -214.456,
+                -207,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                192.092,
+                -207,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

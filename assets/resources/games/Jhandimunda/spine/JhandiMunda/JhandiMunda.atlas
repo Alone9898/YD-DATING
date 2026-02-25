@@ -1,0 +1,62 @@
+
+JhandiMunda.png
+size: 469,469
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tex/12
+  rotate: true
+  xy: 2, 340
+  size: 127, 181
+  orig: 158, 182
+  offset: 15, 0
+  index: -1
+tex/13
+  rotate: true
+  xy: 185, 339
+  size: 128, 194
+  orig: 148, 195
+  offset: 10, 0
+  index: -1
+tex/tz/1
+  rotate: true
+  xy: 2, 207
+  size: 131, 154
+  orig: 131, 154
+  offset: 0, 0
+  index: -1
+tex/tz/2
+  rotate: true
+  xy: 158, 206
+  size: 131, 153
+  orig: 131, 154
+  offset: 0, 0
+  index: -1
+tex/tz/3
+  rotate: true
+  xy: 313, 206
+  size: 131, 154
+  orig: 131, 154
+  offset: 0, 0
+  index: -1
+tex/tz/4
+  rotate: true
+  xy: 2, 74
+  size: 131, 153
+  orig: 131, 154
+  offset: 0, 0
+  index: -1
+tex/tz/5
+  rotate: true
+  xy: 157, 73
+  size: 131, 154
+  orig: 131, 154
+  offset: 0, 0
+  index: -1
+tex/tz/6
+  rotate: true
+  xy: 313, 73
+  size: 131, 153
+  orig: 131, 154
+  offset: 0, 0
+  index: -1

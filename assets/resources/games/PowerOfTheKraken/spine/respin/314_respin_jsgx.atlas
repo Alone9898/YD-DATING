@@ -1,0 +1,48 @@
+
+314_respin_jsgx.png
+size: 962,960
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ggg
+  rotate: false
+  xy: 2, 93
+  size: 385, 366
+  orig: 464, 400
+  offset: 42, 18
+  index: -1
+gsb_theme100100_tex056
+  rotate: true
+  xy: 667, 651
+  size: 307, 293
+  orig: 329, 329
+  offset: 9, 35
+  index: -1
+guangqiu1
+  rotate: false
+  xy: 2, 461
+  size: 499, 497
+  orig: 512, 512
+  offset: 11, 8
+  index: -1
+kuang_00
+  rotate: true
+  xy: 503, 348
+  size: 610, 162
+  orig: 628, 177
+  offset: 10, 7
+  index: -1
+lzhs_00
+  rotate: false
+  xy: 389, 25
+  size: 329, 321
+  orig: 329, 321
+  offset: 0, 0
+  index: -1
+zhag011
+  rotate: false
+  xy: 667, 350
+  size: 284, 299
+  orig: 284, 299
+  offset: 0, 0
+  index: -1

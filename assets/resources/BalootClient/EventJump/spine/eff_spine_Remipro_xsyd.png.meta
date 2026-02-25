@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "6b3f5f97-b981-480b-bd12-97e4e92ed8f1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 322,
+  "height": 322,
+  "platformSettings": {},
+  "subMetas": {
+    "eff_spine_Remipro_xsyd": {
+      "ver": "1.0.4",
+      "uuid": "9b41bae3-84fe-4e58-98c5-2542bf82b9f0",
+      "rawTextureUuid": "6b3f5f97-b981-480b-bd12-97e4e92ed8f1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -83,
+      "offsetY": 9,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 152,
+      "height": 300,
+      "rawWidth": 322,
+      "rawHeight": 322,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

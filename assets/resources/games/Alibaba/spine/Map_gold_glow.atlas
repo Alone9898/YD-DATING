@@ -1,0 +1,146 @@
+
+Map_gold_glow.png
+size: 270,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow/glow_00
+  rotate: false
+  xy: 200, 23
+  size: 64, 46
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+glow/glow_01
+  rotate: false
+  xy: 134, 67
+  size: 64, 47
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+glow/glow_02
+  rotate: false
+  xy: 134, 116
+  size: 64, 48
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+glow/glow_03
+  rotate: false
+  xy: 68, 164
+  size: 64, 50
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+glow/glow_04
+  rotate: false
+  xy: 134, 218
+  size: 64, 50
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+glow/glow_05
+  rotate: false
+  xy: 2, 54
+  size: 64, 50
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+glow/glow_06
+  rotate: false
+  xy: 68, 112
+  size: 64, 50
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+glow/glow_07
+  rotate: false
+  xy: 68, 216
+  size: 64, 52
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+glow/glow_08
+  rotate: false
+  xy: 2, 215
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+glow/glow_09
+  rotate: false
+  xy: 2, 160
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+glow/glow_10
+  rotate: false
+  xy: 2, 106
+  size: 64, 52
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+glow/glow_11
+  rotate: false
+  xy: 134, 166
+  size: 64, 50
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+glow/glow_12
+  rotate: false
+  xy: 200, 218
+  size: 64, 50
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+glow/glow_13
+  rotate: false
+  xy: 2, 2
+  size: 64, 50
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+glow/glow_14
+  rotate: false
+  xy: 68, 60
+  size: 64, 50
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+glow/glow_15
+  rotate: false
+  xy: 200, 168
+  size: 64, 48
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+glow/glow_16
+  rotate: false
+  xy: 68, 10
+  size: 64, 48
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+glow/glow_17
+  rotate: false
+  xy: 200, 119
+  size: 64, 47
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+glow/glow_18
+  rotate: false
+  xy: 134, 18
+  size: 64, 47
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+glow/glow_19
+  rotate: false
+  xy: 200, 71
+  size: 64, 46
+  orig: 64, 53
+  offset: 0, 0
+  index: -1

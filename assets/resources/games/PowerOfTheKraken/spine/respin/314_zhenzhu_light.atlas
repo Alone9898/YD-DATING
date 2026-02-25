@@ -1,0 +1,41 @@
+
+314_zhenzhu_light.png
+size: 370,370
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+173755
+  rotate: false
+  xy: 2, 2
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+T_qipao1
+  rotate: false
+  xy: 288, 313
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+dian2
+  rotate: false
+  xy: 120, 61
+  size: 73, 57
+  orig: 74, 57
+  offset: 1, 0
+  index: -1
+guangqiu1
+  rotate: false
+  xy: 2, 120
+  size: 250, 248
+  orig: 256, 256
+  offset: 5, 4
+  index: -1
+shedeng
+  rotate: false
+  xy: 254, 240
+  size: 32, 128
+  orig: 32, 128
+  offset: 0, 0
+  index: -1

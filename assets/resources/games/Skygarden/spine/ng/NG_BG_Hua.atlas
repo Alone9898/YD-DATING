@@ -1,0 +1,83 @@
+
+NG_BG_Hua.png
+size: 426,347
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ghh
+  rotate: false
+  xy: 2, 2
+  size: 346, 343
+  orig: 350, 450
+  offset: 4, 107
+  index: -1
+images/h1
+  rotate: false
+  xy: 375, 266
+  size: 49, 79
+  orig: 49, 79
+  offset: 0, 0
+  index: -1
+images/h10
+  rotate: true
+  xy: 350, 192
+  size: 153, 23
+  orig: 153, 23
+  offset: 0, 0
+  index: -1
+images/h2
+  rotate: false
+  xy: 350, 68
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+images/h3
+  rotate: false
+  xy: 375, 192
+  size: 41, 72
+  orig: 41, 72
+  offset: 0, 0
+  index: -1
+images/h4
+  rotate: false
+  xy: 350, 14
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+images/h5
+  rotate: false
+  xy: 350, 48
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+images/h6
+  rotate: false
+  xy: 392, 134
+  size: 23, 56
+  orig: 23, 56
+  offset: 0, 0
+  index: -1
+images/h7
+  rotate: false
+  xy: 350, 28
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+images/h9
+  rotate: false
+  xy: 350, 28
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+images/h8
+  rotate: false
+  xy: 350, 122
+  size: 40, 68
+  orig: 40, 68
+  offset: 0, 0
+  index: -1

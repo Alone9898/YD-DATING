@@ -1,0 +1,146 @@
+
+avatarframe_v_12.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/gaoji1_0
+  rotate: false
+  xy: 2, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+1/gaoji1_1
+  rotate: false
+  xy: 2, 506
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+1/gaoji1_10
+  rotate: false
+  xy: 254, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+1/gaoji1_11
+  rotate: false
+  xy: 506, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+1/gaoji1_12
+  rotate: false
+  xy: 758, 506
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+1/gaoji1_13
+  rotate: false
+  xy: 1010, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+1/gaoji1_14
+  rotate: false
+  xy: 506, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+1/gaoji1_15
+  rotate: false
+  xy: 758, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+1/gaoji1_16
+  rotate: false
+  xy: 1010, 506
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+1/gaoji1_17
+  rotate: false
+  xy: 1262, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+1/gaoji1_18
+  rotate: false
+  xy: 758, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+1/gaoji1_19
+  rotate: false
+  xy: 1010, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+1/gaoji1_2
+  rotate: false
+  xy: 254, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+1/gaoji1_3
+  rotate: false
+  xy: 2, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+1/gaoji1_4
+  rotate: false
+  xy: 254, 506
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+1/gaoji1_5
+  rotate: false
+  xy: 506, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+1/gaoji1_6
+  rotate: false
+  xy: 2, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+1/gaoji1_7
+  rotate: false
+  xy: 254, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+1/gaoji1_8
+  rotate: false
+  xy: 506, 506
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+1/gaoji1_9
+  rotate: false
+  xy: 758, 758
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1

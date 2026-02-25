@@ -1,0 +1,27 @@
+
+symbol_san.png
+size: 375,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+san_gaoliang
+  rotate: false
+  xy: 2, 2
+  size: 156, 141
+  orig: 156, 141
+  offset: 0, 0
+  index: -1
+xiaozhuanpan/beijing
+  rotate: true
+  xy: 282, 20
+  size: 123, 91
+  orig: 125, 93
+  offset: 1, 1
+  index: -1
+xiaozhuanpan/san
+  rotate: false
+  xy: 160, 36
+  size: 120, 107
+  orig: 122, 109
+  offset: 1, 1
+  index: -1

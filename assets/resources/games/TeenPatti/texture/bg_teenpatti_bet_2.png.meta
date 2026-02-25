@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "dc2b052c-6093-4662-96ff-7e0332e53beb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 100,
+  "height": 28,
+  "platformSettings": {},
+  "subMetas": {
+    "bg_teenpatti_bet_2": {
+      "ver": "1.0.4",
+      "uuid": "035f3633-8dfe-4ee9-be9f-134f1248e834",
+      "rawTextureUuid": "dc2b052c-6093-4662-96ff-7e0332e53beb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 100,
+      "height": 28,
+      "rawWidth": 100,
+      "rawHeight": 28,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

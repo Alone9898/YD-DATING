@@ -1,0 +1,244 @@
+
+pick_ks_01.png
+size: 581,580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liuguang01_0/liuguang01_0
+  rotate: false
+  xy: 50, 4
+  size: 30, 28
+  orig: 279, 72
+  offset: 18, 19
+  index: -1
+liuguang01_0/liuguang01_1
+  rotate: false
+  xy: 530, 551
+  size: 39, 29
+  orig: 279, 72
+  offset: 15, 19
+  index: -1
+liuguang01_0/liuguang01_10
+  rotate: false
+  xy: 124, 32
+  size: 109, 39
+  orig: 279, 72
+  offset: 22, 21
+  index: -1
+liuguang01_0/liuguang01_11
+  rotate: false
+  xy: 469, 170
+  size: 112, 39
+  orig: 279, 72
+  offset: 27, 22
+  index: -1
+liuguang01_0/liuguang01_12
+  rotate: false
+  xy: 470, 211
+  size: 111, 38
+  orig: 279, 72
+  offset: 38, 24
+  index: -1
+liuguang01_0/liuguang01_13
+  rotate: false
+  xy: 230, 131
+  size: 115, 37
+  orig: 279, 72
+  offset: 43, 25
+  index: -1
+liuguang01_0/liuguang01_14
+  rotate: false
+  xy: 348, 97
+  size: 113, 37
+  orig: 279, 72
+  offset: 54, 26
+  index: -1
+liuguang01_0/liuguang01_15
+  rotate: false
+  xy: 230, 93
+  size: 116, 36
+  orig: 279, 72
+  offset: 59, 27
+  index: -1
+liuguang01_0/liuguang01_16
+  rotate: false
+  xy: 217, 170
+  size: 118, 35
+  orig: 279, 72
+  offset: 67, 28
+  index: -1
+liuguang01_0/liuguang01_17
+  rotate: false
+  xy: 347, 136
+  size: 118, 35
+  orig: 279, 72
+  offset: 76, 28
+  index: -1
+liuguang01_0/liuguang01_18
+  rotate: false
+  xy: 346, 173
+  size: 121, 36
+  orig: 279, 72
+  offset: 84, 27
+  index: -1
+liuguang01_0/liuguang01_19
+  rotate: false
+  xy: 0, 34
+  size: 122, 37
+  orig: 279, 72
+  offset: 92, 26
+  index: -1
+liuguang01_0/liuguang01_2
+  rotate: false
+  xy: 0, 0
+  size: 48, 32
+  orig: 279, 72
+  offset: 15, 18
+  index: -1
+liuguang01_0/liuguang01_20
+  rotate: false
+  xy: 346, 211
+  size: 122, 38
+  orig: 279, 72
+  offset: 101, 25
+  index: -1
+liuguang01_0/liuguang01_21
+  rotate: false
+  xy: 0, 120
+  size: 123, 40
+  orig: 279, 72
+  offset: 111, 23
+  index: -1
+liuguang01_0/liuguang01_22
+  rotate: false
+  xy: 89, 162
+  size: 124, 41
+  orig: 279, 72
+  offset: 121, 22
+  index: -1
+liuguang01_0/liuguang01_23
+  rotate: false
+  xy: 217, 207
+  size: 127, 42
+  orig: 279, 72
+  offset: 127, 20
+  index: -1
+liuguang01_0/liuguang01_24
+  rotate: false
+  xy: 89, 205
+  size: 126, 44
+  orig: 279, 72
+  offset: 136, 18
+  index: -1
+liuguang01_0/liuguang01_25
+  rotate: false
+  xy: 0, 73
+  size: 117, 45
+  orig: 279, 72
+  offset: 147, 17
+  index: -1
+liuguang01_0/liuguang01_26
+  rotate: false
+  xy: 119, 73
+  size: 109, 44
+  orig: 279, 72
+  offset: 156, 17
+  index: -1
+liuguang01_0/liuguang01_27
+  rotate: false
+  xy: 467, 125
+  size: 97, 43
+  orig: 279, 72
+  offset: 169, 17
+  index: -1
+liuguang01_0/liuguang01_28
+  rotate: false
+  xy: 235, 48
+  size: 95, 43
+  orig: 279, 72
+  offset: 173, 16
+  index: -1
+liuguang01_0/liuguang01_29
+  rotate: false
+  xy: 496, 290
+  size: 85, 43
+  orig: 279, 72
+  offset: 184, 15
+  index: -1
+liuguang01_0/liuguang01_3
+  rotate: false
+  xy: 332, 19
+  size: 58, 34
+  orig: 279, 72
+  offset: 14, 17
+  index: -1
+liuguang01_0/liuguang01_30
+  rotate: false
+  xy: 348, 55
+  size: 79, 40
+  orig: 279, 72
+  offset: 190, 16
+  index: -1
+liuguang01_0/liuguang01_4
+  rotate: false
+  xy: 505, 46
+  size: 66, 36
+  orig: 279, 72
+  offset: 14, 17
+  index: -1
+liuguang01_0/liuguang01_5
+  rotate: false
+  xy: 429, 46
+  size: 74, 36
+  orig: 279, 72
+  offset: 14, 18
+  index: -1
+liuguang01_0/liuguang01_6
+  rotate: false
+  xy: 496, 251
+  size: 82, 37
+  orig: 279, 72
+  offset: 15, 19
+  index: -1
+liuguang01_0/liuguang01_7
+  rotate: false
+  xy: 235, 8
+  size: 89, 38
+  orig: 279, 72
+  offset: 16, 19
+  index: -1
+liuguang01_0/liuguang01_8
+  rotate: false
+  xy: 463, 84
+  size: 95, 39
+  orig: 279, 72
+  offset: 18, 19
+  index: -1
+liuguang01_0/liuguang01_9
+  rotate: false
+  xy: 125, 119
+  size: 103, 41
+  orig: 279, 72
+  offset: 19, 19
+  index: -1
+theme177_dialog_c_1
+  rotate: false
+  xy: 0, 251
+  size: 494, 82
+  orig: 494, 82
+  offset: 0, 0
+  index: -1
+theme177_dialog_sb_1
+  rotate: false
+  xy: 0, 335
+  size: 528, 245
+  orig: 528, 245
+  offset: 0, 0
+  index: -1
+xingguang_0
+  rotate: false
+  xy: 0, 162
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1

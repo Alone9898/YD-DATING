@@ -1,0 +1,55 @@
+
+baoxiang.png
+size: 475,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoxiangshang_00
+  rotate: false
+  xy: 132, 180
+  size: 189, 124
+  orig: 189, 124
+  offset: 0, 0
+  index: -1
+baoxiangxia_00
+  rotate: true
+  xy: 323, 115
+  size: 189, 124
+  orig: 189, 124
+  offset: 0, 0
+  index: -1
+images/di
+  rotate: false
+  xy: 305, 2
+  size: 168, 111
+  orig: 168, 111
+  offset: 0, 0
+  index: -1
+images/guan
+  rotate: false
+  xy: 132, 84
+  size: 171, 94
+  orig: 171, 94
+  offset: 0, 0
+  index: -1
+images/kai
+  rotate: false
+  xy: 127, 23
+  size: 162, 59
+  orig: 162, 59
+  offset: 0, 0
+  index: -1
+ros_flare01
+  rotate: false
+  xy: 2, 176
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xxx
+  rotate: true
+  xy: 2, 46
+  size: 128, 123
+  orig: 128, 123
+  offset: 0, 0
+  index: -1

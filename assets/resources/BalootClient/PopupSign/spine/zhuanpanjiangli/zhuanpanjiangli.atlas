@@ -1,0 +1,48 @@
+
+zhuanpanjiangli.png
+size: 392,392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liwu/79-1
+  rotate: false
+  xy: 196, 100
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+liwu/ot00019
+  rotate: false
+  xy: 196, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+niudan/RingGlowWhite8
+  rotate: false
+  xy: 2, 198
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+niudan/fangsheguang
+  rotate: false
+  xy: 2, 4
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+niudan/radial_line04
+  rotate: false
+  xy: 196, 198
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+touxiangkuang/Ring_002
+  rotate: false
+  xy: 294, 100
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1

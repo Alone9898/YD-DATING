@@ -1,0 +1,174 @@
+
+TuoPan.png
+size: 229,530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Star_000
+  rotate: false
+  xy: 200, 172
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+images/hhh
+  rotate: false
+  xy: 2, 427
+  size: 89, 101
+  orig: 89, 101
+  offset: 0, 0
+  index: -1
+images/tp/tp_000
+  rotate: false
+  xy: 140, 199
+  size: 67, 64
+  orig: 75, 75
+  offset: 4, 8
+  index: -1
+images/tp/tp_001
+  rotate: false
+  xy: 93, 461
+  size: 70, 67
+  orig: 75, 75
+  offset: 2, 6
+  index: -1
+images/tp/tp_002
+  rotate: false
+  xy: 93, 398
+  size: 70, 61
+  orig: 75, 75
+  offset: 1, 5
+  index: -1
+images/tp/tp_003
+  rotate: true
+  xy: 69, 64
+  size: 68, 63
+  orig: 75, 75
+  offset: 4, 4
+  index: -1
+images/tp/tp_004
+  rotate: true
+  xy: 2, 64
+  size: 68, 65
+  orig: 75, 75
+  offset: 5, 3
+  index: -1
+images/tp/tp_005
+  rotate: false
+  xy: 2, 2
+  size: 71, 60
+  orig: 75, 75
+  offset: 4, 9
+  index: -1
+images/tp/tp_006
+  rotate: false
+  xy: 72, 333
+  size: 70, 63
+  orig: 75, 75
+  offset: 2, 8
+  index: -1
+images/tp/tp_007
+  rotate: true
+  xy: 165, 389
+  size: 68, 62
+  orig: 75, 75
+  offset: 5, 7
+  index: -1
+images/tp/tp_008
+  rotate: false
+  xy: 70, 199
+  size: 68, 64
+  orig: 75, 75
+  offset: 7, 6
+  index: -1
+images/tp/tp_009
+  rotate: false
+  xy: 134, 131
+  size: 64, 66
+  orig: 75, 75
+  offset: 6, 5
+  index: -1
+images/tp/tp_010
+  rotate: false
+  xy: 165, 459
+  size: 62, 69
+  orig: 75, 75
+  offset: 7, 3
+  index: -1
+images/tp/tp_011
+  rotate: false
+  xy: 2, 206
+  size: 64, 72
+  orig: 75, 75
+  offset: 6, 2
+  index: -1
+images/tp/tp_012
+  rotate: false
+  xy: 2, 280
+  size: 64, 73
+  orig: 75, 75
+  offset: 5, 2
+  index: -1
+images/tp/tp_013
+  rotate: false
+  xy: 2, 134
+  size: 66, 70
+  orig: 75, 75
+  offset: 4, 1
+  index: -1
+images/tp/tp_014
+  rotate: false
+  xy: 2, 355
+  size: 68, 70
+  orig: 75, 75
+  offset: 3, 2
+  index: -1
+images/tp/tp_015
+  rotate: false
+  xy: 142, 4
+  size: 67, 58
+  orig: 75, 75
+  offset: 2, 11
+  index: -1
+images/tp/tp_016
+  rotate: false
+  xy: 75, 2
+  size: 65, 60
+  orig: 75, 75
+  offset: 5, 10
+  index: -1
+images/tp/tp_017
+  rotate: true
+  xy: 134, 64
+  size: 65, 64
+  orig: 75, 75
+  offset: 4, 8
+  index: -1
+images/tp/tp_018
+  rotate: false
+  xy: 68, 265
+  size: 67, 66
+  orig: 75, 75
+  offset: 3, 7
+  index: -1
+images/tp/tp_019
+  rotate: true
+  xy: 70, 134
+  size: 63, 62
+  orig: 75, 75
+  offset: 6, 9
+  index: -1
+images/tuo1_000
+  rotate: true
+  xy: 144, 327
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+images/tuo2_000
+  rotate: true
+  xy: 137, 265
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1

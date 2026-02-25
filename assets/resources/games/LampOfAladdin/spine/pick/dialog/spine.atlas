@@ -1,0 +1,279 @@
+
+spine.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+03/03_01
+  rotate: true
+  xy: 233, 24
+  size: 25, 63
+  orig: 421, 81
+  offset: 1, 17
+  index: -1
+03/03_02
+  rotate: true
+  xy: 84, 7
+  size: 42, 80
+  orig: 421, 81
+  offset: 1, 0
+  index: -1
+03/03_03
+  rotate: false
+  xy: 1973, 860
+  size: 60, 80
+  orig: 421, 81
+  offset: 1, 0
+  index: -1
+03/03_04
+  rotate: true
+  xy: 1563, 2
+  size: 77, 80
+  orig: 421, 81
+  offset: 1, 0
+  index: -1
+03/03_05
+  rotate: true
+  xy: 1727, 8
+  size: 94, 80
+  orig: 421, 81
+  offset: 1, 0
+  index: -1
+03/03_06
+  rotate: true
+  xy: 1737, 413
+  size: 111, 80
+  orig: 421, 81
+  offset: 2, 0
+  index: -1
+03/03_07
+  rotate: true
+  xy: 1491, 405
+  size: 119, 80
+  orig: 421, 81
+  offset: 11, 0
+  index: -1
+03/03_08
+  rotate: true
+  xy: 947, 187
+  size: 120, 80
+  orig: 421, 81
+  offset: 28, 0
+  index: -1
+03/03_09
+  rotate: false
+  xy: 1491, 323
+  size: 119, 80
+  orig: 421, 81
+  offset: 46, 0
+  index: -1
+03/03_10
+  rotate: true
+  xy: 1029, 187
+  size: 120, 80
+  orig: 421, 81
+  offset: 63, 0
+  index: -1
+03/03_11
+  rotate: true
+  xy: 1573, 405
+  size: 119, 80
+  orig: 421, 81
+  offset: 81, 0
+  index: -1
+03/03_12
+  rotate: true
+  xy: 1111, 198
+  size: 120, 80
+  orig: 421, 81
+  offset: 98, 0
+  index: -1
+03/03_13
+  rotate: true
+  xy: 1521, 202
+  size: 119, 80
+  orig: 421, 81
+  offset: 116, 0
+  index: -1
+03/03_14
+  rotate: true
+  xy: 1193, 198
+  size: 120, 80
+  orig: 421, 81
+  offset: 133, 0
+  index: -1
+03/03_15
+  rotate: true
+  xy: 1563, 81
+  size: 119, 80
+  orig: 421, 81
+  offset: 151, 0
+  index: -1
+03/03_16
+  rotate: true
+  xy: 1275, 198
+  size: 120, 80
+  orig: 421, 81
+  offset: 168, 0
+  index: -1
+03/03_17
+  rotate: true
+  xy: 1603, 202
+  size: 119, 80
+  orig: 421, 81
+  offset: 186, 0
+  index: -1
+03/03_18
+  rotate: true
+  xy: 1357, 198
+  size: 120, 80
+  orig: 421, 81
+  offset: 203, 0
+  index: -1
+03/03_19
+  rotate: false
+  xy: 1612, 323
+  size: 119, 80
+  orig: 421, 81
+  offset: 221, 0
+  index: -1
+03/03_20
+  rotate: true
+  xy: 1655, 405
+  size: 119, 80
+  orig: 421, 81
+  offset: 238, 0
+  index: -1
+03/03_21
+  rotate: true
+  xy: 1645, 81
+  size: 119, 80
+  orig: 421, 81
+  offset: 256, 0
+  index: -1
+03/03_22
+  rotate: true
+  xy: 1685, 202
+  size: 119, 80
+  orig: 421, 81
+  offset: 273, 0
+  index: -1
+03/03_23
+  rotate: true
+  xy: 1439, 198
+  size: 120, 80
+  orig: 421, 81
+  offset: 290, 0
+  index: -1
+03/03_24
+  rotate: false
+  xy: 1733, 323
+  size: 112, 80
+  orig: 421, 81
+  offset: 308, 0
+  index: -1
+03/03_25
+  rotate: true
+  xy: 1727, 104
+  size: 96, 80
+  orig: 421, 81
+  offset: 325, 0
+  index: -1
+03/03_26
+  rotate: false
+  xy: 1767, 241
+  size: 78, 80
+  orig: 421, 81
+  offset: 343, 0
+  index: -1
+03/03_27
+  rotate: false
+  xy: 1973, 942
+  size: 61, 80
+  orig: 421, 81
+  offset: 360, 0
+  index: -1
+03/03_28
+  rotate: true
+  xy: 2, 6
+  size: 43, 80
+  orig: 421, 81
+  offset: 378, 0
+  index: -1
+03/03_29
+  rotate: true
+  xy: 166, 23
+  size: 26, 65
+  orig: 421, 81
+  offset: 395, 0
+  index: -1
+window/glow
+  rotate: false
+  xy: 1819, 419
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+window/圆门/1
+  rotate: true
+  xy: 1926, 328
+  size: 96, 98
+  orig: 96, 98
+  offset: 0, 0
+  index: -1
+window/圆门/2
+  rotate: false
+  xy: 1926, 426
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+window/圆门/guang
+  rotate: false
+  xy: 1563, 526
+  size: 407, 407
+  orig: 407, 407
+  offset: 0, 0
+  index: -1
+window/圆门/jiesuan 2
+  rotate: true
+  xy: 771, 168
+  size: 854, 174
+  orig: 854, 174
+  offset: 0, 0
+  index: -1
+window/圆门/theme175_win_pickfeature_bg1
+  rotate: true
+  xy: 2, 51
+  size: 971, 767
+  orig: 971, 767
+  offset: 0, 0
+  index: -1
+window/圆门/theme175_win_pickfeature_logo
+  rotate: true
+  xy: 1101, 320
+  size: 702, 388
+  orig: 702, 388
+  offset: 0, 0
+  index: -1
+window/圆门/theme175_win_pickfeature_text2
+  rotate: false
+  xy: 771, 14
+  size: 790, 152
+  orig: 790, 152
+  offset: 0, 0
+  index: -1
+window/圆门/theme175_win_pickfeature_text3
+  rotate: false
+  xy: 1563, 935
+  size: 408, 87
+  orig: 408, 87
+  offset: 0, 0
+  index: -1
+window/圆门/theme175_win_pickfeature_text4
+  rotate: true
+  xy: 947, 309
+  size: 713, 152
+  orig: 713, 152
+  offset: 0, 0
+  index: -1

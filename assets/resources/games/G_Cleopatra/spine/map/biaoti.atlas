@@ -1,0 +1,223 @@
+
+biaoti.png
+size: 1385,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaoti/biaoti_00
+  rotate: false
+  xy: 1354, 88
+  size: 31, 30
+  orig: 446, 140
+  offset: 58, 51
+  index: -1
+biaoti/biaoti_01
+  rotate: false
+  xy: 1290, 4
+  size: 48, 34
+  orig: 446, 140
+  offset: 57, 48
+  index: -1
+biaoti/biaoti_02
+  rotate: false
+  xy: 1119, 3
+  size: 64, 35
+  orig: 446, 140
+  offset: 57, 47
+  index: -1
+biaoti/biaoti_03
+  rotate: false
+  xy: 900, 3
+  size: 80, 35
+  orig: 446, 140
+  offset: 57, 47
+  index: -1
+biaoti/biaoti_04
+  rotate: false
+  xy: 617, 0
+  size: 95, 38
+  orig: 446, 140
+  offset: 58, 44
+  index: -1
+biaoti/biaoti_05
+  rotate: false
+  xy: 1092, 40
+  size: 106, 38
+  orig: 446, 140
+  offset: 61, 44
+  index: -1
+biaoti/biaoti_06
+  rotate: false
+  xy: 1111, 80
+  size: 120, 38
+  orig: 446, 140
+  offset: 66, 44
+  index: -1
+biaoti/biaoti_07
+  rotate: false
+  xy: 248, 1
+  size: 121, 38
+  orig: 446, 140
+  offset: 81, 44
+  index: -1
+biaoti/biaoti_08
+  rotate: false
+  xy: 865, 80
+  size: 121, 38
+  orig: 446, 140
+  offset: 97, 44
+  index: -1
+biaoti/biaoti_09
+  rotate: false
+  xy: 371, 1
+  size: 121, 38
+  orig: 446, 140
+  offset: 113, 44
+  index: -1
+biaoti/biaoti_10
+  rotate: false
+  xy: 0, 1
+  size: 122, 38
+  orig: 446, 140
+  offset: 129, 44
+  index: -1
+biaoti/biaoti_11
+  rotate: false
+  xy: 740, 40
+  size: 120, 38
+  orig: 446, 140
+  offset: 147, 44
+  index: -1
+biaoti/biaoti_12
+  rotate: false
+  xy: 617, 80
+  size: 122, 38
+  orig: 446, 140
+  offset: 161, 44
+  index: -1
+biaoti/biaoti_13
+  rotate: false
+  xy: 1233, 80
+  size: 119, 38
+  orig: 446, 140
+  offset: 178, 44
+  index: -1
+biaoti/biaoti_14
+  rotate: false
+  xy: 988, 80
+  size: 121, 38
+  orig: 446, 140
+  offset: 194, 44
+  index: -1
+biaoti/biaoti_15
+  rotate: false
+  xy: 124, 1
+  size: 122, 38
+  orig: 446, 140
+  offset: 210, 44
+  index: -1
+biaoti/biaoti_16
+  rotate: false
+  xy: 741, 80
+  size: 122, 38
+  orig: 446, 140
+  offset: 218, 44
+  index: -1
+biaoti/biaoti_17
+  rotate: false
+  xy: 494, 1
+  size: 121, 38
+  orig: 446, 140
+  offset: 227, 44
+  index: -1
+biaoti/biaoti_18
+  rotate: false
+  xy: 617, 40
+  size: 121, 38
+  orig: 446, 140
+  offset: 235, 44
+  index: -1
+biaoti/biaoti_19
+  rotate: false
+  xy: 862, 40
+  size: 116, 38
+  orig: 446, 140
+  offset: 244, 44
+  index: -1
+biaoti/biaoti_20
+  rotate: false
+  xy: 980, 40
+  size: 110, 38
+  orig: 446, 140
+  offset: 252, 44
+  index: -1
+biaoti/biaoti_21
+  rotate: false
+  xy: 1200, 40
+  size: 103, 38
+  orig: 446, 140
+  offset: 260, 44
+  index: -1
+biaoti/biaoti_22
+  rotate: false
+  xy: 714, 0
+  size: 95, 38
+  orig: 446, 140
+  offset: 269, 44
+  index: -1
+biaoti/biaoti_23
+  rotate: false
+  xy: 811, 0
+  size: 87, 38
+  orig: 446, 140
+  offset: 277, 44
+  index: -1
+biaoti/biaoti_24
+  rotate: false
+  xy: 1305, 40
+  size: 80, 38
+  orig: 446, 140
+  offset: 285, 44
+  index: -1
+biaoti/biaoti_25
+  rotate: false
+  xy: 982, 0
+  size: 71, 38
+  orig: 446, 140
+  offset: 294, 44
+  index: -1
+biaoti/biaoti_26
+  rotate: false
+  xy: 1055, 0
+  size: 62, 38
+  orig: 446, 140
+  offset: 303, 44
+  index: -1
+biaoti/biaoti_27
+  rotate: false
+  xy: 1185, 0
+  size: 55, 38
+  orig: 446, 140
+  offset: 310, 44
+  index: -1
+biaoti/biaoti_28
+  rotate: false
+  xy: 1242, 1
+  size: 46, 37
+  orig: 446, 140
+  offset: 319, 45
+  index: -1
+biaoti/biaoti_29
+  rotate: false
+  xy: 1340, 2
+  size: 38, 36
+  orig: 446, 140
+  offset: 327, 45
+  index: -1
+theme186_map_text_top
+  rotate: false
+  xy: 0, 41
+  size: 615, 77
+  orig: 615, 77
+  offset: 0, 0
+  index: -1

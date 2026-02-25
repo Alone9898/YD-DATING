@@ -1,0 +1,41 @@
+
+H2.png
+size: 411,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H2_di
+  rotate: false
+  xy: 132, 10
+  size: 128, 114
+  orig: 128, 114
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 379, 52
+  size: 38, 23
+  orig: 40, 25
+  offset: 1, 1
+  index: -1
+guang
+  rotate: true
+  xy: 262, 12
+  size: 112, 115
+  orig: 112, 115
+  offset: 0, 0
+  index: -1
+lv
+  rotate: true
+  xy: 2, 2
+  size: 122, 128
+  orig: 122, 128
+  offset: 0, 0
+  index: -1
+star_01
+  rotate: false
+  xy: 379, 92
+  size: 30, 32
+  orig: 32, 32
+  offset: 1, 0
+  index: -1

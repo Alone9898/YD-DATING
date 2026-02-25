@@ -1,0 +1,34 @@
+
+314_respin_sz.png
+size: 598,370
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ggg
+  rotate: false
+  xy: 2, 2
+  size: 385, 366
+  orig: 464, 400
+  offset: 42, 18
+  index: -1
+glow_2
+  rotate: true
+  xy: 497, 14
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+hlizi
+  rotate: false
+  xy: 389, 9
+  size: 106, 105
+  orig: 128, 128
+  offset: 11, 10
+  index: -1
+jj1_00
+  rotate: false
+  xy: 389, 116
+  size: 202, 252
+  orig: 251, 252
+  offset: 18, 0
+  index: -1

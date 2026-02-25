@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "96d154b9-b1e2-4e14-ada4-e69d0c3a8409",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "WinCoin": {
+      "ver": "1.0.4",
+      "uuid": "0a0b69a6-92ab-4001-ac8e-18b487263f2c",
+      "rawTextureUuid": "96d154b9-b1e2-4e14-ada4-e69d0c3a8409",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 104,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 252,
+      "height": 300,
+      "rawWidth": 256,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

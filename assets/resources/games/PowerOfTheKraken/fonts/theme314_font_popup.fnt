@@ -1,0 +1,24 @@
+info face="Sleeping" size=93 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,1,1,0 spacing=1,1 outline=0
+common lineHeight=93 base=23 scaleW=350 scaleH=350 pages=1 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
+page id=0 file="theme314_font_popup.png"
+chars count=20
+char id=43   x=249   y=188   width=41    height=93    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15
+char id=44   x=327   y=0     width=18    height=93    xoffset=0     yoffset=0     xadvance=17    page=0  chnl=15
+char id=46   x=312   y=94    width=18    height=93    xoffset=0     yoffset=0     xadvance=17    page=0  chnl=15
+char id=48   x=171   y=0     width=51    height=93    xoffset=0     yoffset=0     xadvance=50    page=0  chnl=15
+char id=49   x=223   y=0     width=51    height=93    xoffset=0     yoffset=0     xadvance=50    page=0  chnl=15
+char id=50   x=275   y=0     width=51    height=93    xoffset=0     yoffset=0     xadvance=50    page=0  chnl=15
+char id=51   x=0     y=94    width=51    height=93    xoffset=0     yoffset=0     xadvance=50    page=0  chnl=15
+char id=52   x=52    y=94    width=51    height=93    xoffset=0     yoffset=0     xadvance=50    page=0  chnl=15
+char id=53   x=104   y=94    width=51    height=93    xoffset=0     yoffset=0     xadvance=50    page=0  chnl=15
+char id=54   x=156   y=94    width=51    height=93    xoffset=0     yoffset=0     xadvance=50    page=0  chnl=15
+char id=55   x=208   y=94    width=51    height=93    xoffset=0     yoffset=0     xadvance=50    page=0  chnl=15
+char id=56   x=260   y=94    width=51    height=93    xoffset=0     yoffset=0     xadvance=50    page=0  chnl=15
+char id=57   x=0     y=188   width=51    height=93    xoffset=0     yoffset=0     xadvance=50    page=0  chnl=15
+char id=66   x=155   y=188   width=48    height=93    xoffset=0     yoffset=0     xadvance=47    page=0  chnl=15
+char id=75   x=52    y=188   width=51    height=93    xoffset=0     yoffset=0     xadvance=50    page=0  chnl=15
+char id=77   x=0     y=0     width=59    height=93    xoffset=0     yoffset=0     xadvance=58    page=0  chnl=15
+char id=79   x=116   y=0     width=54    height=93    xoffset=0     yoffset=0     xadvance=53    page=0  chnl=15
+char id=81   x=60    y=0     width=55    height=93    xoffset=0     yoffset=0     xadvance=54    page=0  chnl=15
+char id=83   x=204   y=188   width=44    height=93    xoffset=0     yoffset=0     xadvance=43    page=0  chnl=15
+char id=84   x=104   y=188   width=50    height=93    xoffset=0     yoffset=0     xadvance=49    page=0  chnl=15

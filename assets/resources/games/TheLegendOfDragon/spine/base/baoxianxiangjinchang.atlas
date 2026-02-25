@@ -1,0 +1,111 @@
+
+baoxianxiangjinchang.png
+size: 648,648
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoxianxiang
+  rotate: false
+  xy: 0, 486
+  size: 204, 162
+  orig: 204, 162
+  offset: 0, 0
+  index: -1
+baozhaguangxiao_0
+  rotate: false
+  xy: 530, 566
+  size: 82, 82
+  orig: 160, 160
+  offset: 37, 27
+  index: -1
+baozhaguangxiao_1
+  rotate: false
+  xy: 486, 199
+  size: 140, 138
+  orig: 160, 160
+  offset: 7, 0
+  index: -1
+baozhaguangxiao_10
+  rotate: false
+  xy: 162, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+baozhaguangxiao_11
+  rotate: false
+  xy: 162, 0
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+baozhaguangxiao_12
+  rotate: false
+  xy: 324, 326
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+baozhaguangxiao_13
+  rotate: false
+  xy: 324, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+baozhaguangxiao_2
+  rotate: false
+  xy: 486, 339
+  size: 155, 147
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+baozhaguangxiao_3
+  rotate: false
+  xy: 324, 7
+  size: 160, 155
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+baozhaguangxiao_4
+  rotate: false
+  xy: 0, 324
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+baozhaguangxiao_5
+  rotate: false
+  xy: 206, 488
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+baozhaguangxiao_6
+  rotate: false
+  xy: 0, 162
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+baozhaguangxiao_7
+  rotate: false
+  xy: 368, 488
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+baozhaguangxiao_8
+  rotate: false
+  xy: 0, 0
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+baozhaguangxiao_9
+  rotate: false
+  xy: 162, 324
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1

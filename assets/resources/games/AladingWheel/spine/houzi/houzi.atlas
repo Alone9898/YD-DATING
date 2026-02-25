@@ -1,0 +1,41 @@
+
+houzi.png
+size: 292,103
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YP1
+  rotate: true
+  xy: 106, 13
+  size: 16, 11
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+YP2
+  rotate: true
+  xy: 106, 31
+  size: 14, 13
+  orig: 15, 13
+  offset: 1, 0
+  index: -1
+gebo
+  rotate: true
+  xy: 2, 47
+  size: 54, 192
+  orig: 54, 192
+  offset: 0, 0
+  index: -1
+houzi
+  rotate: false
+  xy: 2, 3
+  size: 102, 42
+  orig: 102, 42
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 196, 2
+  size: 94, 99
+  orig: 95, 99
+  offset: 1, 0
+  index: -1

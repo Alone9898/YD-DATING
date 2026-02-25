@@ -1,0 +1,48 @@
+
+shuiguai_shou_11.png
+size: 184,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/y_sz1
+  rotate: false
+  xy: 2, 2
+  size: 52, 80
+  orig: 52, 80
+  offset: 0, 0
+  index: -1
+images/y_sz2
+  rotate: false
+  xy: 115, 3
+  size: 56, 84
+  orig: 56, 84
+  offset: 0, 0
+  index: -1
+images/y_sz3
+  rotate: false
+  xy: 2, 84
+  size: 60, 98
+  orig: 60, 98
+  offset: 0, 0
+  index: -1
+images/z_sz1
+  rotate: false
+  xy: 56, 18
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+images/z_sz2
+  rotate: false
+  xy: 123, 89
+  size: 49, 93
+  orig: 49, 93
+  offset: 0, 0
+  index: -1
+images/z_sz3
+  rotate: false
+  xy: 64, 90
+  size: 57, 92
+  orig: 57, 92
+  offset: 0, 0
+  index: -1

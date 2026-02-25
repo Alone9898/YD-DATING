@@ -1,0 +1,76 @@
+
+guochang.png
+size: 519,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gold1
+  rotate: false
+  xy: 134, 98
+  size: 122, 88
+  orig: 122, 88
+  offset: 0, 0
+  index: -1
+gold10
+  rotate: false
+  xy: 455, 48
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+gold2
+  rotate: false
+  xy: 367, 45
+  size: 86, 68
+  orig: 86, 68
+  offset: 0, 0
+  index: -1
+gold3
+  rotate: true
+  xy: 367, 115
+  size: 71, 107
+  orig: 71, 107
+  offset: 0, 0
+  index: -1
+gold4
+  rotate: true
+  xy: 258, 89
+  size: 97, 107
+  orig: 97, 107
+  offset: 0, 0
+  index: -1
+gold5
+  rotate: false
+  xy: 115, 3
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1
+gold6
+  rotate: true
+  xy: 2, 2
+  size: 87, 111
+  orig: 87, 111
+  offset: 0, 0
+  index: -1
+gold7
+  rotate: true
+  xy: 200, 4
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1
+gold8
+  rotate: false
+  xy: 2, 91
+  size: 130, 95
+  orig: 131, 95
+  offset: 0, 0
+  index: -1
+gold9
+  rotate: true
+  xy: 288, 21
+  size: 66, 77
+  orig: 66, 77
+  offset: 0, 0
+  index: -1

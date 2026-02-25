@@ -1,0 +1,167 @@
+
+Socre_Pomi_9.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Poseidon_SX02
+  rotate: false
+  xy: 257, 109
+  size: 150, 145
+  orig: 150, 145
+  offset: 0, 0
+  index: -1
+Socre_Pomi_9_idle
+  rotate: false
+  xy: 409, 118
+  size: 129, 136
+  orig: 129, 146
+  offset: 0, 10
+  index: -1
+images/di
+  rotate: false
+  xy: 720, 138
+  size: 128, 116
+  orig: 130, 118
+  offset: 1, 1
+  index: -1
+images/fire_01
+  rotate: true
+  xy: 984, 189
+  size: 65, 38
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+images/fire_02
+  rotate: true
+  xy: 984, 122
+  size: 65, 38
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+images/fire_03
+  rotate: false
+  xy: 850, 134
+  size: 65, 38
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+images/fire_04
+  rotate: false
+  xy: 257, 69
+  size: 65, 38
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+images/fire_05
+  rotate: true
+  xy: 296, 2
+  size: 65, 38
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+images/fire_06
+  rotate: false
+  xy: 850, 215
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+images/fire_07
+  rotate: false
+  xy: 850, 174
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+images/fire_08
+  rotate: false
+  xy: 917, 215
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+images/fire_09
+  rotate: false
+  xy: 917, 174
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+images/fire_10
+  rotate: true
+  xy: 214, 10
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+images/fire_11
+  rotate: false
+  xy: 917, 133
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+images/fire_12
+  rotate: false
+  xy: 324, 69
+  size: 65, 38
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+images/fire_13
+  rotate: true
+  xy: 255, 2
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+images/fire_14
+  rotate: true
+  xy: 336, 2
+  size: 65, 38
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+images/fire_15
+  rotate: true
+  xy: 376, 2
+  size: 65, 38
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+images/huoqiu_1_00
+  rotate: true
+  xy: 540, 126
+  size: 50, 115
+  orig: 50, 115
+  offset: 0, 0
+  index: -1
+images/light
+  rotate: true
+  xy: 2, 4
+  size: 71, 144
+  orig: 71, 144
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 540, 178
+  size: 178, 76
+  orig: 178, 76
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 77
+  size: 177, 253
+  orig: 177, 253
+  offset: 0, 0
+  index: -1
+yf
+  rotate: false
+  xy: 148, 13
+  size: 64, 62
+  orig: 64, 63
+  offset: 0, 0
+  index: -1

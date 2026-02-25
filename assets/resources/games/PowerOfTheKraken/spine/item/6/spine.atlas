@@ -1,0 +1,27 @@
+
+314_m5.png
+size: 344,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/qipao01
+  rotate: false
+  xy: 184, 2
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+images/hx
+  rotate: true
+  xy: 184, 45
+  size: 174, 158
+  orig: 174, 158
+  offset: 0, 0
+  index: -1
+images/xy
+  rotate: true
+  xy: 2, 22
+  size: 197, 180
+  orig: 197, 180
+  offset: 0, 0
+  index: -1

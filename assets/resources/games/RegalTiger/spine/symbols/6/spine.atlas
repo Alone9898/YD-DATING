@@ -1,0 +1,27 @@
+
+symbol_lianhua.png
+size: 134,320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua_gaoliang
+  rotate: false
+  xy: 2, 206
+  size: 130, 112
+  orig: 130, 112
+  offset: 0, 0
+  index: -1
+xiaozhuanpan/beijing
+  rotate: false
+  xy: 2, 2
+  size: 123, 91
+  orig: 125, 93
+  offset: 1, 1
+  index: -1
+xiaozhuanpan/lianhua
+  rotate: false
+  xy: 2, 95
+  size: 125, 109
+  orig: 127, 111
+  offset: 1, 1
+  index: -1

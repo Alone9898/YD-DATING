@@ -1,0 +1,111 @@
+
+314_dianji2.png
+size: 1422,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaoliang01
+  rotate: false
+  xy: 2, 19
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+guangquan01
+  rotate: false
+  xy: 260, 56
+  size: 248, 248
+  orig: 248, 248
+  offset: 0, 0
+  index: -1
+jinbi/1
+  rotate: false
+  xy: 510, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jinbi/11
+  rotate: false
+  xy: 1270, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jinbi/13
+  rotate: false
+  xy: 510, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jinbi/15
+  rotate: false
+  xy: 662, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jinbi/17
+  rotate: false
+  xy: 814, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jinbi/19
+  rotate: false
+  xy: 966, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jinbi/21
+  rotate: false
+  xy: 1118, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jinbi/23
+  rotate: false
+  xy: 1270, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jinbi/3
+  rotate: false
+  xy: 662, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jinbi/5
+  rotate: false
+  xy: 814, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jinbi/7
+  rotate: false
+  xy: 966, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+jinbi/9
+  rotate: false
+  xy: 1118, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+xg02
+  rotate: false
+  xy: 2, 48
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

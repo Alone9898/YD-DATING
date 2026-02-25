@@ -1,0 +1,160 @@
+
+fg.png
+size: 1022,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/ci/ci_0
+  rotate: false
+  xy: 209, 611
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect/ci/ci_1
+  rotate: false
+  xy: 416, 818
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect/ci/ci_10
+  rotate: false
+  xy: 613, 616
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect/ci/ci_11
+  rotate: false
+  xy: 613, 414
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect/ci/ci_12
+  rotate: false
+  xy: 815, 616
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect/ci/ci_13
+  rotate: false
+  xy: 613, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect/ci/ci_14
+  rotate: false
+  xy: 815, 414
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect/ci/ci_15
+  rotate: false
+  xy: 815, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect/ci/ci_16
+  rotate: false
+  xy: 204, 5
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect/ci/ci_17
+  rotate: false
+  xy: 406, 5
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect/ci/ci_2
+  rotate: false
+  xy: 2, 197
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect/ci/ci_3
+  rotate: false
+  xy: 209, 409
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect/ci/ci_4
+  rotate: false
+  xy: 618, 818
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect/ci/ci_5
+  rotate: false
+  xy: 820, 818
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect/ci/ci_6
+  rotate: false
+  xy: 209, 207
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect/ci/ci_7
+  rotate: false
+  xy: 411, 611
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect/ci/ci_8
+  rotate: false
+  xy: 411, 409
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect/ci/ci_9
+  rotate: false
+  xy: 411, 207
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect/ci1
+  rotate: false
+  xy: 2, 813
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+images/effect/glow_10_0
+  rotate: false
+  xy: 209, 813
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+images/effect/glow_3
+  rotate: false
+  xy: 2, 606
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+images/effect/quan
+  rotate: false
+  xy: 2, 399
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1

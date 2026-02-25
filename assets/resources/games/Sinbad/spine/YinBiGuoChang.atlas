@@ -1,0 +1,160 @@
+
+YinBiGuoChang.png
+size: 588,1094
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/hzz_000
+  rotate: true
+  xy: 2, 912
+  size: 180, 390
+  orig: 180, 390
+  offset: 0, 0
+  index: -1
+images/yb/YB_000
+  rotate: false
+  xy: 394, 900
+  size: 192, 192
+  orig: 200, 200
+  offset: 4, 4
+  index: -1
+images/yb/YB_001
+  rotate: true
+  xy: 390, 714
+  size: 184, 192
+  orig: 200, 200
+  offset: 12, 4
+  index: -1
+images/yb/YB_002
+  rotate: true
+  xy: 196, 373
+  size: 168, 192
+  orig: 200, 200
+  offset: 28, 4
+  index: -1
+images/yb/YB_003
+  rotate: true
+  xy: 196, 236
+  size: 135, 192
+  orig: 200, 200
+  offset: 46, 4
+  index: -1
+images/yb/YB_004
+  rotate: true
+  xy: 390, 136
+  size: 88, 192
+  orig: 200, 200
+  offset: 66, 4
+  index: -1
+images/yb/YB_005
+  rotate: true
+  xy: 196, 12
+  size: 42, 192
+  orig: 200, 200
+  offset: 82, 4
+  index: -1
+images/yb/YB_006
+  rotate: true
+  xy: 196, 56
+  size: 64, 192
+  orig: 200, 200
+  offset: 62, 4
+  index: -1
+images/yb/YB_007
+  rotate: true
+  xy: 196, 122
+  size: 112, 192
+  orig: 200, 200
+  offset: 32, 4
+  index: -1
+images/yb/YB_008
+  rotate: true
+  xy: 390, 380
+  size: 154, 192
+  orig: 200, 200
+  offset: 10, 4
+  index: -1
+images/yb/YB_009
+  rotate: true
+  xy: 196, 543
+  size: 176, 192
+  orig: 200, 200
+  offset: 4, 4
+  index: -1
+images/yb/YB_010
+  rotate: true
+  xy: 2, 721
+  size: 189, 192
+  orig: 200, 200
+  offset: 4, 4
+  index: -1
+images/yb/YB_011
+  rotate: true
+  xy: 196, 721
+  size: 189, 192
+  orig: 200, 200
+  offset: 7, 4
+  index: -1
+images/yb/YB_012
+  rotate: true
+  xy: 390, 536
+  size: 176, 192
+  orig: 200, 200
+  offset: 20, 4
+  index: -1
+images/yb/YB_013
+  rotate: true
+  xy: 390, 226
+  size: 152, 192
+  orig: 200, 200
+  offset: 36, 4
+  index: -1
+images/yb/YB_014
+  rotate: true
+  xy: 2, 117
+  size: 112, 192
+  orig: 200, 200
+  offset: 56, 4
+  index: -1
+images/yb/YB_015
+  rotate: true
+  xy: 2, 51
+  size: 64, 192
+  orig: 200, 200
+  offset: 74, 4
+  index: -1
+images/yb/YB_016
+  rotate: true
+  xy: 390, 2
+  size: 42, 192
+  orig: 200, 200
+  offset: 76, 4
+  index: -1
+images/yb/YB_017
+  rotate: true
+  xy: 390, 46
+  size: 88, 192
+  orig: 200, 200
+  offset: 46, 4
+  index: -1
+images/yb/YB_018
+  rotate: true
+  xy: 2, 231
+  size: 133, 192
+  orig: 200, 200
+  offset: 21, 4
+  index: -1
+images/yb/YB_019
+  rotate: true
+  xy: 2, 366
+  size: 167, 192
+  orig: 200, 200
+  offset: 6, 4
+  index: -1
+images/yb/YB_020
+  rotate: true
+  xy: 2, 535
+  size: 184, 192
+  orig: 200, 200
+  offset: 4, 4
+  index: -1

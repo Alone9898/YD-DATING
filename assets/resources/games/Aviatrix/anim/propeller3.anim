@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "propeller3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.16666666666666666,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "04d737ca-d2d0-4277-9a8a-7f504e31b497"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "45f63d73-ceb8-407f-94ee-2881ed600bdd"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "3f245b5a-73a4-45bf-aa25-a8e3ad7ecfcf"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "0a473dd7-06cb-4832-b720-c57959aa9989"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "088c9d16-6ba2-4b5b-bced-86b64a1f0d88"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

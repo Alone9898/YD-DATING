@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "d1350c27-11d7-4ef0-810e-f38874d32c2c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 45,
+  "height": 60,
+  "platformSettings": {},
+  "subMetas": {
+    "bg_delphi_maycard_2": {
+      "ver": "1.0.4",
+      "uuid": "4493cc28-7f78-46ce-a413-60ca3885a053",
+      "rawTextureUuid": "d1350c27-11d7-4ef0-810e-f38874d32c2c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 45,
+      "height": 60,
+      "rawWidth": 45,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,181 @@
+
+spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bao_1
+  rotate: false
+  xy: 406, 55
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+images/bao_10
+  rotate: false
+  xy: 942, 178
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+images/bao_11
+  rotate: false
+  xy: 607, 55
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+images/bao_12
+  rotate: false
+  xy: 717, 111
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+images/bao_13
+  rotate: false
+  xy: 784, 111
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+images/bao_14
+  rotate: false
+  xy: 851, 111
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+images/bao_15
+  rotate: false
+  xy: 918, 111
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+images/bao_2
+  rotate: false
+  xy: 517, 122
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+images/bao_3
+  rotate: false
+  xy: 473, 55
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+images/bao_4
+  rotate: false
+  xy: 584, 122
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+images/bao_5
+  rotate: false
+  xy: 540, 55
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+images/bao_6
+  rotate: false
+  xy: 674, 178
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+images/bao_7
+  rotate: false
+  xy: 741, 178
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+images/bao_8
+  rotate: false
+  xy: 808, 178
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+images/bao_9
+  rotate: false
+  xy: 875, 178
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+images/biyan
+  rotate: true
+  xy: 985, 137
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+images/di
+  rotate: false
+  xy: 204, 52
+  size: 200, 191
+  orig: 200, 191
+  offset: 0, 0
+  index: -1
+images/guang
+  rotate: false
+  xy: 88, 5
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+images/k1
+  rotate: false
+  xy: 2, 43
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: false
+  xy: 406, 122
+  size: 109, 121
+  orig: 109, 121
+  offset: 0, 0
+  index: -1
+images/sxz
+  rotate: false
+  xy: 517, 189
+  size: 155, 54
+  orig: 155, 54
+  offset: 0, 0
+  index: -1
+images/toufa1
+  rotate: false
+  xy: 161, 25
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+images/toufa11
+  rotate: true
+  xy: 651, 124
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+images/toufa22
+  rotate: true
+  xy: 2, 2
+  size: 39, 84
+  orig: 39, 84
+  offset: 0, 0
+  index: -1
+images/youfa2
+  rotate: false
+  xy: 135, 17
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1

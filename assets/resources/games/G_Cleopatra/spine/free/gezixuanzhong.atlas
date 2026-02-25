@@ -1,0 +1,223 @@
+
+gezixuanzhong.png
+size: 818,1067
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kk_00
+  rotate: false
+  xy: 0, 954
+  size: 134, 113
+  orig: 200, 171
+  offset: 30, 28
+  index: -1
+kuang1/kuang1_00
+  rotate: false
+  xy: 202, 344
+  size: 200, 166
+  orig: 200, 171
+  offset: 0, 0
+  index: -1
+kuang1/kuang1_01
+  rotate: false
+  xy: 601, 342
+  size: 198, 167
+  orig: 200, 171
+  offset: 0, 0
+  index: -1
+kuang1/kuang1_02
+  rotate: false
+  xy: 404, 343
+  size: 195, 166
+  orig: 200, 171
+  offset: 0, 0
+  index: -1
+kuang1/kuang1_03
+  rotate: false
+  xy: 0, 7
+  size: 193, 169
+  orig: 200, 171
+  offset: 0, 0
+  index: -1
+kuang1/kuang1_04
+  rotate: false
+  xy: 0, 178
+  size: 195, 167
+  orig: 200, 171
+  offset: 0, 0
+  index: -1
+kuang1/kuang1_05
+  rotate: false
+  xy: 195, 3
+  size: 199, 169
+  orig: 200, 171
+  offset: 0, 0
+  index: -1
+kuang1/kuang1_06
+  rotate: false
+  xy: 396, 2
+  size: 200, 169
+  orig: 200, 171
+  offset: 0, 0
+  index: -1
+kuang1/kuang1_07
+  rotate: false
+  xy: 197, 174
+  size: 200, 168
+  orig: 200, 171
+  offset: 0, 0
+  index: -1
+kuang1/kuang1_08
+  rotate: false
+  xy: 569, 511
+  size: 200, 165
+  orig: 200, 171
+  offset: 0, 0
+  index: -1
+kuang1/kuang1_09
+  rotate: false
+  xy: 598, 0
+  size: 200, 170
+  orig: 200, 171
+  offset: 0, 0
+  index: -1
+kuang1/kuang1_10
+  rotate: false
+  xy: 165, 514
+  size: 200, 163
+  orig: 200, 171
+  offset: 0, 1
+  index: -1
+kuang1/kuang1_11
+  rotate: false
+  xy: 0, 347
+  size: 200, 165
+  orig: 200, 171
+  offset: 0, 2
+  index: -1
+kuang1/kuang1_12
+  rotate: false
+  xy: 399, 173
+  size: 200, 168
+  orig: 200, 171
+  offset: 0, 0
+  index: -1
+kuang1/kuang1_13
+  rotate: false
+  xy: 601, 172
+  size: 200, 168
+  orig: 200, 171
+  offset: 0, 0
+  index: -1
+kuang1/kuang1_14
+  rotate: false
+  xy: 367, 512
+  size: 200, 164
+  orig: 200, 171
+  offset: 0, 0
+  index: -1
+kuang2/kuang2_00
+  rotate: false
+  xy: 136, 941
+  size: 160, 126
+  orig: 200, 171
+  offset: 17, 21
+  index: -1
+kuang2/kuang2_01
+  rotate: false
+  xy: 0, 811
+  size: 161, 128
+  orig: 200, 171
+  offset: 16, 19
+  index: -1
+kuang2/kuang2_02
+  rotate: false
+  xy: 492, 678
+  size: 162, 130
+  orig: 200, 171
+  offset: 16, 19
+  index: -1
+kuang2/kuang2_03
+  rotate: false
+  xy: 460, 940
+  size: 160, 127
+  orig: 200, 171
+  offset: 17, 20
+  index: -1
+kuang2/kuang2_04
+  rotate: false
+  xy: 163, 811
+  size: 161, 128
+  orig: 200, 171
+  offset: 17, 20
+  index: -1
+kuang2/kuang2_05
+  rotate: false
+  xy: 326, 810
+  size: 159, 128
+  orig: 200, 171
+  offset: 18, 20
+  index: -1
+kuang2/kuang2_06
+  rotate: false
+  xy: 0, 680
+  size: 161, 129
+  orig: 200, 171
+  offset: 17, 19
+  index: -1
+kuang2/kuang2_07
+  rotate: false
+  xy: 487, 810
+  size: 163, 128
+  orig: 200, 171
+  offset: 15, 20
+  index: -1
+kuang2/kuang2_08
+  rotate: false
+  xy: 622, 940
+  size: 163, 127
+  orig: 200, 171
+  offset: 16, 21
+  index: -1
+kuang2/kuang2_09
+  rotate: false
+  xy: 163, 680
+  size: 161, 129
+  orig: 200, 171
+  offset: 16, 19
+  index: -1
+kuang2/kuang2_10
+  rotate: false
+  xy: 656, 678
+  size: 162, 130
+  orig: 200, 171
+  offset: 16, 18
+  index: -1
+kuang2/kuang2_11
+  rotate: false
+  xy: 0, 548
+  size: 163, 130
+  orig: 200, 171
+  offset: 15, 18
+  index: -1
+kuang2/kuang2_12
+  rotate: false
+  xy: 326, 679
+  size: 164, 129
+  orig: 200, 171
+  offset: 15, 19
+  index: -1
+kuang2/kuang2_13
+  rotate: false
+  xy: 652, 810
+  size: 161, 128
+  orig: 200, 171
+  offset: 15, 20
+  index: -1
+kuang2/kuang2_14
+  rotate: false
+  xy: 298, 941
+  size: 160, 126
+  orig: 200, 171
+  offset: 16, 20
+  index: -1

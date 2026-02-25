@@ -1,0 +1,846 @@
+
+spine.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuzibeihou/shuzibeihou_00
+  rotate: false
+  xy: 983, 302
+  size: 91, 87
+  orig: 91, 87
+  offset: 0, 0
+  index: -1
+shuzibeihou/shuzibeihou_02
+  rotate: true
+  xy: 467, 83
+  size: 137, 136
+  orig: 137, 136
+  offset: 0, 0
+  index: -1
+shuzibeihou/shuzibeihou_03
+  rotate: false
+  xy: 436, 222
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+shuzibeihou/shuzibeihou_04
+  rotate: false
+  xy: 2, 3
+  size: 169, 169
+  orig: 169, 169
+  offset: 0, 0
+  index: -1
+shuzibeihou/shuzibeihou_06
+  rotate: false
+  xy: 270, 561
+  size: 171, 169
+  orig: 171, 169
+  offset: 0, 0
+  index: -1
+shuzibeihou/shuzibeihou_07
+  rotate: false
+  xy: 2, 174
+  size: 173, 171
+  orig: 173, 171
+  offset: 0, 0
+  index: -1
+shuzibeihou/shuzibeihou_09
+  rotate: false
+  xy: 270, 392
+  size: 171, 167
+  orig: 171, 167
+  offset: 0, 0
+  index: -1
+shuzibeihou/shuzibeihou_10
+  rotate: false
+  xy: 173, 12
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+shuzibeihou/shuzibeihou_11
+  rotate: false
+  xy: 604, 243
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+shuzibeihou/shuzibeihou_13
+  rotate: false
+  xy: 1169, 400
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+shuzibeihou/shuzibeihou_14
+  rotate: false
+  xy: 1316, 400
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+shuzibeihou/shuzibeihou_15
+  rotate: false
+  xy: 320, 54
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+shuzibeihou/shuzibeihou_17
+  rotate: false
+  xy: 1025, 432
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+shuzibeihou/shuzibeihou_18
+  rotate: false
+  xy: 605, 120
+  size: 131, 121
+  orig: 131, 121
+  offset: 0, 0
+  index: -1
+shuzibeihou/shuzibeihou_19
+  rotate: true
+  xy: 1539, 560
+  size: 130, 120
+  orig: 130, 120
+  offset: 0, 0
+  index: -1
+shuzibeihou/shuzibeihou_21
+  rotate: false
+  xy: 751, 284
+  size: 122, 109
+  orig: 122, 109
+  offset: 0, 0
+  index: -1
+shuzibeihou/shuzibeihou_22
+  rotate: false
+  xy: 1661, 581
+  size: 120, 109
+  orig: 120, 109
+  offset: 0, 0
+  index: -1
+shuzibeihou/shuzibeihou_23
+  rotate: true
+  xy: 605, 2
+  size: 116, 107
+  orig: 116, 107
+  offset: 0, 0
+  index: -1
+shuzibeihou/shuzibeihou_25
+  rotate: true
+  xy: 875, 284
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+shuzibeihou/shuzibeihou_27
+  rotate: true
+  xy: 1292, 334
+  size: 23, 86
+  orig: 23, 86
+  offset: 0, 0
+  index: -1
+shuzibeihou/shuzibeihou_28
+  rotate: false
+  xy: 1022, 817
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00000
+  rotate: false
+  xy: 1411, 692
+  size: 206, 6
+  orig: 206, 6
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00001
+  rotate: true
+  xy: 1003, 496
+  size: 264, 20
+  orig: 264, 20
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00002
+  rotate: false
+  xy: 1212, 841
+  size: 266, 34
+  orig: 266, 34
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00003
+  rotate: false
+  xy: 443, 390
+  size: 266, 48
+  orig: 266, 48
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00004
+  rotate: false
+  xy: 1749, 814
+  size: 266, 62
+  orig: 266, 62
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00005
+  rotate: false
+  xy: 1212, 950
+  size: 266, 72
+  orig: 266, 72
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00006
+  rotate: false
+  xy: 443, 658
+  size: 266, 72
+  orig: 266, 72
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00007
+  rotate: false
+  xy: 1212, 877
+  size: 266, 71
+  orig: 266, 71
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00008
+  rotate: false
+  xy: 1748, 878
+  size: 264, 71
+  orig: 264, 71
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00009
+  rotate: true
+  xy: 711, 486
+  size: 244, 71
+  orig: 244, 71
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00010
+  rotate: true
+  xy: 784, 516
+  size: 244, 71
+  orig: 244, 71
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00011
+  rotate: true
+  xy: 1025, 576
+  size: 242, 71
+  orig: 242, 71
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00012
+  rotate: false
+  xy: 1171, 694
+  size: 238, 71
+  orig: 238, 71
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00013
+  rotate: false
+  xy: 1171, 547
+  size: 236, 71
+  orig: 236, 71
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00014
+  rotate: false
+  xy: 1171, 620
+  size: 236, 72
+  orig: 236, 72
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00015
+  rotate: false
+  xy: 1171, 767
+  size: 238, 72
+  orig: 238, 72
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00016
+  rotate: true
+  xy: 1098, 576
+  size: 242, 71
+  orig: 242, 71
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00017
+  rotate: true
+  xy: 857, 516
+  size: 244, 71
+  orig: 244, 71
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00018
+  rotate: true
+  xy: 930, 516
+  size: 244, 71
+  orig: 244, 71
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00019
+  rotate: false
+  xy: 443, 440
+  size: 264, 71
+  orig: 264, 71
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00020
+  rotate: false
+  xy: 1480, 951
+  size: 266, 71
+  orig: 266, 71
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00021
+  rotate: false
+  xy: 443, 585
+  size: 266, 71
+  orig: 266, 71
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00022
+  rotate: false
+  xy: 1480, 878
+  size: 266, 71
+  orig: 266, 71
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00023
+  rotate: false
+  xy: 1748, 951
+  size: 266, 71
+  orig: 266, 71
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00024
+  rotate: false
+  xy: 443, 513
+  size: 266, 70
+  orig: 266, 70
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00025
+  rotate: false
+  xy: 754, 762
+  size: 266, 56
+  orig: 266, 56
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00026
+  rotate: false
+  xy: 1411, 777
+  size: 264, 42
+  orig: 264, 42
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00027
+  rotate: true
+  xy: 1507, 363
+  size: 202, 28
+  orig: 202, 28
+  offset: 0, 0
+  index: -1
+window/freegame/000/1_00028
+  rotate: false
+  xy: 714, 19
+  size: 96, 14
+  orig: 96, 14
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00001
+  rotate: true
+  xy: 1859, 718
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00002
+  rotate: false
+  xy: 1128, 820
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00003
+  rotate: false
+  xy: 436, 201
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00004
+  rotate: true
+  xy: 812, 2
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00005
+  rotate: true
+  xy: 928, 397
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00006
+  rotate: true
+  xy: 270, 347
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00007
+  rotate: false
+  xy: 1605, 749
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00008
+  rotate: false
+  xy: 1385, 372
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00009
+  rotate: false
+  xy: 968, 432
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00010
+  rotate: false
+  xy: 1128, 836
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00011
+  rotate: true
+  xy: 1834, 692
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00012
+  rotate: true
+  xy: 1001, 458
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00013
+  rotate: true
+  xy: 754, 820
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00014
+  rotate: true
+  xy: 777, 820
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00015
+  rotate: true
+  xy: 960, 250
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00016
+  rotate: true
+  xy: 1993, 778
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00017
+  rotate: true
+  xy: 929, 80
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00018
+  rotate: false
+  xy: 711, 436
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00019
+  rotate: false
+  xy: 709, 460
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00020
+  rotate: false
+  xy: 1076, 364
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00021
+  rotate: true
+  xy: 1788, 431
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00022
+  rotate: false
+  xy: 467, 54
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00023
+  rotate: false
+  xy: 1869, 496
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00024
+  rotate: false
+  xy: 2016, 997
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00025
+  rotate: false
+  xy: 754, 739
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00026
+  rotate: true
+  xy: 1411, 821
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00027
+  rotate: true
+  xy: 1014, 445
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+window/freegame/0000/0000_00028
+  rotate: false
+  xy: 711, 390
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+window/freegame/theme175_win_mapfeature_bg1
+  rotate: false
+  xy: 2, 347
+  size: 266, 675
+  orig: 266, 675
+  offset: 0, 0
+  index: -1
+window/freegame/theme175_win_mapfeature_bg2
+  rotate: false
+  xy: 270, 855
+  size: 558, 167
+  orig: 558, 167
+  offset: 0, 0
+  index: -1
+window/freegame/theme175_win_mapfeature_bg3
+  rotate: false
+  xy: 830, 861
+  size: 380, 161
+  orig: 380, 161
+  offset: 0, 0
+  index: -1
+window/freegame/theme175_win_mapfeature_number
+  rotate: true
+  xy: 177, 159
+  size: 186, 126
+  orig: 186, 126
+  offset: 0, 0
+  index: -1
+window/freegame/theme175_win_mapfeature_symbol1
+  rotate: true
+  xy: 1411, 700
+  size: 75, 192
+  orig: 75, 192
+  offset: 0, 0
+  index: -1
+window/freegame/theme175_win_mapfeature_symbol2
+  rotate: false
+  xy: 305, 201
+  size: 129, 189
+  orig: 129, 189
+  offset: 0, 0
+  index: -1
+window/freegame/theme175_win_mapfeature_text1
+  rotate: false
+  xy: 270, 732
+  size: 482, 121
+  orig: 482, 121
+  offset: 0, 0
+  index: -1
+window/freegame/theme175_win_mapfeature_text2
+  rotate: false
+  xy: 1480, 821
+  size: 267, 55
+  orig: 267, 55
+  offset: 0, 0
+  index: -1
+window/freegame/theme175_win_mapfeature_text3
+  rotate: false
+  xy: 830, 820
+  size: 296, 39
+  orig: 296, 39
+  offset: 0, 0
+  index: -1
+window/freegame/theme175_win_mapfeature_text4
+  rotate: true
+  xy: 1911, 517
+  size: 88, 57
+  orig: 88, 57
+  offset: 0, 0
+  index: -1
+window/freegame/theme175_win_mapfeature_text5
+  rotate: false
+  xy: 510, 54
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_00
+  rotate: true
+  xy: 1537, 344
+  size: 214, 40
+  orig: 214, 40
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_01
+  rotate: true
+  xy: 1579, 344
+  size: 214, 40
+  orig: 214, 40
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_02
+  rotate: true
+  xy: 1621, 344
+  size: 214, 40
+  orig: 214, 40
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_03
+  rotate: false
+  xy: 1663, 326
+  size: 212, 38
+  orig: 212, 38
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_04
+  rotate: false
+  xy: 320, 12
+  size: 214, 40
+  orig: 214, 40
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_05
+  rotate: false
+  xy: 784, 477
+  size: 215, 37
+  orig: 215, 37
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_06
+  rotate: true
+  xy: 1463, 353
+  size: 212, 42
+  orig: 212, 42
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_07
+  rotate: false
+  xy: 1663, 732
+  size: 214, 39
+  orig: 214, 39
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_08
+  rotate: true
+  xy: 1663, 366
+  size: 213, 40
+  orig: 213, 40
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_09
+  rotate: true
+  xy: 1829, 480
+  size: 210, 38
+  orig: 210, 38
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_10
+  rotate: true
+  xy: 1705, 366
+  size: 213, 40
+  orig: 213, 40
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_11
+  rotate: false
+  xy: 751, 243
+  size: 207, 39
+  orig: 207, 39
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_12
+  rotate: false
+  xy: 960, 391
+  size: 207, 39
+  orig: 207, 39
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_13
+  rotate: true
+  xy: 1911, 607
+  size: 205, 39
+  orig: 205, 39
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_14
+  rotate: true
+  xy: 1952, 607
+  size: 205, 39
+  orig: 205, 39
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_15
+  rotate: true
+  xy: 1869, 524
+  size: 206, 40
+  orig: 206, 40
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_16
+  rotate: true
+  xy: 1747, 366
+  size: 213, 39
+  orig: 213, 39
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_17
+  rotate: false
+  xy: 738, 201
+  size: 213, 40
+  orig: 213, 40
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_18
+  rotate: false
+  xy: 738, 118
+  size: 213, 39
+  orig: 213, 39
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_19
+  rotate: false
+  xy: 738, 159
+  size: 213, 40
+  orig: 213, 40
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_20
+  rotate: false
+  xy: 714, 76
+  size: 213, 40
+  orig: 213, 40
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_21
+  rotate: false
+  xy: 1619, 692
+  size: 213, 38
+  orig: 213, 38
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_22
+  rotate: false
+  xy: 714, 35
+  size: 213, 39
+  orig: 213, 39
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_23
+  rotate: false
+  xy: 1076, 277
+  size: 213, 39
+  orig: 213, 39
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_24
+  rotate: true
+  xy: 1788, 477
+  size: 213, 39
+  orig: 213, 39
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_25
+  rotate: false
+  xy: 1169, 359
+  size: 214, 39
+  orig: 214, 39
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_26
+  rotate: false
+  xy: 1076, 318
+  size: 214, 39
+  orig: 214, 39
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_27
+  rotate: false
+  xy: 751, 436
+  size: 215, 39
+  orig: 215, 39
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_28
+  rotate: false
+  xy: 711, 395
+  size: 215, 39
+  orig: 215, 39
+  offset: 0, 0
+  index: -1
+window/freegame/xx/xx_29
+  rotate: false
+  xy: 1677, 773
+  size: 215, 39
+  orig: 215, 39
+  offset: 0, 0
+  index: -1
+window/xxx
+  rotate: false
+  xy: 1409, 567
+  size: 128, 123
+  orig: 128, 123
+  offset: 0, 0
+  index: -1

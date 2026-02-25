@@ -1,0 +1,272 @@
+
+shishenrenmianxiang.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 1758
+  size: 632, 245
+  orig: 632, 245
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 2
+  size: 225, 145
+  orig: 225, 145
+  offset: 0, 0
+  index: -1
+skill/1_00000
+  rotate: false
+  xy: 2, 1009
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00002
+  rotate: true
+  xy: 1026, 1782
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00004
+  rotate: false
+  xy: 2, 619
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00006
+  rotate: true
+  xy: 1416, 1782
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00008
+  rotate: false
+  xy: 2, 229
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00010
+  rotate: false
+  xy: 305, 1368
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00012
+  rotate: false
+  xy: 225, 978
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00014
+  rotate: false
+  xy: 225, 588
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00016
+  rotate: false
+  xy: 225, 198
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00018
+  rotate: false
+  xy: 528, 1368
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00020
+  rotate: false
+  xy: 448, 978
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00022
+  rotate: false
+  xy: 448, 588
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00024
+  rotate: false
+  xy: 448, 198
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00026
+  rotate: false
+  xy: 751, 1392
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00028
+  rotate: false
+  xy: 974, 1392
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00030
+  rotate: false
+  xy: 1197, 1392
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00032
+  rotate: false
+  xy: 1420, 1392
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00034
+  rotate: false
+  xy: 1643, 1392
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00036
+  rotate: false
+  xy: 671, 978
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00038
+  rotate: false
+  xy: 671, 588
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00040
+  rotate: false
+  xy: 671, 198
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00042
+  rotate: false
+  xy: 894, 1002
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00044
+  rotate: false
+  xy: 894, 612
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00046
+  rotate: false
+  xy: 1117, 1002
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00048
+  rotate: false
+  xy: 894, 222
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00050
+  rotate: false
+  xy: 1117, 612
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00052
+  rotate: false
+  xy: 1340, 1002
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00054
+  rotate: false
+  xy: 1117, 222
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00056
+  rotate: false
+  xy: 1340, 612
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+skill/1_00058
+  rotate: true
+  xy: 636, 1782
+  size: 221, 388
+  orig: 221, 388
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 1399
+  size: 301, 357
+  orig: 301, 357
+  offset: 0, 0
+  index: -1
+weibo
+  rotate: false
+  xy: 1563, 1125
+  size: 262, 265
+  orig: 262, 265
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: false
+  xy: 1340, 339
+  size: 98, 271
+  orig: 98, 271
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: true
+  xy: 1667, 959
+  size: 164, 140
+  orig: 164, 140
+  offset: 0, 0
+  index: -1
+zuijiao
+  rotate: false
+  xy: 1806, 1861
+  size: 171, 142
+  orig: 171, 142
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 1563, 863
+  size: 102, 260
+  orig: 102, 260
+  offset: 0, 0
+  index: -1

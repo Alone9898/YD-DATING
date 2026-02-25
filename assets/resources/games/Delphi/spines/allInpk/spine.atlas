@@ -1,0 +1,153 @@
+
+spine.png
+size: 1103,1103
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CashBonus_tx_baozha_02
+  rotate: false
+  xy: 671, 308
+  size: 150, 151
+  orig: 165, 163
+  offset: 8, 6
+  index: -1
+CashBonus_tx_baozha_04
+  rotate: false
+  xy: 760, 159
+  size: 146, 147
+  orig: 165, 163
+  offset: 10, 8
+  index: -1
+CashBonus_tx_baozha_06
+  rotate: false
+  xy: 823, 352
+  size: 148, 147
+  orig: 165, 163
+  offset: 10, 6
+  index: -1
+CashBonus_tx_baozha_08
+  rotate: true
+  xy: 908, 59
+  size: 142, 143
+  orig: 165, 163
+  offset: 12, 10
+  index: -1
+CashBonus_tx_baozha_10
+  rotate: false
+  xy: 908, 203
+  size: 147, 147
+  orig: 165, 163
+  offset: 10, 8
+  index: -1
+CashBonus_tx_baozha_12
+  rotate: true
+  xy: 605, 144
+  size: 154, 153
+  orig: 165, 163
+  offset: 6, 5
+  index: -1
+CashBonus_tx_baozha_14
+  rotate: false
+  xy: 445, 133
+  size: 158, 157
+  orig: 165, 163
+  offset: 4, 3
+  index: -1
+CashBonus_tx_baozha_16
+  rotate: false
+  xy: 509, 300
+  size: 160, 159
+  orig: 165, 163
+  offset: 2, 2
+  index: -1
+CashBonus_tx_baozha_18
+  rotate: false
+  xy: 509, 461
+  size: 163, 159
+  orig: 165, 163
+  offset: 1, 2
+  index: -1
+CashBonus_tx_baozha_20
+  rotate: false
+  xy: 509, 622
+  size: 164, 163
+  orig: 165, 163
+  offset: 0, 0
+  index: -1
+CashBonus_tx_baozha_22
+  rotate: false
+  xy: 2, 39
+  size: 163, 163
+  orig: 165, 163
+  offset: 1, 0
+  index: -1
+CashBonus_tx_baozha_24
+  rotate: false
+  xy: 282, 133
+  size: 161, 157
+  orig: 165, 163
+  offset: 2, 3
+  index: -1
+CashBonus_tx_baozha_26
+  rotate: false
+  xy: 282, 2
+  size: 158, 129
+  orig: 165, 163
+  offset: 1, 22
+  index: -1
+allin_part1
+  rotate: true
+  xy: 167, 20
+  size: 182, 113
+  orig: 182, 113
+  offset: 0, 0
+  index: -1
+allin_part2
+  rotate: false
+  xy: 973, 379
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+allin_part2_ar
+  rotate: false
+  xy: 2, 204
+  size: 273, 86
+  orig: 273, 86
+  offset: 0, 0
+  index: -1
+allin_part_ar
+  rotate: false
+  xy: 442, 27
+  size: 159, 104
+  orig: 159, 104
+  offset: 0, 0
+  index: -1
+bg_allin
+  rotate: false
+  xy: 2, 787
+  size: 720, 314
+  orig: 720, 314
+  offset: 0, 0
+  index: -1
+light_1
+  rotate: false
+  xy: 724, 802
+  size: 377, 299
+  orig: 377, 299
+  offset: 0, 0
+  index: -1
+light_2
+  rotate: false
+  xy: 724, 501
+  size: 377, 299
+  orig: 377, 299
+  offset: 0, 0
+  index: -1
+slot_sea_world_game_start0
+  rotate: false
+  xy: 2, 292
+  size: 505, 493
+  orig: 512, 512
+  offset: 0, 19
+  index: -1

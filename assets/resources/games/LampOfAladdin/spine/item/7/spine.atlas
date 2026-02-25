@@ -1,0 +1,97 @@
+
+spine.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fgn
+  rotate: false
+  xy: 2, 25
+  size: 194, 101
+  orig: 194, 116
+  offset: 0, 15
+  index: -1
+images/g
+  rotate: true
+  xy: 326, 29
+  size: 45, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+images/sao_0
+  rotate: false
+  xy: 412, 47
+  size: 40, 35
+  orig: 100, 75
+  offset: 60, 39
+  index: -1
+images/sao_1
+  rotate: false
+  xy: 411, 84
+  size: 42, 42
+  orig: 100, 75
+  offset: 58, 21
+  index: -1
+images/sao_2
+  rotate: false
+  xy: 368, 82
+  size: 41, 44
+  orig: 100, 75
+  offset: 42, 14
+  index: -1
+images/sao_3
+  rotate: false
+  xy: 326, 76
+  size: 40, 50
+  orig: 100, 75
+  offset: 42, 9
+  index: -1
+images/sao_4
+  rotate: false
+  xy: 455, 87
+  size: 40, 39
+  orig: 100, 75
+  offset: 36, 14
+  index: -1
+images/sao_5
+  rotate: false
+  xy: 368, 48
+  size: 42, 32
+  orig: 100, 75
+  offset: 26, 16
+  index: -1
+images/sao_6
+  rotate: false
+  xy: 364, 18
+  size: 41, 28
+  orig: 100, 75
+  offset: 19, 15
+  index: -1
+images/sao_7
+  rotate: false
+  xy: 47, 2
+  size: 41, 21
+  orig: 100, 75
+  offset: 9, 17
+  index: -1
+images/sao_8
+  rotate: false
+  xy: 2, 2
+  size: 43, 21
+  orig: 100, 75
+  offset: 2, 16
+  index: -1
+images/sao_9
+  rotate: false
+  xy: 407, 22
+  size: 36, 23
+  orig: 100, 75
+  offset: 1, 10
+  index: -1
+images/xdc
+  rotate: false
+  xy: 198, 25
+  size: 126, 101
+  orig: 194, 116
+  offset: 50, 0
+  index: -1

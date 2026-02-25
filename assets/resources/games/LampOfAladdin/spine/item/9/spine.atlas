@@ -1,0 +1,237 @@
+
+spine.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Lark20210420-152356
+  rotate: false
+  xy: 2, 306
+  size: 202, 201
+  orig: 202, 201
+  offset: 0, 0
+  index: -1
+images/Lark20210420-152405
+  rotate: false
+  xy: 2, 165
+  size: 194, 139
+  orig: 194, 139
+  offset: 0, 0
+  index: -1
+images/guang
+  rotate: false
+  xy: 1041, 256
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+images/yanwu_10
+  rotate: false
+  xy: 1353, 296
+  size: 85, 63
+  orig: 85, 63
+  offset: 0, 0
+  index: -1
+images/yanwu_11
+  rotate: false
+  xy: 1260, 295
+  size: 91, 64
+  orig: 91, 64
+  offset: 0, 0
+  index: -1
+images/yanwu_12
+  rotate: false
+  xy: 1156, 292
+  size: 102, 67
+  orig: 102, 67
+  offset: 0, 0
+  index: -1
+images/yanwu_13
+  rotate: false
+  xy: 1041, 289
+  size: 113, 72
+  orig: 113, 72
+  offset: 0, 0
+  index: -1
+images/yanwu_14
+  rotate: true
+  xy: 1946, 388
+  size: 119, 91
+  orig: 119, 91
+  offset: 0, 0
+  index: -1
+images/yanwu_15
+  rotate: false
+  xy: 920, 251
+  size: 119, 110
+  orig: 119, 110
+  offset: 0, 0
+  index: -1
+images/yanwu_16
+  rotate: false
+  xy: 799, 231
+  size: 119, 130
+  orig: 119, 130
+  offset: 0, 0
+  index: -1
+images/yanwu_17
+  rotate: false
+  xy: 672, 228
+  size: 125, 133
+  orig: 125, 133
+  offset: 0, 0
+  index: -1
+images/yanwu_18
+  rotate: true
+  xy: 363, 218
+  size: 126, 150
+  orig: 126, 150
+  offset: 0, 0
+  index: -1
+images/yanwu_19
+  rotate: false
+  xy: 150, 8
+  size: 126, 155
+  orig: 126, 155
+  offset: 0, 0
+  index: -1
+images/yanwu_20
+  rotate: true
+  xy: 206, 218
+  size: 126, 155
+  orig: 126, 155
+  offset: 0, 0
+  index: -1
+images/yanwu_21
+  rotate: true
+  xy: 1318, 361
+  size: 146, 155
+  orig: 146, 155
+  offset: 0, 0
+  index: -1
+images/yanwu_22
+  rotate: true
+  xy: 1475, 361
+  size: 146, 155
+  orig: 146, 155
+  offset: 0, 0
+  index: -1
+images/yanwu_23
+  rotate: true
+  xy: 515, 219
+  size: 142, 155
+  orig: 142, 155
+  offset: 0, 0
+  index: -1
+images/yanwu_24
+  rotate: true
+  xy: 1632, 361
+  size: 146, 155
+  orig: 146, 155
+  offset: 0, 0
+  index: -1
+images/yanwu_25
+  rotate: true
+  xy: 1789, 361
+  size: 146, 155
+  orig: 146, 155
+  offset: 0, 0
+  index: -1
+images/yanwu_26
+  rotate: true
+  xy: 1158, 361
+  size: 146, 158
+  orig: 146, 158
+  offset: 0, 0
+  index: -1
+images/yanwu_27
+  rotate: false
+  xy: 206, 346
+  size: 146, 161
+  orig: 146, 161
+  offset: 0, 0
+  index: -1
+images/yanwu_29
+  rotate: false
+  xy: 2, 2
+  size: 146, 161
+  orig: 146, 161
+  offset: 0, 0
+  index: -1
+images/yanwu_3
+  rotate: false
+  xy: 1749, 333
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+images/yanwu_30
+  rotate: false
+  xy: 354, 346
+  size: 146, 161
+  orig: 146, 161
+  offset: 0, 0
+  index: -1
+images/yanwu_32
+  rotate: true
+  xy: 502, 363
+  size: 144, 162
+  orig: 144, 162
+  offset: 0, 0
+  index: -1
+images/yanwu_34
+  rotate: true
+  xy: 666, 363
+  size: 144, 162
+  orig: 144, 162
+  offset: 0, 0
+  index: -1
+images/yanwu_36
+  rotate: true
+  xy: 830, 363
+  size: 144, 162
+  orig: 144, 162
+  offset: 0, 0
+  index: -1
+images/yanwu_38
+  rotate: true
+  xy: 994, 363
+  size: 144, 162
+  orig: 144, 162
+  offset: 0, 0
+  index: -1
+images/yanwu_4
+  rotate: false
+  xy: 1704, 321
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+images/yanwu_6
+  rotate: false
+  xy: 1657, 313
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+images/yanwu_7
+  rotate: false
+  xy: 1600, 307
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+images/yanwu_8
+  rotate: false
+  xy: 1525, 299
+  size: 73, 60
+  orig: 73, 60
+  offset: 0, 0
+  index: -1
+images/yanwu_9
+  rotate: false
+  xy: 1440, 298
+  size: 83, 61
+  orig: 83, 61
+  offset: 0, 0
+  index: -1

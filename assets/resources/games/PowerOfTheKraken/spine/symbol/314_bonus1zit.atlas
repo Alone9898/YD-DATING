@@ -1,0 +1,41 @@
+
+314_bonus1zit.png
+size: 387,385
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kra
+  rotate: false
+  xy: 2, 277
+  size: 287, 106
+  orig: 287, 106
+  offset: 0, 0
+  index: -1
+oc
+  rotate: false
+  xy: 2, 164
+  size: 261, 111
+  orig: 261, 111
+  offset: 0, 0
+  index: -1
+pick
+  rotate: true
+  xy: 291, 204
+  size: 179, 94
+  orig: 179, 94
+  offset: 0, 0
+  index: -1
+power
+  rotate: false
+  xy: 2, 74
+  size: 239, 88
+  orig: 239, 88
+  offset: 0, 0
+  index: -1
+tx/sdd_0
+  rotate: false
+  xy: 265, 94
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1

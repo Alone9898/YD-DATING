@@ -1,0 +1,55 @@
+
+baoxiangminor.png
+size: 868,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow100
+  rotate: false
+  xy: 2, 7
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Particle_Circle_Outerglow_01
+  rotate: false
+  xy: 260, 9
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+images/lanbao
+  rotate: false
+  xy: 613, 62
+  size: 168, 76
+  orig: 170, 78
+  offset: 1, 1
+  index: -1
+images/minor
+  rotate: false
+  xy: 613, 2
+  size: 176, 58
+  orig: 178, 60
+  offset: 1, 1
+  index: -1
+low_406_trail01
+  rotate: false
+  xy: 516, 14
+  size: 95, 249
+  orig: 128, 256
+  offset: 16, 5
+  index: -1
+ros_flare01
+  rotate: false
+  xy: 743, 140
+  size: 123, 123
+  orig: 128, 128
+  offset: 2, 2
+  index: -1
+xxx
+  rotate: false
+  xy: 613, 140
+  size: 128, 123
+  orig: 128, 123
+  offset: 0, 0
+  index: -1

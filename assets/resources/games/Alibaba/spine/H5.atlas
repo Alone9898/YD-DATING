@@ -1,0 +1,41 @@
+
+H5.png
+size: 259,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5_di
+  rotate: true
+  xy: 2, 2
+  size: 128, 114
+  orig: 128, 114
+  offset: 0, 0
+  index: -1
+deng
+  rotate: true
+  xy: 169, 200
+  size: 77, 88
+  orig: 77, 88
+  offset: 0, 0
+  index: -1
+deng_add
+  rotate: true
+  xy: 2, 132
+  size: 145, 165
+  orig: 145, 165
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 118, 21
+  size: 109, 108
+  orig: 109, 108
+  offset: 0, 0
+  index: -1
+star_01
+  rotate: true
+  xy: 169, 168
+  size: 30, 32
+  orig: 32, 32
+  offset: 1, 0
+  index: -1

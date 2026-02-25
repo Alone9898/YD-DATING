@@ -1,0 +1,90 @@
+
+314_logo.png
+size: 309,309
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liuguang/lg_0
+  rotate: false
+  xy: 2, 170
+  size: 120, 40
+  orig: 120, 40
+  offset: 0, 0
+  index: -1
+liuguang/lg_1
+  rotate: false
+  xy: 2, 128
+  size: 120, 40
+  orig: 120, 40
+  offset: 0, 0
+  index: -1
+liuguang/lg_10
+  rotate: true
+  xy: 261, 187
+  size: 120, 40
+  orig: 120, 40
+  offset: 0, 0
+  index: -1
+liuguang/lg_2
+  rotate: false
+  xy: 124, 170
+  size: 120, 40
+  orig: 120, 40
+  offset: 0, 0
+  index: -1
+liuguang/lg_3
+  rotate: false
+  xy: 2, 86
+  size: 120, 40
+  orig: 120, 40
+  offset: 0, 0
+  index: -1
+liuguang/lg_4
+  rotate: false
+  xy: 124, 128
+  size: 120, 40
+  orig: 120, 40
+  offset: 0, 0
+  index: -1
+liuguang/lg_5
+  rotate: false
+  xy: 2, 44
+  size: 120, 40
+  orig: 120, 40
+  offset: 0, 0
+  index: -1
+liuguang/lg_6
+  rotate: false
+  xy: 124, 86
+  size: 120, 40
+  orig: 120, 40
+  offset: 0, 0
+  index: -1
+liuguang/lg_7
+  rotate: false
+  xy: 2, 2
+  size: 120, 40
+  orig: 120, 40
+  offset: 0, 0
+  index: -1
+liuguang/lg_8
+  rotate: false
+  xy: 124, 44
+  size: 120, 40
+  orig: 120, 40
+  offset: 0, 0
+  index: -1
+liuguang/lg_9
+  rotate: false
+  xy: 124, 2
+  size: 120, 40
+  orig: 120, 40
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 2, 212
+  size: 257, 95
+  orig: 257, 95
+  offset: 0, 0
+  index: -1

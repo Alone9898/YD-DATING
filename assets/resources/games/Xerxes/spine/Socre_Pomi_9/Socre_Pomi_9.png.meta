@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "901e8d32-e19e-49c0-b842-11bafb970fbe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "Socre_Pomi_9": {
+      "ver": "1.0.4",
+      "uuid": "77d97654-5d30-4921-b3db-0b44c68bd9a2",
+      "rawTextureUuid": "901e8d32-e19e-49c0-b842-11bafb970fbe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1020,
+      "height": 252,
+      "rawWidth": 1024,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

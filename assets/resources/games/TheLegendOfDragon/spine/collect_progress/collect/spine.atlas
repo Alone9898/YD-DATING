@@ -1,0 +1,125 @@
+
+jiaobiaojieshou.png
+size: 294,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiaobiao/jiaobiao_00
+  rotate: false
+  xy: 232, 114
+  size: 62, 50
+  orig: 100, 100
+  offset: 19, 21
+  index: -1
+jiaobiao/jiaobiao_01
+  rotate: false
+  xy: 231, 62
+  size: 62, 50
+  orig: 100, 100
+  offset: 19, 21
+  index: -1
+jiaobiao/jiaobiao_02
+  rotate: false
+  xy: 232, 166
+  size: 62, 54
+  orig: 100, 100
+  offset: 19, 20
+  index: -1
+jiaobiao/jiaobiao_03
+  rotate: false
+  xy: 155, 29
+  size: 67, 62
+  orig: 100, 100
+  offset: 14, 17
+  index: -1
+jiaobiao/jiaobiao_04
+  rotate: false
+  xy: 158, 154
+  size: 72, 66
+  orig: 100, 100
+  offset: 11, 15
+  index: -1
+jiaobiao/jiaobiao_05
+  rotate: false
+  xy: 158, 222
+  size: 75, 69
+  orig: 100, 100
+  offset: 10, 14
+  index: -1
+jiaobiao/jiaobiao_06
+  rotate: false
+  xy: 0, 221
+  size: 77, 70
+  orig: 100, 100
+  offset: 9, 14
+  index: -1
+jiaobiao/jiaobiao_07
+  rotate: false
+  xy: 0, 149
+  size: 77, 70
+  orig: 100, 100
+  offset: 9, 14
+  index: -1
+jiaobiao/jiaobiao_08
+  rotate: false
+  xy: 79, 221
+  size: 77, 70
+  orig: 100, 100
+  offset: 9, 14
+  index: -1
+jiaobiao/jiaobiao_09
+  rotate: false
+  xy: 0, 78
+  size: 77, 69
+  orig: 100, 100
+  offset: 9, 16
+  index: -1
+jiaobiao/jiaobiao_10
+  rotate: false
+  xy: 79, 150
+  size: 76, 69
+  orig: 100, 100
+  offset: 10, 16
+  index: -1
+jiaobiao/jiaobiao_11
+  rotate: false
+  xy: 0, 8
+  size: 75, 68
+  orig: 100, 100
+  offset: 11, 17
+  index: -1
+jiaobiao/jiaobiao_12
+  rotate: false
+  xy: 79, 81
+  size: 74, 67
+  orig: 100, 100
+  offset: 11, 17
+  index: -1
+jiaobiao/jiaobiao_13
+  rotate: false
+  xy: 79, 15
+  size: 74, 64
+  orig: 100, 100
+  offset: 11, 17
+  index: -1
+jiaobiao/jiaobiao_14
+  rotate: false
+  xy: 224, 0
+  size: 67, 60
+  orig: 100, 100
+  offset: 17, 18
+  index: -1
+jiaobiaoglow_00
+  rotate: false
+  xy: 157, 93
+  size: 72, 59
+  orig: 100, 100
+  offset: 14, 16
+  index: -1
+theme177_base_ui_11
+  rotate: false
+  xy: 235, 250
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1

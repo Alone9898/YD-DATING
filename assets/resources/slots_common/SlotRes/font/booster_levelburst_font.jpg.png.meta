@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f56f550b-74a6-419b-bcec-783f6deca4ab",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 180,
+  "height": 180,
+  "platformSettings": {},
+  "subMetas": {
+    "booster_levelburst_font.jpg": {
+      "ver": "1.0.4",
+      "uuid": "bf6ce5a6-4294-45cd-b00f-090ab7199516",
+      "rawTextureUuid": "f56f550b-74a6-419b-bcec-783f6deca4ab",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 3,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 180,
+      "height": 170,
+      "rawWidth": 180,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

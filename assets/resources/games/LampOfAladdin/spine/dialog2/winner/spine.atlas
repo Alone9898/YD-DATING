@@ -1,0 +1,55 @@
+
+spine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 256, 187
+  orig: 256, 187
+  offset: 0, 0
+  index: -1
+10008_shine_xg4_22
+  rotate: false
+  xy: 860, 739
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+dikuang
+  rotate: false
+  xy: 2, 635
+  size: 856, 232
+  orig: 856, 232
+  offset: 0, 0
+  index: -1
+g_02 #31720
+  rotate: false
+  xy: 717, 508
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+meirjiangli_wenzi01
+  rotate: false
+  xy: 2, 481
+  size: 713, 152
+  orig: 713, 152
+  offset: 0, 0
+  index: -1
+zhaung
+  rotate: false
+  xy: 2, 191
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+zhijian
+  rotate: false
+  xy: 292, 350
+  size: 79, 129
+  orig: 79, 129
+  offset: 0, 0
+  index: -1

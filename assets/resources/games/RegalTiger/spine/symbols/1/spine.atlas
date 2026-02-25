@@ -1,0 +1,370 @@
+
+symbol_lh_01.png
+size: 875,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaoliang01
+  rotate: false
+  xy: 278, 6
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+images/beijing
+  rotate: false
+  xy: 328, 12
+  size: 119, 42
+  orig: 119, 42
+  offset: 0, 0
+  index: -1
+images/huzi
+  rotate: false
+  xy: 529, 67
+  size: 155, 59
+  orig: 155, 59
+  offset: 0, 0
+  index: -1
+images/kuang
+  rotate: false
+  xy: 0, 0
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+images/shangya
+  rotate: false
+  xy: 449, 4
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: false
+  xy: 278, 56
+  size: 119, 70
+  orig: 119, 70
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 128, 7
+  size: 148, 119
+  orig: 148, 119
+  offset: 0, 0
+  index: -1
+images/xiae
+  rotate: false
+  xy: 399, 60
+  size: 128, 66
+  orig: 128, 66
+  offset: 0, 0
+  index: -1
+images/xiaya
+  rotate: false
+  xy: 449, 20
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_1
+  rotate: false
+  xy: 500, 35
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_10
+  rotate: false
+  xy: 616, 17
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_11
+  rotate: false
+  xy: 645, 42
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_12
+  rotate: false
+  xy: 645, 17
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_13
+  rotate: false
+  xy: 674, 42
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_14
+  rotate: false
+  xy: 674, 17
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_15
+  rotate: false
+  xy: 686, 103
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_16
+  rotate: false
+  xy: 686, 78
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_17
+  rotate: false
+  xy: 703, 53
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_18
+  rotate: false
+  xy: 715, 103
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_19
+  rotate: false
+  xy: 715, 78
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_2
+  rotate: false
+  xy: 500, 10
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_20
+  rotate: false
+  xy: 703, 28
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_21
+  rotate: false
+  xy: 703, 3
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_22
+  rotate: false
+  xy: 732, 53
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_23
+  rotate: false
+  xy: 744, 103
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_24
+  rotate: false
+  xy: 744, 78
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_25
+  rotate: false
+  xy: 732, 28
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_26
+  rotate: false
+  xy: 732, 3
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_27
+  rotate: false
+  xy: 761, 53
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_28
+  rotate: false
+  xy: 773, 103
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_29
+  rotate: false
+  xy: 773, 78
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_3
+  rotate: false
+  xy: 529, 42
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_30
+  rotate: false
+  xy: 761, 28
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_31
+  rotate: false
+  xy: 761, 3
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_32
+  rotate: false
+  xy: 802, 103
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_33
+  rotate: false
+  xy: 831, 103
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_34
+  rotate: false
+  xy: 802, 78
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_35
+  rotate: false
+  xy: 831, 78
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_36
+  rotate: false
+  xy: 790, 53
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_37
+  rotate: false
+  xy: 790, 28
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_38
+  rotate: false
+  xy: 790, 3
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_39
+  rotate: false
+  xy: 819, 53
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_4
+  rotate: false
+  xy: 529, 17
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_40
+  rotate: false
+  xy: 848, 53
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_41
+  rotate: false
+  xy: 819, 28
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_42
+  rotate: false
+  xy: 848, 28
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_43
+  rotate: false
+  xy: 819, 3
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_5
+  rotate: false
+  xy: 558, 42
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_6
+  rotate: false
+  xy: 558, 17
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_7
+  rotate: false
+  xy: 587, 42
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_8
+  rotate: false
+  xy: 587, 17
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+wuqi/wuqi_9
+  rotate: false
+  xy: 616, 42
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1

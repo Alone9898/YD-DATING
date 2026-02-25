@@ -1,0 +1,125 @@
+
+314_jp_unlock.png
+size: 932,932
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02_000
+  rotate: false
+  xy: 2, 312
+  size: 355, 356
+  orig: 358, 358
+  offset: 3, 2
+  index: -1
+g2
+  rotate: false
+  xy: 585, 30
+  size: 202, 114
+  orig: 210, 118
+  offset: 4, 2
+  index: -1
+gc_00
+  rotate: false
+  xy: 2, 670
+  size: 769, 260
+  orig: 769, 260
+  offset: 0, 0
+  index: -1
+lizi_0007
+  rotate: false
+  xy: 760, 504
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+unlock/qp_002
+  rotate: false
+  xy: 587, 146
+  size: 256, 74
+  orig: 353, 197
+  offset: 43, 64
+  index: -1
+unlock/qp_004
+  rotate: false
+  xy: 312, 2
+  size: 271, 78
+  orig: 353, 197
+  offset: 36, 60
+  index: -1
+unlock/qp_006
+  rotate: false
+  xy: 639, 414
+  size: 280, 88
+  orig: 353, 197
+  offset: 36, 61
+  index: -1
+unlock/qp_008
+  rotate: false
+  xy: 636, 319
+  size: 277, 93
+  orig: 353, 197
+  offset: 37, 57
+  index: -1
+unlock/qp_010
+  rotate: false
+  xy: 636, 222
+  size: 274, 95
+  orig: 353, 197
+  offset: 38, 57
+  index: -1
+unlock/qp_012
+  rotate: false
+  xy: 312, 82
+  size: 271, 105
+  orig: 353, 197
+  offset: 39, 54
+  index: -1
+unlock/qp_014
+  rotate: false
+  xy: 312, 189
+  size: 273, 113
+  orig: 353, 197
+  offset: 35, 51
+  index: -1
+unlock/qp_016
+  rotate: false
+  xy: 359, 304
+  size: 275, 116
+  orig: 353, 197
+  offset: 31, 49
+  index: -1
+unlock/qp_018
+  rotate: false
+  xy: 359, 422
+  size: 278, 119
+  orig: 353, 197
+  offset: 26, 47
+  index: -1
+unlock/qp_020
+  rotate: false
+  xy: 359, 543
+  size: 282, 125
+  orig: 353, 197
+  offset: 23, 48
+  index: -1
+unlock/qp_022
+  rotate: true
+  xy: 773, 661
+  size: 269, 128
+  orig: 353, 197
+  offset: 23, 50
+  index: -1
+unlock/qp_024
+  rotate: true
+  xy: 643, 505
+  size: 163, 115
+  orig: 353, 197
+  offset: 108, 63
+  index: -1
+xg_00002
+  rotate: false
+  xy: 2, 35
+  size: 308, 275
+  orig: 383, 379
+  offset: 52, 50
+  index: -1

@@ -1,0 +1,4318 @@
+
+aladingshendeng.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houfa
+  rotate: false
+  xy: 1986, 1639
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: -1
+huzhi
+  rotate: false
+  xy: 554, 587
+  size: 47, 86
+  orig: 47, 86
+  offset: 0, 0
+  index: -1
+piaodai_1
+  rotate: true
+  xy: 1096, 854
+  size: 39, 69
+  orig: 39, 69
+  offset: 0, 0
+  index: -1
+piaodai_2
+  rotate: true
+  xy: 419, 530
+  size: 39, 65
+  orig: 39, 65
+  offset: 0, 0
+  index: -1
+piaodai_3
+  rotate: true
+  xy: 348, 529
+  size: 40, 69
+  orig: 40, 69
+  offset: 0, 0
+  index: -1
+piaodai_4
+  rotate: true
+  xy: 486, 540
+  size: 29, 66
+  orig: 29, 66
+  offset: 0, 0
+  index: -1
+piaodai_5
+  rotate: true
+  xy: 214, 251
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1
+piaodai_6
+  rotate: true
+  xy: 1557, 525
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+piaodai_7
+  rotate: false
+  xy: 1557, 562
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+shengti
+  rotate: false
+  xy: 1500, 1327
+  size: 230, 247
+  orig: 230, 247
+  offset: 0, 0
+  index: -1
+shouzhuo
+  rotate: false
+  xy: 1214, 546
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00023
+  rotate: false
+  xy: 1287, 529
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00024
+  rotate: false
+  xy: 1377, 520
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00025
+  rotate: false
+  xy: 1467, 520
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00026
+  rotate: true
+  xy: 1859, 795
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00027
+  rotate: true
+  xy: 1850, 1514
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00028
+  rotate: true
+  xy: 1850, 1424
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00029
+  rotate: true
+  xy: 1850, 1334
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00030
+  rotate: false
+  xy: 1850, 1249
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00031
+  rotate: true
+  xy: 1935, 1527
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00032
+  rotate: true
+  xy: 1935, 1437
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00033
+  rotate: true
+  xy: 1935, 1347
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00034
+  rotate: true
+  xy: 1940, 1257
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00035
+  rotate: false
+  xy: 1752, 708
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00036
+  rotate: false
+  xy: 603, 542
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00037
+  rotate: false
+  xy: 693, 542
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00038
+  rotate: false
+  xy: 783, 542
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00039
+  rotate: true
+  xy: 873, 537
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00040
+  rotate: false
+  xy: 958, 478
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00041
+  rotate: false
+  xy: 1096, 423
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00042
+  rotate: false
+  xy: 1186, 423
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00043
+  rotate: false
+  xy: 1276, 444
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00044
+  rotate: false
+  xy: 1366, 435
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00045
+  rotate: false
+  xy: 1456, 435
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00046
+  rotate: false
+  xy: 1276, 359
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00047
+  rotate: false
+  xy: 1366, 350
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00048
+  rotate: false
+  xy: 1456, 350
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00049
+  rotate: false
+  xy: 1842, 708
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00050
+  rotate: false
+  xy: 1546, 702
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00051
+  rotate: false
+  xy: 1546, 617
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00052
+  rotate: false
+  xy: 1636, 695
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00053
+  rotate: false
+  xy: 1636, 610
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00054
+  rotate: false
+  xy: 1726, 623
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00055
+  rotate: false
+  xy: 1816, 623
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00056
+  rotate: false
+  xy: 1906, 623
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00057
+  rotate: false
+  xy: 1726, 538
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00058
+  rotate: false
+  xy: 1816, 538
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00059
+  rotate: false
+  xy: 1906, 538
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00060
+  rotate: true
+  xy: 1546, 430
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGbozi/1_00061
+  rotate: false
+  xy: 1546, 345
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00000
+  rotate: false
+  xy: 1214, 508
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00001
+  rotate: true
+  xy: 1812, 1230
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00002
+  rotate: false
+  xy: 1905, 1211
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00003
+  rotate: false
+  xy: 1897, 1130
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00004
+  rotate: false
+  xy: 1893, 1006
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00005
+  rotate: true
+  xy: 1880, 888
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00006
+  rotate: false
+  xy: 1667, 529
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00007
+  rotate: false
+  xy: 1636, 338
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00008
+  rotate: true
+  xy: 1686, 336
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00009
+  rotate: false
+  xy: 1947, 1118
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00010
+  rotate: true
+  xy: 1997, 1114
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00011
+  rotate: false
+  xy: 955, 397
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00012
+  rotate: false
+  xy: 955, 359
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00013
+  rotate: false
+  xy: 1048, 377
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00014
+  rotate: false
+  xy: 1098, 385
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00015
+  rotate: false
+  xy: 1148, 385
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00016
+  rotate: false
+  xy: 1198, 385
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00017
+  rotate: false
+  xy: 1048, 339
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00018
+  rotate: false
+  xy: 1098, 347
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00019
+  rotate: false
+  xy: 1148, 347
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00020
+  rotate: false
+  xy: 1198, 347
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00021
+  rotate: false
+  xy: 872, 327
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00022
+  rotate: false
+  xy: 955, 321
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00023
+  rotate: false
+  xy: 1048, 301
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00024
+  rotate: false
+  xy: 1098, 309
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00025
+  rotate: false
+  xy: 1148, 309
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00026
+  rotate: false
+  xy: 1198, 309
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00027
+  rotate: false
+  xy: 872, 289
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00028
+  rotate: false
+  xy: 955, 283
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00029
+  rotate: false
+  xy: 955, 245
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00030
+  rotate: false
+  xy: 1048, 263
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00031
+  rotate: false
+  xy: 1098, 271
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00032
+  rotate: false
+  xy: 1148, 271
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00033
+  rotate: false
+  xy: 1198, 271
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00034
+  rotate: false
+  xy: 1048, 225
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00035
+  rotate: false
+  xy: 1098, 233
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00036
+  rotate: false
+  xy: 1148, 233
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00037
+  rotate: false
+  xy: 1198, 233
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00038
+  rotate: false
+  xy: 1208, 195
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00039
+  rotate: false
+  xy: 872, 251
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00040
+  rotate: false
+  xy: 955, 207
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00041
+  rotate: false
+  xy: 1048, 187
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00042
+  rotate: false
+  xy: 1208, 157
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00043
+  rotate: false
+  xy: 1248, 321
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00044
+  rotate: false
+  xy: 1298, 321
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00045
+  rotate: false
+  xy: 1248, 283
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00046
+  rotate: true
+  xy: 1248, 233
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00047
+  rotate: false
+  xy: 1298, 283
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00048
+  rotate: false
+  xy: 1286, 245
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00049
+  rotate: true
+  xy: 1291, 195
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/SGzhuobian/1_00050
+  rotate: false
+  xy: 1348, 312
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00001
+  rotate: false
+  xy: 1167, 866
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00002
+  rotate: false
+  xy: 603, 646
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00003
+  rotate: true
+  xy: 1860, 993
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00004
+  rotate: true
+  xy: 1697, 1577
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00005
+  rotate: false
+  xy: 1248, 394
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00006
+  rotate: false
+  xy: 1248, 365
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00007
+  rotate: true
+  xy: 1951, 890
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00008
+  rotate: false
+  xy: 602, 288
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00009
+  rotate: true
+  xy: 1293, 133
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00010
+  rotate: false
+  xy: 1868, 190
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00011
+  rotate: true
+  xy: 788, 170
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00012
+  rotate: true
+  xy: 817, 167
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00013
+  rotate: true
+  xy: 786, 109
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00014
+  rotate: true
+  xy: 815, 106
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00015
+  rotate: true
+  xy: 757, 94
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00016
+  rotate: true
+  xy: 786, 82
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00017
+  rotate: true
+  xy: 815, 79
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00018
+  rotate: false
+  xy: 1929, 192
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00019
+  rotate: false
+  xy: 1989, 232
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00020
+  rotate: true
+  xy: 2005, 79
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00021
+  rotate: true
+  xy: 1976, 69
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00022
+  rotate: true
+  xy: 2005, 52
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00023
+  rotate: false
+  xy: 880, 154
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00024
+  rotate: false
+  xy: 878, 57
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00025
+  rotate: false
+  xy: 902, 91
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00026
+  rotate: false
+  xy: 905, 62
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00027
+  rotate: true
+  xy: 755, 67
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00028
+  rotate: true
+  xy: 726, 58
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00029
+  rotate: true
+  xy: 784, 55
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00030
+  rotate: true
+  xy: 813, 52
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00031
+  rotate: true
+  xy: 755, 40
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00032
+  rotate: true
+  xy: 784, 28
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00033
+  rotate: true
+  xy: 813, 25
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00034
+  rotate: false
+  xy: 842, 28
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00035
+  rotate: false
+  xy: 869, 28
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00036
+  rotate: false
+  xy: 896, 28
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00037
+  rotate: true
+  xy: 724, 31
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00038
+  rotate: true
+  xy: 695, 23
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00039
+  rotate: false
+  xy: 724, 2
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00040
+  rotate: false
+  xy: 751, 2
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00041
+  rotate: false
+  xy: 2020, 1610
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00042
+  rotate: false
+  xy: 2020, 1581
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00043
+  rotate: false
+  xy: 2020, 1552
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00044
+  rotate: false
+  xy: 2020, 1523
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00045
+  rotate: false
+  xy: 2020, 1494
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00046
+  rotate: false
+  xy: 2020, 1465
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00047
+  rotate: false
+  xy: 2020, 1436
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00048
+  rotate: false
+  xy: 2020, 1407
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00049
+  rotate: false
+  xy: 2020, 1378
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00050
+  rotate: false
+  xy: 2020, 1349
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00051
+  rotate: false
+  xy: 929, 91
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00052
+  rotate: false
+  xy: 932, 62
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00053
+  rotate: true
+  xy: 931, 120
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00054
+  rotate: false
+  xy: 923, 33
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00055
+  rotate: false
+  xy: 950, 33
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00056
+  rotate: false
+  xy: 956, 91
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00057
+  rotate: false
+  xy: 959, 62
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00058
+  rotate: true
+  xy: 960, 120
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00059
+  rotate: false
+  xy: 977, 33
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00060
+  rotate: false
+  xy: 983, 91
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00061
+  rotate: false
+  xy: 986, 62
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00062
+  rotate: true
+  xy: 989, 120
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00063
+  rotate: false
+  xy: 1010, 91
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00064
+  rotate: false
+  xy: 1013, 62
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00065
+  rotate: false
+  xy: 1004, 33
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00066
+  rotate: true
+  xy: 1018, 120
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00067
+  rotate: false
+  xy: 1037, 91
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00068
+  rotate: false
+  xy: 1040, 62
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00069
+  rotate: false
+  xy: 1031, 33
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00070
+  rotate: true
+  xy: 1047, 120
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00071
+  rotate: false
+  xy: 1064, 91
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00072
+  rotate: false
+  xy: 1067, 62
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00073
+  rotate: false
+  xy: 1058, 33
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00074
+  rotate: true
+  xy: 1076, 120
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00075
+  rotate: false
+  xy: 1091, 91
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00076
+  rotate: false
+  xy: 1094, 62
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00077
+  rotate: false
+  xy: 1085, 33
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00078
+  rotate: true
+  xy: 1105, 120
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/bozi/1_00079
+  rotate: false
+  xy: 1118, 91
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00001
+  rotate: false
+  xy: 496, 290
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00002
+  rotate: true
+  xy: 1932, 709
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00003
+  rotate: true
+  xy: 1946, 951
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00004
+  rotate: true
+  xy: 794, 296
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00005
+  rotate: true
+  xy: 794, 265
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00006
+  rotate: true
+  xy: 1508, 319
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00007
+  rotate: false
+  xy: 1906, 470
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00008
+  rotate: true
+  xy: 1711, 437
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00009
+  rotate: true
+  xy: 1746, 437
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00010
+  rotate: true
+  xy: 1781, 437
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00011
+  rotate: true
+  xy: 1816, 437
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00012
+  rotate: false
+  xy: 1514, 752
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00013
+  rotate: false
+  xy: 1514, 717
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00014
+  rotate: true
+  xy: 1258, 147
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00015
+  rotate: true
+  xy: 1980, 885
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00016
+  rotate: false
+  xy: 1944, 855
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00017
+  rotate: false
+  xy: 1944, 820
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00018
+  rotate: false
+  xy: 1975, 850
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00019
+  rotate: false
+  xy: 1975, 815
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00020
+  rotate: false
+  xy: 1713, 84
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00021
+  rotate: false
+  xy: 2015, 881
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00022
+  rotate: false
+  xy: 2006, 846
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00023
+  rotate: false
+  xy: 2006, 811
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00024
+  rotate: false
+  xy: 1293, 160
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00025
+  rotate: true
+  xy: 1324, 159
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00026
+  rotate: true
+  xy: 527, 291
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00027
+  rotate: false
+  xy: 540, 256
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00028
+  rotate: false
+  xy: 540, 221
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00029
+  rotate: false
+  xy: 540, 186
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00030
+  rotate: false
+  xy: 540, 151
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00031
+  rotate: false
+  xy: 540, 116
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00032
+  rotate: false
+  xy: 540, 81
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00033
+  rotate: false
+  xy: 540, 46
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00034
+  rotate: false
+  xy: 540, 11
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00035
+  rotate: false
+  xy: 571, 258
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00036
+  rotate: false
+  xy: 571, 223
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00037
+  rotate: false
+  xy: 571, 188
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00038
+  rotate: false
+  xy: 571, 153
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00039
+  rotate: false
+  xy: 571, 118
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00040
+  rotate: false
+  xy: 571, 83
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00041
+  rotate: false
+  xy: 571, 48
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00042
+  rotate: false
+  xy: 571, 13
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00043
+  rotate: false
+  xy: 602, 253
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00044
+  rotate: false
+  xy: 602, 218
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00045
+  rotate: false
+  xy: 602, 183
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00046
+  rotate: false
+  xy: 602, 148
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00047
+  rotate: false
+  xy: 602, 113
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00048
+  rotate: false
+  xy: 602, 78
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00049
+  rotate: false
+  xy: 602, 43
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00050
+  rotate: false
+  xy: 602, 8
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00051
+  rotate: false
+  xy: 633, 259
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00052
+  rotate: false
+  xy: 633, 224
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00053
+  rotate: false
+  xy: 664, 259
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00054
+  rotate: false
+  xy: 633, 189
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00055
+  rotate: false
+  xy: 664, 224
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00056
+  rotate: false
+  xy: 695, 259
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00057
+  rotate: false
+  xy: 633, 154
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00058
+  rotate: false
+  xy: 664, 189
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00059
+  rotate: false
+  xy: 695, 224
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00060
+  rotate: false
+  xy: 726, 259
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00061
+  rotate: false
+  xy: 633, 119
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00062
+  rotate: false
+  xy: 664, 154
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00063
+  rotate: false
+  xy: 695, 189
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00064
+  rotate: false
+  xy: 726, 224
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00065
+  rotate: false
+  xy: 757, 259
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00066
+  rotate: false
+  xy: 633, 84
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00067
+  rotate: false
+  xy: 664, 119
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00068
+  rotate: false
+  xy: 695, 154
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00069
+  rotate: false
+  xy: 726, 189
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00070
+  rotate: false
+  xy: 757, 224
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00071
+  rotate: false
+  xy: 633, 49
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00072
+  rotate: false
+  xy: 664, 84
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00073
+  rotate: false
+  xy: 695, 119
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00074
+  rotate: false
+  xy: 726, 154
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00075
+  rotate: false
+  xy: 757, 189
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00076
+  rotate: false
+  xy: 633, 14
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00077
+  rotate: false
+  xy: 664, 49
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00078
+  rotate: false
+  xy: 695, 84
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzj/1_00079
+  rotate: false
+  xy: 726, 119
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00001
+  rotate: true
+  xy: 1850, 1216
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00002
+  rotate: false
+  xy: 507, 235
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00003
+  rotate: false
+  xy: 507, 180
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00004
+  rotate: false
+  xy: 507, 125
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00005
+  rotate: false
+  xy: 507, 70
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00006
+  rotate: false
+  xy: 507, 15
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00007
+  rotate: false
+  xy: 1860, 1075
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00008
+  rotate: false
+  xy: 1860, 1020
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00009
+  rotate: false
+  xy: 1932, 740
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00010
+  rotate: false
+  xy: 1880, 938
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00011
+  rotate: false
+  xy: 1913, 951
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00012
+  rotate: false
+  xy: 1918, 896
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00013
+  rotate: false
+  xy: 1947, 1156
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00014
+  rotate: true
+  xy: 1612, 534
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00015
+  rotate: false
+  xy: 1631, 479
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00016
+  rotate: false
+  xy: 1636, 376
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00017
+  rotate: true
+  xy: 1993, 1081
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00018
+  rotate: true
+  xy: 1993, 1048
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00019
+  rotate: true
+  xy: 1993, 1015
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00020
+  rotate: true
+  xy: 1989, 982
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00021
+  rotate: true
+  xy: 1981, 949
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00022
+  rotate: true
+  xy: 1980, 916
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00023
+  rotate: false
+  xy: 596, 482
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00024
+  rotate: false
+  xy: 596, 427
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00025
+  rotate: false
+  xy: 596, 372
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00026
+  rotate: false
+  xy: 922, 482
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00027
+  rotate: false
+  xy: 922, 427
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00028
+  rotate: false
+  xy: 596, 317
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00029
+  rotate: false
+  xy: 922, 372
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00030
+  rotate: false
+  xy: 922, 317
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00031
+  rotate: false
+  xy: 922, 262
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00032
+  rotate: true
+  xy: 629, 294
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00033
+  rotate: true
+  xy: 684, 294
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00034
+  rotate: true
+  xy: 739, 294
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00035
+  rotate: true
+  xy: 1098, 200
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00036
+  rotate: true
+  xy: 1153, 200
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00037
+  rotate: false
+  xy: 922, 207
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00038
+  rotate: true
+  xy: 1098, 167
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00039
+  rotate: true
+  xy: 1153, 167
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00040
+  rotate: false
+  xy: 1258, 178
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00041
+  rotate: true
+  xy: 1398, 317
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00042
+  rotate: true
+  xy: 1453, 317
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00043
+  rotate: true
+  xy: 1348, 279
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00044
+  rotate: true
+  xy: 1403, 284
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00045
+  rotate: true
+  xy: 1458, 284
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00046
+  rotate: true
+  xy: 1336, 246
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00047
+  rotate: true
+  xy: 1543, 312
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00048
+  rotate: true
+  xy: 1542, 279
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00049
+  rotate: true
+  xy: 1403, 251
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00050
+  rotate: true
+  xy: 1458, 251
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00051
+  rotate: true
+  xy: 1542, 246
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00052
+  rotate: false
+  xy: 1329, 190
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00053
+  rotate: false
+  xy: 1362, 191
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00054
+  rotate: false
+  xy: 1395, 196
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00055
+  rotate: false
+  xy: 1428, 196
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00056
+  rotate: false
+  xy: 1461, 196
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00057
+  rotate: true
+  xy: 1542, 213
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00058
+  rotate: true
+  xy: 1542, 180
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00059
+  rotate: true
+  xy: 1395, 163
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00060
+  rotate: true
+  xy: 1493, 144
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00061
+  rotate: false
+  xy: 1362, 136
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00062
+  rotate: true
+  xy: 1395, 130
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00063
+  rotate: true
+  xy: 1493, 111
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00064
+  rotate: true
+  xy: 1548, 110
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00065
+  rotate: true
+  xy: 1597, 168
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00066
+  rotate: false
+  xy: 1603, 113
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00067
+  rotate: false
+  xy: 1636, 113
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00068
+  rotate: true
+  xy: 1603, 80
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00069
+  rotate: false
+  xy: 1634, 242
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00070
+  rotate: false
+  xy: 1667, 244
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00071
+  rotate: false
+  xy: 1700, 244
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00072
+  rotate: true
+  xy: 1677, 211
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00073
+  rotate: false
+  xy: 1669, 113
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00074
+  rotate: true
+  xy: 1658, 80
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00075
+  rotate: false
+  xy: 1702, 119
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00076
+  rotate: true
+  xy: 1717, 505
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00077
+  rotate: true
+  xy: 1772, 505
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00078
+  rotate: true
+  xy: 1827, 505
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/hongguangzuo/1_00079
+  rotate: true
+  xy: 1882, 505
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00001
+  rotate: false
+  xy: 1951, 917
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00002
+  rotate: false
+  xy: 1513, 285
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00003
+  rotate: false
+  xy: 1513, 251
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00004
+  rotate: false
+  xy: 1652, 168
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00005
+  rotate: false
+  xy: 1956, 430
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00006
+  rotate: true
+  xy: 562, 293
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00007
+  rotate: false
+  xy: 757, 155
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00008
+  rotate: false
+  xy: 664, 15
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00009
+  rotate: false
+  xy: 695, 50
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00010
+  rotate: false
+  xy: 726, 85
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00011
+  rotate: false
+  xy: 757, 121
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00012
+  rotate: false
+  xy: 788, 231
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00013
+  rotate: false
+  xy: 788, 197
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00014
+  rotate: false
+  xy: 817, 228
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00015
+  rotate: false
+  xy: 817, 194
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00016
+  rotate: true
+  xy: 1996, 370
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00017
+  rotate: true
+  xy: 1955, 232
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00018
+  rotate: true
+  xy: 1322, 130
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00019
+  rotate: true
+  xy: 1732, 190
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00020
+  rotate: true
+  xy: 1766, 190
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00021
+  rotate: true
+  xy: 1800, 190
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00022
+  rotate: true
+  xy: 1834, 190
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00023
+  rotate: false
+  xy: 1735, 156
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00024
+  rotate: false
+  xy: 1735, 122
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00025
+  rotate: false
+  xy: 1764, 156
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00026
+  rotate: false
+  xy: 1764, 122
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00027
+  rotate: false
+  xy: 1793, 156
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00028
+  rotate: false
+  xy: 1793, 122
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00029
+  rotate: false
+  xy: 1822, 156
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00030
+  rotate: false
+  xy: 1822, 122
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00031
+  rotate: false
+  xy: 1744, 88
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00032
+  rotate: false
+  xy: 1773, 88
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00033
+  rotate: false
+  xy: 1802, 88
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00034
+  rotate: false
+  xy: 1831, 88
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00035
+  rotate: false
+  xy: 1851, 156
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00036
+  rotate: false
+  xy: 1851, 122
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00037
+  rotate: false
+  xy: 1860, 88
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00038
+  rotate: false
+  xy: 1880, 156
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00039
+  rotate: false
+  xy: 1880, 122
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00040
+  rotate: false
+  xy: 1889, 88
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00041
+  rotate: false
+  xy: 786, 136
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00042
+  rotate: false
+  xy: 815, 133
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00043
+  rotate: false
+  xy: 1995, 336
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00044
+  rotate: false
+  xy: 1995, 302
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00045
+  rotate: false
+  xy: 1995, 268
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00046
+  rotate: true
+  xy: 1744, 59
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00047
+  rotate: true
+  xy: 1778, 59
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00048
+  rotate: true
+  xy: 1812, 59
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00049
+  rotate: true
+  xy: 1846, 59
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00050
+  rotate: true
+  xy: 1880, 59
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00051
+  rotate: false
+  xy: 1877, 222
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00052
+  rotate: true
+  xy: 1906, 221
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00053
+  rotate: true
+  xy: 1895, 192
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00054
+  rotate: false
+  xy: 1909, 158
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00055
+  rotate: false
+  xy: 1909, 124
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00056
+  rotate: false
+  xy: 1918, 90
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00057
+  rotate: false
+  xy: 1956, 198
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00058
+  rotate: false
+  xy: 1938, 158
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00059
+  rotate: false
+  xy: 1938, 124
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00060
+  rotate: false
+  xy: 1947, 90
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00061
+  rotate: false
+  xy: 1967, 164
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00062
+  rotate: false
+  xy: 1967, 130
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00063
+  rotate: false
+  xy: 1985, 198
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00064
+  rotate: true
+  xy: 2014, 203
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00065
+  rotate: true
+  xy: 2014, 174
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00066
+  rotate: false
+  xy: 1976, 96
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00067
+  rotate: false
+  xy: 1996, 140
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00068
+  rotate: false
+  xy: 2005, 106
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00069
+  rotate: false
+  xy: 846, 217
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00070
+  rotate: false
+  xy: 846, 183
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00071
+  rotate: false
+  xy: 875, 217
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00072
+  rotate: false
+  xy: 875, 183
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00073
+  rotate: true
+  xy: 846, 154
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00074
+  rotate: false
+  xy: 844, 120
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00075
+  rotate: false
+  xy: 844, 86
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00076
+  rotate: false
+  xy: 873, 120
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00077
+  rotate: false
+  xy: 873, 86
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00078
+  rotate: true
+  xy: 844, 57
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youhongguang/1_00079
+  rotate: false
+  xy: 902, 120
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00033
+  rotate: true
+  xy: 1048, 526
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00034
+  rotate: true
+  xy: 1048, 489
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00035
+  rotate: true
+  xy: 1048, 452
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00036
+  rotate: false
+  xy: 1631, 431
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00037
+  rotate: true
+  xy: 1048, 415
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00038
+  rotate: false
+  xy: 1598, 297
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00039
+  rotate: true
+  xy: 1635, 301
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00040
+  rotate: true
+  xy: 1683, 299
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00041
+  rotate: false
+  xy: 1597, 249
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00042
+  rotate: true
+  xy: 1494, 214
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00043
+  rotate: false
+  xy: 1597, 201
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00044
+  rotate: true
+  xy: 1494, 177
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00045
+  rotate: true
+  xy: 1548, 143
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00046
+  rotate: true
+  xy: 1681, 174
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00047
+  rotate: true
+  xy: 1937, 501
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00048
+  rotate: true
+  xy: 1714, 468
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00049
+  rotate: true
+  xy: 1762, 468
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00050
+  rotate: true
+  xy: 1810, 468
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00051
+  rotate: true
+  xy: 1858, 468
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00052
+  rotate: true
+  xy: 1937, 464
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00053
+  rotate: false
+  xy: 1712, 389
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00054
+  rotate: false
+  xy: 1724, 341
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00055
+  rotate: false
+  xy: 1749, 389
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00056
+  rotate: false
+  xy: 1761, 341
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00057
+  rotate: true
+  xy: 1731, 304
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00058
+  rotate: false
+  xy: 1733, 256
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00059
+  rotate: false
+  xy: 1786, 389
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00060
+  rotate: true
+  xy: 1851, 431
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00061
+  rotate: false
+  xy: 1798, 341
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00062
+  rotate: true
+  xy: 1779, 304
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00063
+  rotate: false
+  xy: 1770, 256
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00064
+  rotate: false
+  xy: 1807, 256
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00065
+  rotate: true
+  xy: 1827, 304
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00066
+  rotate: false
+  xy: 1844, 256
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00067
+  rotate: true
+  xy: 1733, 219
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00068
+  rotate: true
+  xy: 1781, 219
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00069
+  rotate: true
+  xy: 1829, 219
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00070
+  rotate: false
+  xy: 1985, 490
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00071
+  rotate: false
+  xy: 1985, 442
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00072
+  rotate: true
+  xy: 1823, 394
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00073
+  rotate: false
+  xy: 1835, 346
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00074
+  rotate: true
+  xy: 1871, 394
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00075
+  rotate: false
+  xy: 1872, 346
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00076
+  rotate: false
+  xy: 1881, 258
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00077
+  rotate: false
+  xy: 1909, 346
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00078
+  rotate: false
+  xy: 1918, 298
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00079
+  rotate: false
+  xy: 1918, 250
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/youshou/1_00080
+  rotate: false
+  xy: 1919, 394
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuojian/1_00049
+  rotate: true
+  xy: 1005, 388
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuojian/1_00050
+  rotate: true
+  xy: 1005, 348
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuojian/1_00051
+  rotate: true
+  xy: 1005, 308
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuojian/1_00052
+  rotate: true
+  xy: 829, 302
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuojian/1_00053
+  rotate: true
+  xy: 1005, 268
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuojian/1_00054
+  rotate: true
+  xy: 1005, 228
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuojian/1_00055
+  rotate: true
+  xy: 829, 262
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuojian/1_00056
+  rotate: true
+  xy: 1005, 188
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuojian/1_00057
+  rotate: true
+  xy: 1450, 156
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuojian/1_00058
+  rotate: true
+  xy: 1450, 116
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuojian/1_00059
+  rotate: true
+  xy: 1634, 202
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuojian/1_00060
+  rotate: true
+  xy: 1875, 306
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuojian/1_00061
+  rotate: false
+  xy: 1956, 387
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuojian/1_00062
+  rotate: true
+  xy: 1946, 347
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuojian/1_00063
+  rotate: false
+  xy: 1955, 304
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuojian/1_00064
+  rotate: false
+  xy: 1955, 261
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuojian/1_00065
+  rotate: false
+  xy: 1996, 399
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00015
+  rotate: true
+  xy: 554, 537
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00016
+  rotate: false
+  xy: 1712, 1237
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00017
+  rotate: false
+  xy: 1762, 1237
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00018
+  rotate: true
+  xy: 1804, 1180
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00019
+  rotate: true
+  xy: 1804, 1130
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00020
+  rotate: false
+  xy: 1847, 1173
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00021
+  rotate: false
+  xy: 1847, 1130
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00022
+  rotate: false
+  xy: 496, 497
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00023
+  rotate: false
+  xy: 496, 454
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00024
+  rotate: false
+  xy: 496, 411
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00025
+  rotate: false
+  xy: 496, 368
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00026
+  rotate: false
+  xy: 496, 325
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00027
+  rotate: false
+  xy: 546, 494
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00028
+  rotate: false
+  xy: 546, 451
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00029
+  rotate: false
+  xy: 546, 408
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00030
+  rotate: false
+  xy: 546, 365
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00031
+  rotate: false
+  xy: 546, 322
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00032
+  rotate: false
+  xy: 1612, 567
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00033
+  rotate: false
+  xy: 1662, 567
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00034
+  rotate: false
+  xy: 1955, 1214
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00035
+  rotate: true
+  xy: 2005, 1207
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00036
+  rotate: false
+  xy: 1897, 1168
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00037
+  rotate: false
+  xy: 1893, 1087
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00038
+  rotate: false
+  xy: 1893, 1044
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00039
+  rotate: false
+  xy: 1980, 1164
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00040
+  rotate: false
+  xy: 1664, 486
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00041
+  rotate: true
+  xy: 1668, 436
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00042
+  rotate: true
+  xy: 1669, 386
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00043
+  rotate: false
+  xy: 1943, 1075
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00044
+  rotate: false
+  xy: 1943, 1032
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00045
+  rotate: true
+  xy: 1946, 982
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00046
+  rotate: false
+  xy: 629, 499
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00047
+  rotate: false
+  xy: 679, 499
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00048
+  rotate: false
+  xy: 629, 456
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00049
+  rotate: false
+  xy: 729, 499
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00050
+  rotate: false
+  xy: 629, 413
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00051
+  rotate: false
+  xy: 679, 456
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00052
+  rotate: false
+  xy: 779, 499
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00053
+  rotate: false
+  xy: 679, 413
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00054
+  rotate: false
+  xy: 729, 456
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00055
+  rotate: false
+  xy: 729, 413
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00056
+  rotate: false
+  xy: 779, 456
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00057
+  rotate: true
+  xy: 829, 492
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00058
+  rotate: false
+  xy: 779, 413
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00059
+  rotate: true
+  xy: 829, 442
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00060
+  rotate: false
+  xy: 872, 494
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00061
+  rotate: false
+  xy: 872, 451
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00062
+  rotate: false
+  xy: 629, 370
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00063
+  rotate: false
+  xy: 679, 370
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00064
+  rotate: false
+  xy: 729, 370
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00065
+  rotate: false
+  xy: 779, 370
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00066
+  rotate: true
+  xy: 829, 392
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00067
+  rotate: false
+  xy: 872, 408
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00068
+  rotate: false
+  xy: 955, 435
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00069
+  rotate: true
+  xy: 1005, 428
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00070
+  rotate: false
+  xy: 629, 327
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00071
+  rotate: false
+  xy: 679, 327
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00072
+  rotate: false
+  xy: 729, 327
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00073
+  rotate: false
+  xy: 779, 327
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00074
+  rotate: true
+  xy: 829, 342
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/daiji/zhuoshou/1_00075
+  rotate: false
+  xy: 872, 365
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+texiao/jinneg/chuxian/1_00000
+  rotate: false
+  xy: 654, 1349
+  size: 280, 225
+  orig: 280, 225
+  offset: 0, 0
+  index: -1
+texiao/jinneg/chuxian/1_00002
+  rotate: false
+  xy: 936, 1349
+  size: 280, 225
+  orig: 280, 225
+  offset: 0, 0
+  index: -1
+texiao/jinneg/chuxian/1_00004
+  rotate: false
+  xy: 1218, 1349
+  size: 280, 225
+  orig: 280, 225
+  offset: 0, 0
+  index: -1
+texiao/jinneg/chuxian/1_00006
+  rotate: false
+  xy: 214, 290
+  size: 280, 225
+  orig: 280, 225
+  offset: 0, 0
+  index: -1
+texiao/jinneg/chuxian/1_00008
+  rotate: true
+  xy: 280, 8
+  size: 280, 225
+  orig: 280, 225
+  offset: 0, 0
+  index: -1
+texiao/jinneg/chuxian/1_00010
+  rotate: false
+  xy: 348, 1129
+  size: 280, 225
+  orig: 280, 225
+  offset: 0, 0
+  index: -1
+texiao/jinneg/chuxian/1_00012
+  rotate: false
+  xy: 348, 902
+  size: 280, 225
+  orig: 280, 225
+  offset: 0, 0
+  index: -1
+texiao/jinneg/chuxian/1_00014
+  rotate: false
+  xy: 348, 675
+  size: 280, 225
+  orig: 280, 225
+  offset: 0, 0
+  index: -1
+texiao/jinneg/chuxian/1_00016
+  rotate: false
+  xy: 630, 1122
+  size: 280, 225
+  orig: 280, 225
+  offset: 0, 0
+  index: -1
+texiao/jinneg/chuxian/1_00018
+  rotate: false
+  xy: 630, 895
+  size: 280, 225
+  orig: 280, 225
+  offset: 0, 0
+  index: -1
+texiao/jinneg/chuxian/1_00020
+  rotate: false
+  xy: 912, 1122
+  size: 280, 225
+  orig: 280, 225
+  offset: 0, 0
+  index: -1
+texiao/jinneg/chuxian/1_00022
+  rotate: false
+  xy: 912, 895
+  size: 280, 225
+  orig: 280, 225
+  offset: 0, 0
+  index: -1
+texiao/jinneg/chuxian/1_00024
+  rotate: false
+  xy: 1194, 1122
+  size: 280, 225
+  orig: 280, 225
+  offset: 0, 0
+  index: -1
+texiao/jinneg/xiaoshi/1_00031
+  rotate: false
+  xy: 369, 1710
+  size: 210, 336
+  orig: 210, 336
+  offset: 0, 0
+  index: -1
+texiao/jinneg/xiaoshi/1_00033
+  rotate: false
+  xy: 2, 924
+  size: 210, 336
+  orig: 210, 336
+  offset: 0, 0
+  index: -1
+texiao/jinneg/xiaoshi/1_00035
+  rotate: false
+  xy: 581, 1710
+  size: 210, 336
+  orig: 210, 336
+  offset: 0, 0
+  index: -1
+texiao/jinneg/xiaoshi/1_00037
+  rotate: false
+  xy: 2, 586
+  size: 210, 336
+  orig: 210, 336
+  offset: 0, 0
+  index: -1
+texiao/jinneg/xiaoshi/1_00039
+  rotate: false
+  xy: 793, 1710
+  size: 210, 336
+  orig: 210, 336
+  offset: 0, 0
+  index: -1
+texiao/jinneg/xiaoshi/1_00041
+  rotate: false
+  xy: 2, 248
+  size: 210, 336
+  orig: 210, 336
+  offset: 0, 0
+  index: -1
+texiao/jinneg/xiaoshi/1_00043
+  rotate: false
+  xy: 1005, 1710
+  size: 210, 336
+  orig: 210, 336
+  offset: 0, 0
+  index: -1
+texiao/jinneg/xiaoshi/1_00045
+  rotate: false
+  xy: 1217, 1710
+  size: 210, 336
+  orig: 210, 336
+  offset: 0, 0
+  index: -1
+texiao/jinneg/xiaoshi/1_00047
+  rotate: false
+  xy: 1429, 1710
+  size: 210, 336
+  orig: 210, 336
+  offset: 0, 0
+  index: -1
+texiao/jinneg/xiaoshi/1_00049
+  rotate: false
+  xy: 1641, 1710
+  size: 210, 336
+  orig: 210, 336
+  offset: 0, 0
+  index: -1
+texiao/jinneg/xiaoshi/1_00051
+  rotate: false
+  xy: 2, 1262
+  size: 210, 336
+  orig: 210, 336
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan1/1_00001
+  rotate: true
+  xy: 214, 849
+  size: 330, 132
+  orig: 330, 132
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan1/1_00003
+  rotate: true
+  xy: 214, 517
+  size: 330, 132
+  orig: 330, 132
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan1/1_00005
+  rotate: false
+  xy: 369, 1576
+  size: 330, 132
+  orig: 330, 132
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan1/1_00007
+  rotate: false
+  xy: 701, 1576
+  size: 330, 132
+  orig: 330, 132
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan1/1_00009
+  rotate: false
+  xy: 1033, 1576
+  size: 330, 132
+  orig: 330, 132
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan1/1_00011
+  rotate: false
+  xy: 1365, 1576
+  size: 330, 132
+  orig: 330, 132
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan1/1_00013
+  rotate: false
+  xy: 630, 761
+  size: 330, 132
+  orig: 330, 132
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan1/1_00015
+  rotate: false
+  xy: 630, 627
+  size: 330, 132
+  orig: 330, 132
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan1/1_00017
+  rotate: false
+  xy: 1194, 988
+  size: 330, 132
+  orig: 330, 132
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan1/1_00019
+  rotate: false
+  xy: 1194, 854
+  size: 330, 132
+  orig: 330, 132
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan1/1_00021
+  rotate: true
+  xy: 962, 563
+  size: 330, 132
+  orig: 330, 132
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan1/1_00023
+  rotate: false
+  xy: 1096, 720
+  size: 330, 132
+  orig: 330, 132
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan2/1_00001
+  rotate: false
+  xy: 1868, 1617
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan2/1_00003
+  rotate: false
+  xy: 1476, 1219
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan2/1_00005
+  rotate: false
+  xy: 1594, 1219
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan2/1_00007
+  rotate: false
+  xy: 1568, 1111
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan2/1_00009
+  rotate: false
+  xy: 1732, 1496
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan2/1_00011
+  rotate: false
+  xy: 1732, 1388
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan2/1_00013
+  rotate: false
+  xy: 1428, 605
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan2/1_00015
+  rotate: false
+  xy: 1526, 1003
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan2/1_00017
+  rotate: false
+  xy: 1526, 895
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan2/1_00019
+  rotate: false
+  xy: 1732, 1280
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan2/1_00021
+  rotate: false
+  xy: 1096, 508
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan2/1_00023
+  rotate: true
+  xy: 1644, 993
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan2/1_00025
+  rotate: false
+  xy: 1644, 885
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan2/1_00027
+  rotate: false
+  xy: 1686, 1111
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan2/1_00029
+  rotate: true
+  xy: 1752, 993
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan2/1_00031
+  rotate: false
+  xy: 1762, 885
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+texiao/jinneg/yan2/1_00033
+  rotate: false
+  xy: 1526, 787
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1752, 793
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+tx_1
+  rotate: true
+  xy: 1697, 1604
+  size: 104, 169
+  orig: 104, 169
+  offset: 0, 0
+  index: -1
+tx_2
+  rotate: false
+  xy: 2, 8
+  size: 276, 238
+  orig: 276, 238
+  offset: 0, 0
+  index: -1
+tx_3
+  rotate: false
+  xy: 340, 1356
+  size: 312, 218
+  orig: 312, 218
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 2, 1600
+  size: 365, 446
+  orig: 365, 446
+  offset: 0, 0
+  index: -1
+xianliang
+  rotate: true
+  xy: 1287, 614
+  size: 104, 139
+  orig: 104, 139
+  offset: 0, 0
+  index: -1
+yao
+  rotate: false
+  xy: 1853, 1872
+  size: 193, 174
+  orig: 193, 174
+  offset: 0, 0
+  index: -1
+yaojia
+  rotate: false
+  xy: 1096, 616
+  size: 189, 102
+  orig: 189, 102
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: true
+  xy: 1853, 1725
+  size: 145, 170
+  orig: 145, 170
+  offset: 0, 0
+  index: -1
+youerhuanqiang
+  rotate: false
+  xy: 1712, 579
+  size: 12, 29
+  orig: 12, 29
+  offset: 0, 0
+  index: -1
+youhouerhuan
+  rotate: true
+  xy: 1868, 1604
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 1644, 780
+  size: 103, 106
+  orig: 103, 106
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 1476, 1122
+  size: 90, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 1899, 1604
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: true
+  xy: 348, 571
+  size: 102, 204
+  orig: 102, 204
+  offset: 0, 0
+  index: -1
+zuoerhuanqiang
+  rotate: true
+  xy: 1377, 605
+  size: 7, 25
+  orig: 7, 25
+  offset: 0, 0
+  index: -1
+zuohouerhuan
+  rotate: false
+  xy: 1391, 251
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 214, 1181
+  size: 417, 124
+  orig: 417, 124
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: true
+  xy: 1428, 713
+  size: 139, 84
+  orig: 139, 84
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 1712, 1317
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1

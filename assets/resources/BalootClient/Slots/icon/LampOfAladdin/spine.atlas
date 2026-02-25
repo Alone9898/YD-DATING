@@ -1,0 +1,167 @@
+
+spine.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aladdin
+  rotate: false
+  xy: 1278, 746
+  size: 340, 98
+  orig: 340, 98
+  offset: 0, 0
+  index: -1
+Aladdin1
+  rotate: false
+  xy: 870, 659
+  size: 364, 125
+  orig: 364, 125
+  offset: 0, 0
+  index: -1
+LampOf
+  rotate: false
+  xy: 1675, 870
+  size: 371, 152
+  orig: 371, 152
+  offset: 0, 0
+  index: -1
+LampOf1
+  rotate: false
+  xy: 1278, 846
+  size: 395, 176
+  orig: 395, 176
+  offset: 0, 0
+  index: -1
+Lark20210709-170856
+  rotate: false
+  xy: 255, 277
+  size: 236, 236
+  orig: 236, 236
+  offset: 0, 0
+  index: -1
+Wanna see a perfect storm
+  rotate: false
+  xy: 2, 652
+  size: 690, 42
+  orig: 690, 42
+  offset: 0, 0
+  index: -1
+bK
+  rotate: false
+  xy: 870, 786
+  size: 406, 236
+  orig: 406, 236
+  offset: 0, 0
+  index: -1
+beijing1
+  rotate: true
+  xy: 1236, 605
+  size: 139, 159
+  orig: 139, 159
+  offset: 0, 0
+  index: -1
+beijing2
+  rotate: false
+  xy: 245, 59
+  size: 162, 169
+  orig: 162, 169
+  offset: 0, 0
+  index: -1
+beijing3
+  rotate: false
+  xy: 1397, 598
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+dbk
+  rotate: false
+  xy: 2, 696
+  size: 866, 326
+  orig: 866, 326
+  offset: 0, 0
+  index: -1
+gaung
+  rotate: false
+  xy: 302, 6
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+gaung1
+  rotate: false
+  xy: 245, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+shouz
+  rotate: true
+  xy: 2, 9
+  size: 233, 241
+  orig: 233, 241
+  offset: 0, 0
+  index: -1
+shti
+  rotate: false
+  xy: 2, 244
+  size: 251, 269
+  orig: 251, 269
+  offset: 0, 0
+  index: -1
+storm
+  rotate: false
+  xy: 255, 230
+  size: 189, 45
+  orig: 189, 45
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 459, 525
+  size: 125, 208
+  orig: 125, 208
+  offset: 0, 0
+  index: -1
+tu
+  rotate: false
+  xy: 1704, 804
+  size: 69, 64
+  orig: 69, 64
+  offset: 0, 0
+  index: -1
+tubg
+  rotate: false
+  xy: 1620, 762
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+ws2
+  rotate: false
+  xy: 493, 290
+  size: 158, 233
+  orig: 158, 233
+  offset: 0, 0
+  index: -1
+xl
+  rotate: false
+  xy: 1545, 603
+  size: 111, 141
+  orig: 111, 141
+  offset: 0, 0
+  index: -1
+youquan
+  rotate: true
+  xy: 694, 581
+  size: 113, 115
+  orig: 113, 115
+  offset: 0, 0
+  index: -1
+zuoqian
+  rotate: false
+  xy: 2, 515
+  size: 455, 135
+  orig: 455, 135
+  offset: 0, 0
+  index: -1

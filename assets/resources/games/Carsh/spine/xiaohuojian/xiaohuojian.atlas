@@ -1,0 +1,48 @@
+
+xiaohuojian.png
+size: 345,345
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 198, 134
+  size: 86, 135
+  orig: 86, 135
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 149
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 2
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 198, 222
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 149, 34
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 249, 58
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1

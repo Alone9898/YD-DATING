@@ -1,0 +1,20 @@
+
+jiaobiao.png
+size: 72,102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiaobiaoglow_00
+  rotate: false
+  xy: 0, 43
+  size: 72, 59
+  orig: 100, 100
+  offset: 14, 16
+  index: -1
+theme177_base_ui_11
+  rotate: false
+  xy: 0, 0
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1

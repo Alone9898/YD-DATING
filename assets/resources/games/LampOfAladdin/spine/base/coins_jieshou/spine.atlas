@@ -1,0 +1,118 @@
+
+jbjieshou.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_10
+  rotate: false
+  xy: 1238, 110
+  size: 153, 144
+  orig: 200, 200
+  offset: 16, 23
+  index: -1
+b_11
+  rotate: false
+  xy: 1071, 99
+  size: 165, 155
+  orig: 200, 200
+  offset: 10, 17
+  index: -1
+b_12
+  rotate: false
+  xy: 722, 88
+  size: 178, 166
+  orig: 200, 200
+  offset: 3, 11
+  index: -1
+b_13
+  rotate: false
+  xy: 361, 76
+  size: 184, 178
+  orig: 200, 200
+  offset: 3, 5
+  index: -1
+b_14
+  rotate: false
+  xy: 185, 63
+  size: 174, 191
+  orig: 200, 200
+  offset: 19, 0
+  index: -1
+b_15
+  rotate: false
+  xy: 2, 57
+  size: 181, 197
+  orig: 200, 200
+  offset: 18, 0
+  index: -1
+b_16
+  rotate: false
+  xy: 902, 69
+  size: 167, 185
+  orig: 200, 200
+  offset: 14, 15
+  index: -1
+b_2
+  rotate: false
+  xy: 185, 2
+  size: 57, 59
+  orig: 200, 200
+  offset: 70, 70
+  index: -1
+b_3
+  rotate: false
+  xy: 1154, 28
+  size: 69, 69
+  orig: 200, 200
+  offset: 64, 65
+  index: -1
+b_4
+  rotate: false
+  xy: 1071, 17
+  size: 81, 80
+  orig: 200, 200
+  offset: 57, 60
+  index: -1
+b_5
+  rotate: false
+  xy: 1885, 164
+  size: 92, 90
+  orig: 200, 200
+  offset: 51, 54
+  index: -1
+b_6
+  rotate: false
+  xy: 1780, 154
+  size: 103, 100
+  orig: 200, 200
+  offset: 44, 48
+  index: -1
+b_7
+  rotate: false
+  xy: 1664, 144
+  size: 114, 110
+  orig: 200, 200
+  offset: 38, 42
+  index: -1
+b_8
+  rotate: false
+  xy: 1534, 133
+  size: 128, 121
+  orig: 200, 200
+  offset: 30, 36
+  index: -1
+b_9
+  rotate: false
+  xy: 1393, 122
+  size: 139, 132
+  orig: 200, 200
+  offset: 24, 30
+  index: -1
+g
+  rotate: false
+  xy: 547, 82
+  size: 173, 172
+  orig: 205, 205
+  offset: 16, 16
+  index: -1

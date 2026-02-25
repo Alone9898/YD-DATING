@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bomn_dc",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.2,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b266c976-f99e-4801-94f5-cff8b4ccad7f"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "e1e39d66-b0f2-478f-aa86-918cdc73ee4c"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "dddaa844-2d7f-4e24-bdb7-3addbf2e84e8"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "5e6196c2-2108-4533-a569-e73f4c1fc3bb"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "f471d336-5842-4937-aa00-04cddd249d0f"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "917bd67d-156a-474e-b604-37a6ab24754e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

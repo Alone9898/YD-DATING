@@ -1,0 +1,258 @@
+
+lunpan.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng_glow
+  rotate: false
+  xy: 592, 311
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+lunpan_glow/lunpan_glow_01
+  rotate: false
+  xy: 375, 471
+  size: 215, 106
+  orig: 215, 106
+  offset: 0, 0
+  index: -1
+lunpan_glow/lunpan_glow_02
+  rotate: false
+  xy: 748, 831
+  size: 215, 106
+  orig: 215, 106
+  offset: 0, 0
+  index: -1
+lunpan_glow/lunpan_glow_03
+  rotate: false
+  xy: 1121, 1296
+  size: 215, 106
+  orig: 215, 106
+  offset: 0, 0
+  index: -1
+lunpan_glow/lunpan_glow_04
+  rotate: true
+  xy: 1378, 1442
+  size: 215, 106
+  orig: 215, 106
+  offset: 0, 0
+  index: -1
+lunpan_glow/lunpan_glow_05
+  rotate: false
+  xy: 1689, 1911
+  size: 215, 106
+  orig: 215, 106
+  offset: 0, 0
+  index: -1
+lunpan_glow/lunpan_glow_06
+  rotate: false
+  xy: 375, 363
+  size: 215, 106
+  orig: 215, 106
+  offset: 0, 0
+  index: -1
+lunpan_glow/lunpan_glow_07
+  rotate: false
+  xy: 748, 723
+  size: 215, 106
+  orig: 215, 106
+  offset: 0, 0
+  index: -1
+lunpan_glow/lunpan_glow_08
+  rotate: false
+  xy: 1121, 1188
+  size: 215, 106
+  orig: 215, 106
+  offset: 0, 0
+  index: -1
+lunpan_glow/lunpan_glow_09
+  rotate: false
+  xy: 1689, 1803
+  size: 215, 106
+  orig: 215, 106
+  offset: 0, 0
+  index: -1
+lunpan_glow/lunpan_glow_10
+  rotate: false
+  xy: 375, 255
+  size: 215, 106
+  orig: 215, 106
+  offset: 0, 0
+  index: -1
+lunpan_glow/lunpan_glow_11
+  rotate: true
+  xy: 592, 362
+  size: 215, 106
+  orig: 215, 106
+  offset: 0, 0
+  index: -1
+lunpan_glow/lunpan_glow_12
+  rotate: false
+  xy: 748, 615
+  size: 215, 106
+  orig: 215, 106
+  offset: 0, 0
+  index: -1
+lunpan_glow/lunpan_glow_13
+  rotate: true
+  xy: 965, 722
+  size: 215, 106
+  orig: 215, 106
+  offset: 0, 0
+  index: -1
+lunpan_glow/lunpan_glow_14
+  rotate: false
+  xy: 1121, 1080
+  size: 215, 106
+  orig: 215, 106
+  offset: 0, 0
+  index: -1
+lunpan_glow/lunpan_glow_15
+  rotate: false
+  xy: 1121, 972
+  size: 215, 106
+  orig: 215, 106
+  offset: 0, 0
+  index: -1
+lunpan_glow/lunpan_glow_16
+  rotate: true
+  xy: 1906, 1802
+  size: 215, 106
+  orig: 215, 106
+  offset: 0, 0
+  index: -1
+lunpan_glow/lunpan_glow_17
+  rotate: true
+  xy: 180, 2
+  size: 215, 106
+  orig: 215, 106
+  offset: 0, 0
+  index: -1
+lunpan_glow/lunpan_glow_18
+  rotate: true
+  xy: 288, 2
+  size: 215, 106
+  orig: 215, 106
+  offset: 0, 0
+  index: -1
+lunpan_glow/lunpan_glow_19
+  rotate: false
+  xy: 1494, 1686
+  size: 215, 106
+  orig: 215, 106
+  offset: 0, 0
+  index: -1
+lunpan_win_glow/lunpan_win_glow_00
+  rotate: false
+  xy: 2, 1659
+  size: 371, 358
+  orig: 371, 358
+  offset: 0, 0
+  index: -1
+lunpan_win_glow/lunpan_win_glow_01
+  rotate: false
+  xy: 2, 1299
+  size: 371, 358
+  orig: 371, 358
+  offset: 0, 0
+  index: -1
+lunpan_win_glow/lunpan_win_glow_02
+  rotate: false
+  xy: 375, 1659
+  size: 371, 358
+  orig: 371, 358
+  offset: 0, 0
+  index: -1
+lunpan_win_glow/lunpan_win_glow_03
+  rotate: false
+  xy: 2, 939
+  size: 371, 358
+  orig: 371, 358
+  offset: 0, 0
+  index: -1
+lunpan_win_glow/lunpan_win_glow_04
+  rotate: false
+  xy: 375, 1299
+  size: 371, 358
+  orig: 371, 358
+  offset: 0, 0
+  index: -1
+lunpan_win_glow/lunpan_win_glow_05
+  rotate: false
+  xy: 748, 1659
+  size: 371, 358
+  orig: 371, 358
+  offset: 0, 0
+  index: -1
+lunpan_win_glow/lunpan_win_glow_06
+  rotate: false
+  xy: 2, 579
+  size: 371, 358
+  orig: 371, 358
+  offset: 0, 0
+  index: -1
+lunpan_win_glow/lunpan_win_glow_07
+  rotate: false
+  xy: 375, 939
+  size: 371, 358
+  orig: 371, 358
+  offset: 0, 0
+  index: -1
+lunpan_win_glow/lunpan_win_glow_08
+  rotate: false
+  xy: 748, 1299
+  size: 371, 358
+  orig: 371, 358
+  offset: 0, 0
+  index: -1
+lunpan_win_glow/lunpan_win_glow_09
+  rotate: false
+  xy: 1121, 1659
+  size: 371, 358
+  orig: 371, 358
+  offset: 0, 0
+  index: -1
+lunpan_win_glow/lunpan_win_glow_10
+  rotate: false
+  xy: 2, 219
+  size: 371, 358
+  orig: 371, 358
+  offset: 0, 0
+  index: -1
+lunpan_win_glow/lunpan_win_glow_11
+  rotate: false
+  xy: 375, 579
+  size: 371, 358
+  orig: 371, 358
+  offset: 0, 0
+  index: -1
+lunpan_win_glow/lunpan_win_glow_12
+  rotate: false
+  xy: 748, 939
+  size: 371, 358
+  orig: 371, 358
+  offset: 0, 0
+  index: -1
+lunpan_xuanzhuan/lunpan_xuanzhuan_00
+  rotate: false
+  xy: 1121, 1404
+  size: 255, 253
+  orig: 255, 253
+  offset: 0, 0
+  index: -1
+win_glow_01
+  rotate: false
+  xy: 2, 4
+  size: 176, 213
+  orig: 176, 213
+  offset: 0, 0
+  index: -1
+win_glow_02
+  rotate: false
+  xy: 1494, 1794
+  size: 193, 223
+  orig: 193, 223
+  offset: 0, 0
+  index: -1

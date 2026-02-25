@@ -1,0 +1,146 @@
+
+zhongjiang.png
+size: 440,309
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhongjiang/zhongjiang_00
+  rotate: false
+  xy: 344, 6
+  size: 82, 74
+  orig: 119, 99
+  offset: 13, 16
+  index: -1
+zhongjiang/zhongjiang_01
+  rotate: false
+  xy: 259, 9
+  size: 83, 74
+  orig: 119, 99
+  offset: 13, 16
+  index: -1
+zhongjiang/zhongjiang_02
+  rotate: false
+  xy: 259, 85
+  size: 84, 74
+  orig: 119, 99
+  offset: 12, 16
+  index: -1
+zhongjiang/zhongjiang_03
+  rotate: false
+  xy: 266, 235
+  size: 86, 74
+  orig: 119, 99
+  offset: 11, 16
+  index: -1
+zhongjiang/zhongjiang_04
+  rotate: false
+  xy: 176, 161
+  size: 86, 72
+  orig: 119, 99
+  offset: 11, 17
+  index: -1
+zhongjiang/zhongjiang_05
+  rotate: false
+  xy: 264, 161
+  size: 86, 72
+  orig: 119, 99
+  offset: 11, 17
+  index: -1
+zhongjiang/zhongjiang_06
+  rotate: false
+  xy: 0, 233
+  size: 85, 76
+  orig: 119, 99
+  offset: 12, 15
+  index: -1
+zhongjiang/zhongjiang_07
+  rotate: false
+  xy: 0, 155
+  size: 84, 76
+  orig: 119, 99
+  offset: 12, 15
+  index: -1
+zhongjiang/zhongjiang_08
+  rotate: false
+  xy: 0, 77
+  size: 84, 76
+  orig: 119, 99
+  offset: 12, 15
+  index: -1
+zhongjiang/zhongjiang_09
+  rotate: false
+  xy: 0, 0
+  size: 84, 75
+  orig: 119, 99
+  offset: 12, 15
+  index: -1
+zhongjiang/zhongjiang_10
+  rotate: false
+  xy: 352, 158
+  size: 83, 74
+  orig: 119, 99
+  offset: 13, 16
+  index: -1
+zhongjiang/zhongjiang_11
+  rotate: false
+  xy: 173, 8
+  size: 84, 74
+  orig: 119, 99
+  offset: 12, 16
+  index: -1
+zhongjiang/zhongjiang_12
+  rotate: false
+  xy: 86, 9
+  size: 85, 74
+  orig: 119, 99
+  offset: 12, 16
+  index: -1
+zhongjiang/zhongjiang_13
+  rotate: false
+  xy: 87, 236
+  size: 88, 73
+  orig: 119, 99
+  offset: 10, 16
+  index: -1
+zhongjiang/zhongjiang_14
+  rotate: false
+  xy: 87, 162
+  size: 87, 72
+  orig: 119, 99
+  offset: 11, 17
+  index: -1
+zhongjiang/zhongjiang_15
+  rotate: false
+  xy: 177, 235
+  size: 87, 74
+  orig: 119, 99
+  offset: 11, 16
+  index: -1
+zhongjiang/zhongjiang_16
+  rotate: false
+  xy: 354, 234
+  size: 86, 75
+  orig: 119, 99
+  offset: 11, 15
+  index: -1
+zhongjiang/zhongjiang_17
+  rotate: false
+  xy: 86, 85
+  size: 85, 75
+  orig: 119, 99
+  offset: 12, 15
+  index: -1
+zhongjiang/zhongjiang_18
+  rotate: false
+  xy: 173, 84
+  size: 84, 75
+  orig: 119, 99
+  offset: 12, 15
+  index: -1
+zhongjiang/zhongjiang_19
+  rotate: false
+  xy: 345, 82
+  size: 83, 74
+  orig: 119, 99
+  offset: 13, 16
+  index: -1

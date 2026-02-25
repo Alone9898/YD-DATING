@@ -1,0 +1,146 @@
+
+jili.png
+size: 1109,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jili/jili_00
+  rotate: false
+  xy: 779, 14
+  size: 54, 225
+  orig: 115, 262
+  offset: 23, 15
+  index: -1
+jili/jili_01
+  rotate: false
+  xy: 500, 9
+  size: 54, 230
+  orig: 115, 262
+  offset: 23, 16
+  index: -1
+jili/jili_02
+  rotate: false
+  xy: 169, 6
+  size: 54, 233
+  orig: 115, 262
+  offset: 23, 9
+  index: -1
+jili/jili_03
+  rotate: false
+  xy: 281, 6
+  size: 52, 233
+  orig: 115, 262
+  offset: 24, 12
+  index: -1
+jili/jili_04
+  rotate: false
+  xy: 335, 6
+  size: 52, 233
+  orig: 115, 262
+  offset: 24, 10
+  index: -1
+jili/jili_05
+  rotate: false
+  xy: 1001, 16
+  size: 53, 223
+  orig: 115, 262
+  offset: 23, 17
+  index: -1
+jili/jili_06
+  rotate: false
+  xy: 556, 9
+  size: 53, 230
+  orig: 115, 262
+  offset: 23, 15
+  index: -1
+jili/jili_07
+  rotate: false
+  xy: 611, 9
+  size: 53, 230
+  orig: 115, 262
+  offset: 23, 11
+  index: -1
+jili/jili_08
+  rotate: false
+  xy: 1056, 17
+  size: 53, 222
+  orig: 115, 262
+  offset: 23, 17
+  index: -1
+jili/jili_09
+  rotate: false
+  xy: 891, 10
+  size: 52, 229
+  orig: 115, 262
+  offset: 24, 19
+  index: -1
+jili/jili_10
+  rotate: false
+  xy: 389, 5
+  size: 52, 234
+  orig: 115, 262
+  offset: 24, 13
+  index: -1
+jili/jili_11
+  rotate: false
+  xy: 0, 0
+  size: 53, 239
+  orig: 115, 262
+  offset: 24, 8
+  index: -1
+jili/jili_12
+  rotate: false
+  xy: 225, 6
+  size: 54, 233
+  orig: 115, 262
+  offset: 23, 13
+  index: -1
+jili/jili_13
+  rotate: false
+  xy: 835, 14
+  size: 54, 225
+  orig: 115, 262
+  offset: 23, 17
+  index: -1
+jili/jili_14
+  rotate: false
+  xy: 945, 16
+  size: 54, 223
+  orig: 115, 262
+  offset: 23, 17
+  index: -1
+jili/jili_15
+  rotate: false
+  xy: 55, 5
+  size: 55, 234
+  orig: 115, 262
+  offset: 22, 12
+  index: -1
+jili/jili_16
+  rotate: false
+  xy: 112, 5
+  size: 55, 234
+  orig: 115, 262
+  offset: 22, 13
+  index: -1
+jili/jili_17
+  rotate: false
+  xy: 443, 9
+  size: 55, 230
+  orig: 115, 262
+  offset: 22, 14
+  index: -1
+jili/jili_18
+  rotate: false
+  xy: 722, 12
+  size: 55, 227
+  orig: 115, 262
+  offset: 22, 15
+  index: -1
+jili/jili_19
+  rotate: false
+  xy: 666, 10
+  size: 54, 229
+  orig: 115, 262
+  offset: 23, 11
+  index: -1

@@ -1,0 +1,48 @@
+
+314_m3.png
+size: 453,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/qipao01
+  rotate: false
+  xy: 364, 34
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+images/kuang
+  rotate: true
+  xy: 0, 8
+  size: 269, 201
+  orig: 269, 201
+  offset: 0, 0
+  index: -1
+images/shetni
+  rotate: false
+  xy: 203, 122
+  size: 250, 155
+  orig: 250, 155
+  offset: 0, 0
+  index: -1
+images/yqj
+  rotate: false
+  xy: 203, 0
+  size: 108, 120
+  orig: 108, 120
+  offset: 0, 0
+  index: -1
+images/zhj
+  rotate: true
+  xy: 364, 77
+  size: 43, 85
+  orig: 43, 85
+  offset: 0, 0
+  index: -1
+images/zqj
+  rotate: false
+  xy: 313, 13
+  size: 49, 107
+  orig: 49, 107
+  offset: 0, 0
+  index: -1

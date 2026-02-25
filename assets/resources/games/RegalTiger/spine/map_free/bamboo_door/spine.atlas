@@ -1,0 +1,41 @@
+
+qp_zhuzi01.png
+size: 346,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mengban01
+  rotate: false
+  xy: 287, 0
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+songshu01
+  rotate: false
+  xy: 0, 9
+  size: 161, 163
+  orig: 161, 163
+  offset: 0, 0
+  index: -1
+songshu02
+  rotate: false
+  xy: 163, 87
+  size: 170, 85
+  orig: 170, 85
+  offset: 0, 0
+  index: -1
+songshu03
+  rotate: false
+  xy: 163, 5
+  size: 122, 80
+  orig: 122, 80
+  offset: 0, 0
+  index: -1
+yunwu01
+  rotate: false
+  xy: 287, 49
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1

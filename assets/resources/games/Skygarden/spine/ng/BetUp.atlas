@@ -1,0 +1,398 @@
+
+BetUp.png
+size: 1746,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/b1/b1_000
+  rotate: false
+  xy: 610, 43
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/b1/b1_011
+  rotate: false
+  xy: 610, 43
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/b1/b1_001
+  rotate: false
+  xy: 608, 171
+  size: 347, 64
+  orig: 350, 70
+  offset: 3, 4
+  index: -1
+images/b1/b1_002
+  rotate: false
+  xy: 2, 66
+  size: 347, 65
+  orig: 350, 70
+  offset: 3, 5
+  index: -1
+images/b1/b1_003
+  rotate: false
+  xy: 957, 169
+  size: 341, 66
+  orig: 350, 70
+  offset: 8, 3
+  index: -1
+images/b1/b1_004
+  rotate: false
+  xy: 1300, 170
+  size: 341, 65
+  orig: 350, 70
+  offset: 8, 1
+  index: -1
+images/b1/b1_005
+  rotate: false
+  xy: 1300, 102
+  size: 340, 66
+  orig: 350, 70
+  offset: 7, 2
+  index: -1
+images/b1/b1_006
+  rotate: false
+  xy: 2, 3
+  size: 340, 61
+  orig: 350, 70
+  offset: 7, 7
+  index: -1
+images/b1/b1_007
+  rotate: false
+  xy: 580, 109
+  size: 332, 60
+  orig: 350, 70
+  offset: 11, 7
+  index: -1
+images/b1/b1_008
+  rotate: false
+  xy: 914, 112
+  size: 319, 55
+  orig: 350, 70
+  offset: 17, 7
+  index: -1
+images/b1/b1_009
+  rotate: false
+  xy: 914, 63
+  size: 274, 47
+  orig: 350, 70
+  offset: 43, 12
+  index: -1
+images/b1/b1_010
+  rotate: false
+  xy: 912, 33
+  size: 132, 28
+  orig: 350, 70
+  offset: 50, 25
+  index: -1
+images/bet
+  rotate: false
+  xy: 2, 133
+  size: 404, 52
+  orig: 404, 52
+  offset: 0, 0
+  index: -1
+images/he
+  rotate: false
+  xy: 2, 187
+  size: 604, 48
+  orig: 635, 67
+  offset: 19, 10
+  index: -1
+images/sg/bet_000
+  rotate: true
+  xy: 1742, 232
+  size: 3, 2
+  orig: 205, 35
+  offset: 6, 9
+  index: -1
+images/sg/bet_001
+  rotate: true
+  xy: 344, 4
+  size: 15, 20
+  orig: 205, 35
+  offset: 3, 8
+  index: -1
+images/sg/bet_002
+  rotate: true
+  xy: 1629, 20
+  size: 25, 24
+  orig: 205, 35
+  offset: 2, 6
+  index: -1
+images/sg/bet_003
+  rotate: false
+  xy: 740, 15
+  size: 34, 26
+  orig: 205, 35
+  offset: 1, 5
+  index: -1
+images/sg/bet_004
+  rotate: false
+  xy: 1029, 2
+  size: 45, 27
+  orig: 205, 35
+  offset: 0, 5
+  index: -1
+images/sg/bet_005
+  rotate: false
+  xy: 975, 2
+  size: 52, 29
+  orig: 205, 35
+  offset: 0, 4
+  index: -1
+images/sg/bet_006
+  rotate: false
+  xy: 911, 2
+  size: 62, 29
+  orig: 205, 35
+  offset: 0, 4
+  index: -1
+images/sg/bet_007
+  rotate: true
+  xy: 1235, 95
+  size: 72, 30
+  orig: 205, 35
+  offset: 0, 4
+  index: -1
+images/sg/bet_008
+  rotate: true
+  xy: 1267, 89
+  size: 78, 30
+  orig: 205, 35
+  offset: 0, 4
+  index: -1
+images/sg/bet_009
+  rotate: true
+  xy: 1190, 21
+  size: 89, 30
+  orig: 205, 35
+  offset: 1, 4
+  index: -1
+images/sg/bet_010
+  rotate: false
+  xy: 1358, 6
+  size: 96, 30
+  orig: 205, 35
+  offset: 2, 4
+  index: -1
+images/sg/bet_011
+  rotate: false
+  xy: 1640, 52
+  size: 104, 30
+  orig: 205, 35
+  offset: 3, 4
+  index: -1
+images/sg/bet_012
+  rotate: false
+  xy: 1375, 38
+  size: 112, 30
+  orig: 205, 35
+  offset: 4, 4
+  index: -1
+images/sg/bet_013
+  rotate: false
+  xy: 1426, 70
+  size: 120, 30
+  orig: 205, 35
+  offset: 5, 4
+  index: -1
+images/sg/bet_014
+  rotate: false
+  xy: 610, 11
+  size: 128, 30
+  orig: 205, 35
+  offset: 7, 4
+  index: -1
+images/sg/bet_015
+  rotate: true
+  xy: 1710, 103
+  size: 132, 30
+  orig: 205, 35
+  offset: 12, 4
+  index: -1
+images/sg/bet_016
+  rotate: false
+  xy: 778, 77
+  size: 132, 30
+  orig: 205, 35
+  offset: 21, 4
+  index: -1
+images/sg/bet_017
+  rotate: false
+  xy: 344, 21
+  size: 133, 30
+  orig: 205, 35
+  offset: 30, 4
+  index: -1
+images/sg/bet_018
+  rotate: false
+  xy: 778, 13
+  size: 131, 30
+  orig: 205, 35
+  offset: 38, 4
+  index: -1
+images/sg/bet_019
+  rotate: false
+  xy: 479, 14
+  size: 129, 30
+  orig: 205, 35
+  offset: 52, 4
+  index: -1
+images/sg/bet_020
+  rotate: false
+  xy: 778, 45
+  size: 132, 30
+  orig: 205, 35
+  offset: 58, 4
+  index: -1
+images/sg/bet_021
+  rotate: false
+  xy: 1046, 31
+  size: 132, 30
+  orig: 205, 35
+  offset: 66, 4
+  index: -1
+images/sg/bet_022
+  rotate: false
+  xy: 1299, 70
+  size: 125, 30
+  orig: 205, 35
+  offset: 76, 4
+  index: -1
+images/sg/bet_023
+  rotate: false
+  xy: 1254, 38
+  size: 119, 30
+  orig: 205, 35
+  offset: 84, 4
+  index: -1
+images/sg/bet_024
+  rotate: false
+  xy: 1489, 38
+  size: 110, 30
+  orig: 205, 35
+  offset: 94, 4
+  index: -1
+images/sg/bet_025
+  rotate: false
+  xy: 1254, 6
+  size: 102, 30
+  orig: 205, 35
+  offset: 103, 4
+  index: -1
+images/sg/bet_026
+  rotate: false
+  xy: 1548, 70
+  size: 90, 30
+  orig: 205, 35
+  offset: 115, 4
+  index: -1
+images/sg/bet_027
+  rotate: true
+  xy: 1222, 9
+  size: 84, 30
+  orig: 205, 35
+  offset: 121, 4
+  index: -1
+images/sg/bet_028
+  rotate: false
+  xy: 1456, 8
+  size: 76, 28
+  orig: 205, 35
+  offset: 129, 5
+  index: -1
+images/sg/bet_029
+  rotate: false
+  xy: 1534, 8
+  size: 66, 28
+  orig: 205, 35
+  offset: 139, 5
+  index: -1
+images/sg/bet_030
+  rotate: false
+  xy: 1076, 3
+  size: 53, 26
+  orig: 205, 35
+  offset: 151, 6
+  index: -1
+images/sg/bet_031
+  rotate: false
+  xy: 1131, 5
+  size: 47, 24
+  orig: 205, 35
+  offset: 157, 7
+  index: -1
+images/sg/bet_032
+  rotate: false
+  xy: 1601, 47
+  size: 35, 21
+  orig: 205, 35
+  offset: 167, 9
+  index: -1
+images/sg/bet_033
+  rotate: false
+  xy: 1655, 30
+  size: 26, 20
+  orig: 205, 35
+  offset: 175, 9
+  index: -1
+images/sg/bet_034
+  rotate: false
+  xy: 1602, 2
+  size: 16, 16
+  orig: 205, 35
+  offset: 184, 12
+  index: -1
+images/sg/bet_035
+  rotate: false
+  xy: 344, 60
+  size: 5, 4
+  orig: 205, 35
+  offset: 193, 21
+  index: -1
+images/star_000
+  rotate: false
+  xy: 1602, 20
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+images/y1
+  rotate: false
+  xy: 505, 46
+  size: 144, 61
+  orig: 144, 61
+  offset: 0, 0
+  index: -1
+images/y2
+  rotate: true
+  xy: 1643, 84
+  size: 151, 65
+  orig: 151, 65
+  offset: 0, 0
+  index: -1
+images/y3
+  rotate: false
+  xy: 408, 121
+  size: 170, 64
+  orig: 170, 64
+  offset: 0, 0
+  index: -1
+images/y4
+  rotate: false
+  xy: 651, 43
+  size: 125, 64
+  orig: 125, 64
+  offset: 0, 0
+  index: -1
+images/y5
+  rotate: false
+  xy: 351, 53
+  size: 152, 66
+  orig: 152, 66
+  offset: 0, 0
+  index: -1

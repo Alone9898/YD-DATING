@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "d575fafc-326f-4336-9f78-4b3ecf009b29",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 454,
+  "height": 2315,
+  "platformSettings": {},
+  "subMetas": {
+    "ludo_rule_en": {
+      "ver": "1.0.4",
+      "uuid": "b9cecccb-33f9-4864-ae3d-53ddfa35bae9",
+      "rawTextureUuid": "d575fafc-326f-4336-9f78-4b3ecf009b29",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3.5,
+      "offsetY": -0.5,
+      "trimX": 7,
+      "trimY": 19,
+      "width": 447,
+      "height": 2278,
+      "rawWidth": 454,
+      "rawHeight": 2315,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

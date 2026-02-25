@@ -1,0 +1,20 @@
+info face="Arial" size=32 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=32 base=26 scaleW=480 scaleH=512 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="FGnum_0.png"
+chars count=16
+char id=44   x=415   y=107   width=35    height=106   xoffset=0     yoffset=0     xadvance=35    page=0  chnl=15
+char id=46   x=457   y=0     width=22    height=106   xoffset=0     yoffset=0     xadvance=22    page=0  chnl=15
+char id=48   x=70    y=107   width=68    height=106   xoffset=0     yoffset=0     xadvance=68    page=0  chnl=15
+char id=49   x=247   y=0     width=69    height=106   xoffset=0     yoffset=0     xadvance=69    page=0  chnl=15
+char id=50   x=139   y=107   width=68    height=106   xoffset=0     yoffset=0     xadvance=68    page=0  chnl=15
+char id=51   x=208   y=107   width=68    height=106   xoffset=0     yoffset=0     xadvance=68    page=0  chnl=15
+char id=52   x=277   y=107   width=68    height=106   xoffset=0     yoffset=0     xadvance=68    page=0  chnl=15
+char id=53   x=317   y=0     width=69    height=106   xoffset=0     yoffset=0     xadvance=69    page=0  chnl=15
+char id=54   x=346   y=107   width=68    height=106   xoffset=0     yoffset=0     xadvance=68    page=0  chnl=15
+char id=55   x=387   y=0     width=69    height=106   xoffset=0     yoffset=0     xadvance=69    page=0  chnl=15
+char id=56   x=0     y=214   width=68    height=106   xoffset=0     yoffset=0     xadvance=68    page=0  chnl=15
+char id=57   x=69    y=214   width=68    height=106   xoffset=0     yoffset=0     xadvance=68    page=0  chnl=15
+char id=66   x=0     y=107   width=69    height=106   xoffset=0     yoffset=0     xadvance=69    page=0  chnl=15
+char id=75   x=91    y=0     width=80    height=106   xoffset=0     yoffset=0     xadvance=80    page=0  chnl=15
+char id=77   x=0     y=0     width=90    height=106   xoffset=0     yoffset=0     xadvance=90    page=0  chnl=15
+char id=84   x=172   y=0     width=74    height=106   xoffset=0     yoffset=0     xadvance=74    page=0  chnl=15

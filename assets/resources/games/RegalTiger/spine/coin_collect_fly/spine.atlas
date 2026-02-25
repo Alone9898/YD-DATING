@@ -1,0 +1,20 @@
+
+symbol_jinbi_07.png
+size: 216,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JB_gaoliang01
+  rotate: false
+  xy: 126, 33
+  size: 90, 92
+  orig: 90, 92
+  offset: 0, 0
+  index: -1
+theme115_s_12
+  rotate: false
+  xy: 0, 0
+  size: 124, 125
+  orig: 125, 125
+  offset: 1, 0
+  index: -1

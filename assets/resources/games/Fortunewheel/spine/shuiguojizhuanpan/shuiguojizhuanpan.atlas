@@ -1,0 +1,125 @@
+
+shuiguojizhuanpan.png
+size: 397,395
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 270, 266
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+bq/Image 76
+  rotate: false
+  xy: 79, 21
+  size: 74, 72
+  orig: 77, 75
+  offset: 0, 2
+  index: -1
+bq/Image 78
+  rotate: true
+  xy: 80, 95
+  size: 75, 74
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+bq/Image 80
+  rotate: true
+  xy: 2, 55
+  size: 74, 75
+  orig: 77, 75
+  offset: 1, 0
+  index: -1
+bq/Image 82
+  rotate: false
+  xy: 2, 208
+  size: 76, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+bq/Image 84
+  rotate: false
+  xy: 2, 131
+  size: 76, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+bq/Image 86
+  rotate: false
+  xy: 156, 97
+  size: 76, 73
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+bq/Image 88
+  rotate: false
+  xy: 156, 23
+  size: 76, 72
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+bq/Image 90
+  rotate: true
+  xy: 234, 47
+  size: 76, 73
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+bq/Image 92
+  rotate: false
+  xy: 309, 52
+  size: 75, 71
+  orig: 77, 75
+  offset: 0, 2
+  index: -1
+bq/guangqiu
+  rotate: false
+  xy: 152, 172
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+g20002
+  rotate: true
+  xy: 80, 199
+  size: 84, 57
+  orig: 188, 143
+  offset: 50, 7
+  index: -1
+g20003
+  rotate: false
+  xy: 294, 195
+  size: 99, 90
+  orig: 188, 143
+  offset: 49, 13
+  index: -1
+g20004
+  rotate: true
+  xy: 294, 287
+  size: 106, 96
+  orig: 188, 143
+  offset: 46, 13
+  index: -1
+g20005
+  rotate: false
+  xy: 152, 290
+  size: 140, 103
+  orig: 188, 143
+  offset: 26, 23
+  index: -1
+g20006
+  rotate: false
+  xy: 2, 285
+  size: 148, 108
+  orig: 188, 143
+  offset: 23, 24
+  index: -1
+guang1
+  rotate: true
+  xy: 270, 125
+  size: 68, 125
+  orig: 68, 125
+  offset: 0, 0
+  index: -1

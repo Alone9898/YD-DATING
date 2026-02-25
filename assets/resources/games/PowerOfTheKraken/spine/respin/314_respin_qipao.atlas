@@ -1,0 +1,27 @@
+
+314_respin_qipao.png
+size: 354,354
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+T_qipao1
+  rotate: false
+  xy: 224, 244
+  size: 103, 108
+  orig: 106, 110
+  offset: 2, 1
+  index: -1
+glow
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xing_0
+  rotate: false
+  xy: 2, 132
+  size: 220, 220
+  orig: 256, 256
+  offset: 19, 17
+  index: -1

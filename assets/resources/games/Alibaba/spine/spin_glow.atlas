@@ -1,0 +1,146 @@
+
+spin_glow.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spin_dianji
+  rotate: false
+  xy: 824, 170
+  size: 114, 130
+  orig: 114, 130
+  offset: 0, 0
+  index: -1
+spin_glow/Spin_glow_01
+  rotate: false
+  xy: 2, 302
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+spin_glow/Spin_glow_02
+  rotate: false
+  xy: 2, 152
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+spin_glow/Spin_glow_03
+  rotate: false
+  xy: 139, 302
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+spin_glow/Spin_glow_04
+  rotate: false
+  xy: 2, 2
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+spin_glow/Spin_glow_05
+  rotate: false
+  xy: 139, 152
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+spin_glow/Spin_glow_06
+  rotate: false
+  xy: 276, 302
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+spin_glow/Spin_glow_07
+  rotate: false
+  xy: 139, 2
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+spin_glow/Spin_glow_08
+  rotate: false
+  xy: 276, 152
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+spin_glow/Spin_glow_09
+  rotate: false
+  xy: 413, 302
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+spin_glow/Spin_glow_10
+  rotate: false
+  xy: 276, 2
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+spin_glow/Spin_glow_11
+  rotate: false
+  xy: 413, 152
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+spin_glow/Spin_glow_12
+  rotate: false
+  xy: 550, 302
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+spin_glow/Spin_glow_13
+  rotate: false
+  xy: 413, 2
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+spin_glow/Spin_glow_14
+  rotate: false
+  xy: 550, 152
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+spin_glow/Spin_glow_15
+  rotate: false
+  xy: 687, 302
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+spin_glow/Spin_glow_16
+  rotate: false
+  xy: 550, 2
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+spin_glow/Spin_glow_17
+  rotate: false
+  xy: 687, 152
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+spin_glow/Spin_glow_18
+  rotate: false
+  xy: 824, 302
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+spin_glow/Spin_glow_19
+  rotate: false
+  xy: 687, 2
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1

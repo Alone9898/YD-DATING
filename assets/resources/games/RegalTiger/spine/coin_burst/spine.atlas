@@ -1,0 +1,118 @@
+
+symbol_jinbi_03.png
+size: 1226,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha/baozha_1
+  rotate: false
+  xy: 950, 181
+  size: 142, 145
+  orig: 168, 165
+  offset: 14, 14
+  index: -1
+baozha/baozha_10
+  rotate: false
+  xy: 2, 164
+  size: 162, 162
+  orig: 168, 165
+  offset: 4, 3
+  index: -1
+baozha/baozha_11
+  rotate: false
+  xy: 165, 2
+  size: 161, 160
+  orig: 168, 165
+  offset: 4, 3
+  index: -1
+baozha/baozha_12
+  rotate: false
+  xy: 488, 166
+  size: 153, 160
+  orig: 168, 165
+  offset: 5, 2
+  index: -1
+baozha/baozha_13
+  rotate: false
+  xy: 488, 4
+  size: 151, 160
+  orig: 168, 165
+  offset: 9, 2
+  index: -1
+baozha/baozha_14
+  rotate: false
+  xy: 643, 169
+  size: 151, 157
+  orig: 168, 165
+  offset: 10, 1
+  index: -1
+baozha/baozha_15
+  rotate: false
+  xy: 1094, 180
+  size: 130, 146
+  orig: 168, 165
+  offset: 11, 13
+  index: -1
+baozha/baozha_16
+  rotate: false
+  xy: 1096, 94
+  size: 109, 84
+  orig: 168, 165
+  offset: 26, 42
+  index: -1
+baozha/baozha_2
+  rotate: false
+  xy: 948, 23
+  size: 146, 148
+  orig: 168, 165
+  offset: 12, 12
+  index: -1
+baozha/baozha_3
+  rotate: false
+  xy: 797, 21
+  size: 149, 150
+  orig: 168, 165
+  offset: 10, 11
+  index: -1
+baozha/baozha_4
+  rotate: false
+  xy: 796, 173
+  size: 152, 153
+  orig: 168, 165
+  offset: 9, 9
+  index: -1
+baozha/baozha_5
+  rotate: false
+  xy: 641, 8
+  size: 154, 156
+  orig: 168, 165
+  offset: 7, 7
+  index: -1
+baozha/baozha_6
+  rotate: false
+  xy: 329, 169
+  size: 157, 157
+  orig: 168, 165
+  offset: 6, 7
+  index: -1
+baozha/baozha_7
+  rotate: true
+  xy: 328, 3
+  size: 160, 158
+  orig: 168, 165
+  offset: 4, 6
+  index: -1
+baozha/baozha_8
+  rotate: false
+  xy: 2, 2
+  size: 161, 160
+  orig: 168, 165
+  offset: 4, 5
+  index: -1
+baozha/baozha_9
+  rotate: false
+  xy: 166, 165
+  size: 161, 161
+  orig: 168, 165
+  offset: 4, 4
+  index: -1

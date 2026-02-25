@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "d2a9d296-02db-46f1-8022-e431c241f6b3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 120,
+  "height": 38,
+  "platformSettings": {},
+  "subMetas": {
+    "btn_league_room_sign": {
+      "ver": "1.0.4",
+      "uuid": "dc438fca-91f4-47d4-8813-072d2b7ec429",
+      "rawTextureUuid": "d2a9d296-02db-46f1-8022-e431c241f6b3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 120,
+      "height": 38,
+      "rawWidth": 120,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,62 @@
+
+spine.png
+size: 496,494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fasanguang2
+  rotate: false
+  xy: 2, 8
+  size: 236, 240
+  orig: 250, 250
+  offset: 5, 8
+  index: -1
+showdown_bg_0
+  rotate: false
+  xy: 248, 358
+  size: 178, 66
+  orig: 180, 70
+  offset: 2, 2
+  index: -1
+showdown_bg_1
+  rotate: false
+  xy: 248, 290
+  size: 178, 66
+  orig: 180, 70
+  offset: 2, 2
+  index: -1
+showdown_bg_2
+  rotate: true
+  xy: 428, 314
+  size: 178, 66
+  orig: 180, 70
+  offset: 2, 2
+  index: -1
+showdown_bg_3
+  rotate: false
+  xy: 248, 222
+  size: 178, 66
+  orig: 180, 70
+  offset: 2, 2
+  index: -1
+showdown_bg_4
+  rotate: false
+  xy: 240, 154
+  size: 178, 66
+  orig: 180, 70
+  offset: 2, 2
+  index: -1
+showdown_bg_5
+  rotate: false
+  xy: 248, 426
+  size: 178, 66
+  orig: 180, 70
+  offset: 2, 2
+  index: -1
+tx_ui_tfrk_g1
+  rotate: false
+  xy: 2, 250
+  size: 244, 242
+  orig: 250, 250
+  offset: 3, 2
+  index: -1

@@ -1,0 +1,97 @@
+
+jilixiaoguo_01.png
+size: 549,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jilitiao/jilitiao_1
+  rotate: true
+  xy: 2, 224
+  size: 42, 249
+  orig: 53, 250
+  offset: 5, 0
+  index: -1
+jilitiao/jilitiao_10
+  rotate: true
+  xy: 253, 180
+  size: 42, 249
+  orig: 53, 250
+  offset: 5, 0
+  index: -1
+jilitiao/jilitiao_11
+  rotate: true
+  xy: 2, 136
+  size: 42, 249
+  orig: 53, 250
+  offset: 5, 0
+  index: -1
+jilitiao/jilitiao_12
+  rotate: true
+  xy: 253, 136
+  size: 42, 249
+  orig: 53, 250
+  offset: 5, 0
+  index: -1
+jilitiao/jilitiao_13
+  rotate: true
+  xy: 2, 92
+  size: 42, 249
+  orig: 53, 250
+  offset: 5, 0
+  index: -1
+jilitiao/jilitiao_14
+  rotate: true
+  xy: 253, 92
+  size: 42, 249
+  orig: 53, 250
+  offset: 5, 0
+  index: -1
+jilitiao/jilitiao_15
+  rotate: true
+  xy: 2, 48
+  size: 42, 249
+  orig: 53, 250
+  offset: 5, 0
+  index: -1
+jilitiao/jilitiao_2
+  rotate: true
+  xy: 253, 224
+  size: 42, 249
+  orig: 53, 250
+  offset: 5, 0
+  index: -1
+jilitiao/jilitiao_3
+  rotate: true
+  xy: 2, 180
+  size: 42, 249
+  orig: 53, 250
+  offset: 5, 0
+  index: -1
+jilitiao/jilitiao_4
+  rotate: true
+  xy: 253, 47
+  size: 43, 249
+  orig: 53, 250
+  offset: 5, 0
+  index: -1
+jilitiao/jilitiao_5
+  rotate: false
+  xy: 504, 17
+  size: 43, 249
+  orig: 53, 250
+  offset: 5, 0
+  index: -1
+jilitiao/jilitiao_6
+  rotate: true
+  xy: 2, 3
+  size: 43, 249
+  orig: 53, 250
+  offset: 5, 0
+  index: -1
+jilitiao/jilitiao_7
+  rotate: true
+  xy: 253, 2
+  size: 43, 249
+  orig: 53, 250
+  offset: 5, 0
+  index: -1

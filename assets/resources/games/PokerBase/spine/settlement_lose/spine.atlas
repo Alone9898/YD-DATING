@@ -1,0 +1,90 @@
+
+spine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D
+  rotate: false
+  xy: 2, 712
+  size: 630, 310
+  orig: 630, 310
+  offset: 0, 0
+  index: -1
+ZI
+  rotate: false
+  xy: 2, 400
+  size: 630, 310
+  orig: 630, 310
+  offset: 0, 0
+  index: -1
+baofa_0
+  rotate: false
+  xy: 634, 472
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+cash_bonus_glow_2 #29088
+  rotate: true
+  xy: 2, 2
+  size: 84, 7
+  orig: 84, 7
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 634, 730
+  size: 292, 292
+  orig: 292, 292
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: false
+  xy: 634, 205
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+guangyun1
+  rotate: false
+  xy: 634, 75
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+kuo_0
+  rotate: false
+  xy: 805, 342
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+light_002
+  rotate: false
+  xy: 634, 335
+  size: 169, 135
+  orig: 169, 135
+  offset: 0, 0
+  index: -1
+ring_0
+  rotate: false
+  xy: 764, 205
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+star_f
+  rotate: false
+  xy: 928, 991
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+win_ar
+  rotate: false
+  xy: 2, 88
+  size: 630, 310
+  orig: 630, 310
+  offset: 0, 0
+  index: -1

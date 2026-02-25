@@ -1,0 +1,48 @@
+
+jsckpot_01.png
+size: 812,812
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+theme177_dialog_jb_3
+  rotate: false
+  xy: 0, 347
+  size: 558, 465
+  orig: 558, 465
+  offset: 0, 0
+  index: -1
+theme177_dialog_jtype0
+  rotate: true
+  xy: 560, 435
+  size: 377, 171
+  orig: 377, 171
+  offset: 0, 0
+  index: -1
+theme177_dialog_jtype1
+  rotate: false
+  xy: 0, 173
+  size: 377, 172
+  orig: 377, 172
+  offset: 0, 0
+  index: -1
+theme177_dialog_jtype2
+  rotate: false
+  xy: 0, 0
+  size: 377, 171
+  orig: 377, 171
+  offset: 0, 0
+  index: -1
+theme177_dialog_jtype3
+  rotate: false
+  xy: 379, 175
+  size: 377, 170
+  orig: 377, 170
+  offset: 0, 0
+  index: -1
+theme177_dialog_jtype4
+  rotate: false
+  xy: 379, 3
+  size: 377, 170
+  orig: 377, 170
+  offset: 0, 0
+  index: -1

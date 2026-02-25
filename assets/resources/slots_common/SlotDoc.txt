@@ -1,0 +1,136 @@
+【消息】
+1 是否屏蔽上下的操作点击 参数true/false
+EventId.SLOT_SHOW_HEADFOOTER_MASK
+
+2 通知奖池是否锁定了 参数{poolIdx:this.dataType,val:this._bLock}
+cc.vv.gameData._EventId.SLOT_JACKPOOL_LOCK_CHANGE
+
+【Loading界面】
+1 loading界面制作时，进度条那一块。需要使用公共的：slots_common/SlotRes/prefab/LMSlots_Loading_progressBar。然后给loading脚本设置进度条节点
+2 loading界面的背景图：模式使用原图大小，不要绑widget组建了，然后整体缩放2.5倍。背景图下的所有节点（logo）移出来
+
+【Help界面】
+1 需要在cfg中自己配置item预制：
+    //帮助界面的预制路径（不设置就使用下面的默认）
+    // help_prefab:"slots_common/SlotRes/prefab/LMSlots_Help_prefab",
+    //帮助界面的子页:模版在"slots_common/SlotRes/prefab/LMSlots_Help_item"
+    helpItems:["games/JalapanDelight/prefab/LMSlots_Help_item1",
+                "games/JalapanDelight/prefab/LMSlots_Help_item2",
+                "games/JalapanDelight/prefab/LMSlots_Help_item3"
+            ],
+【Slot】
+1 如何暂停自动？
+
+2 整个slot的转动倍率
+比如正常配置了一个普通游戏的节奏，在免费游戏中需要加快0.1倍
+这种情况可使用SetTimeScle(1.1)
+可通过SetTimeScale()来设置
+
+【Cfg】
+0 Symbol的配置说明
+//node:正常节点展示 
+//zIndex:正常节点的【单列】显示层级,越大越显示在上层
+// win_node:中奖节点展示 
+//win_ani:{name:动画名称，zIndex:播放层级,是和其他sybole来比较的。就可以实现，左边盖右边的功能}
+//stop_ain:停止动画配置
+//idle_ani:待机动画配置
+//trigger_ani:触发动画配置
+//[2]:{node:"s2",zIndex:100,win_node:"w2",win_ani:{name:"animation1",zIndex:300},stop_ain:{name:"",zIndex:""},idle_ani:{name:"",zIndex:""}}, //太阳Scatter
+
+1 参数：AddAntiTime
+描述：免费游戏加速框显示的时候，多旋转的时间。秒。默认是1s
+
+2 //自动模式下一轮延迟配置
+参数：autoModelDelay
+描述：自动模式下，每一轮之间的间隔时间。单位秒
+
+3//通用音效配置[可选]
+//不配置的话，会有公共默认音效
+commEffect:{
+    path:'games/JalapanDelight/',
+    win1:['win1','win1end'], //小赢，2s左右
+    win2:['win2','win2end'], //中赢，5s左右
+    clickSpin:'filepath',   //点击spine的音效
+}
+4 
+参数：auto_stop_time
+描述：点击spin后，如果没有点停止收到结果后，多少秒开始停止
+
+5 //已废弃，使用7 bounceInfo
+//如果需要重写回弹效果，这个时间还是要从配置中读取.因为计算列停止时间需要用到
+//列停止时间 = 列停止间隔 + 列回弹时间
+参数：bounceActionDur 
+描述：回弹动作时间的配置。单位秒。默认0.2
+
+6 //回弹配置 必须；如果不要回弹 都配置为0 
+bounceInfo:{
+    distance:30,         //回弹距离
+    time:0.3             //回弹时间
+},
+
+7.列状态配置；必须的配置
+ reelStateInfo:[
+    {
+        id:[3],                         //需要加速的id
+        mini:6,                         //触发游戏的最小个数
+        counts:[5,5,5,5,5],             //每一列最多个数
+        antiNode:"node_anti_bonus",     //加速节点
+        path:'games/RisingMedusa/',     //音效路径，可以不配置。系统会用的游戏路径
+        reelStopSound:'reel_stop',             //普通列停止
+        symbolStopSound:'bonus_notify',         //特殊symbol停止音效
+        antSound:'anticipation',                //加速音效
+        antSpeed:2000,                           //加速度
+        continuous:true,                        //必须连续才满足加速和停顿条件
+    },
+    {  
+        id:[2],          
+        mini:3,        
+        counts:[1,1,1,1,1],      
+        antiNode:"node_anti",       
+        path:'games/RisingMedusa/',   
+        reelStopSound:'reel_stop',          
+        symbolStopSound:'scatter_notify',          
+        antSound:'anticipation',                 
+        antSpeed:2000,                        
+    }
+],
+
+8 BGM 配置
+
+9 随机符号表配置
+原方案：randomSymbols来配置 （如使用了新的可以去掉这项配置）
+新方案：cardmap来配置，按列配置。服务端会模拟一个假的对应列的符号表给客户端。cardmapfree可选，如果免费游戏和普通游戏卷轴不同可以配置。
+注意：如果有类似墨西哥帅哥 头中尾 都是用一个符号来表示的自己手动将连续的id替换成客户端对应的 头中尾 的id 即可
+
+10 777的旋转速度配置
+sub777_speed：默认是40
+
+【bottom】
+1 新增播放赢钱效果可以点Spine跳过播放过程
+  具体实现见bottom组件的ShowWin函数：
+  cc.instance(this._btn_spine)然后绑定跳过逻辑，不影响正常的spine和外部调用await
+
+
+  【奖池】
+  1 奖池解锁表现
+  使用LMSlots_Slots_PrizePool_Base组件。一般来说只需要重写ShowNodeLockByNode这个函数
+
+  2 奖池暂停到某个数字
+  //pauseDatas:[{prizeType:val,pauseNum:val}...]
+  LMSlots_Slots_PrizePool_Base.PausePool(pauseDatas)
+  //恢复暂停的奖池
+  LMSlots_Slots_PrizePool_Base.ResumePausePool()
+
+
+  【777小游戏】
+    1 公共预制已经放到框架slots_common/SlotRes/prefab/LMSlots_Subgame777.prefab
+    2 将此预制拖到自己场景，然后设置成自动同步
+    3 记得删除子游戏中与777相关的音效和图片，动画资源
+
+    //调用显示
+    let mapGame = cc.find('Canvas/safe_node/LMSlots_Subgame777')
+    //平均押住额，服务器会告诉
+    let avgbet = 11111
+    mapGame.getComponent('LMSlots_Subgame777').showEnter(avgbet)
+
+    LMSlots_Subgame777新增showTranse函数，处理777游戏结束逻辑，如果有需求的可以重写

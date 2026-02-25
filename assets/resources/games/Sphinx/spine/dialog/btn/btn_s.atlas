@@ -1,0 +1,111 @@
+
+btn_s.png
+size: 43,1002
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sg/butten3_00
+  rotate: false
+  xy: 2, 2
+  size: 31, 34
+  orig: 143, 39
+  offset: 1, 5
+  index: -1
+sg/butten3_01
+  rotate: true
+  xy: 2, 77
+  size: 42, 38
+  orig: 143, 39
+  offset: 1, 1
+  index: -1
+sg/butten3_02
+  rotate: true
+  xy: 2, 167
+  size: 54, 39
+  orig: 143, 39
+  offset: 1, 0
+  index: -1
+sg/butten3_03
+  rotate: true
+  xy: 2, 348
+  size: 66, 39
+  orig: 143, 39
+  offset: 1, 0
+  index: -1
+sg/butten3_04
+  rotate: true
+  xy: 2, 416
+  size: 76, 39
+  orig: 143, 39
+  offset: 2, 0
+  index: -1
+sg/butten3_05
+  rotate: true
+  xy: 2, 657
+  size: 82, 39
+  orig: 143, 39
+  offset: 8, 0
+  index: -1
+sg/butten3_06
+  rotate: true
+  xy: 2, 915
+  size: 85, 39
+  orig: 143, 39
+  offset: 17, 0
+  index: -1
+sg/butten3_07
+  rotate: true
+  xy: 2, 828
+  size: 85, 39
+  orig: 143, 39
+  offset: 28, 0
+  index: -1
+sg/butten3_08
+  rotate: true
+  xy: 2, 741
+  size: 85, 39
+  orig: 143, 39
+  offset: 40, 0
+  index: -1
+sg/butten3_09
+  rotate: true
+  xy: 2, 573
+  size: 82, 39
+  orig: 143, 39
+  offset: 52, 0
+  index: -1
+sg/butten3_10
+  rotate: true
+  xy: 2, 494
+  size: 77, 39
+  orig: 143, 39
+  offset: 63, 0
+  index: -1
+sg/butten3_11
+  rotate: true
+  xy: 2, 280
+  size: 66, 39
+  orig: 143, 39
+  offset: 75, 0
+  index: -1
+sg/butten3_12
+  rotate: true
+  xy: 2, 223
+  size: 55, 39
+  orig: 143, 39
+  offset: 87, 0
+  index: -1
+sg/butten3_13
+  rotate: true
+  xy: 2, 121
+  size: 44, 39
+  orig: 143, 39
+  offset: 98, 0
+  index: -1
+sg/butten3_14
+  rotate: false
+  xy: 2, 38
+  size: 32, 37
+  orig: 143, 39
+  offset: 110, 0
+  index: -1

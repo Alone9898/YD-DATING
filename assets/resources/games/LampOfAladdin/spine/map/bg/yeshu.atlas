@@ -1,0 +1,20 @@
+
+yeshu.png
+size: 167,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+theme175_map_bg2
+  rotate: false
+  xy: 0, 0
+  size: 106, 135
+  orig: 106, 135
+  offset: 0, 0
+  index: -1
+theme175_map_bg4
+  rotate: false
+  xy: 108, 111
+  size: 59, 24
+  orig: 59, 24
+  offset: 0, 0
+  index: -1

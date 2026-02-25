@@ -1,0 +1,55 @@
+
+314_m1.png
+size: 993,207
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chi_y
+  rotate: true
+  xy: 903, 27
+  size: 83, 76
+  orig: 83, 76
+  offset: 0, 0
+  index: -1
+images/chi_yy
+  rotate: false
+  xy: 903, 112
+  size: 90, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+images/chi_z
+  rotate: true
+  xy: 836, 0
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+images/di
+  rotate: false
+  xy: 0, 5
+  size: 270, 202
+  orig: 270, 202
+  offset: 0, 0
+  index: -1
+images/kuang
+  rotate: false
+  xy: 272, 5
+  size: 270, 202
+  orig: 270, 202
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 544, 27
+  size: 290, 180
+  orig: 290, 180
+  offset: 0, 0
+  index: -1
+images/weiba
+  rotate: true
+  xy: 836, 56
+  size: 151, 65
+  orig: 151, 65
+  offset: 0, 0
+  index: -1

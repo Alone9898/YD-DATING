@@ -1,0 +1,20 @@
+
+zizhuzi.png
+size: 204,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+龙柱/theme177_pick_jpb_1
+  rotate: false
+  xy: 0, 0
+  size: 101, 279
+  orig: 110, 279
+  offset: 5, 0
+  index: -1
+龙柱/theme177_pick_jpb_1_1
+  rotate: false
+  xy: 103, 0
+  size: 101, 279
+  orig: 110, 279
+  offset: 5, 0
+  index: -1

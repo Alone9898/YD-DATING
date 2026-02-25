@@ -1,0 +1,132 @@
+
+spine.png
+size: 886,886
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tex/Ball
+  rotate: false
+  xy: 473, 333
+  size: 135, 136
+  orig: 140, 140
+  offset: 2, 2
+  index: -1
+tex/Ball1
+  rotate: false
+  xy: 2, 82
+  size: 135, 136
+  orig: 140, 140
+  offset: 2, 2
+  index: -1
+tex/Ball11
+  rotate: false
+  xy: 413, 186
+  size: 135, 136
+  orig: 140, 140
+  offset: 2, 2
+  index: -1
+tex/Ball12
+  rotate: false
+  xy: 413, 48
+  size: 135, 136
+  orig: 140, 140
+  offset: 2, 2
+  index: -1
+tex/Ball13
+  rotate: false
+  xy: 550, 195
+  size: 135, 136
+  orig: 140, 140
+  offset: 2, 2
+  index: -1
+tex/Ball2
+  rotate: false
+  xy: 610, 333
+  size: 135, 136
+  orig: 140, 140
+  offset: 2, 2
+  index: -1
+tex/Ball3
+  rotate: false
+  xy: 747, 333
+  size: 135, 136
+  orig: 140, 140
+  offset: 2, 2
+  index: -1
+tex/Ball4
+  rotate: false
+  xy: 139, 82
+  size: 135, 136
+  orig: 140, 140
+  offset: 2, 2
+  index: -1
+tex/Ball5
+  rotate: false
+  xy: 276, 186
+  size: 135, 136
+  orig: 140, 140
+  offset: 2, 2
+  index: -1
+tex/Ball8
+  rotate: false
+  xy: 276, 48
+  size: 135, 136
+  orig: 140, 140
+  offset: 2, 2
+  index: -1
+tex/Ball_x1
+  rotate: false
+  xy: 550, 57
+  size: 135, 136
+  orig: 140, 140
+  offset: 2, 2
+  index: -1
+tex/Ball_x3
+  rotate: false
+  xy: 687, 73
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+tex/Ball_x5
+  rotate: false
+  xy: 687, 195
+  size: 135, 136
+  orig: 140, 140
+  offset: 2, 2
+  index: -1
+tex/t2
+  rotate: false
+  xy: 2, 21
+  size: 152, 59
+  orig: 152, 59
+  offset: 0, 0
+  index: -1
+tex/tq
+  rotate: false
+  xy: 473, 471
+  size: 411, 413
+  orig: 413, 417
+  offset: 2, 0
+  index: -1
+tex/tt
+  rotate: false
+  xy: 2, 324
+  size: 469, 560
+  orig: 469, 596
+  offset: 0, 36
+  index: -1
+tex/tts
+  rotate: false
+  xy: 2, 220
+  size: 248, 102
+  orig: 252, 113
+  offset: 2, 2
+  index: -1
+tex/yz
+  rotate: false
+  xy: 156, 29
+  size: 116, 51
+  orig: 122, 54
+  offset: 3, 1
+  index: -1

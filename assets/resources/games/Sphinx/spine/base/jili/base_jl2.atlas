@@ -1,0 +1,20 @@
+
+base_jl2.png
+size: 971,969
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jg_0
+  rotate: false
+  xy: 2, 187
+  size: 530, 780
+  orig: 530, 780
+  offset: 0, 0
+  index: -1
+quan_0
+  rotate: false
+  xy: 534, 531
+  size: 435, 436
+  orig: 435, 436
+  offset: 0, 0
+  index: -1

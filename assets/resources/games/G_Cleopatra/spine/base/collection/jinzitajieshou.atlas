@@ -1,0 +1,146 @@
+
+jinzitajieshou.png
+size: 795,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinzita/jinzita_00
+  rotate: false
+  xy: 528, 242
+  size: 258, 77
+  orig: 300, 127
+  offset: 19, 28
+  index: -1
+jinzita/jinzita_01
+  rotate: false
+  xy: 262, 0
+  size: 259, 77
+  orig: 300, 127
+  offset: 18, 28
+  index: -1
+jinzita/jinzita_02
+  rotate: false
+  xy: 0, 79
+  size: 262, 77
+  orig: 300, 127
+  offset: 15, 28
+  index: -1
+jinzita/jinzita_03
+  rotate: false
+  xy: 267, 481
+  size: 264, 77
+  orig: 300, 127
+  offset: 13, 28
+  index: -1
+jinzita/jinzita_04
+  rotate: false
+  xy: 0, 481
+  size: 265, 77
+  orig: 300, 127
+  offset: 12, 28
+  index: -1
+jinzita/jinzita_05
+  rotate: false
+  xy: 530, 400
+  size: 259, 77
+  orig: 300, 127
+  offset: 18, 28
+  index: -1
+jinzita/jinzita_06
+  rotate: false
+  xy: 528, 321
+  size: 259, 77
+  orig: 300, 127
+  offset: 18, 28
+  index: -1
+jinzita/jinzita_07
+  rotate: false
+  xy: 0, 0
+  size: 260, 77
+  orig: 300, 127
+  offset: 17, 28
+  index: -1
+jinzita/jinzita_08
+  rotate: false
+  xy: 265, 322
+  size: 261, 78
+  orig: 300, 127
+  offset: 16, 28
+  index: -1
+jinzita/jinzita_09
+  rotate: false
+  xy: 533, 479
+  size: 262, 79
+  orig: 300, 127
+  offset: 15, 28
+  index: -1
+jinzita/jinzita_10
+  rotate: false
+  xy: 0, 400
+  size: 263, 79
+  orig: 300, 127
+  offset: 14, 28
+  index: -1
+jinzita/jinzita_11
+  rotate: false
+  xy: 0, 158
+  size: 262, 78
+  orig: 300, 127
+  offset: 14, 29
+  index: -1
+jinzita/jinzita_12
+  rotate: false
+  xy: 0, 319
+  size: 263, 79
+  orig: 300, 127
+  offset: 13, 29
+  index: -1
+jinzita/jinzita_13
+  rotate: false
+  xy: 0, 238
+  size: 263, 79
+  orig: 300, 127
+  offset: 13, 29
+  index: -1
+jinzita/jinzita_14
+  rotate: false
+  xy: 265, 402
+  size: 263, 77
+  orig: 300, 127
+  offset: 13, 30
+  index: -1
+jinzita/jinzita_15
+  rotate: false
+  xy: 265, 244
+  size: 261, 76
+  orig: 300, 127
+  offset: 14, 31
+  index: -1
+jinzita/jinzita_16
+  rotate: false
+  xy: 265, 169
+  size: 256, 73
+  orig: 300, 127
+  offset: 18, 32
+  index: -1
+jinzita/jinzita_17
+  rotate: false
+  xy: 264, 96
+  size: 252, 71
+  orig: 300, 127
+  offset: 20, 34
+  index: -1
+jinzita/jinzita_18
+  rotate: false
+  xy: 523, 171
+  size: 251, 69
+  orig: 300, 127
+  offset: 20, 36
+  index: -1
+jinzita/jinzita_19
+  rotate: false
+  xy: 523, 107
+  size: 248, 62
+  orig: 300, 127
+  offset: 20, 36
+  index: -1

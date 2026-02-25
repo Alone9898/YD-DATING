@@ -1,0 +1,27 @@
+
+spine.png
+size: 366,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenzi_ar
+  rotate: false
+  xy: 2, 32
+  size: 194, 100
+  orig: 200, 140
+  offset: 3, 20
+  index: -1
+wenzi_en
+  rotate: false
+  xy: 2, 134
+  size: 194, 132
+  orig: 200, 140
+  offset: 3, 4
+  index: -1
+xian
+  rotate: false
+  xy: 2, 268
+  size: 362, 94
+  orig: 362, 94
+  offset: 0, 0
+  index: -1

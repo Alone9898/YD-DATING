@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "9c60b2ca-7ce7-4724-a563-6f89407f2771",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 577,
+  "height": 563,
+  "platformSettings": {},
+  "subMetas": {
+    "bonus_dajibiliuguang_01": {
+      "ver": "1.0.4",
+      "uuid": "76856df6-c1db-49a4-b484-d4dacd09c94a",
+      "rawTextureUuid": "9c60b2ca-7ce7-4724-a563-6f89407f2771",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 573,
+      "height": 559,
+      "rawWidth": 577,
+      "rawHeight": 563,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

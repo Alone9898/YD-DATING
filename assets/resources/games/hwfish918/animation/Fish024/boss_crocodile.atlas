@@ -1,0 +1,48 @@
+
+boss_crocodile.png
+size: 565,767
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leftFoot
+  rotate: true
+  xy: 501, 632
+  size: 135, 64
+  orig: 135, 64
+  offset: 0, 0
+  index: -1
+leftHand
+  rotate: true
+  xy: 501, 351
+  size: 134, 61
+  orig: 134, 61
+  offset: 0, 0
+  index: -1
+rightFoot
+  rotate: true
+  xy: 501, 491
+  size: 135, 64
+  orig: 135, 64
+  offset: 0, 0
+  index: -1
+rightHand
+  rotate: true
+  xy: 501, 211
+  size: 134, 61
+  orig: 134, 61
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 284, 0
+  size: 767, 211
+  orig: 767, 212
+  offset: 0, 1
+  index: -1
+yinzi
+  rotate: true
+  xy: 0, 0
+  size: 767, 278
+  orig: 767, 278
+  offset: 0, 0
+  index: -1

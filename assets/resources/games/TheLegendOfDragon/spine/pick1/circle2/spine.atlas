@@ -1,0 +1,111 @@
+
+xiaoziquan.png
+size: 598,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/xziquan/xziquan_00
+  rotate: false
+  xy: 0, 52
+  size: 119, 50
+  orig: 120, 50
+  offset: 1, 0
+  index: -1
+ef/xziquan/xziquan_01
+  rotate: false
+  xy: 0, 0
+  size: 119, 50
+  orig: 120, 50
+  offset: 1, 0
+  index: -1
+ef/xziquan/xziquan_02
+  rotate: false
+  xy: 122, 104
+  size: 118, 50
+  orig: 120, 50
+  offset: 2, 0
+  index: -1
+ef/xziquan/xziquan_03
+  rotate: false
+  xy: 361, 0
+  size: 117, 50
+  orig: 120, 50
+  offset: 2, 0
+  index: -1
+ef/xziquan/xziquan_04
+  rotate: false
+  xy: 121, 0
+  size: 118, 50
+  orig: 120, 50
+  offset: 2, 0
+  index: -1
+ef/xziquan/xziquan_05
+  rotate: false
+  xy: 241, 0
+  size: 118, 50
+  orig: 120, 50
+  offset: 2, 0
+  index: -1
+ef/xziquan/xziquan_06
+  rotate: false
+  xy: 121, 52
+  size: 119, 50
+  orig: 120, 50
+  offset: 1, 0
+  index: -1
+ef/xziquan/xziquan_07
+  rotate: false
+  xy: 0, 104
+  size: 120, 50
+  orig: 120, 50
+  offset: 0, 0
+  index: -1
+ef/xziquan/xziquan_08
+  rotate: false
+  xy: 480, 104
+  size: 117, 50
+  orig: 120, 50
+  offset: 2, 0
+  index: -1
+ef/xziquan/xziquan_09
+  rotate: false
+  xy: 242, 104
+  size: 118, 50
+  orig: 120, 50
+  offset: 2, 0
+  index: -1
+ef/xziquan/xziquan_10
+  rotate: false
+  xy: 242, 52
+  size: 118, 50
+  orig: 120, 50
+  offset: 2, 0
+  index: -1
+ef/xziquan/xziquan_11
+  rotate: false
+  xy: 362, 104
+  size: 116, 50
+  orig: 120, 50
+  offset: 2, 0
+  index: -1
+ef/xziquan/xziquan_12
+  rotate: false
+  xy: 362, 52
+  size: 117, 50
+  orig: 120, 50
+  offset: 1, 0
+  index: -1
+ef/xziquan/xziquan_13
+  rotate: false
+  xy: 480, 0
+  size: 117, 50
+  orig: 120, 50
+  offset: 1, 0
+  index: -1
+ef/xziquan/xziquan_14
+  rotate: false
+  xy: 481, 52
+  size: 117, 50
+  orig: 120, 50
+  offset: 2, 0
+  index: -1

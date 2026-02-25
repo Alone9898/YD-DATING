@@ -1,0 +1,90 @@
+
+caibizhuan.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fan/fan_00
+  rotate: false
+  xy: 2, 2
+  size: 124, 120
+  orig: 188, 176
+  offset: 30, 24
+  index: -1
+fan/fan_01
+  rotate: false
+  xy: 128, 2
+  size: 124, 120
+  orig: 188, 176
+  offset: 30, 24
+  index: -1
+fan/fan_02
+  rotate: false
+  xy: 254, 2
+  size: 123, 120
+  orig: 188, 176
+  offset: 30, 24
+  index: -1
+fan/fan_03
+  rotate: false
+  xy: 379, 2
+  size: 123, 120
+  orig: 188, 176
+  offset: 30, 24
+  index: -1
+fan/fan_04
+  rotate: false
+  xy: 504, 2
+  size: 122, 120
+  orig: 188, 176
+  offset: 30, 24
+  index: -1
+fan/fan_05
+  rotate: false
+  xy: 628, 2
+  size: 121, 120
+  orig: 188, 176
+  offset: 30, 24
+  index: -1
+fan/fan_06
+  rotate: false
+  xy: 751, 2
+  size: 119, 120
+  orig: 188, 176
+  offset: 31, 24
+  index: -1
+fan/fan_07
+  rotate: false
+  xy: 872, 2
+  size: 117, 120
+  orig: 188, 176
+  offset: 32, 24
+  index: -1
+fan/fan_08
+  rotate: false
+  xy: 991, 2
+  size: 114, 120
+  orig: 188, 176
+  offset: 33, 24
+  index: -1
+fan/fan_09
+  rotate: false
+  xy: 1107, 2
+  size: 110, 120
+  orig: 188, 176
+  offset: 35, 24
+  index: -1
+fan/fan_10
+  rotate: false
+  xy: 1219, 2
+  size: 107, 120
+  orig: 188, 176
+  offset: 36, 24
+  index: -1
+fan/fan_11
+  rotate: false
+  xy: 1328, 3
+  size: 103, 119
+  orig: 188, 176
+  offset: 38, 24
+  index: -1

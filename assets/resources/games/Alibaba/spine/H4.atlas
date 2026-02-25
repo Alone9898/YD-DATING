@@ -1,0 +1,41 @@
+
+H4.png
+size: 301,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H4_di
+  rotate: true
+  xy: 185, 143
+  size: 128, 114
+  orig: 128, 114
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 185, 30
+  size: 107, 111
+  orig: 107, 111
+  offset: 0, 0
+  index: -1
+h4
+  rotate: true
+  xy: 2, 2
+  size: 97, 103
+  orig: 97, 103
+  offset: 0, 0
+  index: -1
+h4_add
+  rotate: true
+  xy: 2, 101
+  size: 170, 181
+  orig: 200, 200
+  offset: 17, 13
+  index: -1
+star_01
+  rotate: false
+  xy: 107, 67
+  size: 30, 32
+  orig: 32, 32
+  offset: 1, 0
+  index: -1

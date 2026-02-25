@@ -1,0 +1,41 @@
+
+wild1yun.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yunx4/yun1
+  rotate: false
+  xy: 299, 236
+  size: 347, 250
+  orig: 347, 250
+  offset: 0, 0
+  index: -1
+yunx4/yun2
+  rotate: false
+  xy: 2, 171
+  size: 295, 315
+  orig: 295, 315
+  offset: 0, 0
+  index: -1
+yunx4/yun3
+  rotate: false
+  xy: 363, 91
+  size: 284, 143
+  orig: 284, 143
+  offset: 0, 0
+  index: -1
+yunx4/yun5
+  rotate: false
+  xy: 2, 2
+  size: 359, 167
+  orig: 359, 167
+  offset: 0, 0
+  index: -1
+yunx4/yun6
+  rotate: false
+  xy: 648, 263
+  size: 359, 223
+  orig: 359, 223
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+spine.png
+size: 441,441
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dhk
+  rotate: false
+  xy: 2, 223
+  size: 306, 216
+  orig: 310, 220
+  offset: 2, 3
+  index: -1
+dhk1
+  rotate: true
+  xy: 310, 133
+  size: 306, 96
+  orig: 310, 220
+  offset: 2, 3
+  index: -1
+dhk2
+  rotate: false
+  xy: 2, 65
+  size: 306, 156
+  orig: 310, 220
+  offset: 2, 3
+  index: -1
+dj
+  rotate: true
+  xy: 176, 16
+  size: 47, 49
+  orig: 60, 60
+  offset: 6, 6
+  index: -1
+dw
+  rotate: false
+  xy: 310, 75
+  size: 47, 56
+  orig: 60, 60
+  offset: 6, 2
+  index: -1
+dw2
+  rotate: true
+  xy: 359, 84
+  size: 47, 56
+  orig: 60, 60
+  offset: 6, 2
+  index: -1
+dw3
+  rotate: false
+  xy: 366, 26
+  size: 47, 56
+  orig: 60, 60
+  offset: 6, 2
+  index: -1
+dw4
+  rotate: true
+  xy: 2, 16
+  size: 47, 56
+  orig: 60, 60
+  offset: 6, 2
+  index: -1
+dw5
+  rotate: true
+  xy: 60, 16
+  size: 47, 56
+  orig: 60, 60
+  offset: 6, 2
+  index: -1
+dw6
+  rotate: true
+  xy: 118, 16
+  size: 47, 56
+  orig: 60, 60
+  offset: 6, 2
+  index: -1
+dw7
+  rotate: false
+  xy: 310, 19
+  size: 54, 54
+  orig: 60, 60
+  offset: 3, 4
+  index: -1
+jdt0
+  rotate: true
+  xy: 408, 243
+  size: 196, 31
+  orig: 200, 40
+  offset: 2, 5
+  index: -1
+rp
+  rotate: true
+  xy: 227, 21
+  size: 42, 49
+  orig: 60, 60
+  offset: 9, 5
+  index: -1

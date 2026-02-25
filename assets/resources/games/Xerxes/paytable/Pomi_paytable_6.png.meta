@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "ec3445d4-15e3-426a-807e-16eb599d714d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 630,
+  "height": 583,
+  "platformSettings": {},
+  "subMetas": {
+    "Pomi_paytable_6": {
+      "ver": "1.0.4",
+      "uuid": "9d389fc9-a1b3-4250-a41d-17d6bbf85563",
+      "rawTextureUuid": "ec3445d4-15e3-426a-807e-16eb599d714d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3,
+      "offsetY": -8,
+      "trimX": 116,
+      "trimY": 16,
+      "width": 392,
+      "height": 567,
+      "rawWidth": 630,
+      "rawHeight": 583,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

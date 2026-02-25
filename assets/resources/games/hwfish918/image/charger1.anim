@@ -1,0 +1,153 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "charger1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "left": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "15837a3d-d8aa-4120-900f-5aa34508ee04"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -64,
+                20
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -64,
+                10
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -64,
+                20
+              ]
+            }
+          ]
+        }
+      },
+      "right": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "15837a3d-d8aa-4120-900f-5aa34508ee04"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                64,
+                20
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                64,
+                10
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                64,
+                20
+              ]
+            }
+          ]
+        }
+      },
+      "left/zuan": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 360
+            },
+            {
+              "frame": 1,
+              "value": 720
+            }
+          ]
+        }
+      },
+      "right/zuan": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": -360
+            },
+            {
+              "frame": 1,
+              "value": -720
+            }
+          ]
+        }
+      },
+      "left/zuan/quan": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": null
+              }
+            ]
+          }
+        }
+      },
+      "right/zuan/quan": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": null
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

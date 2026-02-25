@@ -1,0 +1,83 @@
+
+dengshjb.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fanzh_0
+  rotate: false
+  xy: 83, 46
+  size: 79, 80
+  orig: 90, 90
+  offset: 6, 5
+  index: -1
+fanzh_1
+  rotate: false
+  xy: 164, 49
+  size: 81, 77
+  orig: 90, 90
+  offset: 5, 9
+  index: -1
+fanzh_10
+  rotate: false
+  xy: 2, 45
+  size: 79, 81
+  orig: 90, 90
+  offset: 6, 4
+  index: -1
+fanzh_2
+  rotate: false
+  xy: 413, 58
+  size: 81, 68
+  orig: 90, 90
+  offset: 5, 16
+  index: -1
+fanzh_3
+  rotate: false
+  xy: 413, 2
+  size: 82, 54
+  orig: 90, 90
+  offset: 4, 24
+  index: -1
+fanzh_4
+  rotate: false
+  xy: 580, 92
+  size: 82, 34
+  orig: 90, 90
+  offset: 4, 32
+  index: -1
+fanzh_5
+  rotate: false
+  xy: 496, 59
+  size: 82, 11
+  orig: 90, 90
+  offset: 4, 39
+  index: -1
+fanzh_6
+  rotate: false
+  xy: 664, 92
+  size: 82, 34
+  orig: 90, 90
+  offset: 4, 23
+  index: -1
+fanzh_7
+  rotate: false
+  xy: 496, 72
+  size: 82, 54
+  orig: 90, 90
+  offset: 4, 12
+  index: -1
+fanzh_8
+  rotate: false
+  xy: 330, 57
+  size: 81, 69
+  orig: 90, 90
+  offset: 5, 5
+  index: -1
+fanzh_9
+  rotate: false
+  xy: 247, 50
+  size: 81, 76
+  orig: 90, 90
+  offset: 5, 4
+  index: -1

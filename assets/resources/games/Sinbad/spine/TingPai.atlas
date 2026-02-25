@@ -1,0 +1,146 @@
+
+TingPai.png
+size: 1923,369
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tp/Tp_000
+  rotate: false
+  xy: 1278, 18
+  size: 94, 349
+  orig: 100, 360
+  offset: 6, 10
+  index: -1
+images/tp/Tp_001
+  rotate: false
+  xy: 1469, 8
+  size: 91, 359
+  orig: 100, 360
+  offset: 6, 0
+  index: -1
+images/tp/Tp_002
+  rotate: true
+  xy: 1562, 93
+  size: 89, 359
+  orig: 100, 360
+  offset: 8, 0
+  index: -1
+images/tp/Tp_003
+  rotate: false
+  xy: 608, 8
+  size: 95, 359
+  orig: 100, 360
+  offset: 2, 0
+  index: -1
+images/tp/Tp_004
+  rotate: false
+  xy: 899, 8
+  size: 93, 359
+  orig: 100, 360
+  offset: 5, 0
+  index: -1
+images/tp/Tp_005
+  rotate: false
+  xy: 1090, 8
+  size: 92, 359
+  orig: 100, 360
+  offset: 3, 0
+  index: -1
+images/tp/Tp_006
+  rotate: false
+  xy: 994, 13
+  size: 94, 354
+  orig: 100, 360
+  offset: 3, 0
+  index: -1
+images/tp/Tp_007
+  rotate: false
+  xy: 508, 13
+  size: 98, 354
+  orig: 100, 360
+  offset: 1, 0
+  index: -1
+images/tp/Tp_008
+  rotate: false
+  xy: 104, 8
+  size: 100, 359
+  orig: 100, 360
+  offset: 0, 0
+  index: -1
+images/tp/Tp_009
+  rotate: false
+  xy: 406, 18
+  size: 100, 349
+  orig: 100, 360
+  offset: 0, 0
+  index: -1
+images/tp/Tp_010
+  rotate: false
+  xy: 705, 15
+  size: 96, 352
+  orig: 100, 360
+  offset: 4, 0
+  index: -1
+images/tp/Tp_011
+  rotate: false
+  xy: 306, 10
+  size: 98, 357
+  orig: 100, 360
+  offset: 2, 0
+  index: -1
+images/tp/Tp_012
+  rotate: false
+  xy: 803, 10
+  size: 94, 357
+  orig: 100, 360
+  offset: 6, 0
+  index: -1
+images/tp/Tp_013
+  rotate: false
+  xy: 1184, 10
+  size: 92, 357
+  orig: 100, 360
+  offset: 4, 1
+  index: -1
+images/tp/Tp_014
+  rotate: true
+  xy: 1562, 276
+  size: 91, 358
+  orig: 100, 360
+  offset: 6, 0
+  index: -1
+images/tp/Tp_015
+  rotate: true
+  xy: 1562, 184
+  size: 90, 359
+  orig: 100, 360
+  offset: 5, 0
+  index: -1
+images/tp/Tp_016
+  rotate: false
+  xy: 206, 7
+  size: 98, 360
+  orig: 100, 360
+  offset: 0, 0
+  index: -1
+images/tp/Tp_017
+  rotate: false
+  xy: 2, 7
+  size: 100, 360
+  orig: 100, 360
+  offset: 0, 0
+  index: -1
+images/tp/Tp_018
+  rotate: true
+  xy: 1562, 2
+  size: 89, 357
+  orig: 100, 360
+  offset: 7, 0
+  index: -1
+images/tp/Tp_019
+  rotate: false
+  xy: 1374, 15
+  size: 93, 352
+  orig: 100, 360
+  offset: 6, 0
+  index: -1

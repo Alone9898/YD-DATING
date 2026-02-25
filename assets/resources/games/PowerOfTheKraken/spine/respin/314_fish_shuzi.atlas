@@ -1,0 +1,48 @@
+
+314_fish_shuzi.png
+size: 645,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian1
+  rotate: true
+  xy: 516, 40
+  size: 73, 57
+  orig: 74, 57
+  offset: 1, 0
+  index: -1
+games_zxb_zhizuo_017
+  rotate: false
+  xy: 516, 115
+  size: 124, 135
+  orig: 125, 141
+  offset: 1, 4
+  index: -1
+guangdian
+  rotate: true
+  xy: 2, 2
+  size: 248, 260
+  orig: 248, 260
+  offset: 0, 0
+  index: -1
+guangqiu1
+  rotate: false
+  xy: 264, 2
+  size: 250, 248
+  orig: 256, 256
+  offset: 5, 4
+  index: -1
+rongqi
+  rotate: false
+  xy: 642, 249
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xing2
+  rotate: false
+  xy: 575, 50
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1

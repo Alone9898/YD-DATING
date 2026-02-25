@@ -1,0 +1,265 @@
+
+pike_qieping_texiao.png
+size: 1009,1007
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bx_1
+  rotate: false
+  xy: 2, 40
+  size: 520, 451
+  orig: 520, 451
+  offset: 0, 0
+  index: -1
+bx_3
+  rotate: false
+  xy: 2, 493
+  size: 586, 512
+  orig: 586, 512
+  offset: 0, 0
+  index: -1
+dian1
+  rotate: false
+  xy: 590, 758
+  size: 233, 247
+  orig: 233, 247
+  offset: 0, 0
+  index: -1
+gq01
+  rotate: false
+  xy: 825, 851
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+gt01
+  rotate: false
+  xy: 524, 283
+  size: 71, 208
+  orig: 71, 208
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 590, 511
+  size: 97, 50
+  orig: 97, 50
+  offset: 0, 0
+  index: -1
+jinbi01/00
+  rotate: false
+  xy: 825, 759
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/01
+  rotate: false
+  xy: 524, 191
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/010
+  rotate: false
+  xy: 789, 666
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/011
+  rotate: false
+  xy: 789, 574
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/012
+  rotate: false
+  xy: 881, 667
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/013
+  rotate: false
+  xy: 881, 575
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/014
+  rotate: false
+  xy: 616, 195
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/015
+  rotate: false
+  xy: 616, 103
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/016
+  rotate: false
+  xy: 616, 11
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/017
+  rotate: false
+  xy: 708, 195
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/018
+  rotate: false
+  xy: 708, 103
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/019
+  rotate: false
+  xy: 708, 11
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/02
+  rotate: false
+  xy: 524, 99
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/020
+  rotate: false
+  xy: 789, 482
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/021
+  rotate: false
+  xy: 881, 483
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/022
+  rotate: false
+  xy: 781, 390
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/023
+  rotate: false
+  xy: 781, 298
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/024
+  rotate: false
+  xy: 800, 206
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/025
+  rotate: false
+  xy: 800, 114
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/026
+  rotate: false
+  xy: 800, 22
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/027
+  rotate: false
+  xy: 873, 390
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/028
+  rotate: false
+  xy: 873, 298
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/029
+  rotate: false
+  xy: 892, 206
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/03
+  rotate: false
+  xy: 917, 759
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/04
+  rotate: false
+  xy: 597, 419
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/05
+  rotate: false
+  xy: 689, 471
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/06
+  rotate: false
+  xy: 597, 327
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/07
+  rotate: false
+  xy: 689, 379
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/08
+  rotate: false
+  xy: 524, 7
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jinbi01/09
+  rotate: false
+  xy: 689, 287
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 590, 563
+  size: 197, 193
+  orig: 197, 193
+  offset: 0, 0
+  index: -1
