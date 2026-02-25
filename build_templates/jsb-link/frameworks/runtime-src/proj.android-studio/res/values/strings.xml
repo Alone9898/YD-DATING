@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Yono Games</string>
+    <string name="default_notification_channel_id" translatable="false">0</string>
+</resources>

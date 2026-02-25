@@ -1,0 +1,174 @@
+import org.apache.tools.ant.taskdefs.condition.Os
+
+apply plugin: 'com.android.application'
+apply plugin: 'walle'
+
+android {
+    compileSdkVersion PROP_COMPILE_SDK_VERSION.toInteger()
+    buildToolsVersion PROP_BUILD_TOOLS_VERSION
+
+    defaultConfig {
+        applicationId "com.yono.games.free"
+        minSdkVersion PROP_MIN_SDK_VERSION
+        targetSdkVersion PROP_TARGET_SDK_VERSION
+        versionCode 24
+        versionName "1.2.4"
+
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_8
+            targetCompatibility JavaVersion.VERSION_1_8
+        }
+
+        externalNativeBuild {
+            ndkBuild {
+                if (!project.hasProperty("PROP_NDK_MODE") || PROP_NDK_MODE.compareTo('none') != 0) {
+                    // skip the NDK Build step if PROP_NDK_MODE is none
+                    targets 'cocos2djs'
+                    arguments 'NDK_TOOLCHAIN_VERSION=clang'
+                    
+                    def module_paths = [project.file("/Applications/CocosCreator/Creator/2.3.3/CocosCreator.app/Contents/Resources/cocos2d-x"),
+                                        project.file("/Applications/CocosCreator/Creator/2.3.3/CocosCreator.app/Contents/Resources/cocos2d-x/cocos"),
+                                        project.file("/Applications/CocosCreator/Creator/2.3.3/CocosCreator.app/Contents/Resources/cocos2d-x/external")]
+                    if (Os.isFamily(Os.FAMILY_WINDOWS)) {
+                        arguments 'NDK_MODULE_PATH=' + module_paths.join(";")
+                    }
+                    else {
+                        arguments 'NDK_MODULE_PATH=' + module_paths.join(':')
+                    }
+
+                    arguments '-j' + Runtime.runtime.availableProcessors()
+                    abiFilters.addAll(PROP_APP_ABI.split(':').collect{it as String})
+                }
+            }
+        }
+    }
+
+    sourceSets.main {
+        java.srcDirs "../src", "src"
+        res.srcDirs "../res", 'res'
+        jniLibs.srcDirs "../libs", 'libs'
+        manifest.srcFile "AndroidManifest.xml"
+    }
+
+    externalNativeBuild {
+        ndkBuild {
+            if (!project.hasProperty("PROP_NDK_MODE") || PROP_NDK_MODE.compareTo('none') != 0) {
+                // skip the NDK Build step if PROP_NDK_MODE is none
+                path "jni/Android.mk"
+            }
+        }
+    }
+
+    signingConfigs {
+
+       release {
+
+           if (project.hasProperty("RELEASE_STORE_FILE")) {
+                storeFile file(RELEASE_STORE_FILE)
+                storePassword RELEASE_STORE_PASSWORD
+                keyAlias RELEASE_KEY_ALIAS
+                keyPassword RELEASE_KEY_PASSWORD
+            }
+        }
+
+        debug {
+            storeFile file('/Users/9you/workspace/YD_LobbyClient/tool/keystore/lamislot.keystore')
+            keyAlias = 'bigbang.keystore'
+            storePassword '9youklqp2017'
+            keyPassword '9youklqp2017'
+        }
+    }
+
+    buildTypes {
+        release {
+            debuggable false
+            jniDebuggable false
+            renderscriptDebuggable false
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            if (project.hasProperty("RELEASE_STORE_FILE")) {
+                signingConfig signingConfigs.release
+            }
+
+            externalNativeBuild {
+                ndkBuild {
+                    arguments 'NDK_DEBUG=0'
+                }
+            }
+        }
+
+        debug {
+            debuggable true
+            jniDebuggable true
+            renderscriptDebuggable true
+            externalNativeBuild {
+                ndkBuild {
+                    arguments 'NDK_DEBUG=1'
+                }
+            }
+        }
+    }
+}
+
+android.applicationVariants.all { variant ->
+    // delete previous files first
+    delete "${buildDir}/intermediates/merged_assets/${variant.dirName}"
+
+    variant.mergeAssetsProvider.get().doLast{
+        def sourceDir = "${buildDir}/../../../../.."
+
+        copy {
+            from "${sourceDir}/res"
+            into "${outputDir}/res"
+            into outputDir.dir("res")
+        }
+
+        copy {
+            from "${sourceDir}/subpackages"
+            into "${outputDir}/subpackages"
+            into outputDir.dir("subpackages")
+        }
+
+        copy {
+            from "${sourceDir}/src"
+            into "${outputDir}/src"
+            into outputDir.dir("src")
+        }
+
+        copy {
+            from "${sourceDir}/jsb-adapter"
+            into "${outputDir}/jsb-adapter"
+            into outputDir.dir("jsb-adapter")
+        }
+
+        copy {
+            from "${sourceDir}/main.js"
+            from "${sourceDir}/project.json"
+            into outputDir
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar','*.aar'])
+    implementation fileTree(dir: "/Applications/CocosCreator/Creator/2.3.3/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/android/java/libs", include: ['*.jar'])
+    implementation project(':libcocos2dx')
+
+    implementation 'com.google.android.gms:play-services-base:18.1.0'
+    // Import the Firebase BoM
+    implementation platform('com.google.firebase:firebase-bom:31.1.1')
+    implementation 'com.google.firebase:firebase-analytics'
+    implementation 'com.google.firebase:firebase-messaging:23.1.1'
+//    implementation 'androidx.work:work-runtime-ktx:2.7.1'
+//    //facebook
+//    implementation 'com.facebook.android:facebook-core:latest.release'
+//    implementation 'com.facebook.android:facebook-share:latest.release'
+
+    implementation 'org.devio.takephoto:takephoto_library:4.1.0'
+
+    compile 'com.meituan.android.walle:library:1.1.7'
+
+}
+
+apply plugin: 'com.google.gms.google-services'

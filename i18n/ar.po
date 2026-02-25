@@ -1,0 +1,4411 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: en\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-02 18:37+0800\n"
+"PO-Revision-Date: 2022-09-02 18:37+0800\n"
+"Last-Translator: \n"
+"Language-Team: 中文\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Loco-Source-Locale: en_TW\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: ___\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Poedit-SearchPath-0: i18n/ui_static_text.js\n"
+"X-Poedit-SearchPath-1: assets\n"
+
+#: assets/BalootClient/Bouns/BounsIdCmp.js:21
+msgid "您还不是VIP,无法领取该奖励"
+msgstr "VIPهذا المكافأة فقط لمشاركين ال"
+
+#: assets/BalootClient/Bouns/Module/FBShare/PopupFBShare.js:48
+#: i18n/ui_static_text.js:13
+msgid "今日已分享"
+msgstr "تم استلامها اليوم"
+
+#: assets/BalootClient/Chat/scripts/PageChatItem.js:378
+msgid "赠送{1}一杯甜点，幸福甜美天天来"
+msgstr "قدم {1} قطعة حلوى ، تأتي السعادة والحلاوة كل يوم!"
+
+#: assets/BalootClient/Chat/scripts/PageChatItem.js:380
+msgid "赠送{1}一杯跑车，一往无前享受激情！"
+msgstr "امنح {1} سيارة رياضية واستمتع بالشغف إلى الأبد!"
+
+#: assets/BalootClient/Chat/scripts/PageChatItem.js:382
+msgid "赠送{1}一杯水烟，点燃无穷快乐！"
+msgstr "المجاملة {1} وعاء من الشيشة ، أضاءت سعادة لا نهاية لها!"
+
+#: assets/BalootClient/Chat/scripts/PageChatItem.js:384
+msgid "赠送{1}一杯吻，热情浪漫永长存！"
+msgstr "امنح {1} قبلة ، وسيستمر الشغف والرومانسية إلى الأبد!"
+
+#: assets/BalootClient/Chat/scripts/PageChatItem.js:386
+msgid "赠送{1}一杯戒指，如钻石一般闪耀！"
+msgstr "امنح {1} خاتمًا يلمع مثل الماس!"
+
+#: assets/BalootClient/Chat/scripts/PageChatItem.js:388
+msgid "赠送{1}一杯红茶，生活暖洋洋！"
+msgstr "قدِّم {1} فنجانًا من القهوة واستمتع بحياة دافئة!"
+
+#: assets/BalootClient/Chat/scripts/PageChatView.js:90 i18n/ui_static_text.js:56
+msgid "请输入聊天内容"
+msgstr "الرجاء إدخال محتوى الدردشة"
+
+#: assets/BalootClient/Chat/scripts/PageChatView.js:128
+msgid "发送太频繁"
+msgstr "أرسل كثيرًا"
+
+#: assets/BalootClient/Chat/scripts/PopupEmojiCmp.js:26
+#: i18n/ui_static_text.js:54
+msgid "您还未获得此表情"
+msgstr "لم تحمل هذا الملصق بعد"
+
+#: assets/BalootClient/GameManagerEx.js:238
+msgid "好友信息不存在"
+msgstr "معلومات الأصدقاء غير موجودة"
+
+#: assets/BalootClient/GameManagerEx.js:241
+msgid "添加好友，错误次数过于频繁"
+msgstr "عند إضافة الأصدقاء ، يكون عدد الأخطاء متكررًا جدًا"
+
+#: assets/BalootClient/GameManagerEx.js:244
+msgid "您的好友数量已达上限"
+msgstr "لقد وصلت إلى الحد الأقصى من عدد الأصدقاء"
+
+#: assets/BalootClient/GameManagerEx.js:247
+msgid "好友关系已经存在"
+msgstr "علاقة الصداقة موجودة بالفعل"
+
+#: assets/BalootClient/GameManagerEx.js:250
+msgid "对方好友数量已达上限"
+msgstr "وصل عدد أصدقاء هذا اللاعب إلى الحد الأقصى"
+
+#: assets/BalootClient/GameManagerEx.js:253
+msgid "对方已经是你的好友了"
+msgstr "الطرف الآخر هو بالفعل صديقك"
+
+#: assets/BalootClient/GameManagerEx.js:256
+msgid "不能加自己为好友"
+msgstr "لا تستطيع إضافة نفسك كصديق"
+
+#: assets/BalootClient/GameManagerEx.js:261
+msgid "添加好友成功"
+msgstr "تم إضافة صديق بنجاح"
+
+#: assets/BalootClient/GameManagerEx.js:263
+msgid "请求成功,请等待审核"
+msgstr "تم رفع الطلب بنجاح .يرجى انتظار المراجعة"
+
+#: assets/BalootClient/GameManagerEx.js:408
+msgid ""
+"你的{1}账号已经绑定过其他账号了, 继续的话将移除当前账号数据并且切换到当前{2}账"
+"号. 您是否要继续？"
+msgstr ""
+"تم ربط حساب {1} الخاص بك بالفعل بحساب آخر. إذا تابعت ، فسوف يزيل بيانات "
+"الحساب الحالية ويتحول إلى حساب {2} الحالي. هل تريد المتابعة؟"
+
+#: assets/BalootClient/GameManagerEx.js:446
+msgid "您的游戏还未结束,是否继续游戏"
+msgstr "لعبتك لم تنته بعد ، هل تريد متابعة اللعبة؟"
+
+#: assets/BalootClient/GameManagerEx.js:461
+msgid "当前游戏还未结束"
+msgstr "اللعبة لم تنته بعد"
+
+#: assets/BalootClient/Hall/scripts/GameHall.js:383
+msgid "密码错误"
+msgstr "كلمة مرور خاطئة"
+
+#: assets/BalootClient/Login/scripts/GameLogin.js:179
+#: assets/BalootClient/Login/scripts/GameLogin.js:203
+#: assets/BalootClient/Login/scripts/GameLogin.js:223
+#: assets/BalootClient/Login/scripts/GameLogin.js:243
+msgid "登录失败,请稍后再试"
+msgstr "فشل تسجيل الدخول، الرجاء المحاولة لاحقا"
+
+#: assets/BalootClient/Login/scripts/GameTips.js:11
+msgid "有史以来最好的纸牌游戏之一！"
+msgstr "من أفضل ألعاب الورق على الإطلاق"
+
+#: assets/BalootClient/Login/scripts/GameTips.js:12
+msgid "它将会改变你对乐趣的看法！"
+msgstr "ستُغير مفهومك تجاه المتعة "
+
+#: assets/BalootClient/Login/scripts/GameTips.js:13
+msgid "无限的挑战等你开启！!"
+msgstr "تحديات متواصلة في انتظارك لتخوضها "
+
+#: assets/BalootClient/Login/scripts/GameTips.js:14
+msgid "成为扑克英雄！"
+msgstr "كُن أنت بطل العرب "
+
+#: assets/BalootClient/Login/scripts/GameTips.js:15
+msgid "享受更多乐趣和参加每日扑克的比赛并证明您的实力！"
+msgstr "استمتع أكثر وانضم لمسابقات بوكر اليومية واثبت مهارتك "
+
+#: assets/BalootClient/Login/scripts/GameTips.js:16
+msgid "阿拉伯语最大纸牌游戏的应用程序！"
+msgstr "أكبر تطبيق عربي لكل ألعاب الورق "
+
+#: assets/BalootClient/Login/scripts/GameTips.js:17
+msgid "开始玩吧，创造属于你的世界！"
+msgstr "العب الان واخلق عالمكَ الخاص "
+
+#: assets/BalootClient/Social/scripts/SocialFriendViewCmp.js:96
+msgid "删除成功"
+msgstr "تم الحذف بنجاح"
+
+#: assets/BalootClient/UserConfig.js:6
+msgid "Baloot"
+msgstr "بلوت"
+
+#: assets/BalootClient/UserConfig.js:7 i18n/ui_static_text.js:422
+msgid "Hand"
+msgstr "هاند"
+
+#: assets/BalootClient/UserConfig.js:8
+msgid "HandSaudi"
+msgstr "يد سعودية"
+
+#: assets/BalootClient/UserConfig.js:9 i18n/ui_static_text.js:434
+msgid "Tarneeb"
+msgstr "طرنيب"
+
+#: assets/BalootClient/UserConfig.js:10
+msgid "basra"
+msgstr "باصرة"
+
+#: assets/BalootClient/UserConfig.js:11
+msgid "banakil"
+msgstr "بناكل"
+
+#: assets/BalootClient/UserConfig.js:12 i18n/ui_static_text.js:435
+msgid "Trix"
+msgstr "تركس"
+
+#: assets/BalootClient/UserConfig.js:13
+msgid "TrixPartner"
+msgstr "تركس شراكة"
+
+#: assets/BalootClient/UserConfig.js:14 i18n/ui_static_text.js:421
+msgid "Estimation"
+msgstr "إستميشن"
+
+#: assets/BalootClient/UserConfig.js:15
+msgid "Domino"
+msgstr "دومينو"
+
+#: assets/BalootClient/UserConfig.js:16 i18n/ui_static_text.js:443
+msgid "Koutbo4"
+msgstr "كوت بو 6&4"
+
+#: assets/BalootClient/UserConfig.js:17 i18n/ui_static_text.js:448
+msgid "Ludo"
+msgstr "لودو"
+
+#: assets/BalootClient/UserConfig.js:18
+msgid "Tarneeb41"
+msgstr "طرنيب41"
+
+#: assets/BalootClient/UserConfig.js:19 i18n/ui_static_text.js:446
+msgid "Leekha"
+msgstr "ليخة"
+
+#: assets/BalootClient/UserConfig.js:20
+msgid "400"
+msgstr "400"
+
+#: assets/BalootClient/UserConfig.js:21
+msgid "TrixComplex"
+msgstr "تركس كمبلكس"
+
+#: assets/BalootClient/UserConfig.js:23
+msgid "Durak X2"
+msgstr ""
+
+#: assets/BalootClient/UserConfig.js:24
+msgid "Durak X3"
+msgstr ""
+
+#: assets/BalootClient/UserConfig.js:25
+msgid "Durak X4"
+msgstr ""
+
+#: assets/BalootClient/UserConfig.js:26
+msgid "Durak X5"
+msgstr ""
+
+#: assets/BalootClient/UserConfig.js:27
+msgid "Durak X6"
+msgstr ""
+
+#: assets/BalootClient/UserConfig.js:28 i18n/ui_static_text.js:402
+msgid "BintAlSbeet"
+msgstr "بنت السبيت"
+
+#: assets/BalootClient/UserConfig.js:30
+msgid "ComplexPartner"
+msgstr "كمبلكس شراكة"
+
+#: assets/BalootClient/UserConfig.js:31
+msgid "CCComplex"
+msgstr "كمبلكس CC"
+
+#: assets/BalootClient/UserConfig.js:32
+msgid "CCpartner"
+msgstr "CCشراكة"
+
+#: assets/BalootClient/UserConfig.js:33 i18n/ui_static_text.js:423
+msgid "Concan"
+msgstr "كونكان"
+
+#: assets/BalootClient/UserConfig.js:34 i18n/ui_static_text.js:437
+msgid "Kasra"
+msgstr "كسرة"
+
+#: assets/BalootClient/UserConfig.js:35
+msgid "KasraPartner"
+msgstr "كسرة شراكة"
+
+#: assets/BalootClient/UserConfig.js:36 i18n/ui_static_text.js:496
+msgid "Ronda"
+msgstr "روندا"
+
+#: assets/BalootClient/UserConfig.js:37
+msgid "UNO"
+msgstr "أونو"
+
+#: assets/BalootClient/UserConfig.js:38
+msgid "BalootFast"
+msgstr "بلوت سريع"
+
+#: assets/BalootClient/UserConfig.js:39
+msgid "LudoQuick"
+msgstr "لعبة اللودو السريعة"
+
+#: assets/BalootClient/UserConfig.js:58
+msgid "累积让其他玩家pass次数"
+msgstr "اجمالي عدد التمريرات للاعبين الآخرين"
+
+#: assets/BalootClient/UserConfig.js:58
+msgid "在Domino游戏中获得最多的让其他玩家pass次数"
+msgstr "احصل على أكبر عدد من التمريرات للاعبين الآخرين في لعبة دومينو."
+
+#: assets/BalootClient/UserConfig.js:58
+msgid "每一次pass计入一次成绩，以总pass次数进行排名"
+msgstr "يتم احتساب كل تمريرة كنقطة ، ويستند الترتيب على إجمالي عدد التمريرات."
+
+#: assets/BalootClient/UserConfig.js:58 assets/BalootClient/UserConfig.js:59
+#: assets/BalootClient/UserConfig.js:60 assets/BalootClient/UserConfig.js:61
+msgid "比赛总时长为{1}分钟"
+msgstr "المدة الإجمالية للعبة {1} دقيقة"
+
+#: assets/BalootClient/UserConfig.js:58
+msgid "累积胜利次数"
+msgstr "المكاسب التراكمية"
+
+#: assets/BalootClient/UserConfig.js:58
+msgid "在Domino游戏中获得最多的累积胜利次数"
+msgstr "احصل على أكبر عدد من المكاسب التراكمية في لعبة دومينو."
+
+#: assets/BalootClient/UserConfig.js:58
+msgid "每一次胜利计入一次成绩，以总胜利次数进行排名"
+msgstr ""
+"يتم احتساب كل انتصار للحصول على نتيجة ، ويستند الترتيب على إجمالي عدد "
+"الانتصارات."
+
+#: assets/BalootClient/UserConfig.js:59
+msgid "累积go down牌张数"
+msgstr "إجمالي عدد بطاقات النزول"
+
+#: assets/BalootClient/UserConfig.js:59
+msgid "在Hand游戏中获得最多的累积go down牌张数"
+msgstr "احصل على أكبر عدد من بطاقات النزول المتراكمة في لعبة هاند ."
+
+#: assets/BalootClient/UserConfig.js:59
+msgid "每一张牌计入一次成绩，以总张数进行排名"
+msgstr ""
+"يتم احتساب كل بطاقة في النتيجة ، ويستند الترتيب على العدد الإجمالي للبطاقات."
+
+#: assets/BalootClient/UserConfig.js:59 assets/BalootClient/UserConfig.js:60
+#: assets/BalootClient/UserConfig.js:61
+msgid "累积获得分数"
+msgstr "النقاط المتراكمة"
+
+#: assets/BalootClient/UserConfig.js:59
+msgid "在Hand游戏中获得最多的累积分数"
+msgstr "احصل على أكبر عدد من النقاط التراكمية في لعبة هاند ."
+
+#: assets/BalootClient/UserConfig.js:59
+msgid "每一次胜利分数计入成绩，以总分数进行排名"
+msgstr ""
+"يتم احتساب كل نقطة انتصار في النتيجة ، ويستند الترتيب على النتيجة الإجمالية."
+
+#: assets/BalootClient/UserConfig.js:60
+msgid "在Baloot游戏中获得最多的累积分数"
+msgstr "احصل على أكبر عدد من النقاط المتراكمة في لعبة بالوت"
+
+#: assets/BalootClient/UserConfig.js:60 assets/BalootClient/UserConfig.js:61
+msgid "每一小局分数计入成绩，以总分数进行排名"
+msgstr "يتم تضمين نتائج كل جولة في النتيجة ، ويستند الترتيب على مجموع النقاط."
+
+#: assets/BalootClient/UserConfig.js:60
+msgid "累积比牌获胜次数"
+msgstr "إجمالي عدد مرات الفوز"
+
+#: assets/BalootClient/UserConfig.js:60
+msgid "在Baloot游戏中获得最多的累积比牌获胜次数"
+msgstr "حقق أكبر قدر من الإعاقة التراكمية يفوز في لعبة بالوت"
+
+#: assets/BalootClient/UserConfig.js:60
+msgid "每比牌获胜计入一次成绩，以总分数进行排名"
+msgstr ""
+"يتم احتساب كل بطاقة فائزة على أنها نتيجة ، ويستند التصنيف إلى مجموع النقاط."
+
+#: assets/BalootClient/UserConfig.js:61
+msgid "在Estimation游戏中获得最多的累积分数"
+msgstr "احصل على أكبر عدد من النقاط التراكمية في لعبة إستميشن."
+
+#: assets/BalootClient/UserConfig.js:73 assets/BalootClient/UserConfig.js:96
+#: i18n/ui_static_text.js:237
+msgid "传奇"
+msgstr "أسطورة"
+
+#: assets/BalootClient/UserConfig.js:74 assets/BalootClient/UserConfig.js:95
+msgid "大师"
+msgstr "ماستر "
+
+#: assets/BalootClient/UserConfig.js:75 i18n/ui_static_text.js:201
+msgid "钻石"
+msgstr "الماس"
+
+#: assets/BalootClient/UserConfig.js:76 assets/BalootClient/UserConfig.js:93
+msgid "铂金"
+msgstr "البلاتين"
+
+#: assets/BalootClient/UserConfig.js:77 assets/BalootClient/UserConfig.js:92
+msgid "黄金"
+msgstr "الذهب"
+
+#: assets/BalootClient/UserConfig.js:78 assets/BalootClient/UserConfig.js:91
+msgid "白银"
+msgstr "فضة"
+
+#: assets/BalootClient/UserConfig.js:79 assets/BalootClient/UserConfig.js:90
+msgid "青铜"
+msgstr "البرونز"
+
+#: assets/BalootClient/UserConfig.js:94
+msgid "钻石_"
+msgstr "الماس"
+
+#: assets/BalootClient/UserConfig.js:327
+msgid "骑士"
+msgstr "فارس"
+
+#: assets/BalootClient/UserConfig.js:328
+msgid "男爵"
+msgstr "البارون"
+
+#: assets/BalootClient/UserConfig.js:350
+msgid "世界"
+msgstr "العالمية"
+
+#: assets/BalootClient/UserConfig.js:351
+msgid "卡塔尔"
+msgstr "قطر"
+
+#: assets/BalootClient/UserConfig.js:352
+msgid "阿联酋"
+msgstr "الإمارات العربية المتحدة"
+
+#: assets/BalootClient/UserConfig.js:353
+msgid "科威特"
+msgstr "الكويت"
+
+#: assets/BalootClient/UserConfig.js:354
+#, fuzzy
+#| msgid "巴林"
+msgid "巴林岛"
+msgstr "البحرين"
+
+#: assets/BalootClient/UserConfig.js:355
+#, fuzzy
+#| msgid "沙特阿拉伯王国"
+msgid "沙特阿拉伯"
+msgstr "المملكة العربية السعودية"
+
+#: assets/BalootClient/UserConfig.js:356
+msgid "阿曼"
+msgstr "سلطنة عمان"
+
+#: assets/BalootClient/UserConfig.js:357
+msgid "黎巴嫩"
+msgstr "لبنان"
+
+#: assets/BalootClient/UserConfig.js:358
+msgid "约旦"
+msgstr "الأردن"
+
+#: assets/BalootClient/UserConfig.js:359
+msgid "伊拉克"
+msgstr "إندونيسيا"
+
+#: assets/BalootClient/UserConfig.js:360
+msgid "利比亚"
+msgstr "ليبيا"
+
+#: assets/BalootClient/UserConfig.js:361
+msgid "埃及"
+msgstr "مصر"
+
+#: assets/BalootClient/UserConfig.js:362
+msgid "突尼斯"
+msgstr "تونس"
+
+#: assets/BalootClient/UserConfig.js:363
+msgid "吉布提"
+msgstr "جيبوتي"
+
+#: assets/BalootClient/UserConfig.js:364
+msgid "阿尔及利亚"
+msgstr "الجزائر"
+
+#: assets/BalootClient/UserConfig.js:365
+msgid "巴勒斯坦"
+msgstr "فلسطين"
+
+#: assets/BalootClient/UserConfig.js:366
+msgid "摩洛哥"
+msgstr "المغرب"
+
+#: assets/BalootClient/UserConfig.js:367
+msgid "毛里塔尼亚"
+msgstr "موريتانيا"
+
+#: assets/BalootClient/UserConfig.js:368
+msgid "科摩罗"
+msgstr "جزر القمر"
+
+#: assets/BalootClient/UserConfig.js:369
+#, fuzzy
+#| msgid "利比亚"
+msgid "叙利亚"
+msgstr "ليبيا"
+
+#: assets/BalootClient/UserConfig.js:370
+msgid "也门"
+msgstr "اليمن"
+
+#: assets/BalootClient/UserConfig.js:371
+msgid "苏丹"
+msgstr "السودان"
+
+#: assets/BalootClient/UserConfig.js:372
+msgid "索马里"
+msgstr "الصومال"
+
+#: assets/BalootClient/UserConfig.js:424 i18n/ui_static_text.js:476
+msgid "VIP等级不够"
+msgstr "مستوى VIP غير كافٍ"
+
+#: assets/BalootClient/UserConfig.js:425
+msgid "房间号错误或者游戏已经开始"
+msgstr "رقم الغرفة خاطئ أو أن اللعبة بدأت"
+
+#: assets/BalootClient/UserConfig.js:426
+msgid "您还不是VIP"
+msgstr "أنت لست من كبار الشخصيات"
+
+#: assets/BalootClient/UserConfig.js:427
+#: assets/resources/BalootClient/SkinShop/script/SkinShop.js:81
+#: assets/resources/BalootClient/SkinShop/script/SkinShop.js:107
+#: i18n/ui_static_text.js:101
+msgid "钻石不足"
+msgstr "الماس غير كاف"
+
+#: assets/BalootClient/UserConfig.js:428 assets/BalootClient/UserConfig.js:450
+msgid "商品不存在"
+msgstr "البضائع غير موجودة"
+
+#: assets/BalootClient/UserConfig.js:429
+msgid "今日已不能参加排位赛"
+msgstr "لا يمكن المشاركة في التصفيات اليوم"
+
+#: assets/BalootClient/UserConfig.js:430
+msgid "队友金币不足"
+msgstr "لا يوجد عملات ذهبية كافية لأعضاء الفريق"
+
+#: assets/BalootClient/UserConfig.js:431
+msgid "队友钻石不足"
+msgstr "الماس  غير كاف لأعضاء الفريق"
+
+#: assets/BalootClient/UserConfig.js:432
+msgid "队友今日已不能参加排位赛"
+msgstr "لم يعد بإمكان زملائه المشاركة في التصفيات اليوم"
+
+#: assets/BalootClient/UserConfig.js:433
+msgid "队友已离开"
+msgstr "زميله قد غادر"
+
+#: assets/BalootClient/UserConfig.js:434
+msgid "好友不是VIP"
+msgstr "الأصدقاء ليسوا من الشخصيات المهمة"
+
+#: assets/BalootClient/UserConfig.js:435 assets/_FWExpand/NetManagerEx.js:116
+#: i18n/ui_static_text.js:151
+msgid "金币不足"
+msgstr "الذهب غير كاف"
+
+#: assets/BalootClient/UserConfig.js:436 assets/BalootClient/UserConfig.js:459
+msgid "道具不存在"
+msgstr "الأدوات المسرحيّة غير متوفرة"
+
+#: assets/BalootClient/UserConfig.js:437
+msgid "兑换码已被使用"
+msgstr "رقم التحويل تم استخدامه من قبل "
+
+#: assets/BalootClient/UserConfig.js:438
+msgid "兑换码不存在"
+msgstr "رقم التحويل غير متوفر "
+
+#: assets/BalootClient/UserConfig.js:439
+msgid "兑换错误次数太多，请稍后再试"
+msgstr ""
+"يوجد عدد كبير جدًا من عمليات التحويل الخاطئة ، يرجى المحاولة مرة أخرى لاحقًا"
+
+#: assets/BalootClient/UserConfig.js:440
+msgid "使用过于频繁，请稍后再试"
+msgstr "لقد تجاوزت الحد المسموح للتجربة, يرجى المحاولة مرة أخرى لاحقًا"
+
+#: assets/BalootClient/UserConfig.js:441
+msgid "找不到该用户"
+msgstr "لا يمكن العثور على المستخدم المطلوب"
+
+#: assets/BalootClient/UserConfig.js:442
+msgid "房主才可以解散"
+msgstr "الادمن فقط لديه صلاحية فك المجموعة"
+
+#: assets/BalootClient/UserConfig.js:443
+msgid "房间号不存在"
+msgstr "رقم الغرفة غير موجود"
+
+#: assets/BalootClient/UserConfig.js:444
+msgid "房间已满"
+msgstr "الغرفة ممتلئة"
+
+#: assets/BalootClient/UserConfig.js:445
+msgid "房间已开始"
+msgstr "بدأت الغرفة"
+
+#: assets/BalootClient/UserConfig.js:446
+#: assets/resources/BalootClient/RoomList/RoomListView.js:567
+#: i18n/ui_static_text.js:148
+msgid "还在游戏中,不能加入其它房间"
+msgstr "لا يمكن الانضمام إلى الغرف الأخرى أثناء اللعبة"
+
+#: assets/BalootClient/UserConfig.js:449
+msgid "游戏已开始,无法解散"
+msgstr "قد بدأت اللعبة لايمكنك مغادرة اللعبة"
+
+#: assets/BalootClient/UserConfig.js:451
+msgid "rp值不足"
+msgstr "قيمة rp غير كافية"
+
+#: assets/BalootClient/UserConfig.js:452
+msgid "已投票,不能重复投票"
+msgstr "تم التصويت , لايمكنك إعادة التصويت"
+
+#: assets/BalootClient/UserConfig.js:453
+msgid "用户已报名联赛"
+msgstr "قام المستخدم بالتسجيل في الدوري "
+
+#: assets/BalootClient/UserConfig.js:454
+msgid "获取免费类型错误"
+msgstr "الحصول على خطأ نوع مجاني"
+
+#: assets/BalootClient/UserConfig.js:455
+msgid "今日已经领取"
+msgstr "اليوم تم استلامها "
+
+#: assets/BalootClient/UserConfig.js:456
+msgid "未找到好友信息"
+msgstr "لم يتم العثور على معلومات الصديق"
+
+#: assets/BalootClient/UserConfig.js:457
+msgid "没有可以参加的房间"
+msgstr "لا توجد غرفة متاحة"
+
+#: assets/BalootClient/UserConfig.js:458
+msgid "任务未完成"
+msgstr "لم تكتمل المهمة"
+
+#: assets/BalootClient/UserConfig.js:461
+msgid "未完成"
+msgstr "لم ينجز بعد"
+
+#: assets/BalootClient/UserConfig.js:462
+msgid "玩家等级不够"
+msgstr "مستوى الاعب غير كافٍ"
+
+#: assets/BalootClient/UserConfig.js:463
+msgid "您被禁言了"
+msgstr "تم حظرك"
+
+#: assets/BalootClient/UserConfig.js:464
+msgid "玩家已在房间内"
+msgstr "اللاعبون متواجدون في الغرفة"
+
+#: assets/BalootClient/UserConfig.js:465
+#, fuzzy
+#| msgid "房间人数"
+msgid "房间人数已满"
+msgstr "عدد اللاعبين"
+
+#: assets/BalootClient/UserConfig.js:467
+msgid "已经绑定过邀请码"
+msgstr "تم ربط رمز الإحالة"
+
+#: assets/BalootClient/UserConfig.js:468
+msgid "不能绑定自己的邀请码"
+msgstr "لا يمكن ربط كود الدعوة الخاص بك"
+
+#: assets/BalootClient/UserConfig.js:469
+msgid "不能绑定下级的邀请码"
+msgstr "لا يمكن ربط كود الدعوة الثانوي"
+
+#: assets/BalootClient/UserConfig.js:470
+msgid "绑定错误"
+msgstr "خطأ ملزم"
+
+#: assets/BalootClient/UserConfig.js:472
+msgid "已发送过邀请,请稍后再试"
+msgstr "تم إرسال الدعوة ، يرجى المحاولة مرة أخرى في وقت لاحق"
+
+#: assets/BalootClient/UserConfig.js:473
+msgid "无法重复领取沙龙体验卡"
+msgstr "لا يمكن استلام بطاقة تجربة الصالون بشكل متكرر"
+
+#: assets/BalootClient/UserConfig.js:474
+msgid "已发送过邀请,请10s后再试"
+msgstr "تم إرسال الدعوة ، يرجى المحاولة مرة أخرى بعد 10 ثوانٍ"
+
+#: assets/BalootClient/UserConfig.js:475
+msgid "无法重复领取"
+msgstr "لا يمكن أن تتكرر"
+
+#: assets/BalootClient/UserConfig.js:476
+msgid "破产金币已领完"
+msgstr "تم استلام عملات الإفلاس"
+
+#: assets/BalootClient/UserConfig.js:484
+msgid "网络有问题"
+msgstr "مشاكل في الشبكة"
+
+#: assets/_FWExpand/NetManagerEx.js:78
+msgid "重连中..."
+msgstr "جاري إعادة الاتصال ..."
+
+#: assets/_FWExpand/NetManagerEx.js:82
+msgid "登录失败，请检查网络后再重新登录连接"
+msgstr "فشل تسجيل الدخول ، يرجى التحقق من الشبكة وتسجيل الدخول مرة أخرى للاتصال"
+
+#: assets/_FWExpand/NetManagerEx.js:92
+msgid "发现新版本，请点击更新按钮将游戏更新到最新的版本"
+msgstr ""
+"تم العثور على إصدار جديد ، يرجى النقر فوق زر التحديث لتحديث اللعبة إلى أحدث "
+"إصدار"
+
+#: assets/_FWExpand/NetManagerEx.js:107 assets/_FWExpand/NetManagerEx.js:112
+msgid "系统维护期间无法登录"
+msgstr "تعذر تسجيل الدخول أثناء صيانة النظام"
+
+#: assets/_FWExpand/NetManagerEx.js:120
+msgid "自动登录已过期，请重新登录"
+msgstr "انتهت صلاحية تسجيل الدخول التلقائي ، يرجى تسجيل الدخول مرة أخرى"
+
+#: assets/_FWExpand/PayMgrEx.js:14
+msgid "Purchase Cancelled"
+msgstr "إلغاء الشراء"
+
+#: assets/_FWExpand/PayMgrEx.js:15
+msgid "Billing service DisConnected"
+msgstr "خدمة الفواتير غير متصلة"
+
+#: assets/_FWExpand/PayMgrEx.js:16
+msgid ""
+"Unsuccessful Purchase \n"
+"Unknown error"
+msgstr "خطأ غير معروف"
+
+#: assets/_FWExpand/PayMgrEx.js:17
+msgid ""
+"Unsuccessful Purchase \n"
+"Verification failed"
+msgstr "فشل التحقق"
+
+#: assets/_FWExpand/PayMgrEx.js:18
+msgid ""
+"Unsuccessful Purchase \n"
+"iTunes Store verification failed"
+msgstr "فشل التحقق من متجر iTunes"
+
+#: assets/_FWExpand/PayMgrEx.js:19
+msgid ""
+"Unsuccessful Purchase \n"
+"Cannot connect to iTunes Store"
+msgstr "لا يمكن الاتصال متجر اي تيونز"
+
+#: assets/_FWExpand/PayMgrEx.js:20
+msgid ""
+"Unsuccessful Purchase \n"
+"The product cannot be purchased"
+msgstr "لا يمكن شراء المنتج"
+
+#: assets/resources/BalootClient/GameInvite/scripts/CafeUIDInvite.js:24
+msgid "邀请成功"
+msgstr "تمت الدعوة بنجاح"
+
+#: assets/resources/BalootClient/GameInvite/scripts/CafeUIDInvite.js:39
+#: i18n/ui_static_text.js:270
+msgid "请输入UID"
+msgstr "الرجاء إدخال UID"
+
+#: assets/resources/BalootClient/RoomList/RoomListView.js:375
+#: i18n/ui_static_text.js:76
+msgid "结束剩余时间"
+msgstr "الوقت المتنبقى على الانتهاء"
+
+#: assets/resources/BalootClient/RoomList/RoomListView.js:377
+msgid "开启剩余时间"
+msgstr "الوقت المتبقي للبدأ"
+
+#: assets/resources/BalootClient/RoomList/RoomListView.js:496
+msgid "您的金币已超出最大携带"
+msgstr "تجاوزت عملاتك الذهبية الحد الأقصى"
+
+#: assets/resources/BalootClient/RoomList/RoomListView.js:570
+#: i18n/ui_static_text.js:149
+msgid "创建失败,已达到最大创建房间数"
+msgstr "فشل الإنشاء ، تم الوصول إلى الحد الأقصى لعدد الغرف التي تم إنشاؤها"
+
+#: assets/resources/BalootClient/RoomList/scripts/BaseRoomCpt.js:174
+#: assets/resources/BalootClient/RoomList/scripts/PageRoomBaloot.js:52
+#: assets/resources/BalootClient/RoomList/scripts/PageRoomHand.js:21
+#: i18n/ui_static_text.js:457
+msgid "您的金币不足"
+msgstr "ليس لديك عملات كافية"
+
+#: assets/resources/BalootClient/RoomList/scripts/BaseRoomCpt.js:181
+msgid "您的金币已超出最大携带,是否进入合适的房间?"
+msgstr ""
+"حقل اللعبة الذي اخترته غير مناسب وقد قمنا باختيار اللعبة المناسبة لك تلقائيًا"
+
+#: assets/resources/BalootClient/Setting/scripts/PopupSetting.js:52
+msgid "需要VIP才能开启"
+msgstr "يتطلب  تفعيل VIP للتمكين"
+
+#: assets/resources/BalootClient/Setting/scripts/PopupSetting.js:71
+msgid "版本{1}"
+msgstr "إصدار{1}"
+
+#: assets/resources/BalootClient/Setting/scripts/PopupSetting.js:157
+#: assets/resources/BalootClient/UserInfo/scripts/ChangeUserHead.js:166
+#: i18n/ui_static_text.js:220
+msgid "FB账号绑定失败!"
+msgstr "فشل ربط حساب الفيسبوك!"
+
+#: assets/resources/BalootClient/Setting/scripts/PopupSetting.js:185
+msgid "Google账号绑定失败!"
+msgstr "فشل ربط حساب Google!"
+
+#: assets/resources/BalootClient/Setting/scripts/PopupSetting.js:209
+#: assets/resources/BalootClient/UserInfo/scripts/ChangeUserHead.js:193
+msgid "Apple账号绑定失败"
+msgstr "فشل ربط حساب Apple"
+
+#: assets/resources/BalootClient/SkinShop/script/SkinShop.js:166
+#: i18n/ui_static_text.js:16
+msgid "{1}天"
+msgstr "يوم {1}"
+
+#: assets/resources/BalootClient/UserInfo/scripts/ChangeUserHead.js:119
+#: i18n/ui_static_text.js:64
+msgid "上传失败"
+msgstr "فشل رفع الملف"
+
+#: assets/resources/BalootClient/UserInfo/scripts/ChangeUserHead.js:121
+#: i18n/ui_static_text.js:65
+msgid "用户不在线"
+msgstr "المستخدم غير متصل"
+
+#: assets/resources/BalootClient/UserInfo/scripts/ChangeUserHead.js:123
+#: i18n/ui_static_text.js:66
+msgid "图片格式错误"
+msgstr "تنسيق الصورة غير صحيح"
+
+#: assets/resources/BalootClient/UserInfo/scripts/ChangeUserHead.js:130
+#: i18n/ui_static_text.js:67
+msgid "取消选择图片"
+msgstr "إلغاء تحديد الصورة"
+
+#: assets/resources/BalootClient/UserInfo/scripts/ChangeUserHead.js:133
+#: i18n/ui_static_text.js:68
+msgid "选择图片失败"
+msgstr "فشل تحديد الصورة"
+
+#: assets/resources/BalootClient/UserInfo/scripts/PersonalInfo.js:643
+#: i18n/ui_static_text.js:213
+msgid "复制成功"
+msgstr "تم النسخ بنجاح"
+
+#: i18n/ui_static_text.js:2
+msgid "确定"
+msgstr "موافق"
+
+#: i18n/ui_static_text.js:3
+msgid "领取全部"
+msgstr "استلام المكافآت"
+
+#: i18n/ui_static_text.js:4
+msgid "添加好友"
+msgstr "اضافة صديق"
+
+#: i18n/ui_static_text.js:5
+msgid "俱乐部信息"
+msgstr "معلومات النادي"
+
+#: i18n/ui_static_text.js:6
+msgid "活跃度奖励"
+msgstr "مكافأة النشاط"
+
+#: i18n/ui_static_text.js:7
+msgid "排行榜"
+msgstr "المتصدرين"
+
+#: i18n/ui_static_text.js:8
+msgid "新手任务"
+msgstr "مهمة مبتدئ"
+
+#: i18n/ui_static_text.js:9
+msgid "主线任务"
+msgstr "رئيسي"
+
+#: i18n/ui_static_text.js:10
+msgid "成长任务"
+msgstr "تقدم"
+
+#: i18n/ui_static_text.js:11
+msgid "每日任务"
+msgstr "اليومي"
+
+#: i18n/ui_static_text.js:12
+msgid "登录奖励"
+msgstr "تسجيل الدخول"
+
+#: i18n/ui_static_text.js:14
+#, fuzzy
+#| msgid "快上线,加入我的房间{1},全民都在玩的Poker Hero!"
+msgid "快上线,加入我的房间{1},全民都在玩的Poker Hero!"
+msgstr "تعال قريبًا ، انضم إلى غرفتي ، {1} ، بطل العرب الذي يلعبه الجميع!"
+
+#: i18n/ui_static_text.js:15
+msgid "觉得无聊吗?快来玩Poker Hero,有史以来最好的纸牌游戏之一!"
+msgstr " الجميع يلعب بطل العرب! انقر هنا ، حمل ، والعب معنا !"
+
+#: i18n/ui_static_text.js:17
+msgid "领取"
+msgstr "إستلام"
+
+#: i18n/ui_static_text.js:18
+msgid "Share"
+msgstr "مشاركة"
+
+#: i18n/ui_static_text.js:19
+msgid "Spin"
+msgstr "دَوِّر"
+
+#: i18n/ui_static_text.js:20
+msgid "Login every day to receive gifts"
+msgstr "تسجيل الدخول كل يوم لتلقي الهدايا"
+
+#: i18n/ui_static_text.js:21
+msgid "创建一个沙龙房间获得奖励"
+msgstr "قم بإنشاء غرفة صالون للحصول على المكافأة"
+
+#: i18n/ui_static_text.js:22
+msgid "创建房间"
+msgstr "إنشاء غرفة"
+
+#: i18n/ui_static_text.js:23
+msgid "已领取"
+msgstr "تسلم"
+
+#: i18n/ui_static_text.js:24
+msgid "沙龙房间中进行过1局游戏"
+msgstr "تم لعب لعبة في غرفة الصالون"
+
+#: i18n/ui_static_text.js:25
+msgid "管理房间"
+msgstr "إدارة الغرف"
+
+#: i18n/ui_static_text.js:26
+msgid "第一次奖励"
+msgstr "الجائزة الأولى"
+
+#: i18n/ui_static_text.js:27
+msgid "第二次奖励"
+msgstr "الجائزة الثانية"
+
+#: i18n/ui_static_text.js:28
+msgid "对不起,您还不是VIP"
+msgstr "عذرا ، أنت لست من كبار الشخصيات حتى الآن"
+
+#: i18n/ui_static_text.js:29
+msgid "成为VIP"
+msgstr "كن من كبار الشخصيات"
+
+#: i18n/ui_static_text.js:30
+msgid "30天总计可领取"
+msgstr " متاحة 30 يومًا"
+
+#: i18n/ui_static_text.js:31
+msgid "VIP剩余时间{1}天"
+msgstr "الوقت المتبقي لكبار الشخصيات {1} يوم"
+
+#: i18n/ui_static_text.js:32
+msgid "去完成"
+msgstr "اذهب للإنهاء"
+
+#: i18n/ui_static_text.js:33
+msgid "一键领取"
+msgstr "خذها بنقرة واحدة"
+
+#: i18n/ui_static_text.js:34
+msgid "3 day"
+msgstr "3 أيام"
+
+#: i18n/ui_static_text.js:35
+msgid "0"
+msgstr ""
+
+#: i18n/ui_static_text.js:36
+msgid "完成将获得{1}经验"
+msgstr "سيكسب الإكمال خبرة {1}"
+
+#: i18n/ui_static_text.js:37
+msgid "结束于{1}"
+msgstr "ينتهي في{1}"
+
+#: i18n/ui_static_text.js:38
+msgid "找不到通行证信息"
+msgstr " لا يمكن العثور على معلومات المرور "
+
+#: i18n/ui_static_text.js:39
+msgid "未开通超级通行证"
+msgstr "الرجاء شراء بطاقة اللعب منسا"
+
+#: i18n/ui_static_text.js:40
+msgid "等级未达到"
+msgstr "لم يصل إلى المستوى"
+
+#: i18n/ui_static_text.js:41
+msgid "重复领取"
+msgstr "انتقاء مكرر"
+
+#: i18n/ui_static_text.js:42
+msgid "期待和你一起玩，点击加入！"
+msgstr "هل هناك من يريد اللعب؟ اضغط على الزر للإنضمام."
+
+#: i18n/ui_static_text.js:43
+msgid "加入"
+msgstr "انضم"
+
+#: i18n/ui_static_text.js:44
+msgid "已结束"
+msgstr "انتهت"
+
+#: i18n/ui_static_text.js:45
+msgid "违法"
+msgstr "غير شرعي"
+
+#: i18n/ui_static_text.js:46
+msgid "侮辱宗教"
+msgstr "إهانة الدين"
+
+#: i18n/ui_static_text.js:47
+msgid "不恰当"
+msgstr "غير مناسب"
+
+#: i18n/ui_static_text.js:48
+msgid "重复信息"
+msgstr "معلومات مكررة"
+
+#: i18n/ui_static_text.js:49
+msgid "其他原因"
+msgstr "أسباب أخرى"
+
+#: i18n/ui_static_text.js:50
+msgid "辱骂"
+msgstr "تعاطي"
+
+#: i18n/ui_static_text.js:51
+msgid "举报"
+msgstr "إبلاغ"
+
+#: i18n/ui_static_text.js:52
+msgid "请输入"
+msgstr "أدخل هنا"
+
+#: i18n/ui_static_text.js:53
+msgid "举报成功"
+msgstr "تم الإبلاغ بنجاح"
+
+#: i18n/ui_static_text.js:55
+msgid "发送私信成功"
+msgstr "تم إرسال رسالة خاصة بنجاح"
+
+#: i18n/ui_static_text.js:57
+msgid "投票"
+msgstr "تصويت"
+
+#: i18n/ui_static_text.js:58
+msgid "请选择一个国家进行投票"
+msgstr "الرجاء تحديد بلد للتصويت"
+
+#: i18n/ui_static_text.js:59
+msgid "投票成功"
+msgstr "تصويت ناجح"
+
+#: i18n/ui_static_text.js:60
+msgid "附件"
+msgstr "ملحق"
+
+#: i18n/ui_static_text.js:61
+msgid "发件人"
+msgstr "مرسل"
+
+#: i18n/ui_static_text.js:62
+msgid "提交成功,感谢您对PokerHero的大力支持"
+msgstr "تم الإرسال بنجاح ، شكرًا لك على دعمك القوي لـ بطل العرب"
+
+#: i18n/ui_static_text.js:63
+msgid "最多选取3张图片"
+msgstr "أكثر حد يصل إليه 3 صور"
+
+#: i18n/ui_static_text.js:69
+msgid "请选择图片或者进行文字描述"
+msgstr "الرجاء تحديد صورة أو تقديم وصف نصي"
+
+#: i18n/ui_static_text.js:70
+msgid "正在切换语言"
+msgstr "تغيير اللغة"
+
+#: i18n/ui_static_text.js:71
+msgid "金驴"
+msgstr "الحمار الذهبي"
+
+#: i18n/ui_static_text.js:72
+msgid "邮件"
+msgstr "البريد"
+
+#: i18n/ui_static_text.js:73
+msgid "客服"
+msgstr "خدمة العملاء"
+
+#: i18n/ui_static_text.js:74
+msgid "邀请码"
+msgstr "كود الدعوة"
+
+#: i18n/ui_static_text.js:75
+msgid "设置"
+msgstr "الإعدادات"
+
+#: i18n/ui_static_text.js:77
+msgid "进入房间失败"
+msgstr "فشل في دخول الغرفة"
+
+#: i18n/ui_static_text.js:78
+msgid "未激活"
+msgstr "غير نشط"
+
+#: i18n/ui_static_text.js:79
+msgid "游客登录"
+msgstr "تسجيل الدخول للزائر"
+
+#: i18n/ui_static_text.js:80
+msgid "维护公告"
+msgstr "إعلان صيانة"
+
+#: i18n/ui_static_text.js:81
+msgid "规则"
+msgstr "قواعد"
+
+#: i18n/ui_static_text.js:82
+msgid "奖励"
+msgstr "مكافآت"
+
+#: i18n/ui_static_text.js:83
+msgid "周榜"
+msgstr "القائمة الأسبوعية"
+
+#: i18n/ui_static_text.js:84
+msgid "月榜"
+msgstr "قائمة الشهر"
+
+#: i18n/ui_static_text.js:85
+msgid "总榜"
+msgstr "القائمة الإجمالية"
+
+#: i18n/ui_static_text.js:86
+msgid "刷新时间:每天{1}点"
+msgstr "وقت الانتعاش:  {1} ساعة يوميا"
+
+#: i18n/ui_static_text.js:87
+msgid "赛季开放时间{1} - {2}"
+msgstr ""
+"توقيت الموسم\n"
+"{1} - {2}"
+
+#: i18n/ui_static_text.js:88
+msgid "收入"
+msgstr "الإيرادات"
+
+#: i18n/ui_static_text.js:89
+msgid "局数"
+msgstr "عدد المباريات الملعوبة"
+
+#: i18n/ui_static_text.js:90
+msgid "COIN"
+msgstr "عملة"
+
+#: i18n/ui_static_text.js:91
+msgid "EXP"
+msgstr "خبرة"
+
+#: i18n/ui_static_text.js:92
+msgid "Collect"
+msgstr "يجمع"
+
+#: i18n/ui_static_text.js:93
+msgid "激活"
+msgstr "التنشيط"
+
+#: i18n/ui_static_text.js:94
+msgid "没有房间"
+msgstr "لا تتوفر غرفة"
+
+#: i18n/ui_static_text.js:95
+msgid "温馨提示:购买道具后，邀请好友加入您创建的房间一起玩可以一直获得奖励"
+msgstr ""
+"نصائح: بعد شراء الدعائم ، يمكنك ربح مكافآت لأي شخص يلعب في غرف الصالون التي "
+"أنشأتها."
+
+#: i18n/ui_static_text.js:96
+msgid "快速开始"
+msgstr "بداية سريعة"
+
+#: i18n/ui_static_text.js:97
+msgid "Free 3 day"
+msgstr "مجاني لمدة 3 أيام"
+
+#: i18n/ui_static_text.js:98
+msgid "购买"
+msgstr "اشتري"
+
+#: i18n/ui_static_text.js:99
+msgid "创建房间成功"
+msgstr "تم إنشاء الغرفة بنجاح"
+
+#: i18n/ui_static_text.js:100
+msgid "领取成功"
+msgstr "تم الاستلام بنجاح"
+
+#: i18n/ui_static_text.js:102
+msgid "公开房 {1}/{2}"
+msgstr "غرفة عامة {1} / {2}"
+
+#: i18n/ui_static_text.js:103
+msgid "私人房 {1}/{2}"
+msgstr "غرفة خاصة {1} / {2}"
+
+#: i18n/ui_static_text.js:104
+msgid "公开房"
+msgstr "غرفة عامة"
+
+#: i18n/ui_static_text.js:105
+msgid "密码房"
+msgstr "غرفة خاصة"
+
+#: i18n/ui_static_text.js:106
+msgid "需要购买沙龙道具"
+msgstr "بحاجة إلى شراء أدوات الصالون"
+
+#: i18n/ui_static_text.js:107
+msgid "目前还没有收益,快去玩沙龙吧"
+msgstr "لا يوجد دخل بعد اذهب إلى الصالون"
+
+#: i18n/ui_static_text.js:108
+msgid "需要提升VIP"
+msgstr "تعزيز كبار الشخصيات"
+
+#: i18n/ui_static_text.js:109
+msgid "ALL"
+msgstr "الكل"
+
+#: i18n/ui_static_text.js:110
+msgid "进入金币"
+msgstr "ادخل العملات الذهبية"
+
+#: i18n/ui_static_text.js:111
+msgid "底分"
+msgstr "النتيجة السفلية"
+
+#: i18n/ui_static_text.js:112
+msgid "出牌时间"
+msgstr "وقت الدور"
+
+#: i18n/ui_static_text.js:113
+msgid "打乱"
+msgstr "خلط"
+
+#: i18n/ui_static_text.js:114
+msgid "不打乱"
+msgstr "لا خلط"
+
+#: i18n/ui_static_text.js:115
+msgid "打乱顺序"
+msgstr "خلط"
+
+#: i18n/ui_static_text.js:116
+msgid "开"
+msgstr "افتح"
+
+#: i18n/ui_static_text.js:117
+msgid "关"
+msgstr "مغلق"
+
+#: i18n/ui_static_text.js:118
+msgid "语音聊天"
+msgstr "محادثة صوتية"
+
+#: i18n/ui_static_text.js:119
+msgid "公开"
+msgstr "الغرفة"
+
+#: i18n/ui_static_text.js:120
+msgid "私密"
+msgstr "خاص"
+
+#: i18n/ui_static_text.js:121
+msgid "最少携带"
+msgstr "الحد الأدنى للحمل"
+
+#: i18n/ui_static_text.js:122
+msgid "是"
+msgstr "نعم"
+
+#: i18n/ui_static_text.js:123
+msgid "否"
+msgstr "لا"
+
+#: i18n/ui_static_text.js:124
+msgid "大厅显示牌桌"
+msgstr "طاولة بطاقة عرض اللوبي"
+
+#: i18n/ui_static_text.js:125
+msgid "回合"
+msgstr "جولة"
+
+#: i18n/ui_static_text.js:126
+msgid "1回合"
+msgstr "جولة واحدة"
+
+#: i18n/ui_static_text.js:127
+msgid "经典"
+msgstr "كلاسيكي"
+
+#: i18n/ui_static_text.js:128
+msgid "玩法"
+msgstr "اللعب"
+
+#: i18n/ui_static_text.js:129
+msgid "密码"
+msgstr "كلمه السر"
+
+#: i18n/ui_static_text.js:130
+msgid "自动开启"
+msgstr "تبدأ تلقائيا"
+
+#: i18n/ui_static_text.js:131
+msgid "总分"
+msgstr "مجموع النقاط"
+
+#: i18n/ui_static_text.js:132
+msgid "最低分数"
+msgstr "الحد الأدنى من النقاط"
+
+#: i18n/ui_static_text.js:133
+msgid "座位"
+msgstr "مقعد"
+
+#: i18n/ui_static_text.js:134
+msgid "需升级VIP"
+msgstr "تحتاج ترقية إلى VIP"
+
+#: i18n/ui_static_text.js:135
+msgid "加入房间"
+msgstr "أنضم إلى غرفة"
+
+#: i18n/ui_static_text.js:136
+msgid "请输入房间号"
+msgstr "الرجاء إدخال رقم الغرفة"
+
+#: i18n/ui_static_text.js:137
+msgid "房间号"
+msgstr "رقم الغرفة"
+
+#: i18n/ui_static_text.js:138
+msgid "删除"
+msgstr "حذف الكل"
+
+#: i18n/ui_static_text.js:139
+msgid "请输入密码"
+msgstr "الرجاء إدخال كلمة المرور"
+
+#: i18n/ui_static_text.js:140
+msgid "Income"
+msgstr "الإيرادات"
+
+#: i18n/ui_static_text.js:141
+msgid "时间"
+msgstr "الوقت"
+
+#: i18n/ui_static_text.js:142
+msgid "游戏"
+msgstr "اللعبة"
+
+#: i18n/ui_static_text.js:143
+msgid "金币"
+msgstr "الذهب"
+
+#: i18n/ui_static_text.js:144
+msgid "经验值"
+msgstr "خبرة"
+
+#: i18n/ui_static_text.js:145
+msgid "收益"
+msgstr "الإيرادات"
+
+#: i18n/ui_static_text.js:146
+msgid "没有记录"
+msgstr "لا سجلات"
+
+#: i18n/ui_static_text.js:147
+msgid "确定({1}/{2})"
+msgstr "بالتأكيد  {1}/{2}"
+
+#: i18n/ui_static_text.js:150
+msgid "创建密码房间,需要输入密码"
+msgstr "قم بإنشاء غرفة كلمة مرور ، فأنت بحاجة إلى إدخال كلمة مرور"
+
+#: i18n/ui_static_text.js:152
+msgid "留言"
+msgstr "إشعارات"
+
+#: i18n/ui_static_text.js:153
+msgid "好友"
+msgstr "أصدقاء"
+
+#: i18n/ui_static_text.js:154
+msgid "沙龙"
+msgstr "الصالون"
+
+#: i18n/ui_static_text.js:155
+msgid "聊天"
+msgstr "دردشة"
+
+#: i18n/ui_static_text.js:156
+msgid "添加"
+msgstr "إضافة"
+
+#: i18n/ui_static_text.js:157
+msgid "同意"
+msgstr "أوافق"
+
+#: i18n/ui_static_text.js:158
+msgid "请输入姓名"
+msgstr "قم بكتابة اسمك"
+
+#: i18n/ui_static_text.js:159
+msgid "My Friends"
+msgstr "أصدقائي"
+
+#: i18n/ui_static_text.js:160
+msgid "没有数据"
+msgstr "لايوجد بيانات"
+
+#: i18n/ui_static_text.js:161
+msgid "期待与你一起游戏,点击加入吧!"
+msgstr "هل هناك من يريد اللعب؟ اضغط على الزر للإنضمام."
+
+#: i18n/ui_static_text.js:162
+msgid "没有好友"
+msgstr "لا أصدقاء"
+
+#: i18n/ui_static_text.js:163
+msgid "请输入玩家ID或昵称"
+msgstr "الرجاء إدخال معرف اللاعب أو اللقب"
+
+#: i18n/ui_static_text.js:164
+msgid "发送"
+msgstr "إرسال"
+
+#: i18n/ui_static_text.js:165
+msgid "已申请"
+msgstr "تطبق بالفعل"
+
+#: i18n/ui_static_text.js:166
+msgid "删除好友成功"
+msgstr " تم حذف الأصدقاء بنجاح"
+
+#: i18n/ui_static_text.js:167
+msgid "今日破产补助剩余{1}次"
+msgstr "متبقي عدد {1} مرة من إعانات الإفلاس اليوم"
+
+#: i18n/ui_static_text.js:168
+msgid "提示"
+msgstr "نصائح"
+
+#: i18n/ui_static_text.js:169
+msgid "您的网络已断开,请重新连接."
+msgstr "تم قطع الاتصال بشبكتك ، يرجى إعادة الاتصال."
+
+#: i18n/ui_static_text.js:170
+msgid "取消"
+msgstr "يلغي"
+
+#: i18n/ui_static_text.js:171
+msgid "总计"
+msgstr "المجموع"
+
+#: i18n/ui_static_text.js:172
+msgid "检测到游戏已有新版本,是否立即更新?"
+msgstr "تتوفر نسخة جديدة ، هل ترغب بالتحديث"
+
+#: i18n/ui_static_text.js:173
+msgid "更新"
+msgstr "تحديث"
+
+#: i18n/ui_static_text.js:174
+msgid "聊天室"
+msgstr "غرفة الدردشة"
+
+#: i18n/ui_static_text.js:175
+#, fuzzy
+#| msgid "ID"
+msgid "UID"
+msgstr "هوية"
+
+#: i18n/ui_static_text.js:176
+msgid "Messenger"
+msgstr "رسول"
+
+#: i18n/ui_static_text.js:177
+msgid "WhatsApp"
+msgstr "واتساب"
+
+#: i18n/ui_static_text.js:178
+msgid "邀请好友"
+msgstr "إضافة الأصدقاء"
+
+#: i18n/ui_static_text.js:179
+msgid "请输入好友的UID"
+msgstr "الرجاء إدخال UID الخاص بصديقك"
+
+#: i18n/ui_static_text.js:180
+msgid "Facebook"
+msgstr "فيسبوك"
+
+#: i18n/ui_static_text.js:181
+msgid "未安装Messager"
+msgstr "غير مثبت ماسنجر"
+
+#: i18n/ui_static_text.js:182
+msgid "未安装whatsapp"
+msgstr "غير مثبت whatsapp"
+
+#: i18n/ui_static_text.js:183
+#, fuzzy
+#| msgid "PokerHero"
+msgid "Poker Hero"
+msgstr "بطل العرب"
+
+#: i18n/ui_static_text.js:184
+msgid "反馈"
+msgstr "تعليقات"
+
+#: i18n/ui_static_text.js:185
+msgid "充值失败"
+msgstr "فشلت عملية إعادة الشحن"
+
+#: i18n/ui_static_text.js:186
+msgid "网络连接断开"
+msgstr "فقد الاتصال بالشبكة"
+
+#: i18n/ui_static_text.js:187
+msgid "游戏中作弊"
+msgstr "الغش في اللعبة"
+
+#: i18n/ui_static_text.js:188
+msgid "游戏功能无法使用"
+msgstr "ميزات اللعبة غير متوفرة"
+
+#: i18n/ui_static_text.js:189
+msgid "聊天中含有敏感词汇"
+msgstr "تحتوي الدردشة على كلمات حساسة"
+
+#: i18n/ui_static_text.js:190
+msgid "其他"
+msgstr "آخر"
+
+#: i18n/ui_static_text.js:191
+msgid "请选择您遇到的问题类型或者上传图片,以便我们给您带来更好的服务."
+msgstr ""
+"يرجى تحديد نوع المشكلة التي تواجهها أو تحميل صورة ، حتى نتمكن من تقديم خدمة "
+"أفضل لك."
+
+#: i18n/ui_static_text.js:192
+msgid "提交"
+msgstr "إرسال"
+
+#: i18n/ui_static_text.js:193
+msgid "在线客服工作时间"
+msgstr "ساعات عمل خدمة العملاء عبر الإنترنت"
+
+#: i18n/ui_static_text.js:194
+#, fuzzy
+#| msgid "联系我们"
+msgid "联系"
+msgstr "اتصل بنا"
+
+#: i18n/ui_static_text.js:195
+msgid "通知"
+msgstr "إشعار"
+
+#: i18n/ui_static_text.js:196
+msgid "礼物"
+msgstr "الهدية "
+
+#: i18n/ui_static_text.js:197
+msgid "活动"
+msgstr "نشاط"
+
+#: i18n/ui_static_text.js:198
+msgid "删除全部"
+msgstr "حذف الكل"
+
+#: i18n/ui_static_text.js:199
+msgid "没有邮件"
+msgstr "لا يوجد بريد إلكتروني ، يرجى التحقق مرة أخرى لاحقًا."
+
+#: i18n/ui_static_text.js:200
+msgid "财富"
+msgstr "ثروة"
+
+#: i18n/ui_static_text.js:202
+#, fuzzy
+#| msgid "魅力值"
+msgid "魅力"
+msgstr "الكاريزما"
+
+#: i18n/ui_static_text.js:203
+msgid "RP"
+msgstr "RP"
+
+#: i18n/ui_static_text.js:204
+msgid "邀请码绑定"
+msgstr "تم ربط كود الدعوة"
+
+#: i18n/ui_static_text.js:205
+msgid "请输入邀请码"
+msgstr "الرجاء إدخال كود الدعوة"
+
+#: i18n/ui_static_text.js:206
+msgid "输入好友的邀请码,您和您的好友都将获得奖励"
+msgstr "أدخل  كود  دعوة صديقك ، وستحصلا على المكافأة"
+
+#: i18n/ui_static_text.js:207
+msgid "您的分享码:"
+msgstr "كود دعوتك"
+
+#: i18n/ui_static_text.js:208
+msgid "好友的邀请码"
+msgstr "رمز دعوة الصديق"
+
+#: i18n/ui_static_text.js:209
+msgid "绑定"
+msgstr "ربط"
+
+#: i18n/ui_static_text.js:210
+msgid "复制"
+msgstr "نسخ"
+
+#: i18n/ui_static_text.js:211
+msgid "让您的朋友扫码下载"
+msgstr "اسمح لأصدقائك بمسح رمز الاستجابة السريعة للتنزيل."
+
+#: i18n/ui_static_text.js:212
+msgid "每个人都在玩纸牌大师!点击这里下载和我们一起玩!"
+msgstr "الجميع يلعبون بطل العرب! اضغط هنا للتحميل واللعب معنا!"
+
+#: i18n/ui_static_text.js:214
+msgid "复制成功,快去通知您的好友吧"
+msgstr "تم النسخ بنجاح ، اذهب وأبلغ أصدقائك"
+
+#: i18n/ui_static_text.js:215
+msgid "请给我们mensa card一个评价"
+msgstr "يرجى ترك تعليق"
+
+#: i18n/ui_static_text.js:216
+msgid "检测到游戏已有最新版本,前往下载游戏,领取{1}!给您更好的体验!"
+msgstr ""
+"تم اكتشاف أن اللعبة بها أحدث إصدار ، انتقل لتنزيل اللعبة ، واحصل على {1} "
+"عملات ذهبية! يمنحك تجربة أفضل!"
+
+#: i18n/ui_static_text.js:217
+msgid ""
+"检测到游戏已有最新版本,前往下载游戏领取{1}!为了您的账号安全,建议您绑定"
+"Facebook!"
+msgstr ""
+"تم اكتشاف أن اللعبة بها أحدث إصدار ، انتقل لتنزيل اللعبة لتحصل على {1} عملات "
+"ذهبية! لأمان حسابك ، يوصى بربط فيسبوك!"
+
+#: i18n/ui_static_text.js:218
+msgid "下载"
+msgstr "تحميل"
+
+#: i18n/ui_static_text.js:219
+msgid "绑定后下载"
+msgstr "تحميل بعد الربط"
+
+#: i18n/ui_static_text.js:221
+msgid "请输入用户名"
+msgstr "الرجاء إدخال اسم المستخدم"
+
+#: i18n/ui_static_text.js:222
+msgid "{1}结束"
+msgstr "نهاية{1}"
+
+#: i18n/ui_static_text.js:223
+msgid "RETURN"
+msgstr "عودة"
+
+#: i18n/ui_static_text.js:224
+msgid "Exp"
+msgstr "خبرة"
+
+#: i18n/ui_static_text.js:225
+msgid "结算时间"
+msgstr "وقت التسوية"
+
+#: i18n/ui_static_text.js:226
+msgid "联赛重置时间"
+msgstr "إعادة تعيين وقت الدوري"
+
+#: i18n/ui_static_text.js:227
+msgid "报名费"
+msgstr "رسوم التسجيل"
+
+#: i18n/ui_static_text.js:228
+msgid "Admission Range:"
+msgstr "رهان"
+
+#: i18n/ui_static_text.js:229
+msgid "FINISHED"
+msgstr "انتهت"
+
+#: i18n/ui_static_text.js:230
+msgid "Start Game"
+msgstr "بدء اللعبة"
+
+#: i18n/ui_static_text.js:231
+msgid "Ranking"
+msgstr "تصنيف"
+
+#: i18n/ui_static_text.js:232
+msgid "Awards"
+msgstr "الجوائز"
+
+#: i18n/ui_static_text.js:233
+msgid "联赛记录"
+msgstr "سجل الدوريات "
+
+#: i18n/ui_static_text.js:234
+msgid "联赛规则"
+msgstr "قواعد الدوري"
+
+#: i18n/ui_static_text.js:235
+msgid "联赛奖励"
+msgstr "مكافآت الدوري"
+
+#: i18n/ui_static_text.js:236
+msgid "排位等级"
+msgstr "مستوى الترتيب"
+
+#: i18n/ui_static_text.js:238
+#, fuzzy
+#| msgid "第{1}天"
+msgid "第{1}名"
+msgstr "يوم {1}"
+
+#: i18n/ui_static_text.js:239
+msgid "进入比赛失败"
+msgstr "فشل في دخول اللعبة"
+
+#: i18n/ui_static_text.js:240
+msgid "Class A"
+msgstr "فئة أ"
+
+#: i18n/ui_static_text.js:241
+msgid "Class B"
+msgstr "الصف ب"
+
+#: i18n/ui_static_text.js:242
+msgid "进行中"
+msgstr "يتم المعالجة"
+
+#: i18n/ui_static_text.js:243
+msgid "比赛已经结束"
+msgstr "اللعبة انتهت"
+
+#: i18n/ui_static_text.js:244
+msgid "在当前游戏内,您获胜后将会获得{1}RP值,如果在翻倍时间,则获得{2}RP值"
+msgstr ""
+"في اللعبة الحالية ، ستحصل على {1} قيمة RP بعد الفوز و {2} قيمة RP إذا ضاعفت "
+"الوقت "
+
+#: i18n/ui_static_text.js:245
+msgid "双倍奖励"
+msgstr "مكافأة مزدوجة"
+
+#: i18n/ui_static_text.js:246
+msgid "周一至周五"
+msgstr "من الإثنين إلى الجمعة"
+
+#: i18n/ui_static_text.js:247
+msgid "周末"
+msgstr "العطلة الأسبوعية"
+
+#: i18n/ui_static_text.js:248
+msgid "音乐"
+msgstr "موسيقى"
+
+#: i18n/ui_static_text.js:249
+msgid "声音"
+msgstr "صوت"
+
+#: i18n/ui_static_text.js:250
+msgid "语言"
+msgstr "اللغة"
+
+#: i18n/ui_static_text.js:251
+msgid "评价我们"
+msgstr "قيمنا"
+
+#: i18n/ui_static_text.js:252
+#, fuzzy
+#| msgid "WhatsApp"
+msgid "whatsapp"
+msgstr "واتساب"
+
+#: i18n/ui_static_text.js:253
+msgid "兑换"
+msgstr "تبادل"
+
+#: i18n/ui_static_text.js:254
+msgid "兑换码"
+msgstr "كود التحويل"
+
+#: i18n/ui_static_text.js:255
+msgid "加我为好友需要验证"
+msgstr "إضافتي كصديق يتطلب التحقق"
+
+#: i18n/ui_static_text.js:256
+msgid "屏蔽世界礼物动画"
+msgstr "حظر رسوم المتحركة في هدايا العالمية"
+
+#: i18n/ui_static_text.js:257
+msgid "服务条款"
+msgstr "شروط الخدمة"
+
+#: i18n/ui_static_text.js:258
+msgid "隐私政策"
+msgstr "سياسة الخصوصية"
+
+#: i18n/ui_static_text.js:259
+msgid "衍生政策"
+msgstr "سياسة المشتقات"
+
+#: i18n/ui_static_text.js:260
+msgid "请输入您的兑换码"
+msgstr "الرجاء ادخال كود التحويل الخاص بك"
+
+#: i18n/ui_static_text.js:261
+msgid "Privacy Policy"
+msgstr "سياسة خاصة"
+
+#: i18n/ui_static_text.js:262
+msgid "Terms Of Use"
+msgstr "شروط الخدمة"
+
+#: i18n/ui_static_text.js:263
+msgid "接受"
+msgstr "قبول"
+
+#: i18n/ui_static_text.js:264
+msgid "30天VIP"
+msgstr "30 يوم VIP"
+
+#: i18n/ui_static_text.js:265
+msgid "GO"
+msgstr "انطلق"
+
+#: i18n/ui_static_text.js:266
+msgid "激活成功"
+msgstr "نجح التنشيط"
+
+#: i18n/ui_static_text.js:267
+msgid "去看看"
+msgstr "انظر بنفسك"
+
+#: i18n/ui_static_text.js:268
+msgid "稍后"
+msgstr "وفي وقت لاحق"
+
+#: i18n/ui_static_text.js:269
+msgid "赠送金币"
+msgstr "إهداء العملات الذهبية"
+
+#: i18n/ui_static_text.js:271
+msgid "FREE"
+msgstr "مجانا"
+
+#: i18n/ui_static_text.js:272
+msgid "额外"
+msgstr "إضافي"
+
+#: i18n/ui_static_text.js:273
+msgid "赠送"
+msgstr "تبرع"
+
+#: i18n/ui_static_text.js:274
+msgid "已拥有"
+msgstr "تم امتلاكها"
+
+#: i18n/ui_static_text.js:275
+msgid "购买开启VIP额外享受以下福利"
+msgstr "قم بشراء VIP و استمتع بالمزايا الإضافية التالية"
+
+#: i18n/ui_static_text.js:276
+msgid "MORE"
+msgstr "أكثر"
+
+#: i18n/ui_static_text.js:277
+msgid "每日奖励"
+msgstr "المكافأة اليومية"
+
+#: i18n/ui_static_text.js:278
+msgid "头像框"
+msgstr "صورة الملف الشخصي"
+
+#: i18n/ui_static_text.js:279
+msgid "聊天框"
+msgstr "صندوق الدردشه"
+
+#: i18n/ui_static_text.js:280
+msgid "互动表情"
+msgstr "التعبيرات التفاعلية"
+
+#: i18n/ui_static_text.js:281
+msgid "去提升"
+msgstr "ارتقي"
+
+#: i18n/ui_static_text.js:282
+msgid "您必须先成为VIP"
+msgstr "عليك أن تصبح من كبار الشخصيات أولا"
+
+#: i18n/ui_static_text.js:283
+msgid "赠送成功"
+msgstr "تم إرسال الهدية بنجاح"
+
+#: i18n/ui_static_text.js:284
+msgid "还未到可领取时间"
+msgstr "ليست متاحة بعد للالتقاط"
+
+#: i18n/ui_static_text.js:285
+msgid "购买成功"
+msgstr "شراء ناجح"
+
+#: i18n/ui_static_text.js:286
+msgid "聊天框与字体"
+msgstr "صندوق الدردشة مع حجم الخط"
+
+#: i18n/ui_static_text.js:287
+msgid "牌桌"
+msgstr "خلفية طاولة أوراق اللعب"
+
+#: i18n/ui_static_text.js:288
+msgid "牌背"
+msgstr "خلفية البطاقة"
+
+#: i18n/ui_static_text.js:289
+msgid "牌花"
+msgstr "زهرة البطاقة"
+
+#: i18n/ui_static_text.js:290
+msgid "字体颜色"
+msgstr "لون الخط"
+
+#: i18n/ui_static_text.js:291
+msgid "经验值道具"
+msgstr "عناصر الخبرة"
+
+#: i18n/ui_static_text.js:292
+msgid "表情包"
+msgstr "الرموز التعبيرية"
+
+#: i18n/ui_static_text.js:293
+msgid "剩余VIP时间:{1}天"
+msgstr "الوقت المتبقي لكبار الشخصيات: {1} يوم"
+
+#: i18n/ui_static_text.js:294
+msgid "购买开启VIP资格,根据不同档位享受VIP权益时间!"
+msgstr "قم بشراء مؤهلات VIP واستمتع بعروض مميزة"
+
+#: i18n/ui_static_text.js:295
+msgid "已激活"
+msgstr "مفعل"
+
+#: i18n/ui_static_text.js:296
+msgid "恭喜您已经成为VIP{1}"
+msgstr "تهانينا لقد أصبحت الشخص المهم رقم {1}"
+
+#: i18n/ui_static_text.js:297
+msgid "购买开启VIP资格"
+msgstr "شراء لفتح تأهيل VIP"
+
+#: i18n/ui_static_text.js:298
+msgid "沙龙房间数:{1}"
+msgstr "صالون رقم {1}"
+
+#: i18n/ui_static_text.js:299
+msgid "免费参加排位赛"
+msgstr "دخول مجاني للتأهل"
+
+#: i18n/ui_static_text.js:300
+msgid "好友上限:{1}"
+msgstr "حد الأصدقاء:{1}"
+
+#: i18n/ui_static_text.js:301
+msgid "票数:{1}"
+msgstr "عدد الأصوات: {1}"
+
+#: i18n/ui_static_text.js:302
+msgid "VIP{1} 权益"
+msgstr "VIP {1}فوائد"
+
+#: i18n/ui_static_text.js:303
+msgid "VIP续费"
+msgstr "تجديد VIP"
+
+#: i18n/ui_static_text.js:304
+msgid "背包"
+msgstr "حقيبة ظهر"
+
+#: i18n/ui_static_text.js:305
+msgid "使用"
+msgstr "استخدام"
+
+#: i18n/ui_static_text.js:306
+msgid "回复"
+msgstr "رد"
+
+#: i18n/ui_static_text.js:307
+msgid "已完成"
+msgstr "تمت بنجاح"
+
+#: i18n/ui_static_text.js:308
+msgid "Lv"
+msgstr "مستوى"
+
+#: i18n/ui_static_text.js:309
+msgid "拦截"
+msgstr "تقاطع"
+
+#: i18n/ui_static_text.js:310
+msgid "在线统计"
+msgstr "إحصائيات عبر الإنترنت"
+
+#: i18n/ui_static_text.js:311
+msgid "游戏时长"
+msgstr "وقت اللعب"
+
+#: i18n/ui_static_text.js:312
+msgid "赢"
+msgstr "فوز"
+
+#: i18n/ui_static_text.js:313
+msgid "总赢取"
+msgstr "إجمالي الفوز"
+
+#: i18n/ui_static_text.js:314
+msgid "胜率"
+msgstr "معدل الفوز"
+
+#: i18n/ui_static_text.js:315
+msgid "加好友"
+msgstr "أضف صديق"
+
+#: i18n/ui_static_text.js:316
+msgid "送金币"
+msgstr "يتبرع"
+
+#: i18n/ui_static_text.js:317
+msgid "国家"
+msgstr "دولة"
+
+#: i18n/ui_static_text.js:318
+msgid "头像"
+msgstr "الصورة الشخصية"
+
+#: i18n/ui_static_text.js:319
+msgid "选择您的头像资料照片"
+msgstr "اختر صورة ملفك الشخصي"
+
+#: i18n/ui_static_text.js:320
+msgid "绑定Apple"
+msgstr "ربط التفاح"
+
+#: i18n/ui_static_text.js:321
+msgid "绑定FB"
+msgstr "ربط الفيسبوك"
+
+#: i18n/ui_static_text.js:322
+msgid "用户名"
+msgstr "اسم االمستخدم"
+
+#: i18n/ui_static_text.js:323
+msgid "在这里修改你的用户名"
+msgstr "قم بتعديل اسم المستخدم الخاص بك هنا"
+
+#: i18n/ui_static_text.js:324
+msgid "历史战绩"
+msgstr "سجل الانجازات"
+
+#: i18n/ui_static_text.js:325
+msgid "没有战绩"
+msgstr "لا سجلات"
+
+#: i18n/ui_static_text.js:326
+msgid "礼物列表"
+msgstr "قائمة الهدايا"
+
+#: i18n/ui_static_text.js:327
+msgid "价格"
+msgstr "السعر"
+
+#: i18n/ui_static_text.js:328
+msgid "接收"
+msgstr "استلم"
+
+#: i18n/ui_static_text.js:329
+#, fuzzy
+#| msgid "请求"
+msgid "要求"
+msgstr "طلب"
+
+#: i18n/ui_static_text.js:330
+msgid "段位"
+msgstr "قطعة"
+
+#: i18n/ui_static_text.js:331
+msgid "等级"
+msgstr "وصول المستوى"
+
+#: i18n/ui_static_text.js:332
+msgid "赠送玩家"
+msgstr "استلم اللاعبين"
+
+#: i18n/ui_static_text.js:333
+msgid "接受玩家"
+msgstr "هدية للاعبين"
+
+#: i18n/ui_static_text.js:334
+msgid "我们"
+msgstr "نحن"
+
+#: i18n/ui_static_text.js:335
+msgid "他们"
+msgstr "هم"
+
+#: i18n/ui_static_text.js:336
+msgid "BALOOT"
+msgstr "بلوت"
+
+#: i18n/ui_static_text.js:337
+msgid "READY"
+msgstr "جاهز"
+
+#: i18n/ui_static_text.js:338
+msgid "INVITATION"
+msgstr "دعوة"
+
+#: i18n/ui_static_text.js:339
+msgid "甩牌"
+msgstr "سوا"
+
+#: i18n/ui_static_text.js:340
+msgid "End:"
+msgstr "النهاية:"
+
+#: i18n/ui_static_text.js:341
+msgid "Score:"
+msgstr "نتيجة:"
+
+#: i18n/ui_static_text.js:342
+msgid "Ranking:"
+msgstr "تصنيف:"
+
+#: i18n/ui_static_text.js:343
+msgid "太阳"
+msgstr "الشمس"
+
+#: i18n/ui_static_text.js:344
+msgid "霍科姆"
+msgstr "حكم"
+
+#: i18n/ui_static_text.js:345
+msgid "第二次霍科姆"
+msgstr "الحكم الثاني"
+
+#: i18n/ui_static_text.js:346
+msgid "确认霍科姆"
+msgstr "تأكيد الحكم"
+
+#: i18n/ui_static_text.js:347
+msgid "阿什卡尔"
+msgstr "أشقر"
+
+#: i18n/ui_static_text.js:348
+msgid "过"
+msgstr "تخطى"
+
+#: i18n/ui_static_text.js:349
+msgid "两者都不"
+msgstr "لا"
+
+#: i18n/ui_static_text.js:350
+msgid "加倍"
+msgstr "مزدوج"
+
+#: i18n/ui_static_text.js:351
+msgid "三倍"
+msgstr "ثلاث أضعاف "
+
+#: i18n/ui_static_text.js:352
+msgid "四倍"
+msgstr "اربعة أضعاف "
+
+#: i18n/ui_static_text.js:353
+msgid "一把定输赢"
+msgstr "قهوة"
+
+#: i18n/ui_static_text.js:354
+msgid "锁定"
+msgstr "القفل"
+
+#: i18n/ui_static_text.js:355
+msgid "打开"
+msgstr "افتح"
+
+#: i18n/ui_static_text.js:356
+msgid "西拉"
+msgstr "سيرا"
+
+#: i18n/ui_static_text.js:357
+msgid "局分"
+msgstr "نتيجة الجولة"
+
+#: i18n/ui_static_text.js:358
+msgid "地面"
+msgstr "أرضية"
+
+#: i18n/ui_static_text.js:359
+msgid "名堂"
+msgstr "المشاريع"
+
+#: i18n/ui_static_text.js:360
+msgid "点数"
+msgstr "نقاط"
+
+#: i18n/ui_static_text.js:361
+msgid "返回"
+msgstr "عودة"
+
+#: i18n/ui_static_text.js:362
+msgid "NEXT"
+msgstr "التالي"
+
+#: i18n/ui_static_text.js:363
+msgid "发牌"
+msgstr "صفقة"
+
+#: i18n/ui_static_text.js:364
+msgid "叫牌"
+msgstr "مناقصة"
+
+#: i18n/ui_static_text.js:365
+msgid "结算"
+msgstr "تسوية"
+
+#: i18n/ui_static_text.js:366
+msgid "A牌"
+msgstr "ايس"
+
+#: i18n/ui_static_text.js:367
+msgid "巴洛特"
+msgstr "بلوت"
+
+#: i18n/ui_static_text.js:368
+msgid "第一轮"
+msgstr "الجولة الأولى"
+
+#: i18n/ui_static_text.js:369
+msgid "第二轮"
+msgstr "الجولة الثانية"
+
+#: i18n/ui_static_text.js:370
+msgid "下一轮{1}秒后开始"
+msgstr "ستبدأ الجولة التالية خلال {1} ثانية"
+
+#: i18n/ui_static_text.js:371
+msgid "BALOOT FAST"
+msgstr "بلوت سريع"
+
+#: i18n/ui_static_text.js:372
+msgid "Banakil"
+msgstr "بناكل"
+
+#: i18n/ui_static_text.js:373
+msgid "Go Down"
+msgstr "انزل"
+
+#: i18n/ui_static_text.js:374
+msgid "Hint"
+msgstr "ملحوظة"
+
+#: i18n/ui_static_text.js:375
+msgid "Discard"
+msgstr "دياكارد"
+
+#: i18n/ui_static_text.js:376
+msgid "SUM"
+msgstr "مجموع"
+
+#: i18n/ui_static_text.js:377
+msgid "Sum"
+msgstr "مجموع"
+
+#: i18n/ui_static_text.js:378
+msgid "Choose groups to go down"
+msgstr "اختر المجموعات التي تريد النزول إليها"
+
+#: i18n/ui_static_text.js:379
+msgid "Deal"
+msgstr "صفقة"
+
+#: i18n/ui_static_text.js:380
+msgid "GAME"
+msgstr "اللعبة"
+
+#: i18n/ui_static_text.js:381
+msgid "REVEAL"
+msgstr "إفشاء"
+
+#: i18n/ui_static_text.js:382
+msgid "Scoring"
+msgstr "التهديف"
+
+#: i18n/ui_static_text.js:383
+msgid "Take"
+msgstr "أخذ"
+
+#: i18n/ui_static_text.js:384
+msgid "round end"
+msgstr "نهايات الجولة"
+
+#: i18n/ui_static_text.js:385
+msgid "You already took a card"
+msgstr "لقد أخذت بالفعل بطاقة"
+
+#: i18n/ui_static_text.js:386
+msgid "Its not your turn"
+msgstr "ليس دورك"
+
+#: i18n/ui_static_text.js:387
+msgid "You should draw a card before throwing to the fire"
+msgstr "يجب أن ترسم بطاقة قبل رميها في النار"
+
+#: i18n/ui_static_text.js:388
+msgid "You should keep a card to throw on floor"
+msgstr "يجب عليك الاحتفاظ ببطاقة لرميها على الأرض"
+
+#: i18n/ui_static_text.js:389
+msgid "You should go down before adding to the table"
+msgstr "يجب أن تنزل قبل الإضافة إلى الجدول"
+
+#: i18n/ui_static_text.js:390
+msgid "The card you added is either wrong or in the wrong position"
+msgstr "البطاقة التي أضفتها إما خاطئة أو في وضع خاطئ"
+
+#: i18n/ui_static_text.js:391
+msgid "You should go down or throw the card you took."
+msgstr "يجب أن تنزل أو ترمي البطاقة التي أخذتها."
+
+#: i18n/ui_static_text.js:392
+msgid "王不能出"
+msgstr "لا يمكنك لعب ورقة الجوكر"
+
+#: i18n/ui_static_text.js:393
+msgid "You should draw a card"
+msgstr "يجب عليك رسم بطاقة"
+
+#: i18n/ui_static_text.js:394
+msgid "Your selected groups sum is : {1}"
+msgstr "مجموع المجموعات التي اخترتها هو: {1}"
+
+#: i18n/ui_static_text.js:395
+msgid "Your selected groups sum is : {1}/{2}"
+msgstr "مجموع المجموعات المحددة هو: {1} / {2}"
+
+#: i18n/ui_static_text.js:396
+msgid "Qualifyling"
+msgstr "تأهيل"
+
+#: i18n/ui_static_text.js:397
+msgid "太阳2"
+msgstr "س"
+
+#: i18n/ui_static_text.js:398
+msgid "Dealing"
+msgstr "اتفاق"
+
+#: i18n/ui_static_text.js:399
+msgid "Game Play"
+msgstr "طريقة اللّعب"
+
+#: i18n/ui_static_text.js:400
+msgid "Basra Terms"
+msgstr "شروط الباصرة"
+
+#: i18n/ui_static_text.js:401
+msgid "Basra"
+msgstr "باصرة"
+
+#: i18n/ui_static_text.js:403
+msgid "Confirm"
+msgstr "يتأكد"
+
+#: i18n/ui_static_text.js:404
+msgid "Choose 3 cards to pass"
+msgstr "اختر 3 أوراق للتمرير"
+
+#: i18n/ui_static_text.js:405
+msgid "Announce avoiding Ltoush"
+msgstr "إعلان تجنب اللطوش"
+
+#: i18n/ui_static_text.js:406
+msgid "Pass"
+msgstr "تمرير"
+
+#: i18n/ui_static_text.js:407
+msgid "Cranking"
+msgstr "التحريك"
+
+#: i18n/ui_static_text.js:408
+msgid "Mode"
+msgstr "أسلوب"
+
+#: i18n/ui_static_text.js:409
+msgid "Complex CC"
+msgstr "كمبلكس CC"
+
+#: i18n/ui_static_text.js:410
+msgid "CC Partner"
+msgstr "CCشراكة"
+
+#: i18n/ui_static_text.js:411
+msgid "No cards can be played"
+msgstr "لا يمكن لعب أي بطاقات"
+
+#: i18n/ui_static_text.js:412
+msgid "Settlement"
+msgstr "مستعمرة"
+
+#: i18n/ui_static_text.js:413
+msgid "Winner"
+msgstr "الفائز"
+
+#: i18n/ui_static_text.js:414
+msgid "NEXT({1})"
+msgstr "التالي({1})"
+
+#: i18n/ui_static_text.js:415
+msgid "Yes"
+msgstr "نعم"
+
+#: i18n/ui_static_text.js:416
+msgid "No"
+msgstr "لا"
+
+#: i18n/ui_static_text.js:417
+msgid "Dash Call?"
+msgstr "داش كول"
+
+#: i18n/ui_static_text.js:418
+msgid "Playing"
+msgstr "اللعب"
+
+#: i18n/ui_static_text.js:419
+msgid "CALL"
+msgstr "يتصل"
+
+#: i18n/ui_static_text.js:420
+msgid "DashCall"
+msgstr "داش كول"
+
+#: i18n/ui_static_text.js:424
+msgid "Would you like to collect Concan?"
+msgstr "هل ترغب في جمع كونكان"
+
+#: i18n/ui_static_text.js:425
+msgid "Reveal&Melds"
+msgstr "اكشف واخلط"
+
+#: i18n/ui_static_text.js:426
+msgid "Hand Sandi"
+msgstr "يد سعودية"
+
+#: i18n/ui_static_text.js:427
+msgid "Hand Partner"
+msgstr "هاند شراكة"
+
+#: i18n/ui_static_text.js:428
+msgid ""
+"Hand Sandi\n"
+"Partner"
+msgstr "هاند سعودي شراكة"
+
+#: i18n/ui_static_text.js:429
+msgid "No Concan"
+msgstr "لا كونكان"
+
+#: i18n/ui_static_text.js:430
+msgid "You cant draw Joker"
+msgstr "لا يمكنك رسم جوكر"
+
+#: i18n/ui_static_text.js:431
+msgid "You can"
+msgstr "تستطيع"
+
+#: i18n/ui_static_text.js:432
+msgid "There should be one sequence set at least"
+msgstr "يجب أن يكون هناك تسلسل واحد على الأقل"
+
+#: i18n/ui_static_text.js:433
+msgid "Latsheen"
+msgstr "لطشين"
+
+#: i18n/ui_static_text.js:436
+msgid "Complex"
+msgstr "كمبلكس"
+
+#: i18n/ui_static_text.js:438
+msgid "Kasra Partner"
+msgstr "كسرة شراكة"
+
+#: i18n/ui_static_text.js:439
+msgid "排位赛"
+msgstr "تأهيل"
+
+#: i18n/ui_static_text.js:440
+msgid "Bab"
+msgstr "باب"
+
+#: i18n/ui_static_text.js:441
+msgid "Bawn"
+msgstr "باون"
+
+#: i18n/ui_static_text.js:442
+msgid "Malzoom"
+msgstr "ملزوم"
+
+#: i18n/ui_static_text.js:444
+msgid "Choose your bid"
+msgstr "اختر العرض الخاص بك"
+
+#: i18n/ui_static_text.js:445
+msgid "请选择交换的牌"
+msgstr "الرجاء تحديد بطاقة المراد تبديلها"
+
+#: i18n/ui_static_text.js:447
+msgid "Waiting"
+msgstr "انتظار"
+
+#: i18n/ui_static_text.js:449
+msgid "Ludo Quick"
+msgstr "لعبة اللودو السريعة"
+
+#: i18n/ui_static_text.js:450
+msgid "说些什么"
+msgstr "أكتب شيئا هنا"
+
+#: i18n/ui_static_text.js:451
+msgid "Number of game: "
+msgstr "رقم اللعبة："
+
+#: i18n/ui_static_text.js:452
+msgid "Win rate: "
+msgstr "معدل الفوز："
+
+#: i18n/ui_static_text.js:453
+msgid "SIGN UP"
+msgstr "اشتراك"
+
+#: i18n/ui_static_text.js:454
+msgid "拒绝"
+msgstr "رفض"
+
+#: i18n/ui_static_text.js:455
+msgid "Facebooc分享"
+msgstr "انشر في الفيسبوك"
+
+#: i18n/ui_static_text.js:456
+msgid "您已经在您的房间里了"
+msgstr "أنت بالفعل في غرفتك"
+
+#: i18n/ui_static_text.js:458
+msgid "获取金币"
+msgstr "احصل على عملات ذهبية"
+
+#: i18n/ui_static_text.js:459
+msgid "超时未准备"
+msgstr "المهلة غير جاهزة"
+
+#: i18n/ui_static_text.js:460
+msgid "房间已经解散"
+msgstr "تم حل الغرفة"
+
+#: i18n/ui_static_text.js:461
+msgid "You are about to run out of gold coins!"
+msgstr " عملاتك  الذهبية على وشك النفاد"
+
+#: i18n/ui_static_text.js:462
+msgid "您未开启语音权限"
+msgstr "لم تقم بتشغيل الإذن الصوتي"
+
+#: i18n/ui_static_text.js:463
+msgid "您还没有坐下不能发送"
+msgstr "أنت لم تجلس لترسل"
+
+#: i18n/ui_static_text.js:464
+msgid "聊天消息需要间隔{1}秒"
+msgstr "يجب أن تكون المسافة بين رسائل الدردشة {1} ثانية"
+
+#: i18n/ui_static_text.js:465
+msgid "谢谢！"
+msgstr "شكرًا "
+
+#: i18n/ui_static_text.js:466
+msgid "快点吧"
+msgstr "العب بسرعة"
+
+#: i18n/ui_static_text.js:467
+msgid "对的就这样"
+msgstr "صحيح تماما"
+
+#: i18n/ui_static_text.js:468
+msgid "放轻松，我后面好好打"
+msgstr "خذها بسهولة سأضرب بقوة"
+
+#: i18n/ui_static_text.js:469
+msgid "啊呦~"
+msgstr "اوف"
+
+#: i18n/ui_static_text.js:470
+msgid "我说了算"
+msgstr "لدي القول الفصل"
+
+#: i18n/ui_static_text.js:471
+msgid "棒棒的，你值得拥有！"
+msgstr "رائع أنت تستحقها"
+
+#: i18n/ui_static_text.js:472
+msgid "对不起"
+msgstr "اسف"
+
+#: i18n/ui_static_text.js:473
+msgid "再见"
+msgstr "إلى اللقاء"
+
+#: i18n/ui_static_text.js:474
+msgid "你太欺负人了"
+msgstr "يا لك من متسلط للغاية"
+
+#: i18n/ui_static_text.js:475
+msgid "兄弟，耐心一点！"
+msgstr "تحلى بالصبر يا أخي"
+
+#: i18n/ui_static_text.js:477
+msgid "您的钻石不足"
+msgstr "محصولك من الماس  منخفض"
+
+#: i18n/ui_static_text.js:478
+msgid "ID"
+msgstr "هوية"
+
+#: i18n/ui_static_text.js:479
+msgid "比赛已结束"
+msgstr "انتهى التحدي"
+
+#: i18n/ui_static_text.js:480
+msgid "绑定FB成功,推荐下载App可以体验到完整的游戏体验"
+msgstr ""
+"من خلال الارتباط بالفيسبوك بنجاح ، يوصى بتنزيل التطبيق لتجربة تجربة اللعبة "
+"الكاملة"
+
+#: i18n/ui_static_text.js:481
+msgid "Lv.{1}"
+msgstr "Lv.{1}"
+
+#: i18n/ui_static_text.js:482
+msgid "({1}秒后自动拒绝解散)"
+msgstr "(رفض تلقائي بعد {1} ثانية)"
+
+#: i18n/ui_static_text.js:483
+msgid "您"
+msgstr "أنت"
+
+#: i18n/ui_static_text.js:484
+msgid "{1} 发起了解散房间请求"
+msgstr "{1} ابدأ طلبًا لرفض الغرفة"
+
+#: i18n/ui_static_text.js:485
+msgid "操作中..."
+msgstr "في عملية..."
+
+#: i18n/ui_static_text.js:486
+msgid "{1}({2})"
+msgstr "{1}({2})"
+
+#: i18n/ui_static_text.js:487
+msgid "邀请已成功发送至俱乐部聊天，去看看？"
+msgstr "تم إرسال الدعوة بنجاح إلى دردشة النادي ، هل تريد التحقق من ذلك؟"
+
+#: i18n/ui_static_text.js:488
+msgid "邀请已成功发送至全球聊天，去看看？"
+msgstr "تم إرسال الدعوة بنجاح إلى الدردشة العالمية ، هل تريد التحقق منها؟"
+
+#: i18n/ui_static_text.js:489
+msgid "邀请已经发送成功"
+msgstr "تم ارسال الدعوة بنجاح"
+
+#: i18n/ui_static_text.js:490
+msgid "这个房间的{1}次分享次数已经使用完成，试试别的邀请吧"
+msgstr "تم استخدام عدد {1} حصة من هذه الغرفة ، حاول دعوة أخرى"
+
+#: i18n/ui_static_text.js:491
+msgid "邀请俱乐部成员"
+msgstr "دعوة أصدقاء النادي"
+
+#: i18n/ui_static_text.js:492
+msgid "在俱乐部聊天频道邀请"
+msgstr "دعوة في قناة دردشة النادي"
+
+#: i18n/ui_static_text.js:493
+msgid "邀请游戏好友"
+msgstr "دعوة أصدقاء اللعبة"
+
+#: i18n/ui_static_text.js:494
+msgid "在公共聊天频道邀请"
+msgstr "دعوة في قناة الدردشة العالمية"
+
+#: i18n/ui_static_text.js:495
+msgid "{1}秒后可分享"
+msgstr "المشاركة متاحة في {1} ثانية"
+
+#: i18n/ui_static_text.js:497
+msgid "special cases"
+msgstr "الحالات الخاصة"
+
+#: i18n/ui_static_text.js:498
+msgid ""
+"\n"
+"+2 points "
+msgstr ""
+"\n"
+"+2 نقاط "
+
+#: i18n/ui_static_text.js:499
+msgid "Bigger Ronda"
+msgstr "الروندا الأكبر"
+
+#: i18n/ui_static_text.js:500
+msgid "Each player gets +1 points"
+msgstr "يحصل كل لاعب على +1 نقطة"
+
+#: i18n/ui_static_text.js:501
+msgid "Equal Ronda"
+msgstr "جولة متعادلة"
+
+#: i18n/ui_static_text.js:502
+msgid "Darba"
+msgstr "ضربة"
+
+#: i18n/ui_static_text.js:503
+msgid "Be Khamsa"
+msgstr "كن خمسة"
+
+#: i18n/ui_static_text.js:504
+msgid "Be Ashra"
+msgstr "بعشرة"
+
+#: i18n/ui_static_text.js:505
+msgid "Misa"
+msgstr "ميسا"
+
+#: i18n/ui_static_text.js:506
+msgid "Tringa"
+msgstr "ترينجا"
+
+#: i18n/ui_static_text.js:507
+msgid "TARNEEB"
+msgstr "طرنيب"
+
+#: i18n/ui_static_text.js:508
+msgid "Biding"
+msgstr "المزايدة"
+
+#: i18n/ui_static_text.js:509
+msgid "当前叫的小于10，您不能叫13"
+msgstr "اللاعب السابق طلب أقل من 10 ,فلا يمكنك طلب 13"
+
+#: i18n/ui_static_text.js:510
+msgid "TARNEEB SYRIAN 41"
+msgstr "طرنيب سوري 41"
+
+#: i18n/ui_static_text.js:511
+msgid "Ltoosh"
+msgstr "لطوش"
+
+#: i18n/ui_static_text.js:512
+msgid "King"
+msgstr "شيخ الكبة"
+
+#: i18n/ui_static_text.js:513
+msgid "Queens"
+msgstr "البنت"
+
+#: i18n/ui_static_text.js:514
+msgid "Diamonds"
+msgstr "الماس"
+
+#: i18n/ui_static_text.js:515
+msgid "Trix Complex"
+msgstr "تركس كمبلكس"
+
+#: i18n/ui_static_text.js:516
+msgid "Trix Partner"
+msgstr "تركس شراكة"
+
+#: i18n/ui_static_text.js:517
+msgid "Complex Partner"
+msgstr "كمبلكس شراكة"
+
+#: i18n/ui_static_text.js:518
+msgid "Uno"
+msgstr "أونو"
+
+#: i18n/ui_static_text.js:519
+msgid "Uno Challenge"
+msgstr "تحدي أونو"
+
+#: i18n/ui_static_text.js:520
+msgid "Play"
+msgstr "العب"
+
+#: i18n/ui_static_text.js:521
+msgid "Keep"
+msgstr "يحتفظ"
+
+#: i18n/ui_static_text.js:522
+msgid "Challenge"
+msgstr "تحدي"
+
+#: i18n/ui_static_text.js:523
+msgid "Correct +0, Wrong +6"
+msgstr "صحيح +0 ، خطأ +6"
+
+#: i18n/ui_static_text.js:524
+msgid "Draw Cards"
+msgstr "ارسم البطاقات"
+
+#: i18n/ui_static_text.js:525
+msgid "Red"
+msgstr "أحمر"
+
+#: i18n/ui_static_text.js:526
+msgid "Yellow"
+msgstr "الأصفر"
+
+#: i18n/ui_static_text.js:527
+msgid "Green"
+msgstr "أخضر"
+
+#: i18n/ui_static_text.js:528
+msgid "Blue"
+msgstr "أزرق"
+
+#: i18n/ui_static_text.js:529
+msgid " played a +4. If you think they have a "
+msgstr "لعب +4. إذا كنت تعتقد أن لديهم ملف"
+
+#: i18n/ui_static_text.js:530
+msgid ""
+" card in their hand, you can challenge them for a change to make them draw "
+"cards instead!"
+msgstr ""
+"في أيديهم ، يمكنك تحديهم لإجراء تغيير لجعلهم يرسمون البطاقات بدلاً من ذلك"
+
+#: i18n/ui_static_text.js:531
+msgid "You cannot announce UNO now!"
+msgstr "لا يمكنك الإعلان عن أونوا الآن"
+
+#: i18n/ui_static_text.js:532
+msgid "No player forgot to announce UNO!"
+msgstr "لا ينسى أي لاعب أن يعلن أونو"
+
+#~ msgid "需开通VIP5,才可以使用语音功能"
+#~ msgstr "تحتاج إلى تنشيط VIP5 قبل أن تتمكن من استخدام وظيفة الصوت"
+
+#~ msgid "现价"
+#~ msgstr "فقط"
+
+#~ msgid "原价"
+#~ msgstr "السعر الأصلي"
+
+#~ msgid "苹果登录"
+#~ msgstr "تسجيل الدخول إلى Apple"
+
+#~ msgid "FaceBook登录"
+#~ msgstr "تسجيل الدخول الى الفيسبوك"
+
+#~ msgid "回报"
+#~ msgstr "يعود"
+
+#~ msgid "每人简限购买一次!"
+#~ msgstr "شراء واحد فقط لكل شخص!"
+
+#~ msgid "新人礼包限定头像框!"
+#~ msgstr "حزمة هدية الوافد الجديد إطار الصورة الرمزية محدود!"
+
+#~ msgid "解散房间"
+#~ msgstr "حل الغرفة"
+
+#~ msgid "To:"
+#~ msgstr "إلى"
+
+#~ msgid "绑定邀请码"
+#~ msgstr "ربط كود الدعوة"
+
+#~ msgid "快速对决,我在房间{1}等你,准备展示实力了吗?"
+#~ msgstr ""
+#~ "مبارزة سريعة ، أنا في انتظارك في الغرفة {1} ، هل أنت مستعد لإظهار قوتي"
+
+#~ msgid "创建"
+#~ msgstr "غرفة"
+
+#, fuzzy
+#~| msgid "{1}天{2}时{3}分"
+#~ msgid "{1}天{2}时{3}分 left"
+#~ msgstr "يوم {1} ساعات {2} دقيقة {3}"
+
+#~ msgid "逃跑"
+#~ msgstr "تخلى"
+
+#~ msgid "PokerHero"
+#~ msgstr "بطل العرب"
+
+#~ msgid "王者"
+#~ msgstr "ملك"
+
+#~ msgid "7天"
+#~ msgstr "7 أيام"
+
+#~ msgid "UID邀请"
+#~ msgstr "دعوة UID"
+
+#~ msgid "Log In Every Day To Increase Your Day-7 Reward Multiplier!"
+#~ msgstr "قم بتسجيل الدخول كل يوم لزيادة مضاعف مكافأتك في اليوم السابع"
+
+#~ msgid "好友请求已经发送成功,请等待玩家通过好友申请"
+#~ msgstr ""
+#~ "تم إرسال طلب الصداقة بنجاح ، يرجى الانتظار حتى يتقدم اللاعب من خلال الصديق"
+
+#~ msgid "你将花费钻石"
+#~ msgstr "على وشك تنفق الالماس"
+
+#~ msgid "送给好友金币"
+#~ msgstr "أهداء عملات معدنية للاصدقاء"
+
+#~ msgid ""
+#~ "有玩家在您的Salon中进行游戏时，您每局将获得5%的金币收益和增加50的经验值。"
+#~ msgstr ""
+#~ "عندما يلعب لاعب في الديوانية الخاص بك ، ستكسب 5٪ ذهب و 50 نقطة خبرة إضافية "
+#~ "في كل جولة."
+
+#~ msgid "个人简介"
+#~ msgstr "السيرة الذاتية"
+
+#~ msgid "首冲"
+#~ msgstr "التعبئة الاولى"
+
+#~ msgid "上传"
+#~ msgstr "تحميل"
+
+#~ msgid "失败"
+#~ msgstr "فشل"
+
+#~ msgid "重开"
+#~ msgstr " آعادة محاولة"
+
+#~ msgid "退出"
+#~ msgstr "مغادرة"
+
+#~ msgid "最高战绩"
+#~ msgstr "أعلى رقم قياسي"
+
+#~ msgid "{1}小时"
+#~ msgstr "ساعة {1}"
+
+#~ msgid "Play Again"
+#~ msgstr "مرة أخرى"
+
+#~ msgid "正在登录中..."
+#~ msgstr "تسجيل الدخول..."
+
+#~ msgid "BEST VALUE"
+#~ msgstr "القيمة الأفضل"
+
+#~ msgid "正在寻找玩家参与游戏中..."
+#~ msgstr "يتم البحث عن لاعبين للمشاركة في اللعبة ..."
+
+#~ msgid "当前不允许退出，您可以在本局游戏结束后退出"
+#~ msgstr "حاليًا غير مسموح لك بالخروج ، يمكنك الخروج بعد انتهاء اللعبة"
+
+#~ msgid "邀请码错误"
+#~ msgstr "رمز الإحالة خاطئ"
+
+#~ msgid "绑定的邀请码玩家是自己的下级"
+#~ msgstr "لاعب رمز الدعوة المنضم هو تابعه"
+
+#~ msgid "每人"
+#~ msgstr "للشخص الواحد"
+
+#~ msgid "达到{1}人"
+#~ msgstr "تم الوصول إلى {1} من الأشخاص"
+
+#~ msgid "宝箱"
+#~ msgstr " صندوق الكنز "
+
+#~ msgid "青铜宝箱"
+#~ msgstr "صندوق الكنز البرونزي"
+
+#~ msgid "白银宝箱"
+#~ msgstr "صندوق الكنز الفضي"
+
+#~ msgid "黄金宝箱"
+#~ msgstr "صندوق كنز الذهب"
+
+#~ msgid "购买奖励"
+#~ msgstr "مكافآت الشراء"
+
+#~ msgid "立即获得以下奖励"
+#~ msgstr "احصل على المكافآت التالية على الفور."
+
+#~ msgid "贵族徽章"
+#~ msgstr "شارة نبيلة"
+
+#~ msgid "独家标志和展示"
+#~ msgstr "شعار وشاشة حصرية."
+
+#~ msgid "每日福利"
+#~ msgstr "المكافآت اليومية"
+
+#~ msgid "每日独家奖励"
+#~ msgstr "مكافآت يومية حصرية."
+
+#~ msgid "VIP房间"
+#~ msgstr "غرفة VIP"
+
+#~ msgid "专属贵宾室"
+#~ msgstr "غرفة حصرية لكبار الشخصيات"
+
+#~ msgid "VIP头像框"
+#~ msgstr "إطار الصورة الرمزية لكبار الشخصيات"
+
+#~ msgid "使用专属头像框来装饰您的照片"
+#~ msgstr "استخدم إطار الصورة الرمزية الحصري لتزيين صورتك."
+
+#~ msgid "好友列表置顶"
+#~ msgstr "لزجة على رأس"
+
+#~ msgid "好友列表优先显示"
+#~ msgstr "عرض الأولوية في قائمة الأصدقاء."
+
+#~ msgid "额外排位卷"
+#~ msgstr "تذكرة الرتبة الإضافية"
+
+#~ msgid "每天1张额外的排位卷"
+#~ msgstr "تذكرة واحدة إضافية في اليوم."
+
+#~ msgid "好友上限增加"
+#~ msgstr "زيادة حد الأصدقاء"
+
+#~ msgid "好友上限提升至 400"
+#~ msgstr "تمت ترقية الحد الأقصى للأصدقاء إلى 400."
+
+#~ msgid "每天2张额外的排位卷"
+#~ msgstr "تذكرتان من رتبة إضافية في اليوم."
+
+#~ msgid "王子聊天框"
+#~ msgstr "برينس شات بوكس"
+
+#~ msgid "王子的专属聊天框"
+#~ msgstr "مربع الدردشة الحصري للأمير."
+
+#~ msgid "钻石不够"
+#~ msgstr "الماس غير كاف"
+
+#~ msgid "剩余天数{1}"
+#~ msgstr "الأيام المتبقية {1}"
+
+#~ msgid "每天分享至Facebook可获得3000金币"
+#~ msgstr "شارك على فيسبوك كل يوم لتحصل على 3000 قطعة نقدية"
+
+#~ msgid "分享奖励"
+#~ msgstr "مكافآت النشر"
+
+#~ msgid "每周奖励"
+#~ msgstr "مكافأة 7 أيام"
+
+#~ msgid "参考"
+#~ msgstr "رمز"
+
+#~ msgid "下级"
+#~ msgstr "المتابعين"
+
+#~ msgid "当你的朋友填写了你的邀请码"
+#~ msgstr "عندما يقوم صديقك باستخدام الرمز الخاص بك سيمكن من أضافتك "
+
+#~ msgid "上限为50次奖励"
+#~ msgstr "ما يصل إلى 50 مكافأة"
+
+#~ msgid "填写邀请码"
+#~ msgstr "إدخال الرمز"
+
+#~ msgid "你有一个邀请码？"
+#~ msgstr "هل لديك رمز إحالة؟"
+
+#~ msgid "输入一个6位数字符的邀请码:"
+#~ msgstr "أدخل رمز الإحالة:"
+
+#~ msgid "获取"
+#~ msgstr "احصل على"
+
+#~ msgid "你已经填入了一个邀请码!"
+#~ msgstr "لقد قمت بملء كود الإحالة!"
+
+#~ msgid "你的朋友加入了这个游戏!"
+#~ msgstr "انضم صديقك لهذه اللعبة!"
+
+#~ msgid "您获得"
+#~ msgstr "لقد حصلت"
+
+#~ msgid "立即购买通行证,超多钻石和专属皮肤您将马上拥有"
+#~ msgstr ""
+#~ "اشترِ بطاقة مسرحية منسا الآن ، وستحصل على الفور على الكثير من الماس والجلود "
+#~ "الحصرية."
+
+#~ msgid "Limited expression suit"
+#~ msgstr "تعبير حصري"
+
+#~ msgid "10 times diamond return"
+#~ msgstr "10 أضعاف عودة الماسات"
+
+#~ msgid "当前没有奖励可以领取"
+#~ msgstr "لا توجد حاليا أي مكافآت للمطالبة بها"
+
+#~ msgid "{1}天{2}时{3}分"
+#~ msgstr "يوم {1} ساعات {2} دقيقة {3}"
+
+#~ msgid "X{1}"
+#~ msgstr "X{1}"
+
+#~ msgid "您确定使用[{1}]钻石刷新当前任务吗？"
+#~ msgstr "هل أنت متأكد من تحديث المهمة الحالية بـ [{1}] الماسة؟"
+
+#~ msgid "您确定使用[{1}]钻石完成当前任务吗？"
+#~ msgstr "هل أنت متأكد من استخدام [{1}] الماس لإكمال المهمة الحالية؟"
+
+#~ msgid "每邀请一个朋友可以获得1500金币"
+#~ msgstr ""
+#~ "يمكنك الحصول على ١٥٠٠ قطعة\n"
+#~ " ذهبية عند دعوتك لأحد أصدقائك"
+
+#~ msgid "删除好友"
+#~ msgstr "أزالة الصديق"
+
+#~ msgid "全选"
+#~ msgstr "اختر الكل"
+
+#~ msgid "移除"
+#~ msgstr "إزالة"
+
+#~ msgid "好友请求"
+#~ msgstr "طلبات صداقة"
+
+#~ msgid "5回合"
+#~ msgstr "خمس جولات"
+
+#~ msgid "底注"
+#~ msgstr "رهان"
+
+#~ msgid "分享"
+#~ msgstr "أنش"
+
+#~ msgid "保存"
+#~ msgstr "احفظ"
+
+#~ msgid "性别"
+#~ msgstr "جنس"
+
+#~ msgid "添加一份自我介绍"
+#~ msgstr "أضف السيرة الذاتية لتقديم نفسك"
+
+#~ msgid "自我介绍"
+#~ msgstr " قدم نفسك"
+
+#~ msgid "Game Friends"
+#~ msgstr "لعبة الأصدقاء"
+
+#~ msgid "Online players"
+#~ msgstr "لاعبون عبر الإنترنت"
+
+#~ msgid "离线"
+#~ msgstr "غير متصل على الانترنت"
+
+#~ msgid "正在游戏"
+#~ msgstr "تلعب"
+
+#~ msgid "注意:只能邀请在线好友"
+#~ msgstr "ملاحظة: يمكن دعوة الأصدقاء المتصلين فقط"
+
+#~ msgid "余额不足"
+#~ msgstr "رصيد غير كاف"
+
+#~ msgid "玩家"
+#~ msgstr "لاعب"
+
+#~ msgid "没有排位赛"
+#~ msgstr "لا رتبة"
+
+#~ msgid "ROOM ID"
+#~ msgstr "رقم الغرفة"
+
+#~ msgid "重置"
+#~ msgstr "إعادة ضبط"
+
+#~ msgid "INVITE GAME FRIENDS"
+#~ msgstr "دعوة أصدقاء اللعبة"
+
+#~ msgid "GLOBAL CHAT RECRUIT"
+#~ msgstr "تجنيد الدردشة العالمية"
+
+#~ msgid "您的好友"
+#~ msgstr "أصدقائك"
+
+#~ msgid "我迫不及待要和我的朋友打牌了！让我们来学习怎样创建一个房间！"
+#~ msgstr "لا أطيق الانتظار للعب الورق مع أصدقائي! دعنا نتعلم كيفية إنشاء غرفة!"
+
+#~ msgid "我们可以根据我们的需求来创建房间。"
+#~ msgstr "يمكننا إنشاء غرف وفقًا لاحتياجاتنا."
+
+#~ msgid "你可以点击此处邀请你的好友！"
+#~ msgstr "يمكنك النقر هنا لدعوة أصدقائك!"
+
+#~ msgid "现在让我们继续学习怎样邀请好友以及把房间分享到世界聊天！"
+#~ msgstr ""
+#~ "الآن دعونا نواصل تعلم كيفية دعوة الأصدقاء ومشاركة الغرفة مع العالم للدردشة!"
+
+#~ msgid "当你有好友时会展示在此处。点击邀请按钮邀请他们加入你的房间！"
+#~ msgstr ""
+#~ "سيظهر هنا عندما يكون لديك أصدقاء. انقر فوق زر الدعوة لدعوتهم للانضمام إلى "
+#~ "غرفتك!"
+
+#~ msgid "你可以点击此处把房间分享到世界聊天！"
+#~ msgstr "يمكنك النقر هنا لمشاركة الغرفة مع الدردشة العالمية!"
+
+#~ msgid "看着里!这是你的房间号！其他人可以通过搜索房间号来加入你的房间！"
+#~ msgstr ""
+#~ "انظر إلى الداخل ، هذا هو رقم غرفتك! يمكن للآخرين الانضمام إلى غرفتك من "
+#~ "خلال البحث عن رقم الغرفة!"
+
+#~ msgid "接下来，让我们返回大厅并继续学习如何加入房间！"
+#~ msgstr ""
+#~ "بعد ذلك ، دعنا نعود إلى الردهة ونستمر في تعلم كيفية الانضمام إلى الغرفة!"
+
+#~ msgid "输入你想要加入的房间号！"
+#~ msgstr "أدخل رقم الغرفة التي تريد الانضمام إليها!"
+
+#~ msgid "在此处你可以查看他人的招募信息!点击加入按钮加入该房间！"
+#~ msgstr ""
+#~ "هنا يمكنك عرض معلومات التوظيف للآخرين! انقر فوق زر الانضمام للانضمام إلى "
+#~ "الغرفة!"
+
+#~ msgid "创建一个房间，和你的好友一起享受乐趣！"
+#~ msgstr "قم بإنشاء غرفة واستمتع مع أصدقائك!"
+
+#~ msgid "继续签到{1}天可获得"
+#~ msgstr "استمر في تسجيل الدخول لمدة {1} يوم للحصول على"
+
+#~ msgid "第{1}天"
+#~ msgstr "يوم {1}"
+
+#~ msgid "Buy a pass now"
+#~ msgstr "شراء التمريرة الآن"
+
+#~ msgid "Mensa play pass end in"
+#~ msgstr "وقت النهاية"
+
+#~ msgid "Exclusive skin"
+#~ msgstr "تعبير حصري"
+
+#~ msgid ""
+#~ "ESTIMATION\n"
+#~ "1/5"
+#~ msgstr ""
+#~ "إستميشن\n"
+#~ "1/5"
+
+#~ msgid "您收到一个牌局邀请,是否前往"
+#~ msgstr "لقد تلقيت دعوة إلى لعبة البوكر ، هل تريد الذهاب إلى"
+
+#~ msgid "提交成功"
+#~ msgstr "تم الإرسال بنجاح"
+
+#~ msgid "Use VIP emoji when you become VIP member!"
+#~ msgstr "استخدم الرموز التعبيرية VIP عندما تصبح عضوًا في VIP!"
+
+#~ msgid "绑定FB账号获得{1}金币和{2}钻石"
+#~ msgstr "اتصل بفيسبوك واحصل على 6000 قطعة نقدية و 10 ماسات!"
+
+#~ msgid "是否前往充值"
+#~ msgstr "سواء للذهاب لإعادة الشحن"
+
+#~ msgid "您是新人吗?"
+#~ msgstr "هل أنت قادم جديد؟"
+
+#~ msgid "尽情享受游戏吧!"
+#~ msgstr "استمتع باللعبة!"
+
+#~ msgid "下一步"
+#~ msgstr "الخطوة التالية"
+
+#~ msgid ""
+#~ "你可以展示一套由至少三张相同花色的连续牌或至少三张相同等级的牌组成的牌。"
+#~ msgstr ""
+#~ "يمكنك إظهار مجموعة من البطاقات تتكون من ثلاث بطاقات متتالية على الأقل من "
+#~ "نفس المجموعة أو ثلاث بطاقات على الأقل من نفس التصنيف."
+
+#~ msgid "当你第一次在桌面上展示牌型时，牌的数值必须是51或以上。"
+#~ msgstr ""
+#~ "عند إظهار نوع البطاقة لأول مرة على الجدول ، يجب أن تكون قيمة البطاقة 51 أو "
+#~ "أعلى."
+
+#~ msgid "让我们开始吧!"
+#~ msgstr "لنبدأ!"
+
+#~ msgid "请选着语言"
+#~ msgstr "الرجاء تحديد اللغة"
+
+#~ msgid ""
+#~ "抱歉,您携带的金币不够进入这个场次,您可以选择低倍场次或者充值获得更多的金币."
+#~ msgstr ""
+#~ "عذرًا ، ليس لديك ما يكفي من العملات الذهبية لدخول هذه الجولة، يمكنك اختيار "
+#~ "حدث قصير الوقت أو إعادة الشحن للحصول على المزيد من العملات الذهبية."
+
+#~ msgid "去充值"
+#~ msgstr "أنتقل لتعبئة"
+
+#~ msgid "继续游戏"
+#~ msgstr "أكمل اللعبة"
+
+#, fuzzy
+#~| msgid "第{1}天"
+#~ msgid "第{1}届"
+#~ msgstr "يوم {1}"
+
+#~ msgid "All"
+#~ msgstr "الكل"
+
+#~ msgid "Twitter"
+#~ msgstr "تويتر"
+
+#~ msgid "美国"
+#~ msgstr "الولايات المتحدة الأمريكية"
+
+#~ msgid "中国"
+#~ msgstr "الصين"
+
+#~ msgid "邮件详情"
+#~ msgstr "تفاصيل البريد الإلكتروني"
+
+#~ msgid "在线奖励"
+#~ msgstr "مكافآت الإستمرار باللعب"
+
+#~ msgid "解散"
+#~ msgstr "تذوب"
+
+#~ msgid "My"
+#~ msgstr "لي"
+
+#~ msgid "连接FB"
+#~ msgstr "ربط الفيسبوك"
+
+#~ msgid "购买开启VIP资格,您剩余享受VIP时间:{1}天"
+#~ msgstr "شراء لفتح خاصية VIP ، الوقت المتبقي  VIP : يوم  {1}"
+
+#, fuzzy
+#~| msgid "You can"
+#~ msgid "You haven"
+#~ msgstr "تستطيع"
+
+#~ msgid "游戏内互动表情id错误"
+#~ msgstr "معرف الرمز الملصقات داخل اللعبة خطأ"
+
+#~ msgid "金币不够"
+#~ msgstr "عملات ذهبية غير كافية"
+
+#, fuzzy
+#~| msgid "钻石不足"
+#~ msgid "用户的钻石不足"
+#~ msgstr "الماس غير كاف"
+
+#~ msgid "欢迎来到Poker Hero"
+#~ msgstr "مرحبا بكم في بطل البوكر"
+
+#~ msgid "连接 Facebook 准备展示实力了吗？ 最棒的Poker Game都在这里!"
+#~ msgstr "هل أنت مستعد لإظهار قوتك؟ أفضل ألعاب البوكر كلها هنا"
+
+#~ msgid "每天登录领取更多的每日奖励!"
+#~ msgstr "قم بتسجيل الدخول كل يوم لتلقي المزيد من المكافآت اليومية"
+
+#~ msgid "参加联赛,成为King!"
+#~ msgstr "انضم إلى الدوري وأصبح ملكًا"
+
+#~ msgid "最经典的Baloot游戏."
+#~ msgstr "لعبة البلوت الأكثر كلاسيكية."
+
+#, fuzzy
+#~| msgid "快速对决,一局Hand玩法。"
+#~ msgid "快速对决,一局Hand玩法."
+#~ msgstr "مبارزة سريعة ، بلوت ذو جولة واحدة ."
+
+#, fuzzy
+#~| msgid "随时随地与好友一起玩Poker。"
+#~ msgid "随时随地与好友一起玩Poker."
+#~ msgstr "العب البوكر مع الأصدقاء في أي وقت وفي أي مكان."
+
+#~ msgid "收集朋友的礼物! 更多的朋友 - 更多的乐趣!"
+#~ msgstr "اجمع الهدايا من الأصدقاء! المزيد من الأصدقاء - المزيد من المرح!"
+
+#, fuzzy
+#~| msgid "全民都在玩Domino。"
+#~ msgid "全民都在玩Domino."
+#~ msgstr "الجميع يلعب دومينو."
+
+#~ msgid "连接 Facebook 以保护您的数据!"
+#~ msgstr "اربط حسابك بالفيس بوك لحماية بياناتك"
+
+#~ msgid "加载资源,无流量消耗,请勿关闭游戏!"
+#~ msgstr ""
+#~ "جاري تحميل الموارد ، بدون استهلاك البيانات الهاتف  ، الرجاء لا تغلق اللعبة!"
+
+#~ msgid ""
+#~ "1.当您收到其他玩家赠送给您的礼物时，您将会获得魅力值；\n"
+#~ "2.礼物的金币价格和魅力值的比例为1:1；\n"
+#~ "3.赠送给其他玩家礼物，赠送的一方不会获得魅力值；\n"
+#~ "4.魅力值榜单由每周榜单、每个月榜单、总榜单组成，数据是即时刷新的；\n"
+#~ "5.其他玩家可以通过赠送小恶魔来减少您的魅力值；\n"
+#~ "6.您可以在个人信息内查看赠送礼物的列表以及收到礼物的列表。"
+#~ msgstr ""
+#~ "1. عندما تتلقى هدايا من لاعبين آخرين ، ستحصل على نقاط سحر ؛\n"
+#~ "2. نسبة سعر العملات الذهبية وقيمة سحر الهدية هي 1: 1 ؛\n"
+#~ "3. الهدايا الممنوحة للاعبين الآخرين لن تحصل على نقاط سحر ؛\n"
+#~ "4. تتكون قائمة قيمة السحر من القائمة الأسبوعية ، والقائمة الشهرية ، "
+#~ "والقائمة الإجمالية ، ويتم تحديث البيانات على الفور ؛\n"
+#~ "5. يمكن للاعبين الآخرين تقليل سحرك من خلال إهداء الشياطين الصغار ؛\n"
+#~ "6. يمكنك عرض قائمة الهدايا المقدمة وقائمة الهدايا المستلمة في معلوماتك "
+#~ "الشخصية."
+
+#~ msgid "Terneeb"
+#~ msgstr "طرنيب"
+
+#~ msgid "一款优秀的牌类游戏"
+#~ msgstr "لعبة الورق المتميزة"
+
+#~ msgid "每天登录即可获得丰厚奖励"
+#~ msgstr "قم بتسجيل الدخول كل يوم لتلقي المزيد من المكافآت اليومية!"
+
+#~ msgid "最真实的牌桌体验"
+#~ msgstr "تجربة الطاولة الاكثر أصالة"
+
+#~ msgid "Profile"
+#~ msgstr "الملف الشخصي"
+
+#~ msgid "孟加拉国"
+#~ msgstr "بنغلاديش"
+
+#~ msgid "意大利"
+#~ msgstr "إيطاليا"
+
+#~ msgid "俄罗斯"
+#~ msgstr "روسيا"
+
+#~ msgid "埃塞俄比亚"
+#~ msgstr "أثيوبيا"
+
+#~ msgid "加拿大"
+#~ msgstr "كندا"
+
+#~ msgid "法国"
+#~ msgstr "فرنسا"
+
+#~ msgid "菲律宾"
+#~ msgstr "الفلبين"
+
+#~ msgid "乌克兰"
+#~ msgstr "اوكرانيا"
+
+#~ msgid "尼泊尔"
+#~ msgstr "نيبال"
+
+#~ msgid "澳大利亚"
+#~ msgstr "أستراليا"
+
+#~ msgid "荷兰"
+#~ msgstr "هولندا"
+
+#~ msgid "奥地利"
+#~ msgstr "النمسا"
+
+#~ msgid "西班牙"
+#~ msgstr "إسبانيا"
+
+#~ msgid "德国"
+#~ msgstr "ألمانيا"
+
+#~ msgid "英国"
+#~ msgstr "المملكة المتحدة"
+
+#~ msgid "土耳其"
+#~ msgstr "تركيا"
+
+#~ msgid "印尼"
+#~ msgstr "إندونيسيا"
+
+#~ msgid "印度"
+#~ msgstr "الهند"
+
+#~ msgid "巴基斯坦"
+#~ msgstr "باكستان"
+
+#~ msgid "VIP"
+#~ msgstr "كبار الشخصيات"
+
+#~ msgid "订阅7天"
+#~ msgstr "7 أيام"
+
+#~ msgid "订阅一个月"
+#~ msgstr "اشترك لمدة شهر"
+
+#~ msgid "权益列表"
+#~ msgstr "قائمة الفوائد"
+
+#~ msgid "联赛尚未开启"
+#~ msgstr "الدوري لم يبدأ بعد"
+
+#~ msgid "赠送人"
+#~ msgstr "الشخص المهدي"
+
+#~ msgid "赠送给"
+#~ msgstr "اهداء ل"
+
+#~ msgid "Total"
+#~ msgstr "المجموع"
+
+#~ msgid "当前赛季"
+#~ msgstr "الموسم الحالي"
+
+#~ msgid "排位奖励"
+#~ msgstr "المكافآت التصنيف"
+
+#~ msgid "你确定要退出游戏吗？"
+#~ msgstr "هل أنت متأكد أنك تريد إنهاء اللعبة؟"
+
+#~ msgid "您确定要发起解散房间请求吗？"
+#~ msgstr "هل أنت متأكد أنك تريد بدء طلب حل الغرفة؟"
+
+#~ msgid "欢迎来到mensa play hand"
+#~ msgstr "أهلا بك!"
+
+#~ msgid "一款优秀的baloot优秀"
+#~ msgstr "لعبة البلوت الأكثر كلاسيكية."
+
+#, fuzzy
+#~| msgid "字体颜色"
+#~ msgid "字体"
+#~ msgstr "لون الخط"
+
+#~ msgid "女"
+#~ msgstr "أنثى"
+
+#~ msgid "男"
+#~ msgstr "ذكر"
+
+#~ msgid "END IN"
+#~ msgstr "ينتهي في"
+
+#~ msgid "Rewards for reaching game number"
+#~ msgstr "المكافآت للوصول إلى رقم اللعبة"
+
+#~ msgid "Complete the corresponding number of games to get rewards"
+#~ msgstr "أكمل العدد المقابل من الألعاب لتحصل على مكافآت"
+
+#~ msgid "连接已失效"
+#~ msgstr "انتهى الاتصال"
+
+#~ msgid "VIP房"
+#~ msgstr "غرفة VIP"
+
+#~ msgid "洗牌:开"
+#~ msgstr "المراوغة: فتح"
+
+#~ msgid "洗牌:关"
+#~ msgstr "تملص"
+
+#~ msgid "语音:开"
+#~ msgstr "الصوت: تشغيل"
+
+#~ msgid "语音:关"
+#~ msgstr "الصوت: مغلق"
+
+#~ msgid "正在匹配中...({1}秒)"
+#~ msgstr "مطابقة ... {1} ثانية"
+
+#~ msgid "一回合制"
+#~ msgstr "جولة واحدة"
+
+#~ msgid "开始"
+#~ msgstr "ابدأ"
+
+#~ msgid "五回合制"
+#~ msgstr "لعبة عادية"
+
+#~ msgid "每天您可以获得3张入场券"
+#~ msgstr "يمكنك الحصول على 3 تذاكر دخول مجانًا كل يوم"
+
+#~ msgid "每天24:00:00刷新"
+#~ msgstr "تحديثات كل يوم في الساعة24:00:00"
+
+#~ msgid "积分"
+#~ msgstr "مجموع نقاط الدوري"
+
+#~ msgid "连胜"
+#~ msgstr "خط الفوز"
+
+#~ msgid "下一个等级"
+#~ msgstr "المرتبة"
+
+#~ msgid "全部"
+#~ msgstr "المجموع"
+
+#~ msgid "帮助"
+#~ msgstr "مساعدة"
+
+#~ msgid "说明"
+#~ msgstr "يبين"
+
+#~ msgid "赛季"
+#~ msgstr "موسم"
+
+#~ msgid "匹配"
+#~ msgstr "تطابق"
+
+#~ msgid "去"
+#~ msgstr "إلعب"
+
+#~ msgid "任务"
+#~ msgstr "مهام يومية"
+
+#~ msgid "只能邀请在线的好友"
+#~ msgstr "ملاحظة: يمكن دعوة الأصدقاء المتصلين فقط"
+
+#~ msgid "您缺少排位赛门票"
+#~ msgstr "أنت تفتقد التذاكر المؤهلة"
+
+#~ msgid "白金"
+#~ msgstr "فضة"
+
+#~ msgid "在线匹配"
+#~ msgstr "مباراة"
+
+#~ msgid "用户资料"
+#~ msgstr "معلومات المستخدم"
+
+#~ msgid "昵称"
+#~ msgstr "اسم الشهرة"
+
+#~ msgid "排位记录"
+#~ msgstr "إحصائيات الدوري"
+
+#~ msgid "通行证"
+#~ msgstr "وثيقة العبور"
+
+#~ msgid "VIP{1}"
+#~ msgstr "VIP{1}"
+
+#~ msgid "财富排行"
+#~ msgstr "المتصدرين"
+
+#~ msgid "钻石排行"
+#~ msgstr "تصنيف الماس"
+
+#~ msgid "联赛排名"
+#~ msgstr "ترتيب الدوري"
+
+#~ msgid "好友排名"
+#~ msgstr "ترتيب الأصدقاء"
+
+#~ msgid "      权益"
+#~ msgstr "الحقوق والمصالح"
+
+#~ msgid "收礼列表"
+#~ msgstr "قائمة  استلام الهدايا"
+
+#~ msgid "送礼列表"
+#~ msgstr "قائمة الهدايا"
+
+#~ msgid "谢谢"
+#~ msgstr "شكرا"
+
+#~ msgid "匹配权限"
+#~ msgstr "مفتوح لجميع المباريات"
+
+#~ msgid "VIP任务"
+#~ msgstr "مهمة VIP"
+
+#~ msgid "排位卷"
+#~ msgstr "تذكرة اللعبة المصنفة"
+
+#~ msgid "好友排行置顶"
+#~ msgstr "الأعلى بين الأصدقاء"
+
+#~ msgid "VIP勋章"
+#~ msgstr "وسام VIP"
+
+#~ msgid "分享至facebook7天得到一次旋转机会"
+#~ msgstr "شارك على الفيسبوك واحصل على دور خلال سبعة أيام"
+
+#~ msgid "已过期"
+#~ msgstr "منتهية الصلاحية"
+
+#~ msgid "设置密码"
+#~ msgstr "ضبط كلمة السر"
+
+#, fuzzy
+#~| msgid "Go Down"
+#~ msgid "GoDown"
+#~ msgstr "انزل"
+
+#~ msgid "进入"
+#~ msgstr "أدخل"
+
+#~ msgid "GO DOWN"
+#~ msgstr "انزل"
+
+#~ msgid "PASS"
+#~ msgstr "نجاح"
+
+#~ msgid "升级奖励"
+#~ msgstr "حزمة تطور المستوى"
+
+#~ msgid "VIP特权"
+#~ msgstr "امتيازات ال VIP"
+
+#~ msgid "Come and join"
+#~ msgstr "تعال وانضم"
+
+#~ msgid ""
+#~ "Who will be banned from the draw?\n"
+#~ "• People who re-unfollow us on social media\n"
+#~ "• People who have bad behaviour in the game\n"
+#~ "• People who have a high level of abandoned games\n"
+#~ "• People who make fake news about us on social media\n"
+#~ "• People who uninstall the game"
+#~ msgstr ""
+#~ "من الذي سيمنع من السحب؟\n"
+#~ "• الأشخاص الذين يعيدون إلغاء متابعتنا على وسائل التواصل الاجتماعي\n"
+#~ "• الأشخاص الذين لديهم سلوك سيء في اللعبة\n"
+#~ "• الأشخاص الذين لديهم مستوى عالٍ من الألعاب المهجورة\n"
+#~ "• الأشخاص الذين يصنعون أخبارًا كاذبة عنا على وسائل التواصل الاجتماعي\n"
+#~ "• الأشخاص الذين يقومون بإلغاء تثبيت اللعبة"
+
+#~ msgid "成长礼包"
+#~ msgstr "حزمة النمو"
+
+#~ msgid "每日获胜排名"
+#~ msgstr "ترتيب الفوز"
+
+#~ msgid "商店"
+#~ msgstr "متجر"
+
+#~ msgid "确认是否删除所有消息?"
+#~ msgstr "هل أنت متأكد من حذف جميع الرسائل؟"
+
+#~ msgid "在线游戏"
+#~ msgstr "لعبة على الانترنت"
+
+#~ msgid "系统消息"
+#~ msgstr "معلومات عن اللعبة"
+
+#~ msgid "删除所有"
+#~ msgstr "حذف الكل"
+
+#~ msgid "选择主花色"
+#~ msgstr "اختر بدلة حكم"
+
+#~ msgid "魅力值榜"
+#~ msgstr "قائمة السحر"
+
+#~ msgid "游戏好友"
+#~ msgstr "أصدقاء اللعبة"
+
+#~ msgid "最小携带"
+#~ msgstr "أقل حمل"
+
+#~ msgid "房间列表"
+#~ msgstr "قائمة الغرف"
+
+#~ msgid "坐下"
+#~ msgstr "اجلس"
+
+#~ msgid "过滤"
+#~ msgstr "الفلتر"
+
+#~ msgid "房间状态"
+#~ msgstr "حالة الغرفة"
+
+#~ msgid "显示所有"
+#~ msgstr "عرض الكل"
+
+#~ msgid "隐藏已满"
+#~ msgstr "إخفاء ممتلئ"
+
+#~ msgid "需要间隔{1}秒"
+#~ msgstr "يتطلب فاصل زمني من {1} ثانية"
+
+#~ msgid "无权限操作"
+#~ msgstr "عملية غير مصرح بها"
+
+#~ msgid "删除失败"
+#~ msgstr "فشل في الحذف"
+
+#~ msgid "该用户没有申请"
+#~ msgstr "هذا المستخدم لم يطبق"
+
+#~ msgid "审核已经过期"
+#~ msgstr "انتهت صلاحية المراجعة"
+
+#~ msgid "用户已加入其它俱乐部"
+#~ msgstr "انضم المستخدم إلى نادي آخر"
+
+#~ msgid "加入异常"
+#~ msgstr "الانضمام إلى الاستثناء"
+
+#~ msgid "俱乐部已满"
+#~ msgstr "النادي ممتلئ"
+
+#~ msgid "修改异常"
+#~ msgstr "تعديل الاستثناء"
+
+#~ msgid "俱乐部人数已超过容量"
+#~ msgstr "لقد تجاوز عدد الأندية العدد الأقصى"
+
+#~ msgid "你是否确定要将{1}移除俱乐部?"
+#~ msgstr "هل أنت متأكد أنك تريد إزالة {1} من النادي؟"
+
+#~ msgid "请输入俱乐部名称"
+#~ msgstr "الرجاء إدخال اسم النادي"
+
+#~ msgid "请输入俱乐部简介"
+#~ msgstr "الرجاء إدخال ملف تعريف النادي"
+
+#~ msgid "人数已满"
+#~ msgstr "الرقم ممتلئ"
+
+#~ msgid "禁止加入"
+#~ msgstr "لا انضمام"
+
+#~ msgid "申请成功请等待结果"
+#~ msgstr "التطبيق ناجح ، يرجى انتظار النتيجة"
+
+#~ msgid "需申请"
+#~ msgstr "تحتاج إلى التقديم"
+
+#~ msgid "开放"
+#~ msgstr "افتح"
+
+#~ msgid "未加入俱乐部"
+#~ msgstr "لم ينضم إلى النادي"
+
+#~ msgid "不是自己的俱乐部"
+#~ msgstr "لا تملك النادي"
+
+#~ msgid "今天已经签到"
+#~ msgstr "تم تسجيل الدخول اليوم"
+
+#~ msgid "签到成功"
+#~ msgstr "تسجيل الدخول بنجاح"
+
+#~ msgid "是否退出俱乐部?"
+#~ msgstr "هل ستغادر النادي؟"
+
+#~ msgid "您已经被踢出俱乐部"
+#~ msgstr "لقد تم طردك من النادي"
+
+#~ msgid "俱乐部排行"
+#~ msgstr "ترتيب النادي"
+
+#~ msgid "创建俱乐部"
+#~ msgstr "أنشئ نادٍ"
+
+#~ msgid "搜索"
+#~ msgstr "بحث"
+
+#~ msgid "申请加入"
+#~ msgstr "تقديم طلب للانضمام"
+
+#~ msgid "成员管理"
+#~ msgstr "إدارة الأعضاء"
+
+#~ msgid "申请管理"
+#~ msgstr "الإدارة التطبيقية"
+
+#~ msgid "俱乐部设置"
+#~ msgstr "إعدادات النادي"
+
+#~ msgid "加入方式"
+#~ msgstr "كيف تنضم"
+
+#~ msgid "规模"
+#~ msgstr "حجم"
+
+#~ msgid "添加一份简介"
+#~ msgstr "أضف مقدمة"
+
+#~ msgid "俱乐部名称"
+#~ msgstr "اسم النادي"
+
+#~ msgid "在这里修改你的俱乐部名"
+#~ msgstr "تعديل اسم النادي الخاص بك هنا"
+
+#~ msgid "人数"
+#~ msgstr "عدد الاشخاص"
+
+#~ msgid "类型"
+#~ msgstr "نوع"
+
+#~ msgid "名称"
+#~ msgstr "اسم"
+
+#~ msgid "签到"
+#~ msgstr "تسجيل الدخول"
+
+#~ msgid "已签到"
+#~ msgstr "تم تسجيل الوصول"
+
+#~ msgid "管理"
+#~ msgstr "تدبير"
+
+#~ msgid "离开俱乐部"
+#~ msgstr "اترك النادي"
+
+#~ msgid "创建游戏"
+#~ msgstr "إنشاء لعبة"
+
+#~ msgid "PLAY"
+#~ msgstr "لعب"
+
+#~ msgid "CREATE"
+#~ msgstr "إنشاء"
+
+#~ msgid "世界聊天"
+#~ msgstr "الدردشة العالمية"
+
+#~ msgid "好友消息"
+#~ msgstr "رسائل من أصدقائك"
+
+#~ msgid "订阅之后每天都可以领取奖励"
+#~ msgstr "يمكنك الحصول على مكافآت كل يوم بعد الاشتراك"
+
+#~ msgid "单人"
+#~ msgstr "منفرد"
+
+#~ msgid "队伍"
+#~ msgstr "فريق"
+
+#~ msgid "处于组队匹配状态"
+#~ msgstr "في حالة مباراة الفريق"
+
+#~ msgid "还未邀请到好友不能开始"
+#~ msgstr "لا يمكن أن تبدأ بدون دعوة الأصدقاء"
+
+#~ msgid "组队模式下不可改变进入金币"
+#~ msgstr "وصول غير قابل للتغيير إلى العملات الذهبية في وضع الفريق"
+
+#~ msgid "vip"
+#~ msgstr "كبار الشخصيات"
+
+#~ msgid "礼包"
+#~ msgstr "حزمة هدية"
+
+#~ msgid "You are giving me a headache"
+#~ msgstr "صدعتلي راسي"
+
+#~ msgid "Are you kidding me?"
+#~ msgstr "عم تمزح معي ولا شو؟"
+
+#~ msgid "Boss"
+#~ msgstr "أرباب"
+
+#~ msgid "Hurry my mom thinks I am studying"
+#~ msgstr "اسرع امي مفكرتني بدرس"
+
+#~ msgid "Good work needs time"
+#~ msgstr "الشغل النظيف بدو وقت"
+
+#~ msgid "You made us lose"
+#~ msgstr "خسرنا من وراك "
+
+#~ msgid "What are you doing"
+#~ msgstr "لك شو بتسوي"
+
+#~ msgid "You are an awesome teammate"
+#~ msgstr "شو هالشريك النار"
+
+#~ msgid "Have patience"
+#~ msgstr "ولك طول بالك شوي"
+
+#~ msgid "新手礼包"
+#~ msgstr "حزمة هدية المبتدئ"
+
+#~ msgid "嗨"
+#~ msgstr "أهلا"
+
+#~ msgid "新手?"
+#~ msgstr "مرحبا?"
+
+#~ msgid "好身手"
+#~ msgstr "حركة جميلة"
+
+#~ msgid "优秀"
+#~ msgstr "ممتاز"
+
+#~ msgid "醒醒"
+#~ msgstr "استيقظ"
+
+#~ msgid "我搞砸了"
+#~ msgstr "العب أو غادر"
+
+#~ msgid "玩或离开"
+#~ msgstr "العب أو غادر"
+
+#~ msgid "嗨, 新手"
+#~ msgstr "مرحبا مبتدئ"
+
+#~ msgid "赶快"
+#~ msgstr "أسرع"
+
+#~ msgid "做得好"
+#~ msgstr "أحسنت"
+
+#~ msgid "理牌"
+#~ msgstr "ترتيب البطاقات"
+
+#~ msgid "HINT"
+#~ msgstr "مساعدة"
+
+#~ msgid "出牌"
+#~ msgstr "رمي البطاقة"
+
+#~ msgid "成为VIP{1}:累积消耗"
+#~ msgstr "الاستهلاك التراكمي VIP {1} كن"
+
+#~ msgid "信息"
+#~ msgstr "معلومة"
+
+#~ msgid "前100名将会展示在排行榜上"
+#~ msgstr "سيكون أفضل 100 لاعب في الترتيب"
+
+#~ msgid ""
+#~ "上榜规则和奖励\n"
+#~ "1.俱乐部成员在游戏时可有获得活跃度积分，积分前100的俱乐部可以登上俱乐部排行"
+#~ "榜。\n"
+#~ "2.每次排行榜赠送奖励的的周期是个3月，但是排行榜会时时刷新。\n"
+#~ "3.俱乐部活跃度排行榜第1的俱乐部每个成员可以获得100钻石奖励。第2到10名获得80"
+#~ "钻石奖励，第11到50名获得50钻石奖励，其余51到100名获得20钻奖励，其次每个俱乐"
+#~ "部的部长额外获得50钻石奖励，副部长获得额外30钻石奖励。"
+#~ msgstr ""
+#~ "قواعد الترتيب والمكافآت\n"
+#~ "      يمكن لأعضاء النادي ربح نقاط نشاط أثناء اللعبة ، ويمكن إدراج أفضل 100 "
+#~ "نادي في تصنيفات الأندية.\n"
+#~ "       دورة المكافآت لكل لوحة في الصدارة هي 3 أشهر ، ولكن سيتم تحديث لوحة "
+#~ "الصدارة من وقت لآخر.\n"
+#~ "        كل عضو في النادي رقم 1 في ترتيب نشاط النادي يمكنه الحصول على 100 "
+#~ "مكافأة ماسية. تتلقى المراكز من الثاني إلى العاشر 80 ماسة ، والمراكز من 11 "
+#~ "إلى 50 تتلقى 50 ماسة ، بينما تتلقى المراكز 51 إلى 100 المتبقية 20 ماسة. "
+#~ "ثانيًا ، يتلقى وزراء كل ناد 50 ماسة إضافية ، ويتلقى نواب الوزراء 30 ماسة "
+#~ "إضافية ."
+
+#~ msgid ""
+#~ "mensa play 俱乐部 规则说明：\n"
+#~ "1.mensa play 俱乐部给用户提供一个交友社交游戏的俱乐部，玩家可以在俱乐部中认"
+#~ "识新的朋友和俱乐部好友一起游戏也可以一起建设自己的俱乐部获得丰厚的俱乐部排"
+#~ "行榜奖励。\n"
+#~ "2.玩家可以通过参加匹配和排位游戏来获得俱乐部活跃度每参与一局将获得1点俱乐部"
+#~ "活跃度，和俱乐部好友一起游戏将获得双倍的活跃度。\n"
+#~ "3.玩家每天到俱乐部中签到将会获得5点的俱乐部活跃度。\n"
+#~ "4.玩家每天在俱乐部群组中发言将获得5点的俱乐部活跃度\n"
+#~ "5.俱乐部成员可以在俱乐部内部不花费金币钻石和俱乐部好友游戏。\n"
+#~ "6.mensa play 俱乐部有独有的活跃等级制度一共分为5级，等级越高俱乐部活跃度越"
+#~ "高。"
+#~ msgstr ""
+#~ "وصف قواعد نادي بطاقة منسا \n"
+#~ "     يوفر النادي للمستخدمين ناديًا لتكوين صداقات وألعاب اجتماعية.يمكن "
+#~ "للاعبين التعرف على أصدقاء جدد في النادي واللعب مع أصدقاء النادي ، كما "
+#~ "يمكنهم أيضًا بناء ناديهم الخاص للحصول على مكافآت تصنيف النادي الغنية.\n"
+#~ "     يمكن للاعبين اكتساب نشاط النادي من خلال المشاركة في مباريات المطابقة "
+#~ "والترتيب ، وفي كل مرة يشاركون في جولة ، سيحصلون على نقطة واحدة من نشاط "
+#~ "النادي ، وسيحصل اللعب مع أصدقاء النادي على نشاط مضاعف.\n"
+#~ "     اللاعبون الذين يسجلون الدخول إلى النادي كل يوم سيحصلون على 5 نقاط من "
+#~ "نشاط النادي.\n"
+#~ "     اللاعبون الذين يتحدثون في مجموعة النادي كل يوم سيحصلون على 5 نقاط من "
+#~ "نشاط النادي\n"
+#~ "      يمكن لأعضاء النادي ممارسة الألعاب مع أصدقاء النادي دون إنفاق العملات "
+#~ "الذهبية والماس داخل النادي.\n"
+#~ "       يوجد نظام مستوى نشط فريد ينقسم إلى 5 مستويات ، وكلما ارتفع المستوى "
+#~ "زاد نشاط النادي."
+
+#~ msgid "最近的"
+#~ msgstr "حديث"
+
+#~ msgid "发送请求成功"
+#~ msgstr "تم إرسال الطلب بنجاح"
+
+#~ msgid "您的俱乐部好友[{1}]邀请您加入游戏,您是否同意？"
+#~ msgstr "دعاك صديقك في النادي [{1}] للانضمام إلى اللعبة ، هل توافق؟"
+
+#~ msgid "您的好友[{1}]邀请您加入游戏,您是否同意？"
+#~ msgstr "دعاك صديقك [{1}] للانضمام إلى اللعبة ، هل توافق؟"
+
+#~ msgid "您的好友[{1}]邀请您加入VIP游戏,您是否同意？"
+#~ msgstr "دعاك صديقك [{1}] للانضمام إلى لعبة جماعية. هل توافق?"
+
+#~ msgid "您的好友[{1}]邀请您参加组队游戏,您是否同意？"
+#~ msgstr "دعاك صديقك [{1}] للانضمام إلى لعبة جماعية. هل توافق?"
+
+#~ msgid "俱乐部"
+#~ msgstr "النادي"
+
+#~ msgid "成员"
+#~ msgstr "عضو"
+
+#, fuzzy
+#~| msgid "系统消息"
+#~ msgid "消息"
+#~ msgstr "معلومات النظام"
+
+#~ msgid "俱乐部介绍"
+#~ msgstr "مقدمة عن النادي"
+
+#, fuzzy
+#~| msgid "个人简介"
+#~ msgid "简介"
+#~ msgstr "السيرة الذاتية"
+
+#~ msgid "已经申请"
+#~ msgstr "أرسلت بالفعل"
+
+#~ msgid ""
+#~ "财富榜的奖励\n"
+#~ "1.当新一轮排名开始时你可以收集奖励\n"
+#~ "2.这些奖励有效期为7天\n"
+#~ "3.只有第一名可以获得奖励"
+#~ msgstr ""
+#~ "مكافآت لتصنيف الثروة\n"
+#~ "1- يمكنك جمع المكافآت عند بدء الترتيب الجديد.\n"
+#~ "2. هذه الإطارات الشخصية صالحة لمدة 7 أيام.\n"
+#~ "3- سيحصل رقم 1 فقط على المكافآت"
+
+#~ msgid "俱乐部排行榜"
+#~ msgstr "لوحة صدارة النادي"
+
+#~ msgid "事件"
+#~ msgstr "الأحداث"
+
+#~ msgid "社交"
+#~ msgstr "اجتماعي"
+
+#~ msgid "全局聊天"
+#~ msgstr "الدردشة العالمية"
+
+#, fuzzy
+#~| msgid "You can"
+#~ msgid "You"
+#~ msgstr "تستطيع"
+
+#~ msgid ""
+#~ "mensa play pass 规则说明：\n"
+#~ "1.mensa play pass 持续时间是三个月\n"
+#~ "2.用户可以通过完成mensa play pass中专属的任务来获得mensa经验值，mensa经验值"
+#~ "只适用于mensa play pass中。\n"
+#~ "3.用户每参加一局游戏就能获得10 mensa经验值\n"
+#~ "4.mensa play pass每天会给用户3个免费的任务，用来获得大量的mensa经验值\n"
+#~ "5.用户也可以使用钻石来刷新或者更换mensa play pass中的专属任务。"
+#~ msgstr ""
+#~ "وصف قاعدة منسا بلاي باس:\n"
+#~ "1. مدة بطاقة لعب مينسا هي ثلاثة أشهر\n"
+#~ "2. يمكن للمستخدم الحصول على قيمة تجربة مينسا من خلال إكمال المهام الحصرية "
+#~ "في ممر لعب مينسا ، وقيمة تجربة مينسا تنطبق فقط على ممر لعب .\n"
+#~ "3. في كل مرة يشارك فيها المستخدم في لعبة ، سيحصل على 10 نقاط خبرة من "
+#~ "مينسا\n"
+#~ "4. ستمنح تمريرة لعب منسا المستخدمين 3 مهام مجانية كل يوم للحصول على الكثير "
+#~ "من نقاط خبرة \n"
+#~ "5. يمكن للمستخدمين أيضًا استخدام الماس لتحديث أو استبدال المهام الحصرية في "
+#~ "ممر لعب مينسا."
+
+#~ msgid "房间号错误"
+#~ msgstr "رقم الغرفة خاطئ"
+
+#~ msgid "How to enter the draw:"
+#~ msgstr "كيفية الدخول في السحب:"
+
+#~ msgid ""
+#~ "1. Download the Game\n"
+#~ "2. Join our Instagram account\n"
+#~ "3. Mention us in a story\n"
+#~ "4. Send us a DM and say \"done\" You will enter the draw"
+#~ msgstr ""
+#~ "1. قم بتنزيل اللعبة\n"
+#~ "2. انضم إلى حساب صورة تقاسم التطبيق الخاص بنا\n"
+#~ "3. أذكرنا في قصة\n"
+#~ "4. أرسل إلينا رسالة مباشرة وقل \"تم\" وستدخل في السحب"
+
+#~ msgid "Get more chance to win:"
+#~ msgstr "الحصول على المزيد من فرص الفوز :"
+
+#~ msgid ""
+#~ "1. If you invite your friend to join (the screenshot needs to be showed on "
+#~ "Instagram), one player adds 2 names in the draw\n"
+#~ "2. If you rank 5 stars of our game in google play store (the screenshot "
+#~ "needs to be showed on Instagram), you will get one more chance to win the "
+#~ "draw.\n"
+#~ "3. Triple your chance of winning if you followed us on all the social "
+#~ "media and mentioned us in a post on them. (Add 3 names in the draw)\n"
+#~ "4. Mensa Play will keep on giving prize for the one who are playing more "
+#~ "and achieving more ranks and level."
+#~ msgstr ""
+#~ "1 . إذا قمت بدعوة أصدقائك للانضمام ( الصورة يجب أن تظهر على اینستگرام ) ، "
+#~ "لاعب سوف تضيف اثنين من الأسماء في القرعة .\n"
+#~ "\n"
+#~ "2 . إذا كنت في المرتبة 5 نجوم في متجر لعبة جوجل ( لقطات الشاشة يجب أن تظهر "
+#~ "علىاینستگرام ) ، سيكون لديك فرصة للفوز في اليانصيب .\n"
+#~ "\n"
+#~ "3 - إذا كنت تركز على الولايات المتحدة في جميع وسائل الاعلام الاجتماعية و "
+#~ "ذكر لنا في المشاركات ، فرصك في الفوز سوف يتضاعف . ( إضافة 3 أسماء في "
+#~ "الرسم )\n"
+#~ "\n"
+#~ "4 - مينسا سوف تستمر في تقديم الجوائز إلى اللاعبين الذين يلعبون أكثر و "
+#~ "أعلى ."
+
+#~ msgid "left"
+#~ msgstr "اليسار"
+
+#~ msgid "right"
+#~ msgstr "حق"
+
+#~ msgid "在线时长{1}分钟"
+#~ msgstr "وقت الاتصال {1} دقيقة"
+
+#~ msgid ""
+#~ "<color=#ffffff><outline color=#1d377b width=4><b>领取</b></outline></"
+#~ "color><color=#f8de3e><outline color=#1d377b width=4><b> {1} 金币</b></"
+#~ "outline></color>"
+#~ msgstr ""
+#~ "<color=#ffffff><outline color=#1d377b width=4><b>تسلم</b></outline></"
+#~ "color><color=#f8de3e><outline color=#1d377b width=4><b>{1}ذهب</b></"
+#~ "outline></color>"
+
+#~ msgid "排行"
+#~ msgstr "تصنيف"
+
+#~ msgid "达到等级"
+#~ msgstr "وصول المستوى"
+
+#~ msgid "目前段位"
+#~ msgstr "الدوري الحالي"
+
+#~ msgid "最高段位"
+#~ msgstr "أعلى دوري"
+
+#~ msgid "上次段位"
+#~ msgstr "الدوري الماضي"
+
+#~ msgid "语音"
+#~ msgstr "صوت بشري"
+
+#~ msgid "洗牌"
+#~ msgstr "خلط"
+
+#~ msgid "语言:开"
+#~ msgstr "الصوت: تشغيل"
+
+#~ msgid ""
+#~ "购买骑士或者爵士会员时会马上获得一个礼包，而且还会得到会员专属的每日奖励"
+#~ msgstr ""
+#~ "عند شراء عضو فارس أو أمير ، ستحصل على حزمة هدايا على الفور ، وستحصل أيضًا "
+#~ "على مكافآت يومية حصرية للأعضاء"
+
+#~ msgid "爵士会员在和好友聊天和在世界聊天时有专属聊天框"
+#~ msgstr ""
+#~ "يمتلك أعضاء الأمير صندوق دردشة حصريًا عند الدردشة مع الأصدقاء والدردشة في "
+#~ "العالم"
+
+#~ msgid "爵士会员好友数量限制不再是100个而是400个"
+#~ msgstr "لم يعد الحد الأقصى لعدد أصدقاء أعضاء الأمير 100 بل 400"
+
+#~ msgid "会员可以无限制的花费金币创建VIP房间"
+#~ msgstr ""
+#~ "يمكن للأعضاء إنفاق عدد غير محدود من العملات الذهبية لإنشاء غرف لكبار "
+#~ "الشخصيات"
+
+#~ msgid "好友榜单置顶"
+#~ msgstr "أعلى قائمة الأصدقاء"
+
+#~ msgid ""
+#~ "骑士和爵士会员在好友表单中会置顶，同是骑士或爵士会员按照金币数量排序，骑士"
+#~ "会员排在爵士会员之后。"
+#~ msgstr ""
+#~ "سيتم وضع أعضاء الفرسان والأمير على رأس قائمة الأصدقاء. يتم فرز كل من "
+#~ "الفرسان وأعضاء الجاز حسب عدد العملات الذهبية ، ويتم ترتيب أعضاء الفرسان "
+#~ "بعد أعضاء الجاز."
+
+#~ msgid "专属头像框"
+#~ msgstr "إطار الصورة الرمزية الحصري"
+
+#~ msgid "骑士和爵士可以选择自己专属的头像框"
+#~ msgstr "يمكن للفرسان والأمير اختيار إطار الصورة الرمزية الحصري الخاص بهم"
+
+#~ msgid "骑士和爵士会员会额外获得排位卷"
+#~ msgstr "سيحصل أعضاء الفرسان والأمير على تذاكر تأهيل إضافية"
+
+#~ msgid "您拥有"
+#~ msgstr "عندك:"
+
+#~ msgid "个人简介是空的"
+#~ msgstr "يرجى تقديم نفسك"
+
+#~ msgid "限时扑克背景"
+#~ msgstr "تصاميم بطاقات اللعب لفترة محدودة"
+
+#~ msgid "经典扑克背景"
+#~ msgstr "تصاميم أخرى لبطاقات اللعب"
+
+#~ msgid "夏"
+#~ msgstr "الصيف"
+
+#~ msgid "秋"
+#~ msgstr "الخريف"
+
+#~ msgid "冬"
+#~ msgstr "شتاء"
+
+#~ msgid "限时牌桌背景"
+#~ msgstr "تصاميم طاولة أوراق اللعب لفترة محدودة"
+
+#~ msgid "经典牌桌背景"
+#~ msgstr "تصاميم أخرى لطاولة أوراق اللعب"
+
+#~ msgid "限时聊天框"
+#~ msgstr "تصميم مربع الدردشة لفترة محدودة"
+
+#~ msgid "经典聊天框"
+#~ msgstr "تصاميم أخرى لصندوق الدردشة"
+
+#~ msgid "静态头像框"
+#~ msgstr "إطار الصورة الرمزية الثابتة"
+
+#~ msgid "动态头像框"
+#~ msgstr "إطار الصورة الرمزية الديناميكي"
+
+#~ msgid "赛季头像框"
+#~ msgstr "إطار الصورة الرمزية للموسم"
+
+#~ msgid "免费头像框"
+#~ msgstr "إطار الصورة الرمزية المجاني"
+
+#~ msgid "新玩家登录赠送大量金币"
+#~ msgstr ""
+#~ "يقوم اللاعبون الجدد بتسجيل الدخول والتخلي عن الكثير من العملات الذهبية"
+
+#~ msgid "4倍"
+#~ msgstr "ثلاثي"
+
+#~ msgid "未请求到数据"
+#~ msgstr "لا توجد بيانات مطلوبة"
+
+#~ msgid "编号:{1}"
+#~ msgstr " رقم：{1}"
+
+#~ msgid "在线"
+#~ msgstr "عبر الانترنت"

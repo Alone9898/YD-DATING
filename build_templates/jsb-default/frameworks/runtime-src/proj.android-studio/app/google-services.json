@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1043913677722",
+    "project_id": "yonogames-3e05d",
+    "storage_bucket": "yonogames-3e05d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043913677722:android:99234bf9ce64b9214b3823",
+        "android_client_info": {
+          "package_name": "com.yono.games.free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043913677722-l66t1o25v3fjs4ns8tgm1k1r1h82jg3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yono.games.free",
+            "certificate_hash": "de331a0c994d9cd2528e2b70a83a6b3f9dddcb17"
+          }
+        },
+        {
+          "client_id": "1043913677722-9kvr0sv5k3u50iqk80po253smgte6lgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoqHKQ-jc1Q3jF8197972pLJOBvf1PZRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043913677722-9kvr0sv5k3u50iqk80po253smgte6lgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

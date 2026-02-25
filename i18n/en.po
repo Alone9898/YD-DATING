@@ -1,0 +1,5343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: en\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-02 18:37+0800\n"
+"PO-Revision-Date: 2022-09-02 18:37+0800\n"
+"Last-Translator: \n"
+"Language-Team: 中文\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Loco-Source-Locale: en_TW\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: ___\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Poedit-SearchPath-0: i18n/ui_static_text.js\n"
+"X-Poedit-SearchPath-1: assets\n"
+
+#: assets/BalootClient/Bouns/BounsIdCmp.js:21
+msgid "您还不是VIP,无法领取该奖励"
+msgstr "Only VIP members can claim these rewards"
+
+#: assets/BalootClient/Bouns/Module/FBShare/PopupFBShare.js:48
+#: i18n/ui_static_text.js:13
+msgid "今日已分享"
+msgstr "Shared Today"
+
+#: assets/BalootClient/Chat/scripts/PageChatItem.js:378
+msgid "赠送{1}一杯甜点，幸福甜美天天来"
+msgstr "Give {1} a cup of dessert, happiness and sweetness come every day！"
+
+#: assets/BalootClient/Chat/scripts/PageChatItem.js:380
+msgid "赠送{1}一杯跑车，一往无前享受激情！"
+msgstr "Give {1} a piece of dessert, happiness and sweetness come every day！"
+
+#: assets/BalootClient/Chat/scripts/PageChatItem.js:382
+msgid "赠送{1}一杯水烟，点燃无穷快乐！"
+msgstr "Give {1} a pot of hookah, lit endless happiness!"
+
+#: assets/BalootClient/Chat/scripts/PageChatItem.js:384
+msgid "赠送{1}一杯吻，热情浪漫永长存！"
+msgstr "Give {1} a kiss, and the passion and romance will last forever!"
+
+#: assets/BalootClient/Chat/scripts/PageChatItem.js:386
+msgid "赠送{1}一杯戒指，如钻石一般闪耀！"
+msgstr "Give {1} a ring that shines like a diamond!"
+
+#: assets/BalootClient/Chat/scripts/PageChatItem.js:388
+msgid "赠送{1}一杯红茶，生活暖洋洋！"
+msgstr "Give {1} a cup of coffee and live a warm life!"
+
+#: assets/BalootClient/Chat/scripts/PageChatView.js:90
+#: i18n/ui_static_text.js:56
+msgid "请输入聊天内容"
+msgstr "Please enter chat content"
+
+#: assets/BalootClient/Chat/scripts/PageChatView.js:128
+msgid "发送太频繁"
+msgstr "Send too frequently"
+
+#: assets/BalootClient/Chat/scripts/PopupEmojiCmp.js:26
+#: i18n/ui_static_text.js:54
+msgid "您还未获得此表情"
+msgstr "You haven't uploaded this poster yet"
+
+#: assets/BalootClient/GameManagerEx.js:238
+msgid "好友信息不存在"
+msgstr "Friends information does not exist"
+
+#: assets/BalootClient/GameManagerEx.js:241
+msgid "添加好友，错误次数过于频繁"
+msgstr "Adding friends. The mistake happened too much"
+
+#: assets/BalootClient/GameManagerEx.js:244
+msgid "您的好友数量已达上限"
+msgstr "You have reached the maximum number of friends"
+
+#: assets/BalootClient/GameManagerEx.js:247
+msgid "好友关系已经存在"
+msgstr "Friendship already exists"
+
+#: assets/BalootClient/GameManagerEx.js:250
+msgid "对方好友数量已达上限"
+msgstr "This player's number of friends has reached the upper limit"
+
+#: assets/BalootClient/GameManagerEx.js:253
+msgid "对方已经是你的好友了"
+msgstr "He/She is already your friend"
+
+#: assets/BalootClient/GameManagerEx.js:256
+msgid "不能加自己为好友"
+msgstr "You can not add yourself as a friend"
+
+#: assets/BalootClient/GameManagerEx.js:261
+msgid "添加好友成功"
+msgstr "Add friends successfully"
+
+#: assets/BalootClient/GameManagerEx.js:263
+msgid "请求成功,请等待审核"
+msgstr "The request is successful, please wait for review"
+
+#: assets/BalootClient/GameManagerEx.js:408
+msgid ""
+"你的{1}账号已经绑定过其他账号了, 继续的话将移除当前账号数据并且切换到当前{2}"
+"账号. 您是否要继续？"
+msgstr ""
+"Your {1} account has already been bound to another account. If you continue, "
+"it will remove the current account data and switch to the current {2} "
+"account. Do you want to continue?"
+
+#: assets/BalootClient/GameManagerEx.js:446
+msgid "您的游戏还未结束,是否继续游戏"
+msgstr "Your game is not over yet, do you want to continue the game?"
+
+#: assets/BalootClient/GameManagerEx.js:461
+msgid "当前游戏还未结束"
+msgstr "The game is not over yet"
+
+#: assets/BalootClient/Hall/scripts/GameHall.js:383
+msgid "密码错误"
+msgstr "Wrong Password"
+
+#: assets/BalootClient/Login/scripts/GameLogin.js:179
+#: assets/BalootClient/Login/scripts/GameLogin.js:203
+#: assets/BalootClient/Login/scripts/GameLogin.js:223
+#: assets/BalootClient/Login/scripts/GameLogin.js:243
+msgid "登录失败,请稍后再试"
+msgstr "Login failed, Please try again later"
+
+#: assets/BalootClient/Login/scripts/GameTips.js:11
+msgid "有史以来最好的纸牌游戏之一！"
+msgstr "One of the best card games ever!"
+
+#: assets/BalootClient/Login/scripts/GameTips.js:12
+msgid "它将会改变你对乐趣的看法！"
+msgstr "It will change your perception of fun!"
+
+#: assets/BalootClient/Login/scripts/GameTips.js:13
+msgid "无限的挑战等你开启！!"
+msgstr "Continuous challenges are waiting for you to take on!"
+
+#: assets/BalootClient/Login/scripts/GameTips.js:14
+msgid "成为扑克英雄！"
+msgstr "Be the Arab Hero!"
+
+#: assets/BalootClient/Login/scripts/GameTips.js:15
+msgid "享受更多乐趣和参加每日扑克的比赛并证明您的实力！"
+msgstr "Enjoy more and join the daily Arab Hero and prove your skill!"
+
+#: assets/BalootClient/Login/scripts/GameTips.js:16
+msgid "阿拉伯语最大纸牌游戏的应用程序！"
+msgstr "The largest Arabic application for all card games!"
+
+#: assets/BalootClient/Login/scripts/GameTips.js:17
+msgid "开始玩吧，创造属于你的世界！"
+msgstr "Play now and create your own world!"
+
+#: assets/BalootClient/Social/scripts/SocialFriendViewCmp.js:96
+msgid "删除成功"
+msgstr "successfully deleted"
+
+#: assets/BalootClient/UserConfig.js:6
+msgid "Baloot"
+msgstr "Baloot"
+
+#: assets/BalootClient/UserConfig.js:7 i18n/ui_static_text.js:422
+msgid "Hand"
+msgstr "Hand"
+
+#: assets/BalootClient/UserConfig.js:8
+msgid "HandSaudi"
+msgstr "HandSaudi"
+
+#: assets/BalootClient/UserConfig.js:9 i18n/ui_static_text.js:434
+msgid "Tarneeb"
+msgstr "Tarneeb"
+
+#: assets/BalootClient/UserConfig.js:10
+msgid "basra"
+msgstr "Basra"
+
+#: assets/BalootClient/UserConfig.js:11
+msgid "banakil"
+msgstr "Banakil"
+
+#: assets/BalootClient/UserConfig.js:12 i18n/ui_static_text.js:435
+msgid "Trix"
+msgstr "Trix"
+
+#: assets/BalootClient/UserConfig.js:13
+msgid "TrixPartner"
+msgstr "Trix Partner"
+
+#: assets/BalootClient/UserConfig.js:14 i18n/ui_static_text.js:421
+msgid "Estimation"
+msgstr "Estimation"
+
+#: assets/BalootClient/UserConfig.js:15
+msgid "Domino"
+msgstr "Domino"
+
+#: assets/BalootClient/UserConfig.js:16 i18n/ui_static_text.js:443
+msgid "Koutbo4"
+msgstr "KoutBo 4&6"
+
+#: assets/BalootClient/UserConfig.js:17 i18n/ui_static_text.js:448
+msgid "Ludo"
+msgstr "Ludo"
+
+#: assets/BalootClient/UserConfig.js:18
+msgid "Tarneeb41"
+msgstr "Tarneeb41"
+
+#: assets/BalootClient/UserConfig.js:19 i18n/ui_static_text.js:446
+msgid "Leekha"
+msgstr "Leekha"
+
+#: assets/BalootClient/UserConfig.js:20
+msgid "400"
+msgstr "400"
+
+#: assets/BalootClient/UserConfig.js:21
+msgid "TrixComplex"
+msgstr "Trix Complex"
+
+#: assets/BalootClient/UserConfig.js:23
+msgid "Durak X2"
+msgstr ""
+
+#: assets/BalootClient/UserConfig.js:24
+msgid "Durak X3"
+msgstr ""
+
+#: assets/BalootClient/UserConfig.js:25
+msgid "Durak X4"
+msgstr ""
+
+#: assets/BalootClient/UserConfig.js:26
+msgid "Durak X5"
+msgstr ""
+
+#: assets/BalootClient/UserConfig.js:27
+msgid "Durak X6"
+msgstr ""
+
+#: assets/BalootClient/UserConfig.js:28 i18n/ui_static_text.js:402
+msgid "BintAlSbeet"
+msgstr "BintAlSbeet"
+
+#: assets/BalootClient/UserConfig.js:30
+msgid "ComplexPartner"
+msgstr "Complex Partner"
+
+#: assets/BalootClient/UserConfig.js:31
+msgid "CCComplex"
+msgstr "Complex CC"
+
+#: assets/BalootClient/UserConfig.js:32
+msgid "CCpartner"
+msgstr "CC Partner"
+
+#: assets/BalootClient/UserConfig.js:33 i18n/ui_static_text.js:423
+msgid "Concan"
+msgstr "Concan"
+
+#: assets/BalootClient/UserConfig.js:34 i18n/ui_static_text.js:437
+msgid "Kasra"
+msgstr "Kasra"
+
+#: assets/BalootClient/UserConfig.js:35
+msgid "KasraPartner"
+msgstr "Kasra Partner"
+
+#: assets/BalootClient/UserConfig.js:36 i18n/ui_static_text.js:496
+msgid "Ronda"
+msgstr "Ronda"
+
+#: assets/BalootClient/UserConfig.js:37
+msgid "UNO"
+msgstr "UNO"
+
+#: assets/BalootClient/UserConfig.js:38
+msgid "BalootFast"
+msgstr "Baloot Fast"
+
+#: assets/BalootClient/UserConfig.js:39
+msgid "LudoQuick"
+msgstr "Ludo Quick"
+
+#: assets/BalootClient/UserConfig.js:58
+msgid "累积让其他玩家pass次数"
+msgstr "Accumulate the number of player passes"
+
+#: assets/BalootClient/UserConfig.js:58
+msgid "在Domino游戏中获得最多的让其他玩家pass次数"
+msgstr "Get the most passes in a Domino game."
+
+#: assets/BalootClient/UserConfig.js:58
+msgid "每一次pass计入一次成绩，以总pass次数进行排名"
+msgstr ""
+"Each pass counts as a score, and the ranking is based on the total number of "
+"passes."
+
+#: assets/BalootClient/UserConfig.js:58 assets/BalootClient/UserConfig.js:59
+#: assets/BalootClient/UserConfig.js:60 assets/BalootClient/UserConfig.js:61
+msgid "比赛总时长为{1}分钟"
+msgstr "The total duration of the game is {1} minutes"
+
+#: assets/BalootClient/UserConfig.js:58
+msgid "累积胜利次数"
+msgstr "Cumulative wins"
+
+#: assets/BalootClient/UserConfig.js:58
+msgid "在Domino游戏中获得最多的累积胜利次数"
+msgstr "Get the most cumulative wins in a Domino game."
+
+#: assets/BalootClient/UserConfig.js:58
+msgid "每一次胜利计入一次成绩，以总胜利次数进行排名"
+msgstr ""
+"Each victory counts as a score, and the ranking is based on the total number "
+"of victories."
+
+#: assets/BalootClient/UserConfig.js:59
+msgid "累积go down牌张数"
+msgstr "Accumulate the number of go down cards"
+
+#: assets/BalootClient/UserConfig.js:59
+msgid "在Hand游戏中获得最多的累积go down牌张数"
+msgstr "Get the most accumulated go down cards in the Hand game."
+
+#: assets/BalootClient/UserConfig.js:59
+msgid "每一张牌计入一次成绩，以总张数进行排名"
+msgstr ""
+"Each card counts into a score, and the ranking is based on the total number "
+"of cards."
+
+#: assets/BalootClient/UserConfig.js:59 assets/BalootClient/UserConfig.js:60
+#: assets/BalootClient/UserConfig.js:61
+msgid "累积获得分数"
+msgstr "Accumulated points"
+
+#: assets/BalootClient/UserConfig.js:59
+msgid "在Hand游戏中获得最多的累积分数"
+msgstr "Get the most cumulative points in the Hand game."
+
+#: assets/BalootClient/UserConfig.js:59
+msgid "每一次胜利分数计入成绩，以总分数进行排名"
+msgstr ""
+"Each victory score is counted into the score, and the ranking is based on "
+"the total score."
+
+#: assets/BalootClient/UserConfig.js:60
+msgid "在Baloot游戏中获得最多的累积分数"
+msgstr "Get the most cumulative points in the Baloot game."
+
+#: assets/BalootClient/UserConfig.js:60 assets/BalootClient/UserConfig.js:61
+msgid "每一小局分数计入成绩，以总分数进行排名"
+msgstr ""
+"The score of each small round is included in the score, and the ranking is "
+"based on the total score."
+
+#: assets/BalootClient/UserConfig.js:60
+msgid "累积比牌获胜次数"
+msgstr "Accumulated number of card wins"
+
+#: assets/BalootClient/UserConfig.js:60
+msgid "在Baloot游戏中获得最多的累积比牌获胜次数"
+msgstr "Get the most cumulative handicap wins in a Baloot game."
+
+#: assets/BalootClient/UserConfig.js:60
+msgid "每比牌获胜计入一次成绩，以总分数进行排名"
+msgstr ""
+"Each card win counts as a score, and the ranking is based on the total score."
+
+#: assets/BalootClient/UserConfig.js:61
+msgid "在Estimation游戏中获得最多的累积分数"
+msgstr "Get the most cumulative points in the Estimation game"
+
+#: assets/BalootClient/UserConfig.js:73 assets/BalootClient/UserConfig.js:96
+#: i18n/ui_static_text.js:237
+msgid "传奇"
+msgstr "Legend"
+
+#: assets/BalootClient/UserConfig.js:74 assets/BalootClient/UserConfig.js:95
+msgid "大师"
+msgstr "Featured"
+
+#: assets/BalootClient/UserConfig.js:75 i18n/ui_static_text.js:201
+msgid "钻石"
+msgstr "Diamond"
+
+#: assets/BalootClient/UserConfig.js:76 assets/BalootClient/UserConfig.js:93
+msgid "铂金"
+msgstr "Platinum"
+
+#: assets/BalootClient/UserConfig.js:77 assets/BalootClient/UserConfig.js:92
+msgid "黄金"
+msgstr "Gold"
+
+#: assets/BalootClient/UserConfig.js:78 assets/BalootClient/UserConfig.js:91
+msgid "白银"
+msgstr "Silver"
+
+#: assets/BalootClient/UserConfig.js:79 assets/BalootClient/UserConfig.js:90
+msgid "青铜"
+msgstr "Bronze"
+
+#: assets/BalootClient/UserConfig.js:94
+msgid "钻石_"
+msgstr "Diamond"
+
+#: assets/BalootClient/UserConfig.js:327
+msgid "骑士"
+msgstr "KNIGHT"
+
+#: assets/BalootClient/UserConfig.js:328
+msgid "男爵"
+msgstr "Baron"
+
+#: assets/BalootClient/UserConfig.js:350
+msgid "世界"
+msgstr "International"
+
+#: assets/BalootClient/UserConfig.js:351
+msgid "卡塔尔"
+msgstr "Qatar"
+
+#: assets/BalootClient/UserConfig.js:352
+msgid "阿联酋"
+msgstr "UAE"
+
+#: assets/BalootClient/UserConfig.js:353
+msgid "科威特"
+msgstr "Kuwait"
+
+#: assets/BalootClient/UserConfig.js:354
+#, fuzzy
+#| msgid "巴林"
+msgid "巴林岛"
+msgstr "Bahrain"
+
+#: assets/BalootClient/UserConfig.js:355
+msgid "沙特阿拉伯"
+msgstr "Salon"
+
+#: assets/BalootClient/UserConfig.js:356
+msgid "阿曼"
+msgstr "Oman"
+
+#: assets/BalootClient/UserConfig.js:357
+msgid "黎巴嫩"
+msgstr "Lebanon"
+
+#: assets/BalootClient/UserConfig.js:358
+msgid "约旦"
+msgstr "Jordan"
+
+#: assets/BalootClient/UserConfig.js:359
+msgid "伊拉克"
+msgstr "Iraq"
+
+#: assets/BalootClient/UserConfig.js:360
+msgid "利比亚"
+msgstr "Libya"
+
+#: assets/BalootClient/UserConfig.js:361
+msgid "埃及"
+msgstr "Egypt"
+
+#: assets/BalootClient/UserConfig.js:362
+msgid "突尼斯"
+msgstr "Tunisia"
+
+#: assets/BalootClient/UserConfig.js:363
+msgid "吉布提"
+msgstr "Djibouti"
+
+#: assets/BalootClient/UserConfig.js:364
+msgid "阿尔及利亚"
+msgstr "Algeria"
+
+#: assets/BalootClient/UserConfig.js:365
+msgid "巴勒斯坦"
+msgstr "Palestine"
+
+#: assets/BalootClient/UserConfig.js:366
+msgid "摩洛哥"
+msgstr "Morocco"
+
+#: assets/BalootClient/UserConfig.js:367
+msgid "毛里塔尼亚"
+msgstr "Saudi Arabia"
+
+#: assets/BalootClient/UserConfig.js:368
+msgid "科摩罗"
+msgstr "Comoros"
+
+#: assets/BalootClient/UserConfig.js:369
+#, fuzzy
+#| msgid "利比亚"
+msgid "叙利亚"
+msgstr "Libya"
+
+#: assets/BalootClient/UserConfig.js:370
+msgid "也门"
+msgstr "Yemen"
+
+#: assets/BalootClient/UserConfig.js:371
+msgid "苏丹"
+msgstr "Sudan"
+
+#: assets/BalootClient/UserConfig.js:372
+msgid "索马里"
+msgstr "Somalia"
+
+#: assets/BalootClient/UserConfig.js:424 i18n/ui_static_text.js:476
+msgid "VIP等级不够"
+msgstr "Not enough VIP level"
+
+#: assets/BalootClient/UserConfig.js:425
+msgid "房间号错误或者游戏已经开始"
+msgstr "The room number is wrong or the game has started"
+
+#: assets/BalootClient/UserConfig.js:426
+msgid "您还不是VIP"
+msgstr "You are not a VIP"
+
+#: assets/BalootClient/UserConfig.js:427
+#: assets/resources/BalootClient/SkinShop/script/SkinShop.js:81
+#: assets/resources/BalootClient/SkinShop/script/SkinShop.js:107
+#: i18n/ui_static_text.js:101
+msgid "钻石不足"
+msgstr "Insufficient diamonds"
+
+#: assets/BalootClient/UserConfig.js:428 assets/BalootClient/UserConfig.js:450
+msgid "商品不存在"
+msgstr "Goods don't exist"
+
+#: assets/BalootClient/UserConfig.js:429
+msgid "今日已不能参加排位赛"
+msgstr "Can't participate in qualifying today"
+
+#: assets/BalootClient/UserConfig.js:430
+msgid "队友金币不足"
+msgstr "Insufficient teammates gold coins"
+
+#: assets/BalootClient/UserConfig.js:431
+msgid "队友钻石不足"
+msgstr "Insufficient teammates diamonds"
+
+#: assets/BalootClient/UserConfig.js:432
+msgid "队友今日已不能参加排位赛"
+msgstr "Teammates can no longer participate in qualifying today"
+
+#: assets/BalootClient/UserConfig.js:433
+msgid "队友已离开"
+msgstr "Teammate has left"
+
+#: assets/BalootClient/UserConfig.js:434
+msgid "好友不是VIP"
+msgstr "Your friends are not a VIP."
+
+#: assets/BalootClient/UserConfig.js:435 assets/_FWExpand/NetManagerEx.js:116
+#: i18n/ui_static_text.js:151
+msgid "金币不足"
+msgstr "Gold inadequate"
+
+#: assets/BalootClient/UserConfig.js:436 assets/BalootClient/UserConfig.js:459
+msgid "道具不存在"
+msgstr "prop does not exist"
+
+#: assets/BalootClient/UserConfig.js:437
+msgid "兑换码已被使用"
+msgstr "The redemption number has already been used"
+
+#: assets/BalootClient/UserConfig.js:438
+msgid "兑换码不存在"
+msgstr "Redemption number not available"
+
+#: assets/BalootClient/UserConfig.js:439
+msgid "兑换错误次数太多，请稍后再试"
+msgstr "Too many wrong conversions, please try again later"
+
+#: assets/BalootClient/UserConfig.js:440
+msgid "使用过于频繁，请稍后再试"
+msgstr "You have exceeded the trial limit, please try again later"
+
+#: assets/BalootClient/UserConfig.js:441
+msgid "找不到该用户"
+msgstr "The user could not be found"
+
+#: assets/BalootClient/UserConfig.js:442
+msgid "房主才可以解散"
+msgstr "Only the admin has the permission to unblock the group"
+
+#: assets/BalootClient/UserConfig.js:443
+msgid "房间号不存在"
+msgstr "Room number does not exist"
+
+#: assets/BalootClient/UserConfig.js:444
+msgid "房间已满"
+msgstr "Room is full"
+
+#: assets/BalootClient/UserConfig.js:445
+msgid "房间已开始"
+msgstr "The room has started"
+
+#: assets/BalootClient/UserConfig.js:446
+#: assets/resources/BalootClient/RoomList/RoomListView.js:567
+#: i18n/ui_static_text.js:148
+msgid "还在游戏中,不能加入其它房间"
+msgstr "Can not join other rooms during the game"
+
+#: assets/BalootClient/UserConfig.js:449
+msgid "游戏已开始,无法解散"
+msgstr "The game has started, you can't leave the game"
+
+#: assets/BalootClient/UserConfig.js:451
+msgid "rp值不足"
+msgstr "Insufficient rp value"
+
+#: assets/BalootClient/UserConfig.js:452
+msgid "已投票,不能重复投票"
+msgstr "Voted, can't vote again"
+
+#: assets/BalootClient/UserConfig.js:453
+msgid "用户已报名联赛"
+msgstr "User has signed up for a league"
+
+#: assets/BalootClient/UserConfig.js:454
+msgid "获取免费类型错误"
+msgstr "get free type error"
+
+#: assets/BalootClient/UserConfig.js:455
+msgid "今日已经领取"
+msgstr "Received Today"
+
+#: assets/BalootClient/UserConfig.js:456
+msgid "未找到好友信息"
+msgstr "No friend info found"
+
+#: assets/BalootClient/UserConfig.js:457
+msgid "没有可以参加的房间"
+msgstr "No room available"
+
+#: assets/BalootClient/UserConfig.js:458
+msgid "任务未完成"
+msgstr "Task not completed"
+
+#: assets/BalootClient/UserConfig.js:461
+msgid "未完成"
+msgstr "Not done yet"
+
+#: assets/BalootClient/UserConfig.js:462
+msgid "玩家等级不够"
+msgstr "Player level is not enough"
+
+#: assets/BalootClient/UserConfig.js:463
+msgid "您被禁言了"
+msgstr "You are banned"
+
+#: assets/BalootClient/UserConfig.js:464
+msgid "玩家已在房间内"
+msgstr "The player is already in the room"
+
+#: assets/BalootClient/UserConfig.js:465
+msgid "房间人数已满"
+msgstr "Room is full"
+
+#: assets/BalootClient/UserConfig.js:467
+msgid "已经绑定过邀请码"
+msgstr "Referral Code has been bound"
+
+#: assets/BalootClient/UserConfig.js:468
+msgid "不能绑定自己的邀请码"
+msgstr "Can't bind your own invitation code"
+
+#: assets/BalootClient/UserConfig.js:469
+msgid "不能绑定下级的邀请码"
+msgstr "Cannot bind subordinate invitation code"
+
+#: assets/BalootClient/UserConfig.js:470
+msgid "绑定错误"
+msgstr "Binding Error"
+
+#: assets/BalootClient/UserConfig.js:472
+msgid "已发送过邀请,请稍后再试"
+msgstr "Invitation has been sent, please try again later."
+
+#: assets/BalootClient/UserConfig.js:473
+msgid "无法重复领取沙龙体验卡"
+msgstr "The salon experience card cannot be collected repeatedly."
+
+#: assets/BalootClient/UserConfig.js:474
+msgid "已发送过邀请,请10s后再试"
+msgstr "Invitation has been sent, please try again in 10s."
+
+#: assets/BalootClient/UserConfig.js:475
+msgid "无法重复领取"
+msgstr "Can't get repeated"
+
+#: assets/BalootClient/UserConfig.js:476
+msgid "破产金币已领完"
+msgstr "Bankruptcy coins have been received"
+
+#: assets/BalootClient/UserConfig.js:484
+msgid "网络有问题"
+msgstr "Network Anomaly"
+
+#: assets/_FWExpand/NetManagerEx.js:78
+msgid "重连中..."
+msgstr "Reconnecting..."
+
+#: assets/_FWExpand/NetManagerEx.js:82
+msgid "登录失败，请检查网络后再重新登录连接"
+msgstr "Login failed, please check the network and log in again to connect"
+
+#: assets/_FWExpand/NetManagerEx.js:92
+msgid "发现新版本，请点击更新按钮将游戏更新到最新的版本"
+msgstr ""
+"A new version is found, please click the update button to update the game to "
+"the latest version"
+
+#: assets/_FWExpand/NetManagerEx.js:107 assets/_FWExpand/NetManagerEx.js:112
+msgid "系统维护期间无法登录"
+msgstr "Unable to log in during system maintenance"
+
+#: assets/_FWExpand/NetManagerEx.js:120
+msgid "自动登录已过期，请重新登录"
+msgstr "Automatic login has expired, please log in again"
+
+#: assets/_FWExpand/PayMgrEx.js:14
+msgid "Purchase Cancelled"
+msgstr "Purchase Cancelled"
+
+#: assets/_FWExpand/PayMgrEx.js:15
+msgid "Billing service DisConnected"
+msgstr "Billing Service DisConnected"
+
+#: assets/_FWExpand/PayMgrEx.js:16
+msgid ""
+"Unsuccessful Purchase \n"
+"Unknown error"
+msgstr ""
+"Unsuccessful Purchase \n"
+"Unknown error"
+
+#: assets/_FWExpand/PayMgrEx.js:17
+msgid ""
+"Unsuccessful Purchase \n"
+"Verification failed"
+msgstr ""
+"Unsuccessful Purchase \n"
+"Verification failed"
+
+#: assets/_FWExpand/PayMgrEx.js:18
+msgid ""
+"Unsuccessful Purchase \n"
+"iTunes Store verification failed"
+msgstr ""
+"Unsuccessful Purchase \n"
+"iTunes Store verification failed"
+
+#: assets/_FWExpand/PayMgrEx.js:19
+msgid ""
+"Unsuccessful Purchase \n"
+"Cannot connect to iTunes Store"
+msgstr ""
+"Unsuccessful Purchase \n"
+"Cannot connect to iTunes Store"
+
+#: assets/_FWExpand/PayMgrEx.js:20
+msgid ""
+"Unsuccessful Purchase \n"
+"The product cannot be purchased"
+msgstr ""
+"Unsuccessful Purchase \n"
+"The product cannot be purchased"
+
+#: assets/resources/BalootClient/GameInvite/scripts/CafeUIDInvite.js:24
+msgid "邀请成功"
+msgstr "Invitation succeeded"
+
+#: assets/resources/BalootClient/GameInvite/scripts/CafeUIDInvite.js:39
+#: i18n/ui_static_text.js:270
+msgid "请输入UID"
+msgstr "Please enter UID"
+
+#: assets/resources/BalootClient/RoomList/RoomListView.js:375
+#: i18n/ui_static_text.js:76
+msgid "结束剩余时间"
+msgstr "League Ends in"
+
+#: assets/resources/BalootClient/RoomList/RoomListView.js:377
+msgid "开启剩余时间"
+msgstr "League Start in"
+
+#: assets/resources/BalootClient/RoomList/RoomListView.js:496
+msgid "您的金币已超出最大携带"
+msgstr "Your gold coins have exceeded the maximum carry"
+
+#: assets/resources/BalootClient/RoomList/RoomListView.js:570
+#: i18n/ui_static_text.js:149
+msgid "创建失败,已达到最大创建房间数"
+msgstr ""
+"Failed to create, the maximum number of created rooms has been reached."
+
+#: assets/resources/BalootClient/RoomList/scripts/BaseRoomCpt.js:174
+#: assets/resources/BalootClient/RoomList/scripts/PageRoomBaloot.js:52
+#: assets/resources/BalootClient/RoomList/scripts/PageRoomHand.js:21
+#: i18n/ui_static_text.js:457
+msgid "您的金币不足"
+msgstr "You don’t have enough coins"
+
+#: assets/resources/BalootClient/RoomList/scripts/BaseRoomCpt.js:181
+msgid "您的金币已超出最大携带,是否进入合适的房间?"
+msgstr ""
+"The game field you have chosen is not suitable,and the suitable game is "
+"automatically matched."
+
+#: assets/resources/BalootClient/Setting/scripts/PopupSetting.js:52
+msgid "需要VIP才能开启"
+msgstr "Requires VIP to enable"
+
+#: assets/resources/BalootClient/Setting/scripts/PopupSetting.js:71
+msgid "版本{1}"
+msgstr "Version {1}"
+
+#: assets/resources/BalootClient/Setting/scripts/PopupSetting.js:157
+#: assets/resources/BalootClient/UserInfo/scripts/ChangeUserHead.js:166
+#: i18n/ui_static_text.js:220
+msgid "FB账号绑定失败!"
+msgstr "Facebook account binding failed!"
+
+#: assets/resources/BalootClient/Setting/scripts/PopupSetting.js:185
+msgid "Google账号绑定失败!"
+msgstr "Google account binding failed!"
+
+#: assets/resources/BalootClient/Setting/scripts/PopupSetting.js:209
+#: assets/resources/BalootClient/UserInfo/scripts/ChangeUserHead.js:193
+msgid "Apple账号绑定失败"
+msgstr "Apple account binding failed"
+
+#: assets/resources/BalootClient/SkinShop/script/SkinShop.js:166
+#: i18n/ui_static_text.js:16
+msgid "{1}天"
+msgstr "{1}Days"
+
+#: assets/resources/BalootClient/UserInfo/scripts/ChangeUserHead.js:119
+#: i18n/ui_static_text.js:64
+msgid "上传失败"
+msgstr "Upload failed"
+
+#: assets/resources/BalootClient/UserInfo/scripts/ChangeUserHead.js:121
+#: i18n/ui_static_text.js:65
+msgid "用户不在线"
+msgstr "User is not online"
+
+#: assets/resources/BalootClient/UserInfo/scripts/ChangeUserHead.js:123
+#: i18n/ui_static_text.js:66
+msgid "图片格式错误"
+msgstr "Picture format is wrong"
+
+#: assets/resources/BalootClient/UserInfo/scripts/ChangeUserHead.js:130
+#: i18n/ui_static_text.js:67
+msgid "取消选择图片"
+msgstr "Deselect picture"
+
+#: assets/resources/BalootClient/UserInfo/scripts/ChangeUserHead.js:133
+#: i18n/ui_static_text.js:68
+msgid "选择图片失败"
+msgstr "Failed to select picture"
+
+#: assets/resources/BalootClient/UserInfo/scripts/PersonalInfo.js:643
+#: i18n/ui_static_text.js:213
+msgid "复制成功"
+msgstr "Copy successfully"
+
+#: i18n/ui_static_text.js:2
+msgid "确定"
+msgstr "Confirm"
+
+#: i18n/ui_static_text.js:3
+msgid "领取全部"
+msgstr "Receive all"
+
+#: i18n/ui_static_text.js:4
+msgid "添加好友"
+msgstr "Add Friend"
+
+#: i18n/ui_static_text.js:5
+msgid "俱乐部信息"
+msgstr "Club information"
+
+#: i18n/ui_static_text.js:6
+msgid "活跃度奖励"
+msgstr "Activity Rewards"
+
+#: i18n/ui_static_text.js:7
+msgid "排行榜"
+msgstr "Ranking"
+
+#: i18n/ui_static_text.js:8
+msgid "新手任务"
+msgstr "Novice Task"
+
+#: i18n/ui_static_text.js:9
+msgid "主线任务"
+msgstr "Main "
+
+#: i18n/ui_static_text.js:10
+msgid "成长任务"
+msgstr "Growth"
+
+#: i18n/ui_static_text.js:11
+msgid "每日任务"
+msgstr "Daily"
+
+#: i18n/ui_static_text.js:12
+msgid "登录奖励"
+msgstr "Login"
+
+#: i18n/ui_static_text.js:14
+#, fuzzy
+#| msgid "快上线,加入我的房间{1},全民都在玩的Poker Hero!"
+msgid "快上线,加入我的房间{1},全民都在玩的Poker Hero!"
+msgstr "Go online now, join my room {1}, everyone is playing Arab Hero!"
+
+#: i18n/ui_static_text.js:15
+msgid "觉得无聊吗?快来玩Poker Hero,有史以来最好的纸牌游戏之一!"
+msgstr "Everyone is playing Arab Hero!Click here, download, and play with us!"
+
+#: i18n/ui_static_text.js:17
+msgid "领取"
+msgstr "Receive"
+
+#: i18n/ui_static_text.js:18
+msgid "Share"
+msgstr "Share"
+
+#: i18n/ui_static_text.js:19
+msgid "Spin"
+msgstr "Spin"
+
+#: i18n/ui_static_text.js:20
+msgid "Login every day to receive gifts"
+msgstr "Login every day to receive gifts"
+
+#: i18n/ui_static_text.js:21
+msgid "创建一个沙龙房间获得奖励"
+msgstr "Create a salon room"
+
+#: i18n/ui_static_text.js:22
+msgid "创建房间"
+msgstr "Create Room"
+
+#: i18n/ui_static_text.js:23
+msgid "已领取"
+msgstr "Received"
+
+#: i18n/ui_static_text.js:24
+msgid "沙龙房间中进行过1局游戏"
+msgstr "A game was played in the salon room"
+
+#: i18n/ui_static_text.js:25
+msgid "管理房间"
+msgstr "Manage rooms"
+
+#: i18n/ui_static_text.js:26
+msgid "第一次奖励"
+msgstr "First Reward"
+
+#: i18n/ui_static_text.js:27
+msgid "第二次奖励"
+msgstr "Second Reward"
+
+#: i18n/ui_static_text.js:28
+msgid "对不起,您还不是VIP"
+msgstr "Sorry, you are not a VIP yet"
+
+#: i18n/ui_static_text.js:29
+msgid "成为VIP"
+msgstr "BECOME VIP"
+
+#: i18n/ui_static_text.js:30
+msgid "30天总计可领取"
+msgstr "Available 30 days"
+
+#: i18n/ui_static_text.js:31
+msgid "VIP剩余时间{1}天"
+msgstr "Remaining VIP time {1} days"
+
+#: i18n/ui_static_text.js:32
+msgid "去完成"
+msgstr "GO"
+
+#: i18n/ui_static_text.js:33
+msgid "一键领取"
+msgstr "Receive All"
+
+#: i18n/ui_static_text.js:34
+msgid "3 day"
+msgstr "3 days"
+
+#: i18n/ui_static_text.js:35
+msgid "0"
+msgstr "0"
+
+#: i18n/ui_static_text.js:36
+msgid "完成将获得{1}经验"
+msgstr "Completion will gain {1} experience"
+
+#: i18n/ui_static_text.js:37
+msgid "结束于{1}"
+msgstr "Ends in{1}"
+
+#: i18n/ui_static_text.js:38
+msgid "找不到通行证信息"
+msgstr "Pass information not found"
+
+#: i18n/ui_static_text.js:39
+msgid "未开通超级通行证"
+msgstr "Please buy Arab Hero play pass"
+
+#: i18n/ui_static_text.js:40
+msgid "等级未达到"
+msgstr "Level not reached"
+
+#: i18n/ui_static_text.js:41
+msgid "重复领取"
+msgstr "Repeat collection"
+
+#: i18n/ui_static_text.js:42
+msgid "期待和你一起玩，点击加入！"
+msgstr "Looking forward to playing with you, click to join!"
+
+#: i18n/ui_static_text.js:43
+msgid "加入"
+msgstr "Join"
+
+#: i18n/ui_static_text.js:44
+msgid "已结束"
+msgstr "Over"
+
+#: i18n/ui_static_text.js:45
+msgid "违法"
+msgstr "illegal"
+
+#: i18n/ui_static_text.js:46
+msgid "侮辱宗教"
+msgstr "insult religion"
+
+#: i18n/ui_static_text.js:47
+msgid "不恰当"
+msgstr "inappropriate"
+
+#: i18n/ui_static_text.js:48
+msgid "重复信息"
+msgstr "duplicate information"
+
+#: i18n/ui_static_text.js:49
+msgid "其他原因"
+msgstr "other reasons"
+
+#: i18n/ui_static_text.js:50
+msgid "辱骂"
+msgstr "abuse"
+
+#: i18n/ui_static_text.js:51
+msgid "举报"
+msgstr "Report"
+
+#: i18n/ui_static_text.js:52
+msgid "请输入"
+msgstr "Please Enter…"
+
+#: i18n/ui_static_text.js:53
+msgid "举报成功"
+msgstr "Report successful"
+
+#: i18n/ui_static_text.js:55
+msgid "发送私信成功"
+msgstr "A private message has been sent successfully"
+
+#: i18n/ui_static_text.js:57
+msgid "投票"
+msgstr "Vote"
+
+#: i18n/ui_static_text.js:58
+msgid "请选择一个国家进行投票"
+msgstr "Please select a country to vote"
+
+#: i18n/ui_static_text.js:59
+msgid "投票成功"
+msgstr "successful vote"
+
+#: i18n/ui_static_text.js:60
+#, fuzzy
+#| msgid "邮件"
+msgid "附件"
+msgstr "Mail"
+
+#: i18n/ui_static_text.js:61
+msgid "发件人"
+msgstr "Sender"
+
+#: i18n/ui_static_text.js:62
+msgid "提交成功,感谢您对PokerHero的大力支持"
+msgstr "Submitted successfully!"
+
+#: i18n/ui_static_text.js:63
+msgid "最多选取3张图片"
+msgstr "Select up to 3 photos"
+
+#: i18n/ui_static_text.js:69
+msgid "请选择图片或者进行文字描述"
+msgstr "Please select a picture or provide a text description"
+
+#: i18n/ui_static_text.js:70
+msgid "正在切换语言"
+msgstr "Setting Language"
+
+#: i18n/ui_static_text.js:71
+msgid "金驴"
+msgstr "Golden Donkey"
+
+#: i18n/ui_static_text.js:72
+msgid "邮件"
+msgstr "Mail"
+
+#: i18n/ui_static_text.js:73
+msgid "客服"
+msgstr "Service"
+
+#: i18n/ui_static_text.js:74
+msgid "邀请码"
+msgstr "Invitation"
+
+#: i18n/ui_static_text.js:75
+msgid "设置"
+msgstr "Set up"
+
+#: i18n/ui_static_text.js:77
+msgid "进入房间失败"
+msgstr "Enter the room failed"
+
+#: i18n/ui_static_text.js:78
+msgid "未激活"
+msgstr "SNA"
+
+#: i18n/ui_static_text.js:79
+msgid "游客登录"
+msgstr "Guest login"
+
+#: i18n/ui_static_text.js:80
+msgid "维护公告"
+msgstr "Maintenance Announcement"
+
+#: i18n/ui_static_text.js:81
+msgid "规则"
+msgstr "Rules"
+
+#: i18n/ui_static_text.js:82
+msgid "奖励"
+msgstr "Rewards"
+
+#: i18n/ui_static_text.js:83
+msgid "周榜"
+msgstr "Week"
+
+#: i18n/ui_static_text.js:84
+msgid "月榜"
+msgstr "Month"
+
+#: i18n/ui_static_text.js:85
+#, fuzzy
+#| msgid "所有"
+msgid "总榜"
+msgstr "All"
+
+#: i18n/ui_static_text.js:86
+msgid "刷新时间:每天{1}点"
+msgstr "Refreshing time{1}everday"
+
+#: i18n/ui_static_text.js:87
+msgid "赛季开放时间{1} - {2}"
+msgstr ""
+"Season Time\n"
+"{1} - {2}"
+
+#: i18n/ui_static_text.js:88
+msgid "收入"
+msgstr "Income"
+
+#: i18n/ui_static_text.js:89
+msgid "局数"
+msgstr "Number of Games"
+
+#: i18n/ui_static_text.js:90
+msgid "COIN"
+msgstr "COIN"
+
+#: i18n/ui_static_text.js:91
+msgid "EXP"
+msgstr "EXP"
+
+#: i18n/ui_static_text.js:92
+msgid "Collect"
+msgstr "Collect"
+
+#: i18n/ui_static_text.js:93
+msgid "激活"
+msgstr "Activation"
+
+#: i18n/ui_static_text.js:94
+msgid "没有房间"
+msgstr "No room"
+
+#: i18n/ui_static_text.js:95
+msgid "温馨提示:购买道具后，邀请好友加入您创建的房间一起玩可以一直获得奖励"
+msgstr ""
+"Tips:After purchasing props, you can earn rewards for anyone playing in the "
+"salon rooms you created."
+
+#: i18n/ui_static_text.js:96
+msgid "快速开始"
+msgstr "Quick Start"
+
+#: i18n/ui_static_text.js:97
+msgid "Free 3 day"
+msgstr "Free 3 day"
+
+#: i18n/ui_static_text.js:98
+msgid "购买"
+msgstr "Purchase"
+
+#: i18n/ui_static_text.js:99
+msgid "创建房间成功"
+msgstr "Create room successfully"
+
+#: i18n/ui_static_text.js:100
+msgid "领取成功"
+msgstr "Received successfully"
+
+#: i18n/ui_static_text.js:102
+msgid "公开房 {1}/{2}"
+msgstr "Public Room {1}/{2}"
+
+#: i18n/ui_static_text.js:103
+msgid "私人房 {1}/{2}"
+msgstr "Private Room {1}/{2}"
+
+#: i18n/ui_static_text.js:104
+msgid "公开房"
+msgstr "Public Room"
+
+#: i18n/ui_static_text.js:105
+msgid "密码房"
+msgstr "Private Room"
+
+#: i18n/ui_static_text.js:106
+msgid "需要购买沙龙道具"
+msgstr "Need to buy salon props"
+
+#: i18n/ui_static_text.js:107
+msgid "目前还没有收益,快去玩沙龙吧"
+msgstr "No income yet, go to the salon"
+
+#: i18n/ui_static_text.js:108
+msgid "需要提升VIP"
+msgstr "Boost VIP"
+
+#: i18n/ui_static_text.js:109
+msgid "ALL"
+msgstr "ALL"
+
+#: i18n/ui_static_text.js:110
+msgid "进入金币"
+msgstr "Enter gold coins"
+
+#: i18n/ui_static_text.js:111
+msgid "底分"
+msgstr "Base Score"
+
+#: i18n/ui_static_text.js:112
+msgid "出牌时间"
+msgstr "Play time"
+
+#: i18n/ui_static_text.js:113
+msgid "打乱"
+msgstr "Shuffle"
+
+#: i18n/ui_static_text.js:114
+msgid "不打乱"
+msgstr "No Shuffle"
+
+#: i18n/ui_static_text.js:115
+msgid "打乱顺序"
+msgstr "Shuffle"
+
+#: i18n/ui_static_text.js:116
+msgid "开"
+msgstr "Open"
+
+#: i18n/ui_static_text.js:117
+msgid "关"
+msgstr "Shut"
+
+#: i18n/ui_static_text.js:118
+msgid "语音聊天"
+msgstr "Voice Chat"
+
+#: i18n/ui_static_text.js:119
+msgid "公开"
+msgstr "Public"
+
+#: i18n/ui_static_text.js:120
+msgid "私密"
+msgstr "Private"
+
+#: i18n/ui_static_text.js:121
+msgid "最少携带"
+msgstr "Least Carry"
+
+#: i18n/ui_static_text.js:122
+msgid "是"
+msgstr "Yes"
+
+#: i18n/ui_static_text.js:123
+msgid "否"
+msgstr "NO"
+
+#: i18n/ui_static_text.js:124
+msgid "大厅显示牌桌"
+msgstr "lobby display card table"
+
+#: i18n/ui_static_text.js:125
+msgid "回合"
+msgstr "Round"
+
+#: i18n/ui_static_text.js:126
+msgid "1回合"
+msgstr "One Round"
+
+#: i18n/ui_static_text.js:127
+msgid "经典"
+msgstr "classic"
+
+#: i18n/ui_static_text.js:128
+msgid "玩法"
+msgstr "Mode"
+
+#: i18n/ui_static_text.js:129
+msgid "密码"
+msgstr "Password"
+
+#: i18n/ui_static_text.js:130
+msgid "自动开启"
+msgstr "Auto Start"
+
+#: i18n/ui_static_text.js:131
+msgid "总分"
+msgstr "SCORE"
+
+#: i18n/ui_static_text.js:132
+msgid "最低分数"
+msgstr "Minimum score"
+
+#: i18n/ui_static_text.js:133
+msgid "座位"
+msgstr "Seat"
+
+#: i18n/ui_static_text.js:134
+msgid "需升级VIP"
+msgstr "Need VIP upgrade"
+
+#: i18n/ui_static_text.js:135
+msgid "加入房间"
+msgstr "Join Room"
+
+#: i18n/ui_static_text.js:136
+msgid "请输入房间号"
+msgstr "Please enter room number"
+
+#: i18n/ui_static_text.js:137
+msgid "房间号"
+msgstr "Room Number"
+
+#: i18n/ui_static_text.js:138
+msgid "删除"
+msgstr "Delete"
+
+#: i18n/ui_static_text.js:139
+msgid "请输入密码"
+msgstr "Please enter password"
+
+#: i18n/ui_static_text.js:140
+msgid "Income"
+msgstr "Income"
+
+#: i18n/ui_static_text.js:141
+msgid "时间"
+msgstr "Time"
+
+#: i18n/ui_static_text.js:142
+msgid "游戏"
+msgstr "Game"
+
+#: i18n/ui_static_text.js:143
+msgid "金币"
+msgstr "Golds"
+
+#: i18n/ui_static_text.js:144
+#, fuzzy
+#| msgid "经验"
+msgid "经验值"
+msgstr "EXP"
+
+#: i18n/ui_static_text.js:145
+msgid "收益"
+msgstr "income"
+
+#: i18n/ui_static_text.js:146
+msgid "没有记录"
+msgstr "No record"
+
+#: i18n/ui_static_text.js:147
+msgid "确定({1}/{2})"
+msgstr "Sure({1}/{2})"
+
+#: i18n/ui_static_text.js:150
+msgid "创建密码房间,需要输入密码"
+msgstr "Create a Private room, you need to enter a password"
+
+#: i18n/ui_static_text.js:152
+msgid "留言"
+msgstr "Messages"
+
+#: i18n/ui_static_text.js:153
+msgid "好友"
+msgstr "Friends"
+
+#: i18n/ui_static_text.js:154
+msgid "沙龙"
+msgstr "Diwaniyah"
+
+#: i18n/ui_static_text.js:155
+msgid "聊天"
+msgstr "Chat"
+
+#: i18n/ui_static_text.js:156
+msgid "添加"
+msgstr "Add"
+
+#: i18n/ui_static_text.js:157
+msgid "同意"
+msgstr "Agree"
+
+#: i18n/ui_static_text.js:158
+msgid "请输入姓名"
+msgstr "Name"
+
+#: i18n/ui_static_text.js:159
+msgid "My Friends"
+msgstr "My Friends"
+
+#: i18n/ui_static_text.js:160
+msgid "没有数据"
+msgstr "No Data"
+
+#: i18n/ui_static_text.js:161
+msgid "期待与你一起游戏,点击加入吧!"
+msgstr "Looking forward to playing with you, click to join!"
+
+#: i18n/ui_static_text.js:162
+msgid "没有好友"
+msgstr "No Friends"
+
+#: i18n/ui_static_text.js:163
+msgid "请输入玩家ID或昵称"
+msgstr "Please enter player ID or nickname"
+
+#: i18n/ui_static_text.js:164
+msgid "发送"
+msgstr "Send"
+
+#: i18n/ui_static_text.js:165
+msgid "已申请"
+msgstr "Already applied"
+
+#: i18n/ui_static_text.js:166
+msgid "删除好友成功"
+msgstr "Friends deleted successfully"
+
+#: i18n/ui_static_text.js:167
+msgid "今日破产补助剩余{1}次"
+msgstr "The remaining {1} times of bankruptcy subsidy today"
+
+#: i18n/ui_static_text.js:168
+msgid "提示"
+msgstr "Tips"
+
+#: i18n/ui_static_text.js:169
+msgid "您的网络已断开,请重新连接."
+msgstr "Your network is disconnected, please reconnect."
+
+#: i18n/ui_static_text.js:170
+msgid "取消"
+msgstr "Cancel"
+
+#: i18n/ui_static_text.js:171
+msgid "总计"
+msgstr "Total"
+
+#: i18n/ui_static_text.js:172
+msgid "检测到游戏已有新版本,是否立即更新?"
+msgstr "Found a new version, is it updated?"
+
+#: i18n/ui_static_text.js:173
+msgid "更新"
+msgstr "Renew"
+
+#: i18n/ui_static_text.js:174
+msgid "聊天室"
+msgstr "Chat"
+
+#: i18n/ui_static_text.js:175
+#, fuzzy
+#| msgid "ID"
+msgid "UID"
+msgstr "ID"
+
+#: i18n/ui_static_text.js:176
+msgid "Messenger"
+msgstr "Messenger"
+
+#: i18n/ui_static_text.js:177
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: i18n/ui_static_text.js:178
+msgid "邀请好友"
+msgstr "Invite Friends"
+
+#: i18n/ui_static_text.js:179
+msgid "请输入好友的UID"
+msgstr "Please enter your friend's UID"
+
+#: i18n/ui_static_text.js:180
+msgid "Facebook"
+msgstr "Facebook"
+
+#: i18n/ui_static_text.js:181
+msgid "未安装Messager"
+msgstr "Messenger is not installed"
+
+#: i18n/ui_static_text.js:182
+msgid "未安装whatsapp"
+msgstr "WhatsApp is not installed"
+
+#: i18n/ui_static_text.js:183
+msgid "Poker Hero"
+msgstr "Arab Hero"
+
+#: i18n/ui_static_text.js:184
+msgid "反馈"
+msgstr "Feedback"
+
+#: i18n/ui_static_text.js:185
+msgid "充值失败"
+msgstr "Recharge failed"
+
+#: i18n/ui_static_text.js:186
+msgid "网络连接断开"
+msgstr "Network disconnection"
+
+#: i18n/ui_static_text.js:187
+msgid "游戏中作弊"
+msgstr "cheat in game"
+
+#: i18n/ui_static_text.js:188
+msgid "游戏功能无法使用"
+msgstr "Game features are unavailable"
+
+#: i18n/ui_static_text.js:189
+msgid "聊天中含有敏感词汇"
+msgstr "Chat contains sensitive words"
+
+#: i18n/ui_static_text.js:190
+msgid "其他"
+msgstr "Other"
+
+#: i18n/ui_static_text.js:191
+msgid "请选择您遇到的问题类型或者上传图片,以便我们给您带来更好的服务."
+msgstr ""
+"Please select the type of problem you encounter or upload a picture, so that "
+"we can bring you better service."
+
+#: i18n/ui_static_text.js:192
+msgid "提交"
+msgstr "Send"
+
+#: i18n/ui_static_text.js:193
+msgid "在线客服工作时间"
+msgstr "Online customer service working hours"
+
+#: i18n/ui_static_text.js:194
+msgid "联系"
+msgstr "Contact"
+
+#: i18n/ui_static_text.js:195
+msgid "通知"
+msgstr "Notify"
+
+#: i18n/ui_static_text.js:196
+msgid "礼物"
+msgstr "Gift "
+
+#: i18n/ui_static_text.js:197
+msgid "活动"
+msgstr "Activity"
+
+#: i18n/ui_static_text.js:198
+msgid "删除全部"
+msgstr "Delete all"
+
+#: i18n/ui_static_text.js:199
+msgid "没有邮件"
+msgstr "No email, please check again later."
+
+#: i18n/ui_static_text.js:200
+msgid "财富"
+msgstr "Wealth"
+
+#: i18n/ui_static_text.js:202
+#, fuzzy
+#| msgid "魅力值"
+msgid "魅力"
+msgstr "Charisma"
+
+#: i18n/ui_static_text.js:203
+msgid "RP"
+msgstr "RP"
+
+#: i18n/ui_static_text.js:204
+msgid "邀请码绑定"
+msgstr "Invitation code binding"
+
+#: i18n/ui_static_text.js:205
+msgid "请输入邀请码"
+msgstr "Please enter the invitation code"
+
+#: i18n/ui_static_text.js:206
+msgid "输入好友的邀请码,您和您的好友都将获得奖励"
+msgstr ""
+"Enter your friend's invitation code and both you and your friend will be "
+"rewarded"
+
+#: i18n/ui_static_text.js:207
+msgid "您的分享码:"
+msgstr "Your invitation code:"
+
+#: i18n/ui_static_text.js:208
+msgid "好友的邀请码"
+msgstr "Friend's invitation code"
+
+#: i18n/ui_static_text.js:209
+msgid "绑定"
+msgstr "Bind"
+
+#: i18n/ui_static_text.js:210
+msgid "复制"
+msgstr "Copy"
+
+#: i18n/ui_static_text.js:211
+msgid "让您的朋友扫码下载"
+msgstr "Let your friends scan the QR code to download."
+
+#: i18n/ui_static_text.js:212
+msgid "每个人都在玩纸牌大师!点击这里下载和我们一起玩!"
+msgstr ""
+"Everyone is playing Arab Hero! Click here to download and play with us!"
+
+#: i18n/ui_static_text.js:214
+msgid "复制成功,快去通知您的好友吧"
+msgstr "Copy is successful, go and notify your friends"
+
+#: i18n/ui_static_text.js:215
+msgid "请给我们mensa card一个评价"
+msgstr "Please leave a review for Arab Hero"
+
+#: i18n/ui_static_text.js:216
+msgid "检测到游戏已有最新版本,前往下载游戏,领取{1}!给您更好的体验!"
+msgstr ""
+"It is detected that the game has the latest version, go to download the "
+"game, and receive {1} gold coins! Give you a better experience!"
+
+#: i18n/ui_static_text.js:217
+msgid ""
+"检测到游戏已有最新版本,前往下载游戏领取{1}!为了您的账号安全,建议您绑定"
+"Facebook!"
+msgstr ""
+"It is detected that the game has the latest version, go to download the game "
+"to get {1} gold coins! For the security of your account, it is recommended "
+"that you bind Facebook!"
+
+#: i18n/ui_static_text.js:218
+msgid "下载"
+msgstr "Download"
+
+#: i18n/ui_static_text.js:219
+msgid "绑定后下载"
+msgstr "Download after binding"
+
+#: i18n/ui_static_text.js:221
+msgid "请输入用户名"
+msgstr "Please enter user name"
+
+#: i18n/ui_static_text.js:222
+msgid "{1}结束"
+msgstr "{1}End"
+
+#: i18n/ui_static_text.js:223
+msgid "RETURN"
+msgstr "RETURN"
+
+#: i18n/ui_static_text.js:224
+msgid "Exp"
+msgstr "Exp"
+
+#: i18n/ui_static_text.js:225
+msgid "结算时间"
+msgstr "Settlement Time"
+
+#: i18n/ui_static_text.js:226
+msgid "联赛重置时间"
+msgstr "League reset time"
+
+#: i18n/ui_static_text.js:227
+msgid "报名费"
+msgstr "registery fee"
+
+#: i18n/ui_static_text.js:228
+msgid "Admission Range:"
+msgstr "Bet:"
+
+#: i18n/ui_static_text.js:229
+msgid "FINISHED"
+msgstr "FINISHED"
+
+#: i18n/ui_static_text.js:230
+msgid "Start Game"
+msgstr "Start Game"
+
+#: i18n/ui_static_text.js:231
+msgid "Ranking"
+msgstr "Ranking"
+
+#: i18n/ui_static_text.js:232
+msgid "Awards"
+msgstr "Awards"
+
+#: i18n/ui_static_text.js:233
+msgid "联赛记录"
+msgstr "league record"
+
+#: i18n/ui_static_text.js:234
+msgid "联赛规则"
+msgstr "League Rules"
+
+#: i18n/ui_static_text.js:235
+msgid "联赛奖励"
+msgstr "League Rewards"
+
+#: i18n/ui_static_text.js:236
+msgid "排位等级"
+msgstr "Ranking"
+
+#: i18n/ui_static_text.js:238
+msgid "第{1}名"
+msgstr "No. {1}"
+
+#: i18n/ui_static_text.js:239
+msgid "进入比赛失败"
+msgstr "Failed to enter the game"
+
+#: i18n/ui_static_text.js:240
+msgid "Class A"
+msgstr "Class A"
+
+#: i18n/ui_static_text.js:241
+msgid "Class B"
+msgstr "Class B"
+
+#: i18n/ui_static_text.js:242
+msgid "进行中"
+msgstr "Processing"
+
+#: i18n/ui_static_text.js:243
+msgid "比赛已经结束"
+msgstr "Game is over"
+
+#: i18n/ui_static_text.js:244
+msgid "在当前游戏内,您获胜后将会获得{1}RP值,如果在翻倍时间,则获得{2}RP值"
+msgstr ""
+"You will get max value of {1} when you win, and max value of {2} in double "
+"time."
+
+#: i18n/ui_static_text.js:245
+msgid "双倍奖励"
+msgstr "Double reward "
+
+#: i18n/ui_static_text.js:246
+msgid "周一至周五"
+msgstr "Monday to Friday"
+
+#: i18n/ui_static_text.js:247
+msgid "周末"
+msgstr "weekend"
+
+#: i18n/ui_static_text.js:248
+msgid "音乐"
+msgstr "Music"
+
+#: i18n/ui_static_text.js:249
+msgid "声音"
+msgstr "Sound"
+
+#: i18n/ui_static_text.js:250
+msgid "语言"
+msgstr "Language"
+
+#: i18n/ui_static_text.js:251
+msgid "评价我们"
+msgstr "Rate Us"
+
+#: i18n/ui_static_text.js:252
+#, fuzzy
+#| msgid "WhatsApp"
+msgid "whatsapp"
+msgstr "WhatsApp"
+
+#: i18n/ui_static_text.js:253
+msgid "兑换"
+msgstr "Redemption "
+
+#: i18n/ui_static_text.js:254
+msgid "兑换码"
+msgstr "redemption code"
+
+#: i18n/ui_static_text.js:255
+msgid "加我为好友需要验证"
+msgstr "Add me as a friend requires verification"
+
+#: i18n/ui_static_text.js:256
+msgid "屏蔽世界礼物动画"
+msgstr "Ban animation in global gifts"
+
+#: i18n/ui_static_text.js:257
+msgid "服务条款"
+msgstr "Terms of Service"
+
+#: i18n/ui_static_text.js:258
+msgid "隐私政策"
+msgstr "Privacy Policy"
+
+#: i18n/ui_static_text.js:259
+msgid "衍生政策"
+msgstr "Derivative Policy"
+
+#: i18n/ui_static_text.js:260
+msgid "请输入您的兑换码"
+msgstr "Please enter your redemption code:"
+
+#: i18n/ui_static_text.js:261
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: i18n/ui_static_text.js:262
+msgid "Terms Of Use"
+msgstr "Terms Of Use"
+
+#: i18n/ui_static_text.js:263
+msgid "接受"
+msgstr "Accept"
+
+#: i18n/ui_static_text.js:264
+msgid "30天VIP"
+msgstr "30 days VIP"
+
+#: i18n/ui_static_text.js:265
+msgid "GO"
+msgstr "GO"
+
+#: i18n/ui_static_text.js:266
+msgid "激活成功"
+msgstr "Upgrade Success！"
+
+#: i18n/ui_static_text.js:267
+msgid "去看看"
+msgstr "Let's see!"
+
+#: i18n/ui_static_text.js:268
+msgid "稍后"
+msgstr "Later"
+
+#: i18n/ui_static_text.js:269
+msgid "赠送金币"
+msgstr "Gift gold coins"
+
+#: i18n/ui_static_text.js:271
+msgid "FREE"
+msgstr "FREE"
+
+#: i18n/ui_static_text.js:272
+msgid "额外"
+msgstr "Extra"
+
+#: i18n/ui_static_text.js:273
+msgid "赠送"
+msgstr "Send"
+
+#: i18n/ui_static_text.js:274
+msgid "已拥有"
+msgstr "Own"
+
+#: i18n/ui_static_text.js:275
+msgid "购买开启VIP额外享受以下福利"
+msgstr "Make a VIP purchase and enjoy the following additional benefits"
+
+#: i18n/ui_static_text.js:276
+msgid "MORE"
+msgstr "MORE"
+
+#: i18n/ui_static_text.js:277
+msgid "每日奖励"
+msgstr "Daily Rewards"
+
+#: i18n/ui_static_text.js:278
+msgid "头像框"
+msgstr "Profile Frame"
+
+#: i18n/ui_static_text.js:279
+msgid "聊天框"
+msgstr "Chat Box"
+
+#: i18n/ui_static_text.js:280
+msgid "互动表情"
+msgstr "Interactive expression"
+
+#: i18n/ui_static_text.js:281
+msgid "去提升"
+msgstr "To Elevate"
+
+#: i18n/ui_static_text.js:282
+msgid "您必须先成为VIP"
+msgstr "You need to become VIP first"
+
+#: i18n/ui_static_text.js:283
+msgid "赠送成功"
+msgstr "The gift has been sent successfully"
+
+#: i18n/ui_static_text.js:284
+msgid "还未到可领取时间"
+msgstr "Not yet available for pickup"
+
+#: i18n/ui_static_text.js:285
+msgid "购买成功"
+msgstr "Successful Purchase"
+
+#: i18n/ui_static_text.js:286
+msgid "聊天框与字体"
+msgstr "Chat box with font"
+
+#: i18n/ui_static_text.js:287
+msgid "牌桌"
+msgstr "Card Table"
+
+#: i18n/ui_static_text.js:288
+msgid "牌背"
+msgstr "Card Back"
+
+#: i18n/ui_static_text.js:289
+msgid "牌花"
+msgstr "Card Flower"
+
+#: i18n/ui_static_text.js:290
+msgid "字体颜色"
+msgstr "Font Color"
+
+#: i18n/ui_static_text.js:291
+msgid "经验值道具"
+msgstr "EXP Booster"
+
+#: i18n/ui_static_text.js:292
+msgid "表情包"
+msgstr "Emoticons"
+
+#: i18n/ui_static_text.js:293
+msgid "剩余VIP时间:{1}天"
+msgstr "Remaining VIP time: {1} days"
+
+#: i18n/ui_static_text.js:294
+msgid "购买开启VIP资格,根据不同档位享受VIP权益时间!"
+msgstr "Buy VIP qualifications and enjoy different offers"
+
+#: i18n/ui_static_text.js:295
+#, fuzzy
+#| msgid "未激活"
+msgid "已激活"
+msgstr "SNA"
+
+#: i18n/ui_static_text.js:296
+msgid "恭喜您已经成为VIP{1}"
+msgstr "WELCOME,DEAR VIP{1}"
+
+#: i18n/ui_static_text.js:297
+msgid "购买开启VIP资格"
+msgstr "Purchase to open VIP qualification"
+
+#: i18n/ui_static_text.js:298
+msgid "沙龙房间数:{1}"
+msgstr "Salon:{1}"
+
+#: i18n/ui_static_text.js:299
+msgid "免费参加排位赛"
+msgstr "vip free"
+
+#: i18n/ui_static_text.js:300
+msgid "好友上限:{1}"
+msgstr "Friends limit: {1}"
+
+#: i18n/ui_static_text.js:301
+msgid "票数:{1}"
+msgstr "Number of votes: {1}"
+
+#: i18n/ui_static_text.js:302
+msgid "VIP{1} 权益"
+msgstr "VIP{1} BENEFITS"
+
+#: i18n/ui_static_text.js:303
+msgid "VIP续费"
+msgstr "VIP RENEWAL"
+
+#: i18n/ui_static_text.js:304
+msgid "背包"
+msgstr "Backpack"
+
+#: i18n/ui_static_text.js:305
+msgid "使用"
+msgstr "use"
+
+#: i18n/ui_static_text.js:306
+msgid "回复"
+msgstr "Reply"
+
+#: i18n/ui_static_text.js:307
+msgid "已完成"
+msgstr "Completed"
+
+#: i18n/ui_static_text.js:308
+msgid "Lv"
+msgstr "Lv"
+
+#: i18n/ui_static_text.js:309
+msgid "拦截"
+msgstr "Block"
+
+#: i18n/ui_static_text.js:310
+msgid "在线统计"
+msgstr "Online Statistics"
+
+#: i18n/ui_static_text.js:311
+msgid "游戏时长"
+msgstr "Time Played"
+
+#: i18n/ui_static_text.js:312
+msgid "赢"
+msgstr "Win"
+
+#: i18n/ui_static_text.js:313
+msgid "总赢取"
+msgstr "Total Win"
+
+#: i18n/ui_static_text.js:314
+msgid "胜率"
+msgstr "Win Rate"
+
+#: i18n/ui_static_text.js:315
+msgid "加好友"
+msgstr "Add Friend"
+
+#: i18n/ui_static_text.js:316
+msgid "送金币"
+msgstr "Send"
+
+#: i18n/ui_static_text.js:317
+msgid "国家"
+msgstr "Country"
+
+#: i18n/ui_static_text.js:318
+msgid "头像"
+msgstr "Avatar"
+
+#: i18n/ui_static_text.js:319
+msgid "选择您的头像资料照片"
+msgstr "Choose your avatar or upload your own profile photo"
+
+#: i18n/ui_static_text.js:320
+msgid "绑定Apple"
+msgstr "Bind Apple"
+
+#: i18n/ui_static_text.js:321
+msgid "绑定FB"
+msgstr "Bind facebook"
+
+#: i18n/ui_static_text.js:322
+msgid "用户名"
+msgstr "Username"
+
+#: i18n/ui_static_text.js:323
+msgid "在这里修改你的用户名"
+msgstr "Change your username here"
+
+#: i18n/ui_static_text.js:324
+msgid "历史战绩"
+msgstr "Historical record"
+
+#: i18n/ui_static_text.js:325
+msgid "没有战绩"
+msgstr "No record"
+
+#: i18n/ui_static_text.js:326
+msgid "礼物列表"
+msgstr "Gift List"
+
+#: i18n/ui_static_text.js:327
+msgid "价格"
+msgstr "Price"
+
+#: i18n/ui_static_text.js:328
+msgid "接收"
+msgstr "Receive"
+
+#: i18n/ui_static_text.js:329
+#, fuzzy
+#| msgid "请求"
+msgid "要求"
+msgstr "request"
+
+#: i18n/ui_static_text.js:330
+msgid "段位"
+msgstr "Segment"
+
+#: i18n/ui_static_text.js:331
+msgid "等级"
+msgstr "Reach Level"
+
+#: i18n/ui_static_text.js:332
+msgid "赠送玩家"
+msgstr "Gift to players"
+
+#: i18n/ui_static_text.js:333
+msgid "接受玩家"
+msgstr "Accept players"
+
+#: i18n/ui_static_text.js:334
+msgid "我们"
+msgstr "US"
+
+#: i18n/ui_static_text.js:335
+msgid "他们"
+msgstr "THEM"
+
+#: i18n/ui_static_text.js:336
+msgid "BALOOT"
+msgstr "BALOOT"
+
+#: i18n/ui_static_text.js:337
+msgid "READY"
+msgstr "READY"
+
+#: i18n/ui_static_text.js:338
+msgid "INVITATION"
+msgstr "INVITATION"
+
+#: i18n/ui_static_text.js:339
+msgid "甩牌"
+msgstr "Sawa"
+
+#: i18n/ui_static_text.js:340
+msgid "End:"
+msgstr "End:"
+
+#: i18n/ui_static_text.js:341
+msgid "Score:"
+msgstr "Score:"
+
+#: i18n/ui_static_text.js:342
+msgid "Ranking:"
+msgstr "Ranking:"
+
+#: i18n/ui_static_text.js:343
+msgid "太阳"
+msgstr "SUN"
+
+#: i18n/ui_static_text.js:344
+msgid "霍科姆"
+msgstr "HOKOM"
+
+#: i18n/ui_static_text.js:345
+msgid "第二次霍科姆"
+msgstr "Second Hokom"
+
+#: i18n/ui_static_text.js:346
+msgid "确认霍科姆"
+msgstr "Confirm Hokom"
+
+#: i18n/ui_static_text.js:347
+msgid "阿什卡尔"
+msgstr "ASHKAR"
+
+#: i18n/ui_static_text.js:348
+msgid "过"
+msgstr "Pass"
+
+#: i18n/ui_static_text.js:349
+msgid "两者都不"
+msgstr "Neither"
+
+#: i18n/ui_static_text.js:350
+msgid "加倍"
+msgstr "Double"
+
+#: i18n/ui_static_text.js:351
+msgid "三倍"
+msgstr "Triple"
+
+#: i18n/ui_static_text.js:352
+msgid "四倍"
+msgstr "Quartet"
+
+#: i18n/ui_static_text.js:353
+msgid "一把定输赢"
+msgstr "Gahwa"
+
+#: i18n/ui_static_text.js:354
+msgid "锁定"
+msgstr "Lock"
+
+#: i18n/ui_static_text.js:355
+msgid "打开"
+msgstr "Open"
+
+#: i18n/ui_static_text.js:356
+msgid "西拉"
+msgstr "SIRA"
+
+#: i18n/ui_static_text.js:357
+msgid "局分"
+msgstr "ROUND SCORE"
+
+#: i18n/ui_static_text.js:358
+msgid "地面"
+msgstr "FLOOR"
+
+#: i18n/ui_static_text.js:359
+msgid "名堂"
+msgstr "PROJECTS"
+
+#: i18n/ui_static_text.js:360
+msgid "点数"
+msgstr "POINTS"
+
+#: i18n/ui_static_text.js:361
+msgid "返回"
+msgstr "Return"
+
+#: i18n/ui_static_text.js:362
+msgid "NEXT"
+msgstr "NEXT"
+
+#: i18n/ui_static_text.js:363
+msgid "发牌"
+msgstr "Deal"
+
+#: i18n/ui_static_text.js:364
+msgid "叫牌"
+msgstr "Bidding"
+
+#: i18n/ui_static_text.js:365
+msgid "结算"
+msgstr "Settlement"
+
+#: i18n/ui_static_text.js:366
+msgid "A牌"
+msgstr "Ace"
+
+#: i18n/ui_static_text.js:367
+msgid "巴洛特"
+msgstr "Baloot"
+
+#: i18n/ui_static_text.js:368
+msgid "第一轮"
+msgstr "FIRST ROUIND"
+
+#: i18n/ui_static_text.js:369
+msgid "第二轮"
+msgstr "SECOND ROUIND"
+
+#: i18n/ui_static_text.js:370
+msgid "下一轮{1}秒后开始"
+msgstr "The next round will start in {1} seconds"
+
+#: i18n/ui_static_text.js:371
+msgid "BALOOT FAST"
+msgstr "BALOOT FAST"
+
+#: i18n/ui_static_text.js:372
+msgid "Banakil"
+msgstr "Banakil"
+
+#: i18n/ui_static_text.js:373
+msgid "Go Down"
+msgstr "Go Down"
+
+#: i18n/ui_static_text.js:374
+msgid "Hint"
+msgstr "Hint"
+
+#: i18n/ui_static_text.js:375
+msgid "Discard"
+msgstr "Discard"
+
+#: i18n/ui_static_text.js:376
+msgid "SUM"
+msgstr "SUM"
+
+#: i18n/ui_static_text.js:377
+msgid "Sum"
+msgstr "Sum"
+
+#: i18n/ui_static_text.js:378
+msgid "Choose groups to go down"
+msgstr "Choose groups to go down"
+
+#: i18n/ui_static_text.js:379
+msgid "Deal"
+msgstr "Dealing"
+
+#: i18n/ui_static_text.js:380
+msgid "GAME"
+msgstr "Game Play"
+
+#: i18n/ui_static_text.js:381
+msgid "REVEAL"
+msgstr "Reveal&Melds"
+
+#: i18n/ui_static_text.js:382
+msgid "Scoring"
+msgstr "Scoring"
+
+#: i18n/ui_static_text.js:383
+msgid "Take"
+msgstr "Take"
+
+#: i18n/ui_static_text.js:384
+msgid "round end"
+msgstr "Round End"
+
+#: i18n/ui_static_text.js:385
+msgid "You already took a card"
+msgstr "You already took a card"
+
+#: i18n/ui_static_text.js:386
+msgid "Its not your turn"
+msgstr "Its not your turn"
+
+#: i18n/ui_static_text.js:387
+msgid "You should draw a card before throwing to the fire"
+msgstr "You should draw a card before throwing to the fire"
+
+#: i18n/ui_static_text.js:388
+msgid "You should keep a card to throw on floor"
+msgstr "You should keep a card to throw on floor"
+
+#: i18n/ui_static_text.js:389
+msgid "You should go down before adding to the table"
+msgstr "You should go down before adding to the table"
+
+#: i18n/ui_static_text.js:390
+msgid "The card you added is either wrong or in the wrong position"
+msgstr "The card you added is either wrong or in the wrong position"
+
+#: i18n/ui_static_text.js:391
+msgid "You should go down or throw the card you took."
+msgstr "You should go down or throw the card you took."
+
+#: i18n/ui_static_text.js:392
+msgid "王不能出"
+msgstr "You can't play the joker card"
+
+#: i18n/ui_static_text.js:393
+msgid "You should draw a card"
+msgstr "You already took a card"
+
+#: i18n/ui_static_text.js:394
+msgid "Your selected groups sum is : {1}"
+msgstr "Your selected groups sum is : {1}"
+
+#: i18n/ui_static_text.js:395
+msgid "Your selected groups sum is : {1}/{2}"
+msgstr "Your selected groups sum is : {1}/{2}"
+
+#: i18n/ui_static_text.js:396
+msgid "Qualifyling"
+msgstr "Qualifying"
+
+#: i18n/ui_static_text.js:397
+msgid "太阳2"
+msgstr "S"
+
+#: i18n/ui_static_text.js:398
+msgid "Dealing"
+msgstr "Dealing"
+
+#: i18n/ui_static_text.js:399
+msgid "Game Play"
+msgstr "Game Play"
+
+#: i18n/ui_static_text.js:400
+msgid "Basra Terms"
+msgstr "Basra Terms"
+
+#: i18n/ui_static_text.js:401
+msgid "Basra"
+msgstr "Basra"
+
+#: i18n/ui_static_text.js:403
+msgid "Confirm"
+msgstr "Confirm"
+
+#: i18n/ui_static_text.js:404
+msgid "Choose 3 cards to pass"
+msgstr "Choose 3 cards to pass"
+
+#: i18n/ui_static_text.js:405
+msgid "Announce avoiding Ltoush"
+msgstr "Announce avoiding Ltoush"
+
+#: i18n/ui_static_text.js:406
+msgid "Pass"
+msgstr "Pass"
+
+#: i18n/ui_static_text.js:407
+msgid "Cranking"
+msgstr "Cranking"
+
+#: i18n/ui_static_text.js:408
+msgid "Mode"
+msgstr "Mode"
+
+#: i18n/ui_static_text.js:409
+msgid "Complex CC"
+msgstr "Complex CC"
+
+#: i18n/ui_static_text.js:410
+msgid "CC Partner"
+msgstr "CC Partner"
+
+#: i18n/ui_static_text.js:411
+msgid "No cards can be played"
+msgstr "No cards can be played"
+
+#: i18n/ui_static_text.js:412
+msgid "Settlement"
+msgstr "Settlement"
+
+#: i18n/ui_static_text.js:413
+msgid "Winner"
+msgstr "Winner"
+
+#: i18n/ui_static_text.js:414
+msgid "NEXT({1})"
+msgstr "NEXT({1})"
+
+#: i18n/ui_static_text.js:415
+msgid "Yes"
+msgstr "Yes"
+
+#: i18n/ui_static_text.js:416
+msgid "No"
+msgstr "No"
+
+#: i18n/ui_static_text.js:417
+msgid "Dash Call?"
+msgstr "Dash Call?"
+
+#: i18n/ui_static_text.js:418
+msgid "Playing"
+msgstr "Game Play"
+
+#: i18n/ui_static_text.js:419
+msgid "CALL"
+msgstr "CALL"
+
+#: i18n/ui_static_text.js:420
+msgid "DashCall"
+msgstr "DashCall"
+
+#: i18n/ui_static_text.js:424
+msgid "Would you like to collect Concan?"
+msgstr "Would you like to collect Concan?"
+
+#: i18n/ui_static_text.js:425
+msgid "Reveal&Melds"
+msgstr "Reveal&Melds"
+
+#: i18n/ui_static_text.js:426
+msgid "Hand Sandi"
+msgstr "Hand Saudi"
+
+#: i18n/ui_static_text.js:427
+msgid "Hand Partner"
+msgstr "Hand Partner"
+
+#: i18n/ui_static_text.js:428
+msgid ""
+"Hand Sandi\n"
+"Partner"
+msgstr ""
+"Hand Saudi\n"
+"Partner"
+
+#: i18n/ui_static_text.js:429
+msgid "No Concan"
+msgstr "No Concan"
+
+#: i18n/ui_static_text.js:430
+msgid "You cant draw Joker"
+msgstr "You cant draw Joker"
+
+#: i18n/ui_static_text.js:431
+msgid "You can"
+msgstr "You can"
+
+#: i18n/ui_static_text.js:432
+msgid "There should be one sequence set at least"
+msgstr "There should be one sequence set at least"
+
+#: i18n/ui_static_text.js:433
+msgid "Latsheen"
+msgstr "Latsheen"
+
+#: i18n/ui_static_text.js:436
+msgid "Complex"
+msgstr "Complex"
+
+#: i18n/ui_static_text.js:438
+msgid "Kasra Partner"
+msgstr "Kasra Partner"
+
+#: i18n/ui_static_text.js:439
+msgid "排位赛"
+msgstr "Rank"
+
+#: i18n/ui_static_text.js:440
+msgid "Bab"
+msgstr "Bab"
+
+#: i18n/ui_static_text.js:441
+msgid "Bawn"
+msgstr "Bawn"
+
+#: i18n/ui_static_text.js:442
+msgid "Malzoom"
+msgstr "Malzoom"
+
+#: i18n/ui_static_text.js:444
+msgid "Choose your bid"
+msgstr "Choose your bid"
+
+#: i18n/ui_static_text.js:445
+msgid "请选择交换的牌"
+msgstr "Choose 3 cards to pass"
+
+#: i18n/ui_static_text.js:447
+msgid "Waiting"
+msgstr "Waiting"
+
+#: i18n/ui_static_text.js:449
+msgid "Ludo Quick"
+msgstr "Ludo Quick"
+
+#: i18n/ui_static_text.js:450
+msgid "说些什么"
+msgstr "Say something"
+
+#: i18n/ui_static_text.js:451
+msgid "Number of game: "
+msgstr "Number of game: "
+
+#: i18n/ui_static_text.js:452
+msgid "Win rate: "
+msgstr "Win rate: "
+
+#: i18n/ui_static_text.js:453
+msgid "SIGN UP"
+msgstr "SIGN UP"
+
+#: i18n/ui_static_text.js:454
+msgid "拒绝"
+msgstr "Refuse"
+
+#: i18n/ui_static_text.js:455
+msgid "Facebooc分享"
+msgstr "Share to Facebook"
+
+#: i18n/ui_static_text.js:456
+msgid "您已经在您的房间里了"
+msgstr "You are already in your room"
+
+#: i18n/ui_static_text.js:458
+msgid "获取金币"
+msgstr "get coins"
+
+#: i18n/ui_static_text.js:459
+msgid "超时未准备"
+msgstr "Timeout not ready"
+
+#: i18n/ui_static_text.js:460
+msgid "房间已经解散"
+msgstr "The room has been dissolved"
+
+#: i18n/ui_static_text.js:461
+msgid "You are about to run out of gold coins!"
+msgstr "You are about to run out of gold coins!"
+
+#: i18n/ui_static_text.js:462
+msgid "您未开启语音权限"
+msgstr "You have not turned on voice permission"
+
+#: i18n/ui_static_text.js:463
+msgid "您还没有坐下不能发送"
+msgstr "You have not sat down and cannot send"
+
+#: i18n/ui_static_text.js:464
+msgid "聊天消息需要间隔{1}秒"
+msgstr "Chat messages need to be {1} seconds apart"
+
+#: i18n/ui_static_text.js:465
+msgid "谢谢！"
+msgstr "Thanks"
+
+#: i18n/ui_static_text.js:466
+msgid "快点吧"
+msgstr "play fast"
+
+#: i18n/ui_static_text.js:467
+msgid "对的就这样"
+msgstr "you are right"
+
+#: i18n/ui_static_text.js:468
+msgid "放轻松，我后面好好打"
+msgstr "Take it easy, I'll hit hard"
+
+#: i18n/ui_static_text.js:469
+msgid "啊呦~"
+msgstr "uf"
+
+#: i18n/ui_static_text.js:470
+msgid "我说了算"
+msgstr "I'm in control here"
+
+#: i18n/ui_static_text.js:471
+msgid "棒棒的，你值得拥有！"
+msgstr "Great, you deserve it!"
+
+#: i18n/ui_static_text.js:472
+msgid "对不起"
+msgstr "sorry"
+
+#: i18n/ui_static_text.js:473
+msgid "再见"
+msgstr "see you later"
+
+#: i18n/ui_static_text.js:474
+msgid "你太欺负人了"
+msgstr "you are too bullying"
+
+#: i18n/ui_static_text.js:475
+msgid "兄弟，耐心一点！"
+msgstr "elder brother! Be patient!"
+
+#: i18n/ui_static_text.js:477
+msgid "您的钻石不足"
+msgstr "Insufficient diamonds"
+
+#: i18n/ui_static_text.js:478
+msgid "ID"
+msgstr "ID"
+
+#: i18n/ui_static_text.js:479
+msgid "比赛已结束"
+msgstr "Challenge has ended"
+
+#: i18n/ui_static_text.js:480
+msgid "绑定FB成功,推荐下载App可以体验到完整的游戏体验"
+msgstr ""
+"Binding FB is successful, it is recommended to download the App to "
+"experience the complete game experience"
+
+#: i18n/ui_static_text.js:481
+msgid "Lv.{1}"
+msgstr "Lv.{1}"
+
+#: i18n/ui_static_text.js:482
+msgid "({1}秒后自动拒绝解散)"
+msgstr "(Auto-reject after {1} seconds)"
+
+#: i18n/ui_static_text.js:483
+msgid "您"
+msgstr "you"
+
+#: i18n/ui_static_text.js:484
+msgid "{1} 发起了解散房间请求"
+msgstr "{1} Initiate a request to dismiss the room"
+
+#: i18n/ui_static_text.js:485
+msgid "操作中..."
+msgstr "In operation..."
+
+#: i18n/ui_static_text.js:486
+msgid "{1}({2})"
+msgstr "{1}({2})"
+
+#: i18n/ui_static_text.js:487
+msgid "邀请已成功发送至俱乐部聊天，去看看？"
+msgstr "Invitation successfully sent to global chat, go check it out？"
+
+#: i18n/ui_static_text.js:488
+msgid "邀请已成功发送至全球聊天，去看看？"
+msgstr "Invitation successfully sent to global chat, go check it out？"
+
+#: i18n/ui_static_text.js:489
+msgid "邀请已经发送成功"
+msgstr "The invitation has been sent successfully"
+
+#: i18n/ui_static_text.js:490
+msgid "这个房间的{1}次分享次数已经使用完成，试试别的邀请吧"
+msgstr "{1} sharing times for this room have been used, try another invitation"
+
+#: i18n/ui_static_text.js:491
+msgid "邀请俱乐部成员"
+msgstr "INVITE CLUB FRIENDS"
+
+#: i18n/ui_static_text.js:492
+msgid "在俱乐部聊天频道邀请"
+msgstr "Invite in the club chat"
+
+#: i18n/ui_static_text.js:493
+msgid "邀请游戏好友"
+msgstr "INVITE GAME FRIENDS"
+
+#: i18n/ui_static_text.js:494
+msgid "在公共聊天频道邀请"
+msgstr "Invite in public club chat"
+
+#: i18n/ui_static_text.js:495
+msgid "{1}秒后可分享"
+msgstr "Share available in {1} seconds"
+
+#: i18n/ui_static_text.js:497
+msgid "special cases"
+msgstr "Special Cases"
+
+#: i18n/ui_static_text.js:498
+msgid ""
+"\n"
+"+2 points "
+msgstr ""
+"\n"
+"+2 points "
+
+#: i18n/ui_static_text.js:499
+msgid "Bigger Ronda"
+msgstr "Bigger Ronda"
+
+#: i18n/ui_static_text.js:500
+msgid "Each player gets +1 points"
+msgstr "Each player gets +1 points"
+
+#: i18n/ui_static_text.js:501
+msgid "Equal Ronda"
+msgstr "Equal Ronda"
+
+#: i18n/ui_static_text.js:502
+msgid "Darba"
+msgstr "Darba"
+
+#: i18n/ui_static_text.js:503
+msgid "Be Khamsa"
+msgstr "Be Khamsa"
+
+#: i18n/ui_static_text.js:504
+msgid "Be Ashra"
+msgstr "Be Ashra"
+
+#: i18n/ui_static_text.js:505
+msgid "Misa"
+msgstr "Misa"
+
+#: i18n/ui_static_text.js:506
+msgid "Tringa"
+msgstr "Tringa"
+
+#: i18n/ui_static_text.js:507
+msgid "TARNEEB"
+msgstr "TARNEEB"
+
+#: i18n/ui_static_text.js:508
+msgid "Biding"
+msgstr "Biding"
+
+#: i18n/ui_static_text.js:509
+msgid "当前叫的小于10，您不能叫13"
+msgstr "The previous player ordered less than 10, you can't order 13"
+
+#: i18n/ui_static_text.js:510
+msgid "TARNEEB SYRIAN 41"
+msgstr "TARNEEB SYRIAN 41"
+
+#: i18n/ui_static_text.js:511
+msgid "Ltoosh"
+msgstr "Ltoosh"
+
+#: i18n/ui_static_text.js:512
+msgid "King"
+msgstr "King"
+
+#: i18n/ui_static_text.js:513
+msgid "Queens"
+msgstr "Queens"
+
+#: i18n/ui_static_text.js:514
+msgid "Diamonds"
+msgstr "Diamonds"
+
+#: i18n/ui_static_text.js:515
+msgid "Trix Complex"
+msgstr "Trix Complex"
+
+#: i18n/ui_static_text.js:516
+msgid "Trix Partner"
+msgstr "Trix Partner"
+
+#: i18n/ui_static_text.js:517
+msgid "Complex Partner"
+msgstr "Complex Partner"
+
+#: i18n/ui_static_text.js:518
+msgid "Uno"
+msgstr "Uno"
+
+#: i18n/ui_static_text.js:519
+msgid "Uno Challenge"
+msgstr "Uno Challenge"
+
+#: i18n/ui_static_text.js:520
+msgid "Play"
+msgstr "Play"
+
+#: i18n/ui_static_text.js:521
+msgid "Keep"
+msgstr "Keep"
+
+#: i18n/ui_static_text.js:522
+msgid "Challenge"
+msgstr "Challenge"
+
+#: i18n/ui_static_text.js:523
+msgid "Correct +0, Wrong +6"
+msgstr "Correct +0, Wrong +6"
+
+#: i18n/ui_static_text.js:524
+msgid "Draw Cards"
+msgstr "Draw Cards"
+
+#: i18n/ui_static_text.js:525
+msgid "Red"
+msgstr "Red"
+
+#: i18n/ui_static_text.js:526
+msgid "Yellow"
+msgstr "Yellow"
+
+#: i18n/ui_static_text.js:527
+msgid "Green"
+msgstr "Green"
+
+#: i18n/ui_static_text.js:528
+msgid "Blue"
+msgstr "Blue"
+
+#: i18n/ui_static_text.js:529
+msgid " played a +4. If you think they have a "
+msgstr " played a +4. If you think they have a "
+
+#: i18n/ui_static_text.js:530
+msgid ""
+" card in their hand, you can challenge them for a change to make them draw "
+"cards instead!"
+msgstr ""
+" card in their hand, you can challenge them for a change to make them draw "
+"cards instead!"
+
+#: i18n/ui_static_text.js:531
+msgid "You cannot announce UNO now!"
+msgstr "You cannot announce UNO now!"
+
+#: i18n/ui_static_text.js:532
+msgid "No player forgot to announce UNO!"
+msgstr "No player forgot to announce UNO!"
+
+#~ msgid "需开通VIP5,才可以使用语音功能"
+#~ msgstr "You need to activate VIP5 before you can use the voice function"
+
+#~ msgid "现价"
+#~ msgstr "Only"
+
+#~ msgid "原价"
+#~ msgstr "IT WAS"
+
+#~ msgid "苹果登录"
+#~ msgstr "Apple login"
+
+#~ msgid "FaceBook登录"
+#~ msgstr "Facebook Login"
+
+#~ msgid "回报"
+#~ msgstr "Return"
+
+#~ msgid "每人简限购买一次!"
+#~ msgstr "Only one purchase per person!"
+
+#~ msgid "新人礼包限定头像框!"
+#~ msgstr "Newcomer gift pack limited avatar frame!"
+
+#~ msgid "解散房间"
+#~ msgstr "Dissolve"
+
+#~ msgid "To:"
+#~ msgstr "To:"
+
+#~ msgid "绑定邀请码"
+#~ msgstr "Bind invitation code"
+
+#~ msgid "快速对决,我在房间{1}等你,准备展示实力了吗?"
+#~ msgstr ""
+#~ "Quick duel, I am waiting for you in room {1}, are you ready to show your "
+#~ "strength?"
+
+#~ msgid "创建"
+#~ msgstr "Create"
+
+#, fuzzy
+#~| msgid "{1}天{2}时{3}分"
+#~ msgid "{1}天{2}时{3}分 left"
+#~ msgstr "{1}day{2}hours{3}minutes"
+
+#~ msgid "逃跑"
+#~ msgstr "Abandon"
+
+#~ msgid "PokerHero"
+#~ msgstr "PokerHero"
+
+#~ msgid "王者"
+#~ msgstr "King"
+
+#~ msgid "7天"
+#~ msgstr "7 days"
+
+#~ msgid "UID邀请"
+#~ msgstr "UID"
+
+#~ msgid "Log In Every Day To Increase Your Day-7 Reward Multiplier!"
+#~ msgstr "Log In Every Day To Increase Your Day-7 Reward Multiplier!"
+
+#~ msgid "好友请求已经发送成功,请等待玩家通过好友申请"
+#~ msgstr ""
+#~ "The friend request has been sent successfully, please wait for the player "
+#~ "to apply through the friend"
+
+#~ msgid "你将花费钻石"
+#~ msgstr "you will spend diamonds"
+
+#~ msgid "送给好友金币"
+#~ msgstr "Send Coins to Friends"
+
+#~ msgid ""
+#~ "有玩家在您的Salon中进行游戏时，您每局将获得5%的金币收益和增加50的经验值。"
+#~ msgstr ""
+#~ "When a player is playing in your Salon, you will earn 5% gold and 50 more "
+#~ "experience points per round."
+
+#~ msgid "个人简介"
+#~ msgstr "Bio"
+
+#~ msgid "首冲"
+#~ msgstr "First Recharge"
+
+#~ msgid "上传"
+#~ msgstr "Upload"
+
+#~ msgid "失败"
+#~ msgstr "Fail"
+
+#~ msgid "重开"
+#~ msgstr "Reopen"
+
+#~ msgid "退出"
+#~ msgstr "Quit"
+
+#~ msgid "最高战绩"
+#~ msgstr "highest record"
+
+#~ msgid "{1}小时"
+#~ msgstr "{1} hours"
+
+#~ msgid "Play Again"
+#~ msgstr "Again"
+
+#~ msgid "正在登录中..."
+#~ msgstr "Signing in..."
+
+#~ msgid "BEST VALUE"
+#~ msgstr "BEST VALUE"
+
+#~ msgid "正在寻找玩家参与游戏中..."
+#~ msgstr "Looking for players to participate in the game..."
+
+#~ msgid "当前不允许退出，您可以在本局游戏结束后退出"
+#~ msgstr ""
+#~ "Currently you are not allowed to exit, you can exit after the game is over"
+
+#~ msgid "邀请码错误"
+#~ msgstr "Wrong Referral Code"
+
+#~ msgid "绑定的邀请码玩家是自己的下级"
+#~ msgstr "The bound invitation code player is his subordinate"
+
+#~ msgid "每人"
+#~ msgstr "Per person"
+
+#~ msgid "达到{1}人"
+#~ msgstr "Reached {1} people"
+
+#~ msgid "宝箱"
+#~ msgstr "email"
+
+#~ msgid "青铜宝箱"
+#~ msgstr "Bronze treasure chest"
+
+#~ msgid "白银宝箱"
+#~ msgstr "Silver treasure chest"
+
+#~ msgid "黄金宝箱"
+#~ msgstr "Gold treasure chest"
+
+#~ msgid "购买奖励"
+#~ msgstr "Purchase rewards"
+
+#~ msgid "立即获得以下奖励"
+#~ msgstr "Get the following rewards immediately."
+
+#~ msgid "贵族徽章"
+#~ msgstr "VIP badge"
+
+#~ msgid "独家标志和展示"
+#~ msgstr "Exclusive logo anddisplay."
+
+#~ msgid "每日福利"
+#~ msgstr "Daily Rewards"
+
+#~ msgid "每日独家奖励"
+#~ msgstr "Exclusive daliy rewards."
+
+#~ msgid "VIP房间"
+#~ msgstr "VIP Room"
+
+#~ msgid "专属贵宾室"
+#~ msgstr "Exclusive VIP room."
+
+#~ msgid "VIP头像框"
+#~ msgstr "VIP avatar frame"
+
+#~ msgid "使用专属头像框来装饰您的照片"
+#~ msgstr "Use exclusive avatar frame to decorate your photo."
+
+#~ msgid "好友列表置顶"
+#~ msgstr "Sticky on Top"
+
+#~ msgid "好友列表优先显示"
+#~ msgstr "Priority display on the friend list."
+
+#~ msgid "额外排位卷"
+#~ msgstr "Extra Rank ticket"
+
+#~ msgid "每天1张额外的排位卷"
+#~ msgstr "One extra rank ticket per day."
+
+#~ msgid "好友上限增加"
+#~ msgstr "Friends Limit Increased"
+
+#~ msgid "好友上限提升至 400"
+#~ msgstr "Maximum friends limit is upgraded to 400."
+
+#~ msgid "每天2张额外的排位卷"
+#~ msgstr "Two extra rank tickets per day."
+
+#~ msgid "王子聊天框"
+#~ msgstr "Prince Chat Box"
+
+#~ msgid "王子的专属聊天框"
+#~ msgstr "Exclusive chat box for Prince."
+
+#~ msgid "钻石不够"
+#~ msgstr "Insufficient diamonds"
+
+#~ msgid "剩余天数{1}"
+#~ msgstr "Days remaining {1}"
+
+#~ msgid "每天分享至Facebook可获得3000金币"
+#~ msgstr "Share to Facebook to get a free spin!"
+
+#~ msgid "分享奖励"
+#~ msgstr "Share Rewards"
+
+#~ msgid "每周奖励"
+#~ msgstr "7 Days Bonus"
+
+#~ msgid "参考"
+#~ msgstr "Refer"
+
+#~ msgid "下级"
+#~ msgstr "Follower"
+
+#~ msgid "当你的朋友填写了你的邀请码"
+#~ msgstr "When your referred friend redeems your code!"
+
+#~ msgid "上限为50次奖励"
+#~ msgstr "Up to 50 rewards"
+
+#~ msgid "填写邀请码"
+#~ msgstr "Redeem Code"
+
+#~ msgid "你有一个邀请码？"
+#~ msgstr "Do you have an Referral Code?"
+
+#~ msgid "输入一个6位数字符的邀请码:"
+#~ msgstr "Enter a Referral Code:"
+
+#~ msgid "获取"
+#~ msgstr "GET"
+
+#~ msgid "你已经填入了一个邀请码!"
+#~ msgstr "You have filled in a Referral Code!"
+
+#~ msgid "你的朋友加入了这个游戏!"
+#~ msgstr "Your friend joined this game!"
+
+#~ msgid "您获得"
+#~ msgstr "You get"
+
+#~ msgid "立即购买通行证,超多钻石和专属皮肤您将马上拥有"
+#~ msgstr ""
+#~ "Buy the Poker Hero pass now, and you will immediately have a lot of "
+#~ "diamonds and exclusive skins."
+
+#~ msgid "Limited expression suit"
+#~ msgstr "Limited expression suit"
+
+#~ msgid "10 times diamond return"
+#~ msgstr "10X diamond return"
+
+#~ msgid "当前没有奖励可以领取"
+#~ msgstr "There are currently no rewards to claim"
+
+#~ msgid "{1}天{2}时{3}分"
+#~ msgstr "{1}day{2}hours{3}minutes"
+
+#~ msgid "X{1}"
+#~ msgstr "X{1}"
+
+#~ msgid "您确定使用[{1}]钻石刷新当前任务吗？"
+#~ msgstr "Are you sure to refresh the current mission with the [{1}] diamond?"
+
+#~ msgid "您确定使用[{1}]钻石完成当前任务吗？"
+#~ msgstr "Are you sure to use the [{1}] diamond to complete the current task?"
+
+#~ msgid "每邀请一个朋友可以获得1500金币"
+#~ msgstr "You can get 1500 coins for every friend you invite"
+
+#~ msgid "删除好友"
+#~ msgstr "delete friend"
+
+#~ msgid "全选"
+#~ msgstr "Select all"
+
+#~ msgid "移除"
+#~ msgstr "Remove"
+
+#~ msgid "好友请求"
+#~ msgstr "Friend Requests"
+
+#~ msgid "5回合"
+#~ msgstr "Five Rounds"
+
+#~ msgid "底注"
+#~ msgstr "Bet"
+
+#~ msgid "分享"
+#~ msgstr "Share"
+
+#~ msgid "保存"
+#~ msgstr "Save"
+
+#~ msgid "性别"
+#~ msgstr "Gender"
+
+#~ msgid "添加一份自我介绍"
+#~ msgstr "Add a bio to introduce yourself"
+
+#~ msgid "自我介绍"
+#~ msgstr "Self Introduction"
+
+#~ msgid "Game Friends"
+#~ msgstr "Game Friends"
+
+#~ msgid "Online players"
+#~ msgstr "Online Players"
+
+#~ msgid "离线"
+#~ msgstr "Offline"
+
+#~ msgid "正在游戏"
+#~ msgstr "Playing"
+
+#~ msgid "注意:只能邀请在线好友"
+#~ msgstr "Note: Only online friends can be invited"
+
+#~ msgid "余额不足"
+#~ msgstr "Insufficient balance"
+
+#~ msgid "玩家"
+#~ msgstr "Palyer"
+
+#~ msgid "没有排位赛"
+#~ msgstr "No Rank"
+
+#~ msgid "ROOM ID"
+#~ msgstr "ROOM ID"
+
+#~ msgid "重置"
+#~ msgstr "Reset"
+
+#~ msgid "INVITE GAME FRIENDS"
+#~ msgstr "INVITE GAME FRIENDS"
+
+#~ msgid "GLOBAL CHAT RECRUIT"
+#~ msgstr "GLOBAL CHAT RECRUIT"
+
+#~ msgid "您的好友"
+#~ msgstr "Your friends"
+
+#~ msgid "我迫不及待要和我的朋友打牌了！让我们来学习怎样创建一个房间！"
+#~ msgstr ""
+#~ "I can't wait to play cards with my friends! Let's learn how to create a "
+#~ "room!"
+
+#~ msgid "我们可以根据我们的需求来创建房间。"
+#~ msgstr "We can create rooms according to our needs."
+
+#~ msgid "你可以点击此处邀请你的好友！"
+#~ msgstr "You can click here to invite your friends!"
+
+#~ msgid "现在让我们继续学习怎样邀请好友以及把房间分享到世界聊天！"
+#~ msgstr ""
+#~ "Now let us continue to learn how to invite friends and share the room to "
+#~ "the world to chat!"
+
+#~ msgid "当你有好友时会展示在此处。点击邀请按钮邀请他们加入你的房间！"
+#~ msgstr ""
+#~ "It will be shown here when you have friends. Click the invite button to "
+#~ "invite them to join your room!"
+
+#~ msgid "你可以点击此处把房间分享到世界聊天！"
+#~ msgstr "You can click here to share the room to the world chat!"
+
+#~ msgid "看着里!这是你的房间号！其他人可以通过搜索房间号来加入你的房间！"
+#~ msgstr ""
+#~ "Look inside! This is your room number! Others can join your room by "
+#~ "searching for the room number!"
+
+#~ msgid "接下来，让我们返回大厅并继续学习如何加入房间！"
+#~ msgstr "Then,let's go back and learn how to join the room!"
+
+#~ msgid "输入你想要加入的房间号！"
+#~ msgstr "Enter the room number you want to join!"
+
+#~ msgid "在此处你可以查看他人的招募信息!点击加入按钮加入该房间！"
+#~ msgstr ""
+#~ "Here you can view the recruitment information of others! Click the Join "
+#~ "button to join the room!"
+
+#~ msgid "创建一个房间，和你的好友一起享受乐趣！"
+#~ msgstr "Create a room and have fun with your friends!"
+
+#~ msgid "继续签到{1}天可获得"
+#~ msgstr "Keep logging in for {1} days to win"
+
+#~ msgid "第{1}天"
+#~ msgstr "Day{1}"
+
+#~ msgid "Buy a pass now"
+#~ msgstr "Buy the pass now"
+
+#~ msgid "Mensa play pass end in"
+#~ msgstr "Poker Hero card pass end in"
+
+#~ msgid "Exclusive skin"
+#~ msgstr "Exclusive emoticon"
+
+#~ msgid "您收到一个牌局邀请,是否前往"
+#~ msgstr "You received an invitation to a poker game, do you want to go to"
+
+#~ msgid "提交成功"
+#~ msgstr "successfully"
+
+#~ msgid "Use VIP emoji when you become VIP member!"
+#~ msgstr "Use VIP emoji when you become VIP member!"
+
+#~ msgid "绑定FB账号获得{1}金币和{2}钻石"
+#~ msgstr "Connect to Facebook and get 6,000 coins and 10 diamonds!"
+
+#~ msgid "是否前往充值"
+#~ msgstr "Whether to go to recharge"
+
+#~ msgid "您是新人吗?"
+#~ msgstr "Are you a newcomer?"
+
+#~ msgid "尽情享受游戏吧!"
+#~ msgstr "Enjoy the game!"
+
+#~ msgid "下一步"
+#~ msgstr "Next step"
+
+#~ msgid ""
+#~ "你可以展示一套由至少三张相同花色的连续牌或至少三张相同等级的牌组成的牌。"
+#~ msgstr ""
+#~ "You can show a set of cards consisting of at least three consecutive "
+#~ "cards of the same suit or at least three cards of the same rank."
+
+#~ msgid "当你第一次在桌面上展示牌型时，牌的数值必须是51或以上。"
+#~ msgstr ""
+#~ "When you first show the card type on the table, the value of the card "
+#~ "must be 51 or above."
+
+#~ msgid "让我们开始吧!"
+#~ msgstr "let's start!"
+
+#~ msgid "请选着语言"
+#~ msgstr "Please select language"
+
+#~ msgid ""
+#~ "抱歉,您携带的金币不够进入这个场次,您可以选择低倍场次或者充值获得更多的金"
+#~ "币."
+#~ msgstr ""
+#~ "Sorry, you don't have enough gold coins to enter this event, you can "
+#~ "choose low."
+
+#~ msgid "去充值"
+#~ msgstr "Recharge"
+
+#~ msgid "继续游戏"
+#~ msgstr "Continue the game"
+
+#, fuzzy
+#~| msgid "第{1}天"
+#~ msgid "第{1}届"
+#~ msgstr "Day{1}"
+
+#~ msgid "美国"
+#~ msgstr "USA"
+
+#~ msgid "中国"
+#~ msgstr "China"
+
+#~ msgid "邮件详情"
+#~ msgstr "Email details"
+
+#~ msgid "解散"
+#~ msgstr "Dissolve"
+
+#~ msgid "连接FB"
+#~ msgstr "Connect FB"
+
+#~ msgid "购买开启VIP资格,您剩余享受VIP时间:{1}天"
+#~ msgstr ""
+#~ "Purchase to open VIP qualification, your remaining VIP time: {1} day"
+
+#, fuzzy
+#~| msgid "You can"
+#~ msgid "You haven"
+#~ msgstr "You can"
+
+#~ msgid "游戏内互动表情id错误"
+#~ msgstr "In-game interactive emoji id error"
+
+#~ msgid "金币不够"
+#~ msgstr "Not enough gold coins"
+
+#, fuzzy
+#~| msgid "钻石不足"
+#~ msgid "用户的钻石不足"
+#~ msgstr "Insufficient diamonds"
+
+#~ msgid "在线奖励"
+#~ msgstr "Online Rewards"
+
+#~ msgid "欢迎来到Poker Hero"
+#~ msgstr "Welcome to Poker hero!"
+
+#~ msgid "连接 Facebook 准备展示实力了吗？ 最棒的Poker Game都在这里!"
+#~ msgstr ""
+#~ "Are you ready to show your strength? The best poker games are all here!"
+
+#~ msgid "每天登录领取更多的每日奖励!"
+#~ msgstr "Log in every day to receive more daily rewards!"
+
+#~ msgid "参加联赛,成为King!"
+#~ msgstr "Join the league and become king!"
+
+#~ msgid "最经典的Baloot游戏."
+#~ msgstr "The most classic baloot game."
+
+#, fuzzy
+#~| msgid "快速对决,一局Hand玩法。"
+#~ msgid "快速对决,一局Hand玩法."
+#~ msgstr "Quick duel, one-round Plot"
+
+#, fuzzy
+#~| msgid "随时随地与好友一起玩Poker。"
+#~ msgid "随时随地与好友一起玩Poker."
+#~ msgstr "Play poker with friends anytime and anywhere."
+
+#~ msgid "收集朋友的礼物! 更多的朋友 - 更多的乐趣!"
+#~ msgstr "Collect gifts from friends! More friends - more fun!"
+
+#, fuzzy
+#~| msgid "全民都在玩Domino。"
+#~ msgid "全民都在玩Domino."
+#~ msgstr "Everyone plays dominoes."
+
+#~ msgid "连接 Facebook 以保护您的数据!"
+#~ msgstr "Link your Facebook account to protect your data!"
+
+#~ msgid "加载资源,无流量消耗,请勿关闭游戏!"
+#~ msgstr ""
+#~ "Loading resources, without consuming phone data, please do not close the "
+#~ "game!"
+
+#~ msgid ""
+#~ "1.当您收到其他玩家赠送给您的礼物时，您将会获得魅力值；\n"
+#~ "2.礼物的金币价格和魅力值的比例为1:1；\n"
+#~ "3.赠送给其他玩家礼物，赠送的一方不会获得魅力值；\n"
+#~ "4.魅力值榜单由每周榜单、每个月榜单、总榜单组成，数据是即时刷新的；\n"
+#~ "5.其他玩家可以通过赠送小恶魔来减少您的魅力值；\n"
+#~ "6.您可以在个人信息内查看赠送礼物的列表以及收到礼物的列表。"
+#~ msgstr ""
+#~ "\"1. When you receive gifts from other players, you will get charm "
+#~ "points;\n"
+#~ "2. The ratio of gold coin price and charm value of the gift is 1:1;\n"
+#~ "3. Gifts given to other players will not gain charm points;\n"
+#~ "4. The charm value list is composed of weekly list, monthly list, and "
+#~ "total list, and the data is refreshed instantly;\n"
+#~ "5. Other players can reduce your charm by gifting little devils;\n"
+#~ "6. You can view the list of gifts given and the list of received gifts in "
+#~ "your personal information."
+
+#~ msgid "Terneeb"
+#~ msgstr "Terneeb"
+
+#~ msgid "一款优秀的牌类游戏"
+#~ msgstr "An excellent card game"
+
+#~ msgid "每天登录即可获得丰厚奖励"
+#~ msgstr "Log in every day to receive more daily rewards!"
+
+#~ msgid "最真实的牌桌体验"
+#~ msgstr "We offer you the most authentic gaming tables!"
+
+#~ msgid "Profile"
+#~ msgstr "Profile"
+
+#~ msgid "孟加拉国"
+#~ msgstr "Bangladesh"
+
+#~ msgid "意大利"
+#~ msgstr "Italy"
+
+#~ msgid "俄罗斯"
+#~ msgstr "Russia"
+
+#~ msgid "埃塞俄比亚"
+#~ msgstr "Ethiopia"
+
+#~ msgid "加拿大"
+#~ msgstr "Canada"
+
+#~ msgid "法国"
+#~ msgstr "France"
+
+#~ msgid "菲律宾"
+#~ msgstr "Philippines"
+
+#~ msgid "乌克兰"
+#~ msgstr "UKraine"
+
+#~ msgid "尼泊尔"
+#~ msgstr "Nepal"
+
+#~ msgid "澳大利亚"
+#~ msgstr "Australia"
+
+#~ msgid "荷兰"
+#~ msgstr "Netherlands"
+
+#~ msgid "奥地利"
+#~ msgstr "Austria"
+
+#~ msgid "西班牙"
+#~ msgstr "Spain"
+
+#~ msgid "德国"
+#~ msgstr "Germany"
+
+#~ msgid "英国"
+#~ msgstr "UK"
+
+#~ msgid "土耳其"
+#~ msgstr "Turkey"
+
+#~ msgid "印尼"
+#~ msgstr "Indonesia"
+
+#~ msgid "印度"
+#~ msgstr "India"
+
+#~ msgid "巴基斯坦"
+#~ msgstr "Pakistan"
+
+#~ msgid "VIP"
+#~ msgstr "VIP"
+
+#~ msgid "订阅7天"
+#~ msgstr "7 Days"
+
+#~ msgid "订阅一个月"
+#~ msgstr "Subscribe for a month"
+
+#~ msgid "权益列表"
+#~ msgstr "List of benefits"
+
+#~ msgid "联赛尚未开启"
+#~ msgstr "The league has not yet started"
+
+#~ msgid "赠送人"
+#~ msgstr "giver"
+
+#~ msgid "赠送给"
+#~ msgstr "a gift for"
+
+#~ msgid "当前赛季"
+#~ msgstr "Current season"
+
+#~ msgid "排位奖励"
+#~ msgstr "Ranked Rewards"
+
+#~ msgid "你确定要退出游戏吗？"
+#~ msgstr "Are you sure you want to quit the game?"
+
+#~ msgid "您确定要发起解散房间请求吗？"
+#~ msgstr "Are you sure you want to initiate a request to dissolve the room?"
+
+#~ msgid "欢迎来到mensa play hand"
+#~ msgstr "Welcome to mensa play hand"
+
+#~ msgid "一款优秀的baloot优秀"
+#~ msgstr "The most classic baloot game."
+
+#, fuzzy
+#~| msgid "字体颜色"
+#~ msgid "字体"
+#~ msgstr "Font Color"
+
+#~ msgid "女"
+#~ msgstr "Female"
+
+#~ msgid "男"
+#~ msgstr "Male"
+
+#~ msgid "连接已失效"
+#~ msgstr "Connection has expired"
+
+#~ msgid "VIP房"
+#~ msgstr "VIP Room"
+
+#~ msgid "洗牌:开"
+#~ msgstr "Shuffle: Open"
+
+#~ msgid "洗牌:关"
+#~ msgstr "Shuffle: Off"
+
+#~ msgid "语音:开"
+#~ msgstr "Voice: On"
+
+#~ msgid "语音:关"
+#~ msgstr "Voice: Off"
+
+#~ msgid "正在匹配中...({1}秒)"
+#~ msgstr "Matching... ({1} seconds)"
+
+#~ msgid "一回合制"
+#~ msgstr "One Round"
+
+#~ msgid "开始"
+#~ msgstr "Start"
+
+#~ msgid "五回合制"
+#~ msgstr "Normal Game"
+
+#~ msgid "每天您可以获得3张入场券"
+#~ msgstr "You can get 3 admission tickets for free every day"
+
+#~ msgid "每天24:00:00刷新"
+#~ msgstr "Refresh every day at 24:00:00"
+
+#~ msgid "积分"
+#~ msgstr "Total"
+
+#~ msgid "连胜"
+#~ msgstr "Winning Streak"
+
+#~ msgid "下一个等级"
+#~ msgstr "Next Level"
+
+#~ msgid "全部"
+#~ msgstr "Total"
+
+#~ msgid "帮助"
+#~ msgstr "Help"
+
+#~ msgid "说明"
+#~ msgstr "Description"
+
+#~ msgid "赛季"
+#~ msgstr "Season"
+
+#~ msgid "匹配"
+#~ msgstr "Match"
+
+#~ msgid "去"
+#~ msgstr "Go"
+
+#~ msgid "任务"
+#~ msgstr "Daily Task"
+
+#~ msgid "只能邀请在线的好友"
+#~ msgstr "Note: Only online friends can be invited"
+
+#~ msgid "您缺少排位赛门票"
+#~ msgstr "You are missing qualifying tickets"
+
+#~ msgid "白金"
+#~ msgstr "Platinum"
+
+#~ msgid "在线匹配"
+#~ msgstr "Match"
+
+#~ msgid "用户资料"
+#~ msgstr "User Information"
+
+#~ msgid "昵称"
+#~ msgstr "Nick name"
+
+#~ msgid "排位记录"
+#~ msgstr "League Statistics"
+
+#~ msgid "通行证"
+#~ msgstr "Transit Document"
+
+#~ msgid "VIP{1}"
+#~ msgstr "VIP{1}"
+
+#~ msgid "财富排行"
+#~ msgstr "Wealth Ranking"
+
+#~ msgid "钻石排行"
+#~ msgstr "Diamond ranking"
+
+#~ msgid "联赛排名"
+#~ msgstr "League Ranking"
+
+#~ msgid "好友排名"
+#~ msgstr "Friends Ranking"
+
+#~ msgid "      权益"
+#~ msgstr "rights and interests"
+
+#~ msgid "收礼列表"
+#~ msgstr "receive gifts list"
+
+#~ msgid "送礼列表"
+#~ msgstr "gift list"
+
+#~ msgid "分享至facebook7天得到一次旋转机会"
+#~ msgstr "Share to facebook and get a spin in 7 days"
+
+#~ msgid "谢谢"
+#~ msgstr "Thanks"
+
+#~ msgid "匹配权限"
+#~ msgstr "Open all Matches"
+
+#~ msgid "VIP任务"
+#~ msgstr "VIP Exclusive Missions"
+
+#~ msgid "排位卷"
+#~ msgstr "Ranked voucher"
+
+#~ msgid "好友排行置顶"
+#~ msgstr "Friends Ranked Top"
+
+#~ msgid "VIP勋章"
+#~ msgstr "VIP Medal"
+
+#~ msgid "已过期"
+#~ msgstr "expired"
+
+#~ msgid "设置密码"
+#~ msgstr "Password"
+
+#~ msgid "进入"
+#~ msgstr "Enter"
+
+#~ msgid "GO DOWN"
+#~ msgstr "GO DOWN"
+
+#~ msgid "PASS"
+#~ msgstr "PASS"
+
+#~ msgid "升级奖励"
+#~ msgstr "Upgrade Rewards"
+
+#~ msgid "VIP特权"
+#~ msgstr "VIP Privileges"
+
+#~ msgid "Come and join"
+#~ msgstr "Come and Join"
+
+#~ msgid ""
+#~ "Who will be banned from the draw?\n"
+#~ "• People who re-unfollow us on social media\n"
+#~ "• People who have bad behaviour in the game\n"
+#~ "• People who have a high level of abandoned games\n"
+#~ "• People who make fake news about us on social media\n"
+#~ "• People who uninstall the game"
+#~ msgstr ""
+#~ "Who will be banned from the draw?\n"
+#~ "• People who re-unfollow us on social media\n"
+#~ "• People who have bad behaviour in the game\n"
+#~ "• People who have a high level of abandoned games\n"
+#~ "• People who make fake news about us on social media\n"
+#~ "• People who uninstall the game"
+
+#~ msgid "成长礼包"
+#~ msgstr "Growth Package"
+
+#~ msgid "每日获胜排名"
+#~ msgstr "Winning Ranking"
+
+#~ msgid "商店"
+#~ msgstr "Shop"
+
+#~ msgid "确认是否删除所有消息?"
+#~ msgstr "Are you sure to delete all messages?"
+
+#~ msgid "在线游戏"
+#~ msgstr "Online"
+
+#~ msgid "系统消息"
+#~ msgstr "System Information"
+
+#~ msgid "删除所有"
+#~ msgstr "Delete all"
+
+#~ msgid "选择主花色"
+#~ msgstr "CHOOSE HOKOM SUIT"
+
+#~ msgid "魅力值榜"
+#~ msgstr "Charm List"
+
+#~ msgid "游戏好友"
+#~ msgstr "Game Friends"
+
+#, fuzzy
+#~| msgid "VIP房间"
+#~ msgid "房间"
+#~ msgstr "VIP Room"
+
+#~ msgid "最小携带"
+#~ msgstr "Entry Fee"
+
+#~ msgid "房间列表"
+#~ msgstr "Room  List"
+
+#~ msgid "坐下"
+#~ msgstr "Sit down"
+
+#~ msgid "过滤"
+#~ msgstr "Filter"
+
+#~ msgid "房间状态"
+#~ msgstr "Room status"
+
+#~ msgid "显示所有"
+#~ msgstr "Show all"
+
+#~ msgid "隐藏已满"
+#~ msgstr "Hide is full"
+
+#~ msgid "需要间隔{1}秒"
+#~ msgstr "Requires an interval of {1} seconds"
+
+#~ msgid "无权限操作"
+#~ msgstr "Unauthorized operation"
+
+#~ msgid "删除失败"
+#~ msgstr "failed to delete"
+
+#~ msgid "该用户没有申请"
+#~ msgstr "This user did not apply"
+
+#~ msgid "审核已经过期"
+#~ msgstr "Cannon Expired"
+
+#~ msgid "用户已加入其它俱乐部"
+#~ msgstr "User has joined another club"
+
+#~ msgid "加入异常"
+#~ msgstr "Join exception"
+
+#~ msgid "俱乐部已满"
+#~ msgstr "Club is full"
+
+#~ msgid "修改异常"
+#~ msgstr "Modify exception"
+
+#~ msgid "俱乐部人数已超过容量"
+#~ msgstr "The number of clubs has exceeded the maximum number"
+
+#~ msgid "你是否确定要将{1}移除俱乐部?"
+#~ msgstr "Are you sure you want to remove {1} from the club?"
+
+#~ msgid "请输入俱乐部名称"
+#~ msgstr "Please enter club name"
+
+#~ msgid "请输入俱乐部简介"
+#~ msgstr "Please enter club profile"
+
+#~ msgid "人数已满"
+#~ msgstr "The number is full"
+
+#~ msgid "禁止加入"
+#~ msgstr "No joining"
+
+#~ msgid "申请成功请等待结果"
+#~ msgstr "The application is successful, please wait for the result"
+
+#~ msgid "需申请"
+#~ msgstr "Invite"
+
+#~ msgid "开放"
+#~ msgstr "Open"
+
+#~ msgid "未加入俱乐部"
+#~ msgstr "Did not join the club"
+
+#~ msgid "不是自己的俱乐部"
+#~ msgstr "Not own club"
+
+#~ msgid "今天已经签到"
+#~ msgstr "Signed in today"
+
+#~ msgid "签到成功"
+#~ msgstr "Sign in successfully"
+
+#~ msgid "是否退出俱乐部?"
+#~ msgstr "Are you leaving the club?"
+
+#~ msgid "您已经被踢出俱乐部"
+#~ msgstr "You have been kicked out of the club"
+
+#~ msgid "俱乐部排行"
+#~ msgstr "Club Ranking"
+
+#~ msgid "创建俱乐部"
+#~ msgstr "Create club"
+
+#~ msgid "搜索"
+#~ msgstr "search"
+
+#~ msgid "申请加入"
+#~ msgstr "Apply to join"
+
+#~ msgid "成员管理"
+#~ msgstr "Member management"
+
+#~ msgid "申请管理"
+#~ msgstr "Application management"
+
+#~ msgid "俱乐部设置"
+#~ msgstr "Club settings"
+
+#~ msgid "加入方式"
+#~ msgstr "How to join"
+
+#~ msgid "规模"
+#~ msgstr "scale"
+
+#~ msgid "添加一份简介"
+#~ msgstr "Add an introduction"
+
+#~ msgid "俱乐部名称"
+#~ msgstr "Club name"
+
+#~ msgid "在这里修改你的俱乐部名"
+#~ msgstr "Change your club name here"
+
+#~ msgid "人数"
+#~ msgstr "Number of people"
+
+#~ msgid "类型"
+#~ msgstr "type"
+
+#~ msgid "名称"
+#~ msgstr "name"
+
+#~ msgid "签到"
+#~ msgstr "Sign in"
+
+#~ msgid "已签到"
+#~ msgstr "Checked in"
+
+#~ msgid "管理"
+#~ msgstr "manage"
+
+#~ msgid "离开俱乐部"
+#~ msgstr "Leave the club"
+
+#~ msgid "创建游戏"
+#~ msgstr "Create game"
+
+#~ msgid "PLAY"
+#~ msgstr "PLAY"
+
+#~ msgid "CREATE"
+#~ msgstr "CREATE"
+
+#~ msgid "世界聊天"
+#~ msgstr "Global Chat"
+
+#~ msgid "好友消息"
+#~ msgstr "Message from your friend"
+
+#~ msgid "订阅之后每天都可以领取奖励"
+#~ msgstr "You can receive rewards every day after subscribing"
+
+#~ msgid "单人"
+#~ msgstr "Single"
+
+#~ msgid "队伍"
+#~ msgstr "Team"
+
+#~ msgid "处于组队匹配状态"
+#~ msgstr "In a team match state"
+
+#~ msgid "还未邀请到好友不能开始"
+#~ msgstr "Cannot start without inviting friends"
+
+#~ msgid "组队模式下不可改变进入金币"
+#~ msgstr "Unchangeable access to gold coins in team mode"
+
+#~ msgid "vip"
+#~ msgstr "VIP"
+
+#~ msgid "礼包"
+#~ msgstr "Gift Pack"
+
+#~ msgid "You are giving me a headache"
+#~ msgstr "You are giving me a headache!"
+
+#~ msgid "Are you kidding me?"
+#~ msgstr "Are you kidding me?"
+
+#~ msgid "Boss"
+#~ msgstr "Boss!"
+
+#~ msgid "Hurry my mom thinks I am studying"
+#~ msgstr "Hurry my mom thinks I am studying."
+
+#~ msgid "Good work needs time"
+#~ msgstr "Good work needs time."
+
+#~ msgid "You made us lose"
+#~ msgstr "You made us lose!"
+
+#~ msgid "What are you doing"
+#~ msgstr "What are you doing?"
+
+#~ msgid "You are an awesome teammate"
+#~ msgstr "You are an awesome teammate!"
+
+#~ msgid "Have patience"
+#~ msgstr "Have patience!"
+
+#~ msgid "新手礼包"
+#~ msgstr "Only Once"
+
+#~ msgid "嗨"
+#~ msgstr "Hi"
+
+#~ msgid "新手?"
+#~ msgstr "Newbie?"
+
+#~ msgid "好身手"
+#~ msgstr "Nice move"
+
+#~ msgid "优秀"
+#~ msgstr "Excellent"
+
+#~ msgid "醒醒"
+#~ msgstr "Wake up"
+
+#~ msgid "我搞砸了"
+#~ msgstr "I screwed up"
+
+#~ msgid "玩或离开"
+#~ msgstr "Play or leave"
+
+#~ msgid "嗨, 新手"
+#~ msgstr "Hi，Newbie"
+
+#~ msgid "赶快"
+#~ msgstr "Hurry up"
+
+#~ msgid "做得好"
+#~ msgstr "Good job"
+
+#~ msgid "理牌"
+#~ msgstr "Arrange Cards"
+
+#~ msgid "HINT"
+#~ msgstr "Hint"
+
+#~ msgid "出牌"
+#~ msgstr "Discard"
+
+#~ msgid "成为VIP{1}:累积消耗"
+#~ msgstr "BECOME VIP{1}:Cumulative cost  "
+
+#~ msgid "信息"
+#~ msgstr "information"
+
+#~ msgid "前100名将会展示在排行榜上"
+#~ msgstr "Top 100 players will be on the rank list"
+
+#~ msgid ""
+#~ "上榜规则和奖励\n"
+#~ "1.俱乐部成员在游戏时可有获得活跃度积分，积分前100的俱乐部可以登上俱乐部排"
+#~ "行榜。\n"
+#~ "2.每次排行榜赠送奖励的的周期是个3月，但是排行榜会时时刷新。\n"
+#~ "3.俱乐部活跃度排行榜第1的俱乐部每个成员可以获得100钻石奖励。第2到10名获得"
+#~ "80钻石奖励，第11到50名获得50钻石奖励，其余51到100名获得20钻奖励，其次每个"
+#~ "俱乐部的部长额外获得50钻石奖励，副部长获得额外30钻石奖励。"
+#~ msgstr ""
+#~ "Ranking rules and rewards\n"
+#~ "1. Club members can earn activity points during the game, and the top 100 "
+#~ "clubs can be listed on the club rankings.\n"
+#~ "2. The cycle of rewards for each leaderboard is 3 months, but the "
+#~ "leaderboard will be refreshed from time to time.\n"
+#~ "3. Each member of the No. 1 club in the club activity ranking can get 100 "
+#~ "diamond rewards. The 2nd to 10th places receive 80 diamonds, the 11th to "
+#~ "50th places receive 50 diamonds, and the remaining 51 to 100 receive 20 "
+#~ "diamonds. Secondly, the ministers of each club receive an additional 50 "
+#~ "diamonds, and the vice ministers receive an additional 30 diamonds."
+
+#~ msgid ""
+#~ "mensa play 俱乐部 规则说明：\n"
+#~ "1.mensa play 俱乐部给用户提供一个交友社交游戏的俱乐部，玩家可以在俱乐部中"
+#~ "认识新的朋友和俱乐部好友一起游戏也可以一起建设自己的俱乐部获得丰厚的俱乐部"
+#~ "排行榜奖励。\n"
+#~ "2.玩家可以通过参加匹配和排位游戏来获得俱乐部活跃度每参与一局将获得1点俱乐"
+#~ "部活跃度，和俱乐部好友一起游戏将获得双倍的活跃度。\n"
+#~ "3.玩家每天到俱乐部中签到将会获得5点的俱乐部活跃度。\n"
+#~ "4.玩家每天在俱乐部群组中发言将获得5点的俱乐部活跃度\n"
+#~ "5.俱乐部成员可以在俱乐部内部不花费金币钻石和俱乐部好友游戏。\n"
+#~ "6.mensa play 俱乐部有独有的活跃等级制度一共分为5级，等级越高俱乐部活跃度越"
+#~ "高。"
+#~ msgstr ""
+#~ "Mensa card club rules description:\n"
+#~ "1. The mensa card club provides users with a club for making friends and "
+#~ "social games. Players can meet new friends in the club and play with club "
+#~ "friends, and they can also build their own club to get rich club ranking "
+#~ "rewards.\n"
+#~ "2. Players can gain club activity by participating in matching and "
+#~ "ranking games. Every time they participate in a round, they will get 1 "
+#~ "point of club activity. Playing with club friends will get double "
+#~ "activity.\n"
+#~ "3. Players who sign in to the club every day will get 5 points of club "
+#~ "activity.\n"
+#~ "4. Players who speak in the club group every day will get 5 points of "
+#~ "club activity\n"
+#~ "5. Club members can play games with club friends without spending gold "
+#~ "coins and diamonds inside the club.\n"
+#~ "6. The mensa card club has a unique active rating system, which is "
+#~ "divided into 5 levels. The higher the level, the higher the activity of "
+#~ "the club."
+
+#~ msgid "最近的"
+#~ msgstr "Recent"
+
+#~ msgid "发送请求成功"
+#~ msgstr "Request Sent Successfully"
+
+#~ msgid "您的俱乐部好友[{1}]邀请您加入游戏,您是否同意？"
+#~ msgstr "Your club friend [{1}] invited you to join the game, do you agree?"
+
+#~ msgid "您的好友[{1}]邀请您加入游戏,您是否同意？"
+#~ msgstr "Your friend [{1}] invited you to join a team game. Do you agree?"
+
+#~ msgid "您的好友[{1}]邀请您加入VIP游戏,您是否同意？"
+#~ msgstr "Your friend [{1}] invited you to join a team game. Do you agree?"
+
+#~ msgid "您的好友[{1}]邀请您参加组队游戏,您是否同意？"
+#~ msgstr "Your friend [{1}] invited you to join a team game. Do you agree?"
+
+#~ msgid "俱乐部"
+#~ msgstr "club"
+
+#~ msgid "成员"
+#~ msgstr "member"
+
+#~ msgid "消息"
+#~ msgstr "System Information"
+
+#~ msgid "俱乐部介绍"
+#~ msgstr "Club introduction"
+
+#~ msgid "简介"
+#~ msgstr "Bio"
+
+#~ msgid "已经申请"
+#~ msgstr "Already submitted"
+
+#~ msgid ""
+#~ "财富榜的奖励\n"
+#~ "1.当新一轮排名开始时你可以收集奖励\n"
+#~ "2.这些奖励有效期为7天\n"
+#~ "3.只有第一名可以获得奖励"
+#~ msgstr ""
+#~ "Rewards for Wealth Ranking\n"
+#~ "1.You can collect rewards when the new ranking starts.\n"
+#~ "2.These profile frames are vaild for 7 days.\n"
+#~ "3.Only No.1 will get the rewards"
+
+#~ msgid "俱乐部排行榜"
+#~ msgstr "Club leaderboard"
+
+#~ msgid "事件"
+#~ msgstr "Events"
+
+#~ msgid "社交"
+#~ msgstr "Social"
+
+#~ msgid "全局聊天"
+#~ msgstr "Global chat"
+
+#, fuzzy
+#~| msgid "You can"
+#~ msgid "You"
+#~ msgstr "You can"
+
+#~ msgid ""
+#~ "mensa play pass 规则说明：\n"
+#~ "1.mensa play pass 持续时间是三个月\n"
+#~ "2.用户可以通过完成mensa play pass中专属的任务来获得mensa经验值，mensa经验"
+#~ "值只适用于mensa play pass中。\n"
+#~ "3.用户每参加一局游戏就能获得10 mensa经验值\n"
+#~ "4.mensa play pass每天会给用户3个免费的任务，用来获得大量的mensa经验值\n"
+#~ "5.用户也可以使用钻石来刷新或者更换mensa play pass中的专属任务。"
+#~ msgstr ""
+#~ "Mensa card pass rule description:\n"
+#~ "1. The duration of mensa card pass is three months\n"
+#~ "2. The user can obtain the mensa experience value by completing the "
+#~ "exclusive tasks in the mensa card pass, and the mensa experience value is "
+#~ "only applicable to the mensa card pass.\n"
+#~ "3. Every time the user participates in a game, he will get 10 mensa "
+#~ "experience points\n"
+#~ "4. Mensa play pass will give users 3 free tasks every day to get a lot of "
+#~ "mensa experience points\n"
+#~ "5. Users can also use diamonds to refresh or replace the exclusive "
+#~ "missions in the mensa card pass."
+
+#~ msgid "房间号错误"
+#~ msgstr "Wrong room number"
+
+#~ msgid "left"
+#~ msgstr "left"
+
+#~ msgid "right"
+#~ msgstr "right"
+
+#~ msgid "在线时长{1}分钟"
+#~ msgstr "Online time {1} minutes"
+
+#, fuzzy
+#~| msgid "领取成功{1}金币"
+#~ msgid "游戏赢取{1}金币"
+#~ msgstr "Successfully received {1} gold coins"
+
+#~ msgid ""
+#~ "<color=#ffffff><outline color=#1d377b width=4><b>领取</b></outline></"
+#~ "color><color=#f8de3e><outline color=#1d377b width=4><b> {1} 金币</b></"
+#~ "outline></color>"
+#~ msgstr ""
+#~ "<color=#ffffff><outline color=#1d377b width=4><b>receive</b></outline></"
+#~ "color><color=#f8de3e><outline color=#1d377b width=4><b> {1}golds</b></"
+#~ "outline></color>"
+
+#~ msgid "排行"
+#~ msgstr "Ranking"
+
+#~ msgid "达到等级"
+#~ msgstr "Reach level"
+
+#~ msgid "目前段位"
+#~ msgstr "Current League"
+
+#~ msgid "最高段位"
+#~ msgstr "Highest League"
+
+#~ msgid "上次段位"
+#~ msgstr "Last League"
+
+#~ msgid "语音"
+#~ msgstr "Voice Chat"
+
+#~ msgid "洗牌"
+#~ msgstr "Shuffle"
+
+#~ msgid "语言:开"
+#~ msgstr "Voice: On"
+
+#~ msgid ""
+#~ "购买骑士或者爵士会员时会马上获得一个礼包，而且还会得到会员专属的每日奖励"
+#~ msgstr ""
+#~ "When you buy a knight or prince member, you will get a gift pack "
+#~ "immediately, and you will also get member-exclusive daily rewards"
+
+#~ msgid "爵士会员在和好友聊天和在世界聊天时有专属聊天框"
+#~ msgstr ""
+#~ "Prince members have an exclusive chat box when chatting with friends and "
+#~ "chatting in the world"
+
+#~ msgid "爵士会员好友数量限制不再是100个而是400个"
+#~ msgstr ""
+#~ "The limit on the number of prince members’ friends is no longer 100 but "
+#~ "400"
+
+#~ msgid "会员可以无限制的花费金币创建VIP房间"
+#~ msgstr "Members can spend unlimited gold coins to create VIP rooms"
+
+#~ msgid "好友榜单置顶"
+#~ msgstr "Friends list top"
+
+#~ msgid ""
+#~ "骑士和爵士会员在好友表单中会置顶，同是骑士或爵士会员按照金币数量排序，骑士"
+#~ "会员排在爵士会员之后。"
+#~ msgstr ""
+#~ "Knights and prince members will be placed on the top in the friend list. "
+#~ "Both knights and prince members are sorted by the number of gold coins, "
+#~ "and knight members are ranked after the prince members."
+
+#~ msgid "专属头像框"
+#~ msgstr "Exclusive avatar frame"
+
+#~ msgid "骑士和爵士可以选择自己专属的头像框"
+#~ msgstr "Knights and prince can choose their own exclusive avatar frame"
+
+#~ msgid "骑士和爵士会员会额外获得排位卷"
+#~ msgstr ""
+#~ "Knights and prince members will receive additional qualifying tickets"
+
+#~ msgid "您拥有"
+#~ msgstr "You own："
+
+#~ msgid "个人简介是空的"
+#~ msgstr "Bio is left empty"
+
+#~ msgid "限时扑克背景"
+#~ msgstr "Limited time playing card theme"
+
+#~ msgid "经典扑克背景"
+#~ msgstr "Other playing card themes"
+
+#~ msgid "夏"
+#~ msgstr "Summer"
+
+#~ msgid "秋"
+#~ msgstr "Autumn"
+
+#~ msgid "冬"
+#~ msgstr "Winter"
+
+#~ msgid "限时牌桌背景"
+#~ msgstr "Limited time card table theme"
+
+#~ msgid "经典牌桌背景"
+#~ msgstr "Other card table themes"
+
+#~ msgid "限时聊天框"
+#~ msgstr "Limited time chat box theme"
+
+#~ msgid "经典聊天框"
+#~ msgstr "Other chat box themes"
+
+#~ msgid "静态头像框"
+#~ msgstr "Static avatar frame"
+
+#~ msgid "动态头像框"
+#~ msgstr "Dynamic avatar frame"
+
+#~ msgid "赛季头像框"
+#~ msgstr "Season avatar frame"
+
+#~ msgid "免费头像框"
+#~ msgstr "Free avatar frame"
+
+#~ msgid "新玩家登录赠送大量金币"
+#~ msgstr "New players log in and give away a lot of gold coins"
+
+#~ msgid "4倍"
+#~ msgstr "4 Times"
+
+#~ msgid "未请求到数据"
+#~ msgstr "No data requested"
+
+#~ msgid "编号:{1}"
+#~ msgstr "{1}:Number"
+
+#~ msgid "在线"
+#~ msgstr "online"
+
+#~ msgid "请等待下一轮游戏开始"
+#~ msgstr "Please wait for the next round of the game to start"
+
+#~ msgid "正在观看，你的筹码要大于{1}才能玩"
+#~ msgstr "While watching, you need {1} gold COINS to play"
+
+#~ msgid "开牌倒计时："
+#~ msgstr "Bet countdown"
+
+#~ msgid "没有下注"
+#~ msgstr "No bet"
+
+#~ msgid "您已下注,游戏结束才能离开游戏"
+#~ msgstr "You have placed a bet, please leave the game after the game is over"
+
+#~ msgid "你已经达到最大下注额度"
+#~ msgstr "Maximum betting limit has been reached"
+
+#~ msgid "等待游戏开始："
+#~ msgstr "Start soon："
+
+#~ msgid "未找到房间"
+#~ msgstr "No room found"
+
+#~ msgid "资产不够坐下"
+#~ msgstr "Your chips are not enough sit down automatically"
+
+#~ msgid "正在升级"
+#~ msgstr "Upgrading"
+
+#~ msgid "长时间未操作,离开房间"
+#~ msgstr ""
+#~ "As you have not operated for a long time, the system has invited you out "
+#~ "of the room"
+
+#~ msgid "中途离开"
+#~ msgstr "Exit the room"
+
+#~ msgid "下注时间已过"
+#~ msgstr "Betting time has passed"
+
+#~ msgid "奖池ID不存在"
+#~ msgstr "Prize pool does not exist"
+
+#~ msgid "下注已达限制"
+#~ msgstr "Bet reached the limit"
+
+#~ msgid "下注失败"
+#~ msgstr "Bet failed"
+
+#~ msgid "确认"
+#~ msgstr "Confirm"
+
+#~ msgid "去玩牌"
+#~ msgstr "Go"
+
+#~ msgid "下注金额"
+#~ msgstr "Bet"
+
+#~ msgid "赢取金额"
+#~ msgstr "Total win"
+
+#~ msgid "请输入正确的手机号."
+#~ msgstr "please enter a valid phone number"
+
+#~ msgid "获取验证码失败."
+#~ msgstr "Failed to get the verification code{1}, please try again later."
+
+#~ msgid "修改信息成功"
+#~ msgstr "Modify the information success"
+
+#~ msgid "修改信息失败,请稍后再试:{1}"
+#~ msgstr "Modification failed, please try again later{1}"
+
+#~ msgid "与服务器的连接中断，是否尝试重新连接？"
+#~ msgstr "Interrupted connection to server, attempt to reconnect？"
+
+#~ msgid "请先登录游戏"
+#~ msgstr "Please log in to the game first"
+
+#~ msgid "网络不给力"
+#~ msgstr "Bad Connection"
+
+#~ msgid "游戏还未结束,需要回到游戏中"
+#~ msgstr "The game is not over yet, you need to return to the game"
+
+#~ msgid "重复登录"
+#~ msgstr "Account duplicate login"
+
+#~ msgid "找不到要进入的游戏"
+#~ msgstr "Can't find the game to enter"
+
+#~ msgid "连接服务器失败"
+#~ msgstr "Connection failure"
+
+#~ msgid "筹码不足请前往商城充值"
+#~ msgstr ""
+#~ "Your balance is not enough to continue.\n"
+#~ "You can add cash by one click."
+
+#~ msgid "目前的房间需要{1}筹码才能进入，筹码不足请前往商城充值"
+#~ msgstr ""
+#~ "The current room needs {1} rupees to enter,you have insufficient rupees, "
+#~ "please recharge?"
+
+#~ msgid "已支付成功，正在进行发货，请稍候.."
+#~ msgstr "Has been successful payment, delivery progress, please wait .."
+
+#~ msgid "支付失败"
+#~ msgstr "Payment failed"
+
+#~ msgid "支付已经取消"
+#~ msgstr "Payment has been cancelled"
+
+#~ msgid "输入金额超出限制"
+#~ msgstr "Input amount exceeds limit"
+
+#~ msgid "发货成功，感谢您的购买。"
+#~ msgstr "Successful delivery, thank you for your purchase."
+
+#~ msgid "网络故障，系统将在您下次打开商城时重试。"
+#~ msgstr ""
+#~ "Network failure, the system will retry the next time you open the mall."
+
+#~ msgid "发现新版本, 尝试开始更新..."
+#~ msgstr "Found a new version, try to start the update..."
+
+#~ msgid "正在更新 {1}%"
+#~ msgstr "Updating {1}%"
+
+#~ msgid "正在检查资源..."
+#~ msgstr "Checking resources..."
+
+#~ msgid "下注时间"
+#~ msgstr "Betting time"
+
+#~ msgid "只能下注全部筹码的{1}"
+#~ msgstr "Boss, you can only bet {1} of all your chips"
+
+#~ msgid "没有空闲的座位"
+#~ msgstr "No available seats"
+
+#~ msgid ""
+#~ "1．活动游戏：TeenPatti\n"
+#~ "2．活动期间在盲注是5的房间里玩牌，可以随机获得红包雨奖励哦\n"
+#~ "3．房间人数需要大于等于3人哦\n"
+#~ "4．自己玩牌达到指定局数一定获得红包雨奖励\n"
+#~ "5．每次红包的奖励都是随机的哦，祝您好运"
+#~ msgstr ""
+#~ "1. Activity game: TeenPatti\n"
+#~ "2. During the event, play in the room where the blinds are 5, and you can "
+#~ "randomly get red envelope rain rewards.\n"
+#~ "3. The number of people in the room needs to be 3 or more people\n"
+#~ "4. You must get a red envelope rain reward if you reach the specified "
+#~ "number of games\n"
+#~ "5. Every time the red envelope rewards are random, good luck "
+
+#~ msgid "今日已领取"
+#~ msgstr "Received today"
+
+#~ msgid "您当前不是VIP尊贵玩家"
+#~ msgstr "You are not VIP Currently"
+
+#~ msgid "可提取余额"
+#~ msgstr "Withdrawable balance"
+
+#~ msgid "总现金余额"
+#~ msgstr "Total cash balance"
+
+#~ msgid "您从赌桌上赢来的钱。您可以提取或重复使用它来加入任何赌桌"
+#~ msgstr ""
+#~ "Money that you won from table.you can withdraw or reuse it to join any "
+#~ "tables."
+
+#~ msgid "优惠倒计时"
+#~ msgstr "Countdown"
+
+#~ msgid "活动结束时间:4月30日23:00:00"
+#~ msgstr "Event end time: April 30, 23:00:00"
+
+#~ msgid "新玩家首次添加现金，购买100送100奖金"
+#~ msgstr "Add cash for the first time, buy 100 get 200 Chips"
+
+#~ msgid "每月登录可以获得每月奖金"
+#~ msgstr "Log in every month to get a monthly bonus"
+
+#~ msgid "提升VIP等级可以获得等级奖金"
+#~ msgstr "Upgrade VIP level to get level bonus"
+
+#~ msgid "VIP规则"
+#~ msgstr "VIP Rules"
+
+#~ msgid ""
+#~ "1.充值相应的金额，即可成为VIP尊贵玩家，获得VIP标识\n"
+#~ "2.充值的越多，VIP等级越高\n"
+#~ "3.VIP级别越高，奖金越高\n"
+#~ "4.每日奖金：每天登录可以领取每日奖金\n"
+#~ "5.每月奖金：每月登录可以获得每月奖金\n"
+#~ "6.等级奖金：升级到下一个VIP等级可以获得等级奖金"
+#~ msgstr ""
+#~ "1. Recharge the corresponding amount to become a VIP player and get the "
+#~ "VIP logo\n"
+#~ "2. The more you top up, the higher your VIP level\n"
+#~ "3. The higher the VIP level, the higher the bonus\n"
+#~ "4. Daily bonus: log in every day to receive daily bonus\n"
+#~ "5. Monthly bonus: log in every month to get a monthly bonus\n"
+#~ "6. Level bonus: upgrade to the next VIP level to get a level bonus"
+
+#~ msgid "请输入正确的电话号码和邮箱地址."
+#~ msgstr "Please enter the correct phone number and email address."
+
+#~ msgid "请输入验证码."
+#~ msgstr "please enter verification code."
+
+#~ msgid "恭喜获得:{1}"
+#~ msgstr "Congratulations to get:{1}"
+
+#~ msgid "请输入正确的验证码."
+#~ msgstr "Please enter correct verify code."
+
+#~ msgid "需要绑定用户信息"
+#~ msgstr "Need to bind user information"
+
+#~ msgid "单次提现限制:{1}-{2}"
+#~ msgstr "Single withdrawal limit: {1}-{2}"
+
+#~ msgid "请输入名称"
+#~ msgstr "Please enter name"
+
+#~ msgid "请输入IFSC Code"
+#~ msgstr "Please enter IFSC Code"
+
+#~ msgid "请输入手机号码"
+#~ msgstr "Please enter telephone number"
+
+#~ msgid "请输入验证码"
+#~ msgstr "please enter verification code."
+
+#~ msgid "修改成功"
+#~ msgstr "Edited successfully"
+
+#~ msgid "修改失败,请稍后再试"
+#~ msgstr "Modification failed, please try again later"
+
+#~ msgid "获取配置失败:{1}"
+#~ msgstr "Failed to obtain configuration: {1}"
+
+#~ msgid "发现新版本, 开始更新"
+#~ msgstr "Find a new version, start updating"
+
+#~ msgid "更新检查失败, status: {1}"
+#~ msgstr "Update check failed, status: {1}"
+
+#~ msgid "更新下载失败, status: {1}, msg: {2}"
+#~ msgstr "Update download failed, status: {1}, msg: {2}"
+
+#~ msgid "领取失败,请稍后再试"
+#~ msgstr "Collect rewards failed, please try again later"
+
+#~ msgid "获取配置失败"
+#~ msgstr "Failed to get configuration"
+
+#~ msgid "邀请好友进行{1}局游戏,获得{2}-{3}的随机金币奖励"
+#~ msgstr ""
+#~ "Invite friends to play {1} games,Get random gold rewards from {2}-{3}"
+
+#~ msgid "邀请好友进行充值{1}金额,获得{2}-{3}的随机金币奖励"
+#~ msgstr ""
+#~ "Invite friends to recharge {1} amount,Get random gold rewards from {2}-{3}"
+
+#~ msgid "手机号码不能为空"
+#~ msgstr "Phone number can not be blank"
+
+#~ msgid "密码不能少于6位"
+#~ msgstr "Password cannot be less than 6 digits"
+
+#~ msgid "验证码不能为空"
+#~ msgstr "verification code cannot be empty"
+
+#~ msgid "密码设置成功"
+#~ msgstr "Password updated successfully"
+
+#~ msgid "验证码错误"
+#~ msgstr "Verification code error"
+
+#~ msgid "密码没有改变"
+#~ msgstr "Password update failed"
+
+#~ msgid "设置失败:{1}"
+#~ msgstr "Setting failed: {1}"
+
+#~ msgid "验证码已发送"
+#~ msgstr "Verification code has been sent"
+
+#~ msgid "发送短信失败, 请联系客服"
+#~ msgstr "Failed to send SMS, please contact customer service"
+
+#~ msgid "获取验证码次数已达上线"
+#~ msgstr "The number of verification codes has reached the limit"
+
+#~ msgid "获取验证码失败{1},请稍后再试"
+#~ msgstr "Failed to get the verification code{1}, please try again later"
+
+#~ msgid "请输入需要购买的金额"
+#~ msgstr "Please enter the amount to be purchased"
+
+#~ msgid "您已经达到最高等级"
+#~ msgstr "Congratulations you have reached the highest level"
+
+#~ msgid "目前还差<size=40><color=#ffff00>{1}{2}</color></size>可以升级"
+#~ msgstr ""
+#~ "Need<size=40><color=#ffff00>{1}{2}</color></size>can upgrade next level"
+
+#~ msgid "已达到该等级"
+#~ msgstr "Had reached the level"
+
+#~ msgid "活动结束时间:"
+#~ msgstr "Event end time:"
+
+#~ msgid "活动已结束请尽快领取奖励"
+#~ msgstr "The event has ended, please collect the reward as soon as possible"
+
+#~ msgid "可提现余额不足"
+#~ msgstr "Withdraw amount cannot exceed"
+
+#~ msgid ""
+#~ "存款现金是您添加到钱包中的现金\n"
+#~ "您可以使用存款现金和奖金现金来支付现金游戏\n"
+#~ "注意：您不能提取您的存款现金"
+#~ msgstr ""
+#~ "Deposit cash is the cash that you have added to your wallet\n"
+#~ "you can use deposit cash with winnings cash to pay for cash games\n"
+#~ "note:you cannot withdraw your deposit cash"
+
+#~ msgid ""
+#~ "奖金现金是您在现金游戏中赢得的现金\n"
+#~ "您可以使用奖金现金和存款现金玩现金游戏\n"
+#~ "注意：您可以提取您的奖金现金"
+#~ msgstr ""
+#~ "Winnings cash is the cash that you have won in cash games\n"
+#~ "you can use winnings cash and deposit cash to play for cash games\n"
+#~ "note:you can withdraw your winnings cash"
+
+#~ msgid "亲爱的玩家, 您已有足够的资产可以进入更大的场赢取更多的金币."
+#~ msgstr ""
+#~ "Dear player, you have enough assets to enter a larger field to win more "
+#~ "coins."
+
+#~ msgid "赢取更多的金币."
+#~ msgstr "Win more coins."
+
+#~ msgid "现在不能抓牌"
+#~ msgstr "Can't draw cards now"
+
+#~ msgid "游戏中无法退出"
+#~ msgstr "The current game has started, please exit after the game is over."
+
+#~ msgid "你当前正在该场次中"
+#~ msgstr "You are in the current game"
+
+#~ msgid "房间号:{1} 盲注{2}"
+#~ msgstr "Room number{1} Antes{2}"
+
+#~ msgid "座位上已有人"
+#~ msgstr "The seat has been someone"
+
+#~ msgid "目前的房间需要{1}筹码才能进入，你的筹码不足"
+#~ msgstr ""
+#~ "The current room needs {1} rupees to enter,you have insufficient rupees, "
+#~ "please recharge?"
+
+#~ msgid "点牌"
+#~ msgstr "High Card"
+
+#~ msgid "对子"
+#~ msgstr "Pair"
+
+#~ msgid "同花"
+#~ msgstr "Flush"
+
+#~ msgid "顺子"
+#~ msgstr "Straight"
+
+#~ msgid "同花顺"
+#~ msgstr "Straight Flush"
+
+#~ msgid "盲注{1}"
+#~ msgstr "Blind: {1}"
+
+#~ msgid "请选着下注额度"
+#~ msgstr "Please select the bet amount..."
+
+#, fuzzy
+#~| msgid "出牌"
+#~ msgid "庄家牌"
+#~ msgstr "Play cards"
+
+#~ msgid "未下注"
+#~ msgstr "No Betting"
+
+#, fuzzy
+#~| msgid "出牌"
+#~ msgid "合牌"
+#~ msgstr "Play cards"
+
+#~ msgid "路线图"
+#~ msgstr "Roadmap"
+
+#~ msgid "珠盘图"
+#~ msgstr "Score Board"
+
+#~ msgid "你已经下注,是否直接离开?"
+#~ msgstr "You are still in the current round, confirm to leave?"
+
+#, fuzzy
+#~| msgid "出牌"
+#~ msgid "顺牌"
+#~ msgstr "Play cards"
+
+#~ msgid "准备"
+#~ msgstr "Ready"
+
+#~ msgid "取消托管"
+#~ msgstr "Cancel hosting"
+
+#~ msgid "玩牌规则"
+#~ msgstr "Playing Rule"
+
+#~ msgid "分数计算"
+#~ msgstr "Score Calculation"
+
+#~ msgid "盲注: {1}"
+#~ msgstr "Antes {1}"
+
+#~ msgid "选着需要的出牌"
+#~ msgstr "Choose the required card"
+
+#~ msgid "福袋鱼"
+#~ msgstr "Lucky fish"
+
+#~ msgid "击败后将触发转盘,获得巨额奖励."
+#~ msgstr ""
+#~ "After the kill, the turntable will be triggered and huge rewards will be "
+#~ "obtained."
+
+#~ msgid "闪电鱼"
+#~ msgstr "Lightning fish"
+
+#~ msgid "击败后会发出闪电攻击附近其他的鱼获得奖励"
+#~ msgstr ""
+#~ "After killing, it will send out lightning attack to other nearby fish to "
+#~ "get rewards."
+
+#~ msgid "财神鱼"
+#~ msgstr "Fortune Fish"
+
+#~ msgid "打死后会触发老虎机小游戏,获取巨额奖励."
+#~ msgstr ""
+#~ "After the kill, it will trigger the slot machine mini game and get huge "
+#~ "rewards."
+
+#~ msgid "音效"
+#~ msgstr "Sound"
+
+#~ msgid "震动"
+#~ msgstr "Shock"
+
+#~ msgid "音量"
+#~ msgstr "Volume"
+
+#~ msgid "锁定射击"
+#~ msgstr "Lock shot"
+
+#~ msgid "自动射击"
+#~ msgstr "Auto Shot"
+
+#~ msgid "你累了,休息一下吧."
+#~ msgstr "You're tired. Go back to the hall and have a rest."
+
+#~ msgid "底注{1}-{2}"
+#~ msgstr "antes{1}-{2}"
+
+#~ msgid "最大{1}倍"
+#~ msgstr "Max {1} multiple"
+
+#~ msgid "请点击屏幕激发自动射击"
+#~ msgstr "Please tap the screen to trigger automatic shot"
+
+#~ msgid "{1}倍"
+#~ msgstr "×{1}"
+
+#~ msgid "满啦"
+#~ msgstr "filled"
+
+#~ msgid ""
+#~ "1.击杀任意鱼即有机会获得额外金币奖励\n"
+#~ "2.金币存入瓶子中后,可随时重置任意金额后提取\n"
+#~ "3.每次金币被提取后瓶子还会继续再积攒,直到攒满\n"
+#~ "4.活动结束后瓶子里将不会再积累金币,此时请尽快领取否则活动结束后瓶子将消失"
+#~ msgstr ""
+#~ "1、Kill any fish and you have a chance to earn extra gold\n"
+#~ "2.After the coins are stored in the piggy，Recharge any amount at any "
+#~ "time and withdraw\n"
+#~ "3、Each time the coins were withdrawn, the piggy kept accumulating until "
+#~ "it was full\n"
+#~ "4.No more gold coins will be obtained after the event. The piggy will "
+#~ "disappear after the countdown. Please get the gold coins as soon as "
+#~ "possible"
+
+#~ msgid "活动已经结束,瓶子将在{1}后消失"
+#~ msgstr "The event has ended, please get it as soon as possible{1}"
+
+#~ msgid "活动将在{1}后结束"
+#~ msgstr "The event will end after{1}"
+
+#~ msgid "已装备"
+#~ msgstr "In Used"
+
+#~ msgid "装备"
+#~ msgstr "Use"
+
+#~ msgid "未装备皮肤"
+#~ msgstr "Unused"
+
+#~ msgid "点牌{1}"
+#~ msgstr "High Card{1}"
+
+#, fuzzy
+#~| msgid "叫牌"
+#~ msgid "小公牌"
+#~ msgstr "Bid"
+
+#~ msgid "高牌"
+#~ msgstr "High Card"
+
+#~ msgid "两对"
+#~ msgstr "Two Pairs"
+
+#~ msgid "三条"
+#~ msgstr "Three of a kind"
+
+#~ msgid "葫芦"
+#~ msgstr "Full House"
+
+#~ msgid "四条"
+#~ msgstr "Four of a kind"
+
+#~ msgid "皇家同花顺"
+#~ msgstr "Royal Flush"
+
+#~ msgid "下注"
+#~ msgstr "Betting"
+
+#~ msgid "弃牌"
+#~ msgstr "Fold"
+
+#~ msgid "跟注"
+#~ msgstr "Call"
+
+#~ msgid "加注"
+#~ msgstr "Raise"
+
+#~ msgid "看牌"
+#~ msgstr "See"
+
+#~ msgid "亮牌"
+#~ msgstr "Show card"
+
+#~ msgid "2倍"
+#~ msgstr "2 Times"
+
+#~ msgid "{1}点"
+#~ msgstr "{1} Point"
+
+#~ msgid "座位已有人"
+#~ msgstr "The seat has been someone"
+
+#~ msgid "自动不叫"
+#~ msgstr "Auto not bid"
+
+#~ msgid "自动叫牌"
+#~ msgstr "Auto bid"
+
+#~ msgid "不叫"
+#~ msgstr "Unbid"
+
+#~ msgid "无效牌型"
+#~ msgstr "Invalid card type"
+
+#~ msgid "等待其他玩家加入"
+#~ msgstr "Waiting for other players to join"
+
+#~ msgid "当前人数:{1}"
+#~ msgstr "Number of current players: {1}"
+
+#~ msgid "当前投注:{1}"
+#~ msgstr "Current bet: {1}"
+
+#~ msgid "几率:{1}%"
+#~ msgstr "Chance: {1}%"
+
+#~ msgid "剩余次数:{1}"
+#~ msgstr "Remaining times: {1}"
+
+#~ msgid "{1}-{2}"
+#~ msgstr "{1}-{2}"
+
+#~ msgid "已达到最大下注次数"
+#~ msgstr "The max number of bets has been reached"
+
+#~ msgid "参数错误"
+#~ msgstr "Parameter error"
+
+#~ msgid "自动旋转"
+#~ msgstr "Auto Spin"
+
+#~ msgid "总下注"
+#~ msgstr "Total bet"
+
+#~ msgid "线注"
+#~ msgstr "Line Bet"
+
+#~ msgid "操作失败, 请稍后再试"
+#~ msgstr "The operation failed, please try again later"
+
+#~ msgid "免费旋转"
+#~ msgstr "Free Spin"
+
+#~ msgid "特殊图标"
+#~ msgstr "FEATURE"
+
+#~ msgid "出現在第1、3、5轉輪，出現3個時觸發8次免費轉"
+#~ msgstr ""
+#~ "Only appears on the 1st, 3rd and the 5th wheel, when three of it appear, "
+#~ "8 free spins will be triggered."
+
+#~ msgid "只出現在第3轉輪，出現後將特定圖標變成WILD"
+#~ msgstr ""
+#~ "Only appears on the 3rd wheel and turns the specific icon into WILD after "
+#~ "it appears"
+
+#~ msgid "可以代替除SCATTER、FEAATURE外的所有圖標"
+#~ msgstr "Can replace any icons other than SCATTER and FEATURE."
+
+#~ msgid ""
+#~ "在任意中獎線中，如果出現相應的Jackpot圖標，就可以贏取Jackpot大獎池中的籌碼"
+#~ msgstr ""
+#~ "If true consecutive identical Jackpot icon appear on any paylines, you "
+#~ "can win the chips from the Jackpot"
+
+#~ msgid "普通獎池"
+#~ msgstr "Normal Jackpot"
+
+#~ msgid "火爆獎池"
+#~ msgstr "Hot Jackpot"
+
+#~ msgid ""
+#~ "JACKPOT獎池說明：\n"
+#~ "當JACKPOT獎池變成火爆狀態時，中JACKPOT大獎的概率將大大提升，這個時候使勁轉"
+#~ "吧，下一個中獎的可能就是你"
+#~ msgstr ""
+#~ "JACKPOT Notice:\n"
+#~ "When Jackpot becomes HOT, the chances to win a Jackpot will increase "
+#~ "greatly, spin away as you wish at this moment, as the next one who hit a "
+#~ "Jackpot might be YOU!"
+
+#~ msgid ""
+#~ "中獎的圖標會掉落消去，並且重新掉落新的圖標補上，重新掉落的圖標可以繼續連線"
+#~ "中獎\n"
+#~ "每局中獎即可進行圖標充能，圖標充能滿後則變成WILD圖標的效果"
+#~ msgstr ""
+#~ "The winning icon will be dropped, and the new icon will be re-dropped. "
+#~ "The icon that has been dropped can continue to win the prize.\n"
+#~ "The icon can be recharged in each round of the prize, and the effect of "
+#~ "the WILD icon becomes when the icon is fully charged."
+
+#~ msgid ""
+#~ "免費轉開始之前，神奇的阿拉丁會出現給你選擇一個圖標，該圖標會在免費轉過程再"
+#~ "遇到該圖標，如果該圖標的個數滿足中獎個數時，會將整輪變成該圖標然後按中獎線"
+#~ "數結算"
+#~ msgstr ""
+#~ "Before the free start, you can choose an icon, which will appear again "
+#~ "during the free transfer process. If the number of the icon meets the "
+#~ "winning number, the whole round will become the icon. Then settle by the "
+#~ "number of winning lines"
+
+#~ msgid "余额"
+#~ msgstr "Balance"
+
+#~ msgid "免费转动次数:{1}"
+#~ msgstr "Free Spins:{1}"
+
+#~ msgid "玩{1}条赔付线"
+#~ msgstr "Play {1} paylines"
+
+#~ msgid "玩25条赔付线"
+#~ msgstr "Play 25 paylines"
+
+#~ msgid "只出現在第2、3、4轉輪上，可以代替除Scatter外的所有圖標。"
+#~ msgstr ""
+#~ "Only appears on the 2nd, 3rd and the 4th wheel, can replace any icons "
+#~ "other than Scatter. "
+
+#~ msgid "只會出現在第1、3、5轉輪上，出現3個時觸發10次免費轉。"
+#~ msgstr ""
+#~ "Only appears on the 1st, 3rd and the 5th wheel, when three of it appear, "
+#~ "10 free spins will be triggered."
+
+#~ msgid ""
+#~ "免費轉過程中wild圖標會變成特殊wild圖標。\n"
+#~ "出現特殊wild後會先計算第一次贏取的獎勵，再消去特殊wild指定範圍內的圖標"
+#~ "（A、K、Q、J）。\n"
+#~ "而未消去的圖標會往下掉落，並補上新的圖標後再次計算贏取金額。"
+#~ msgstr ""
+#~ "When spinning for free, the wild icon will become the special wild icon.\n"
+#~ "When the special wild icon appears, it will calculate the first prize won "
+#~ "then deduct the icons (A, K, Q, and J) in the designated area by the "
+#~ "special wild icon.\n"
+#~ "The remaining icons will drop down, new icons will appear for another "
+#~ "calculation for the prize."
+
+#~ msgid "消除直线,横线位置的圖標"
+#~ msgstr "Remove the symbols on horizon and vertical lines"
+
+#~ msgid "消除斜線位置的圖標"
+#~ msgstr "Remove the symbol on the diagonal line"
+
+#~ msgid "消除周圍八格的圖標"
+#~ msgstr "Remove the Symbols on the surrounding eight grids"
+
+#~ msgid ""
+#~ "JACKPOT獎池說明：\n"
+#~ "當JACKPOT獎池變成火爆狀態時，中JACKPOT大獎的概率將大大提升，這個時候使勁轉"
+#~ "吧，下一個中獎的可能就是你！\n"
+#~ "中獎說明：\n"
+#~ "在任意中獎線中，如果出現5個JACKPOT圖標，就可以贏取JACKPOT大獎池中的籌碼。"
+#~ msgstr ""
+#~ "JACKPOT Notice:\n"
+#~ "When Jackpot becomes HOT, the chances to win a Jackpot will increase "
+#~ "greatly, spin away as you wish at this moment, as the next one who hit a "
+#~ "Jackpot might be YOU!\n"
+#~ "Prize Notice:\n"
+#~ "If a five identical jackpot appear on any of your paylines, you will win "
+#~ "the chips in the Jackpot"
+
+#~ msgid "說明"
+#~ msgstr "Description"
+
+#~ msgid ""
+#~ "1.選擇下注額度轉動\n"
+#~ "老虎機，老虎機停止\n"
+#~ "時除SCATTER外的圖\n"
+#~ "標出現在有效的彩線\n"
+#~ "的轉輪上，按圖標位\n"
+#~ "置從左到右按圖標獎\n"
+#~ "勵倍數對所中圖標進\n"
+#~ "行結算。\n"
+#~ "2.結算後的最終倍\n"
+#~ "數乘以每條線的下注\n"
+#~ "額等於最後的獎勵"
+#~ msgstr ""
+#~ "1. Choose a wager amount and spin the slot machine, when the wheel stops "
+#~ "and any images except for SCATTER appear on a valid payline on the wheel, "
+#~ "the prize will be calculated based on the corresponding image rewards and "
+#~ "rates from left to right.\n"
+#~ "2. The final rates after the calculation times the bet of each line will "
+#~ "be the final prize"
+
+#~ msgid "拉取记录失败, 请稍后再试"
+#~ msgstr "Failed to fetch record, please try again later"
+
+#~ msgid "领取奖励失败, 请稍后再试"
+#~ msgstr "Failed to collect rewards, please try again later"
+
+#~ msgid "请求超时"
+#~ msgstr "Request timed out"
+
+#~ msgid "宝石进度保存失败"
+#~ msgstr "Gem progress save failed"
+
+#~ msgid "是否花费{1}筹码保留当前宝石进度?"
+#~ msgstr "Do you spend {1} chips to keep the current gem progress?"
+
+#~ msgid "即万能图标，可以代替除了SCATTER以外的所有图标。"
+#~ msgstr "Wild icon, can be replaced as any icons except for SCATTER"
+
+#~ msgid ""
+#~ "只出现在第1、3、5转轮上。\n"
+#~ "同时出现3个SCATTER可赢得7次免费转次数"
+#~ msgstr ""
+#~ "Only appears on the 1st, 3rd and the 5th wheel.\n"
+#~ "If three SCATTER appear at the same time, you will win 7 free spins"
+
+#~ msgid ""
+#~ "中了免费转后，每次免费转出现男性图标时都会触发美杜莎凝视，将场上的（图）\n"
+#~ "男性士兵图标石化。\n"
+#~ "图标石化后仍有机会挣脱恢复原样，而未挣脱的则变为（图）wild可以代替所有图标"
+#~ "除\n"
+#~ "了（图）SCATTER。"
+#~ msgstr ""
+#~ "After you have won a free to spin, wherever a free spin lands on an icon "
+#~ "with male on it, the stare of medusa will be triggered, every (Image) "
+#~ "male solders in the game will be petrified.\n"
+#~ "If icons are petrified, they still have a chance to struggle for "
+#~ "restoration, any of those who have not struggled will become (image) wild "
+#~ "icon, which can be used as any icons except for (image) SCATTER."
+
+#~ msgid ""
+#~ "押注越高可开启越多的石化转轮。   \n"
+#~ "石化转轮只有 2, 3, 4, 5 轮。\n"
+#~ "开启石化转轮后每次旋转石化转轮各有机会将该\n"
+#~ "轮变为整轮wild。"
+#~ msgstr ""
+#~ "Bet higher to open more Petrifaction Wheels.\n"
+#~ "Petrifaction Wheels only exist on the 2nd, 3rd, 4th, and 5th wheel\n"
+#~ "After opening the Petrifaction Wheels, there is a chance to turn the "
+#~ "whole wheel into wild after every spin of Petrifaction Wheel."
+
+#~ msgid "普通奖池"
+#~ msgstr "Normal Jackpot"
+
+#~ msgid "火爆奖池"
+#~ msgstr "Hot Jackpot"
+
+#~ msgid ""
+#~ "JACKPOT奖池说明：\n"
+#~ "当JACKPOT奖池变成火爆状态时，中JACKPOT大奖的概率将大大提升，这个时候使劲转"
+#~ "吧，下一个中奖的可能就是你！\n"
+#~ "中奖说明：\n"
+#~ "在任意中奖线中，如果出现5个JACKPOT图标，就可以赢取JACKPOT大奖池中的筹码。"
+#~ msgstr ""
+#~ "JACKPOT Notice:\n"
+#~ "When Jackpot becomes HOT, the chances to win a Jackpot will increase "
+#~ "greatly, spin away as you wish at this moment, as the next one who hit a "
+#~ "Jackpot might be YOU!\n"
+#~ "Prize Notice:\n"
+#~ "If a five identical jackpot appear on any of your paylines, you will win "
+#~ "the chips in the Jackpot"
+
+#~ msgid ""
+#~ "1.选择下注额度转动老虎机，老虎机停止时除SCATTER外的图标出现在有效的彩线"
+#~ "的\n"
+#~ "转轮上，按图标位置从左到右按图标奖励倍数对所中图标进行结算。\n"
+#~ "2.结算后的最终倍数乘以每条线的下注额等于最后的奖励"
+#~ msgstr ""
+#~ "1. Choose a wager amount and spin the slot machine, when the wheel stops "
+#~ "and any images except for SCATTER appear on a valid payline on the wheel, "
+#~ "the prize will be calculated based on the corresponding image rewards and "
+#~ "rates from left to right.\n"
+#~ "2. The final rates after the calculation times the bet of each line will "
+#~ "be the final prize"
+
+#~ msgid "BONUS奖金"
+#~ msgstr "BONUS Rewards"
+
+#~ msgid "只出現在1、3、5轉輪上出現3個可進入小遊戲"
+#~ msgstr ""
+#~ "3 playable mini games will only appear on 1st, 3rd and the 5th wheel"
+
+#~ msgid "只會出現在3號轉輪上能夠代替所有圖標除了BONUS"
+#~ msgstr ""
+#~ "Only appears on the 3rd wheel, can replace any icons except for BONUS"
+
+#~ msgid ""
+#~ "火焰圖標只會出現在1、5轉輪上\n"
+#~ "第1轉輪或第5輪出現火焰圖標時，將發動FEATUREGAME\n"
+#~ "第1轉輪出現的火焰圖標會將1、2轉輪的圖標全都變成相同的圖標\n"
+#~ "第5轉輪出現的圖標會將4、5轉輪的圖標都變成相同的圖標"
+#~ msgstr ""
+#~ "Fire Icon will only appear on the 1st or 5th wheel\n"
+#~ "When Fire Icon appears on the 1st or 5th wheel, FEATUREGAME will be "
+#~ "initiated\n"
+#~ "The Fire Icon appears on the 1st will change all icons on the 1st and 2nd "
+#~ "wheel to be the same icons\n"
+#~ "The Fire Icon appears on the 1st will change all icons on the 4th and 5th "
+#~ "wheel to be the same icons"
+
+#~ msgid "小遊戲"
+#~ msgstr "Mini Game"
+
+#~ msgid ""
+#~ "在小遊戲裡有4次的選擇機會，根據打開的圖標獲得相應的獎勵\n"
+#~ "獲得BOOST+1PICKTU圖標，收集獎勵則可以上升1檔，並且增加一次選擇機會，獲得兩"
+#~ "個PICKS圖標，則可以增加兩次選擇機會\n"
+#~ "收集齊4種圖標還可再獲得Jackpot相應檔次的獎勵，收集獎勵還包含不同次數的\n"
+#~ "免費旋轉獎勵哦"
+#~ msgstr ""
+#~ "There are 4 chances to choose in the mini game, according to the opened "
+#~ "icon to get the corresponding reward\n"
+#~ "Obtain the BOOST+1PICKTU icon, and the collection reward can be increased "
+#~ "by 1 level, and one more selection opportunity, and two PICKS icons can "
+#~ "increase the selection opportunity twice\n"
+#~ "Collecting all 4 icons can also get corresponding rewards of Jackpot. "
+#~ "Collecting rewards also includes different times\n"
+#~ "Free spin rewards"
+
+#~ msgid ""
+#~ "免費旋轉，只能在小遊戲獲得到該欄獎勵才能進入\n"
+#~ "進入免費旋轉時，1、2轉輪跟4、5轉輪的圖標全部變成大圖標\n"
+#~ "超大獎勵等著你哦"
+#~ msgstr ""
+#~ "Free spinning, can only enter when got this reward from the mini-game.\n"
+#~ "When spinning for free, the icons on the 1st, 2nd wheel, and the 4th, the "
+#~ "5th wheel will be big icons\n"
+#~ "With bigger rewards for you"
+
+#~ msgid "遊戲規則"
+#~ msgstr "Game Rule"
+
+#~ msgid ""
+#~ "除BONUS之外，轉動老虎機，出現轉輪上的圖標按有效連線的個數從左到右、從\n"
+#~ "右到左進行獎勵結算，中五個圖標只按從左到右結算。\n"
+#~ "所有中獎倍數X每條線的下注額=最後獲得的獎勵"
+#~ msgstr ""
+#~ "After Spinning the slot machine, the reward will be calculated according "
+#~ "to the icons appeared on the wheel from left to right or from right to "
+#~ "left of a valid line, if there are five icons, the calculation only "
+#~ "starts from left to right.\n"
+#~ "All bet rate times the bet amount on each line won is the final prize"
+
+#~ msgid "小{1}"
+#~ msgstr "Small{1}"
+
+#~ msgid "大{1}"
+#~ msgstr "Big {1}"
+
+#, fuzzy
+#~| msgid "对子"
+#~ msgid "对2"
+#~ msgstr "Pair"
+
+#, fuzzy
+#~| msgid "对子"
+#~ msgid "6对"
+#~ msgstr "Pair"
+
+#, fuzzy
+#~| msgid "顺子"
+#~ msgid "顺子胡"
+#~ msgstr "Straight"
+
+#~ msgid "出牌失败"
+#~ msgstr "Failed to play"
+
+#~ msgid "亲爱的,我一直在等你.欢迎回家"
+#~ msgstr "Dear, I've been waiting for you. Welcome home."
+
+#~ msgid "请输入邮箱"
+#~ msgstr "please input your email"
+
+#~ msgid "打开商城!!!"
+#~ msgstr "Open the mall"
+
+#~ msgid "修改昵称成功"
+#~ msgstr "Modify nickname success"
+
+#~ msgid "提现失败"
+#~ msgstr "Withdrawal failed"
+
+#~ msgid "支付成功"
+#~ msgstr "Payment successful"
+
+#~ msgid "取消支付"
+#~ msgstr "Cancel payment"

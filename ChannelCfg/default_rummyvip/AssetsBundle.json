@@ -1,0 +1,510 @@
+{
+    "packageSaveDir": "HotUpdate/GameX",
+    "isDebug": false,
+    "mainPack": {
+        "name": "Main",
+        "zhName": "主包",
+        "version": "1.2.4.7",
+        "packageUrl": "https://inter.rummyvip.com/GameX",
+        "zipImport": true,
+        "zipRawassets": false,
+        "isPrivate": false,
+        "type": "HOT_UPDATE",
+        "iosReviewVersion": "1.9.1"
+    },
+    "subpackArr": [
+        {
+            "name": "Archer",
+            "zhName": "弓箭手",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Archer"
+            ]
+        },
+        {
+            "name": "Alibaba",
+            "zhName": "阿里巴巴四十大盗",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Alibaba"
+            ]
+        },
+        {
+            "name": "Xerxes",
+            "zhName": "薛西斯",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Xerxes"
+            ]
+        },
+        {
+            "name": "Skygarden",
+            "zhName": "尼布甲尼撒二世和空中花园",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Skygarden"
+            ]
+        },
+        {
+            "name": "Sinbad",
+            "zhName": "辛巴达航海冒险",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Sinbad"
+            ]
+        },
+        {
+            "name": "Sphinx",
+            "zhName": "金字塔",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Sphinx"
+            ]
+        },
+        {
+            "name": "G_Cleopatra",
+            "zhName": "埃及艳后",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/G_Cleopatra"
+            ]
+        },
+        {
+            "name": "LampOfAladdin",
+            "zhName": "阿拉丁",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/LampOfAladdin"
+            ]
+        },
+        {
+            "name": "TheLegendOfDragon",
+            "zhName": "TheLegendOfDragon",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/TheLegendOfDragon"
+            ]
+        },
+        {
+            "name": "RegalTiger",
+            "zhName": "RegalTiger",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/RegalTiger"
+            ]
+        },
+        {
+            "name": "AndarBahar",
+            "zhName": "AndarBahar",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/AndarBahar"
+            ]
+        },
+        {
+            "name": "Baccarat",
+            "zhName": "Baccarat",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Baccarat"
+            ]
+        },
+        {
+            "name": "BlackJack21",
+            "zhName": "BlackJack21",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/BlackJack21"
+            ]
+        },
+        {
+            "name": "Carsh",
+            "zhName": "Carsh",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Carsh"
+            ]
+        },
+        {
+            "name": "Delphi",
+            "zhName": "Delphi",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Delphi"
+            ]
+        },
+        {
+            "name": "Domino",
+            "zhName": "Domino",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Domino"
+            ]
+        },
+        {
+            "name": "Fortunewheel",
+            "zhName": "Fortunewheel",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Fortunewheel"
+            ]
+        },
+        {
+            "name": "HorseRace",
+            "zhName": "HorseRace",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/HorseRace"
+            ]
+        },
+        {
+            "name": "Jhandimunda",
+            "zhName": "Jhandimunda",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Jhandimunda"
+            ]
+        },
+        {
+            "name": "lhdz",
+            "zhName": "lhdz",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/lhdz"
+            ]
+        },
+        {
+            "name": "Nudo",
+            "zhName": "Nudo",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Nudo"
+            ]
+        },
+        {
+            "name": "Roulette36",
+            "zhName": "Roulette36",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Roulette36"
+            ]
+        },
+        {
+            "name": "SevenUpDown",
+            "zhName": "SevenUpDown",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/SevenUpDown"
+            ]
+        },
+        {
+            "name": "Uno",
+            "zhName": "Uno",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Uno"
+            ]
+        },
+        {
+            "name": "WingoLottery",
+            "zhName": "WingoLottery",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/WingoLottery"
+            ]
+        },
+        {
+            "name": "AladingWheel",
+            "zhName": "AladingWheel",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/AladingWheel"
+            ]
+        },
+        {
+            "name": "PowerOfTheKraken",
+            "zhName": "PowerOfTheKraken",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/PowerOfTheKraken"
+            ]
+        },
+        {
+            "name": "CricketX",
+            "zhName": "CricketX",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/CricketX"
+            ]
+        },
+        {
+            "name": "Aviatrix",
+            "zhName": "Aviatrix",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Aviatrix"
+            ]
+        },
+        {
+            "name": "CrashX",
+            "zhName": "CrashX",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/CrashX"
+            ]
+        },
+        {
+            "name": "Aviator",
+            "zhName": "Aviator",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Aviator"
+            ]
+        },
+        {
+            "name": "Zeppelin",
+            "zhName": "Zeppelin",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Zeppelin"
+            ]
+        },
+        {
+            "name": "JetX",
+            "zhName": "JetX",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/JetX"
+            ]
+        },
+        {
+            "name": "Dice",
+            "zhName": "Dice",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Dice"
+            ]
+        },
+        {
+            "name": "Limbo",
+            "zhName": "Limbo",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Limbo"
+            ]
+        },
+        {
+            "name": "Coins",
+            "zhName": "Coins",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Coins"
+            ]
+        },
+        {
+            "name": "Plinko",
+            "zhName": "Plinko",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Plinko"
+            ]
+        },
+        {
+            "name": "Hilo",
+            "zhName": "Hilo",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Hilo"
+            ]
+        },
+        {
+            "name": "Mines",
+            "zhName": "Mines",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Mines"
+            ]
+        },
+        {
+            "name": "Keno",
+            "zhName": "Keno",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Keno"
+            ]
+        },
+        {
+            "name": "Tower",
+            "zhName": "Tower",
+            "version": "2.4.7",
+            "zipImport": true,
+            "zipRawassets": true,
+            "isPrivate": true,
+            "type": "REMOTE",
+            "resDirs": [
+                "assets/resources/games/Tower"
+            ]
+        }
+        
+    ]
+}

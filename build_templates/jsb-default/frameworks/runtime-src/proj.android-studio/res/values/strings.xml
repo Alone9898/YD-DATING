@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Yono Games</string>
+    <string name="default_notification_channel_id" translatable="false">1</string>
+    <string name="channel_name" translatable="false">Yono_push</string>
+    <string name="channel_description" translatable="false">Yono_push_des</string>
+    <string name="AF_DEV_KEY" translatable="false">w7XfLbn2veD8cHed7KNunb</string>
+</resources>

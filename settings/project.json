@@ -1,0 +1,70 @@
+{
+  "start-scene": "15dc2da5-9b1a-4dbc-a76c-bba786a02076",
+  "group-list": [
+    "default",
+    "Fish",
+    "Bullet",
+    "Wheel_Point",
+    "Wheel_Item"
+  ],
+  "collision-matrix": [
+    [
+      false
+    ],
+    [
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  ],
+  "excluded-modules": [
+    "TiledMap",
+    "3D Physics/Builtin",
+    "SafeArea"
+  ],
+  "last-module-event-record-time": 1769871376324,
+  "design-resolution-width": 1920,
+  "design-resolution-height": 1080,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": true,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "height": 1080,
+    "width": 1920
+  },
+  "assets-sort-type": "name",
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "migrate-history": [
+    "cloud-function"
+  ]
+}

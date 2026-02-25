@@ -1,0 +1,46 @@
+{
+  "title": "lucky_rummy",
+  "packageName": "",
+  "startScene": "15dc2da5-9b1a-4dbc-a76c-bba786a02076",
+  "excludeScenes": [
+    "0d359320-7375-4725-911e-fd090eafd180",
+    "4154a0dd-d5dc-42ac-8cb2-328473d8b2c4"
+  ],
+  "includeSDKBox": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "webOrientation": "portrait",
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "md5Cache": false,
+  "encryptJs": true,
+  "xxteaKey": "b32a2160-0c63-41",
+  "zipCompressJs": true,
+  "fb-instant-games": {},
+  "android": {
+    "packageName": "com.free.lucky.rummy"
+  },
+  "ios": {
+    "packageName": "com.mensa.game.card"
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "win32": {},
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false
+}
