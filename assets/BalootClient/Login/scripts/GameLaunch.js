@@ -79,6 +79,7 @@ cc.Class({
         // if (!Global.getLocal('client_uuid', false)) {
         //     Global.saveLocal('client_uuid', '' + (new Date()).getTime() + Math.random(1, 9999999));
         // }
+
         cc.macro.DOWNLOAD_MAX_CONCURRENT = 20
         cc.macro.ENABLE_MULTI_TOUCH = false
         cc.debug.setDisplayStats(false)
@@ -86,8 +87,12 @@ cc.Class({
         //launch 进度条的最大值
         this._launProMax = Math.random(0, 1)
         Global.resVersion = Global.getLocal('c_resv', '1.0.0.0')
-        AppLog.ShowScreen('resvision：'+Global.resVersion)
+        AppLog.ShowScreen('resvision：' + Global.resVersion)
         cc.vv = {};
+        cc.vv.LanguageData = {
+            language: new Map(),
+            current: ""
+        };
         // 全局定时器
         let timer = require('TimerMgr');
         timer.init();
@@ -125,7 +130,7 @@ cc.Class({
             cc.vv.NetManager.send(req, true);
         }
 
-        
+
         // 支付管理
         let payMgr = require('PayMgrEx');
         payMgr.init();
@@ -158,12 +163,12 @@ cc.Class({
         cc.vv.FilterWordConfig = require('FilterWordConfig');
         // 加载新的打点配置
         require('ReportConfig');
+        //加载多语言赔
 
-        
 
         if (cc.sys.isNative) {
-            
-            
+
+
             let packageName = cc.vv.PlatformApiMgr.getPackageName();
             this._packName = packageName
 
@@ -171,16 +176,16 @@ cc.Class({
             if (packageName) {
 
                 packageName = packageName.toLowerCase();
-                if(((Global.appId == Global.APPID.YonoGames) && (packageName == "com.yono.games.free" || packageName == "com.jrwork.game.org" || packageName == "com.yonobet.game.org"
-                || packageName == "com.yooffice.pro.game" || packageName == "com.perez.joy.game"))
-                || ((Global.appId == Global.APPID.RummyVIP) && (packageName == "com.game.rummyvip.free" ))
-                ){
+                if (((Global.appId == Global.APPID.YonoGames) && (packageName == "com.yono.games.free" || packageName == "com.jrwork.game.org" || packageName == "com.yonobet.game.org"
+                    || packageName == "com.yooffice.pro.game" || packageName == "com.perez.joy.game"))
+                    || ((Global.appId == Global.APPID.RummyVIP) && (packageName == "com.game.rummyvip.free"))
+                ) {
                     //right
                 }
-                else if(packageName == "com.yono.games.free.test"){
+                else if (packageName == "com.yono.games.free.test") {
                     Global.testPack = true
                 }
-                else{
+                else {
                     //inavaild boundid
                     cc.game.end()
                 }
@@ -215,7 +220,7 @@ cc.Class({
             }
         }
 
-        
+
 
         // if (Global.isDurakApp()) {
         //     cc.vv.i18nManager.setLanguage(cc.vv.i18nLangEnum.EN)
@@ -324,7 +329,7 @@ cc.Class({
 
             if (cc.sys.isNative && !this._isClonerAPP()) {
                 StatisticsMgr.httpReport(StatisticsMgr.HTTP_REGISTER)
-                cc.vv.PlatformApiMgr.KoSDKTrackEvent('af_complete_registration',JSON.stringify({uid:did}))
+                cc.vv.PlatformApiMgr.KoSDKTrackEvent('af_complete_registration', JSON.stringify({ uid: did }))
             }
         }
     },
@@ -365,6 +370,22 @@ cc.Class({
         cc.loader.loadRes("BalootClient/BaseRes/prefabs/poly99_LoadingTip", cc.Prefab, (err, prefab) => {
             func(err, prefab);
         });
+        //
+        cc.loader.loadRes("BalootClient/config/game/Language", cc.JsonAsset, (err, jsonAsset) => {
+            if (err) {
+                AppLog.err('json(BalootClient/config/game/Language.json) load error: ' + err.message);
+                return;
+            }
+            if (jsonAsset && jsonAsset.json) {
+                let jsonData = jsonAsset.json;
+                cc.vv.LanguageData.language.set("Excel", jsonData);
+                console.log(cc.vv.LanguageData.language);
+                cc.vv.LanguageData.current = "pt";
+            } else {
+                AppLog.err('jsonAsset or jsonData is null');
+            }
+        });
+
     },
 
     // loadAlterView() {
@@ -383,10 +404,10 @@ cc.Class({
         AppLog.ShowScreen('launch场景启动')
 
         // if (cc.sys.isNative) {
-            // StatisticsMgr.httpReport(StatisticsMgr.HTTP_LAUNCH)
-            this.generalClientuuid();
+        // StatisticsMgr.httpReport(StatisticsMgr.HTTP_LAUNCH)
+        this.generalClientuuid();
         // }
-        
+
 
         this._nIterval = 0
         this.setProgress(0.01)
@@ -535,30 +556,30 @@ cc.Class({
 
     },
 
-    _isClonerAPP:function(){
-        if(Global.isAndroid()){
+    _isClonerAPP: function () {
+        if (Global.isAndroid()) {
             var localAppVersion = parseInt(cc.vv.PlatformApiMgr.getAppVersion().split('.').join(''));
-            if(localAppVersion > 120){
-                if(cc.vv.PlatformApiMgr.IsCloner()){
+            if (localAppVersion > 120) {
+                if (cc.vv.PlatformApiMgr.IsCloner()) {
                     return true
                 }
             }
-            
+
         }
     },
 
     loadNextScene: function () {
 
-        if(this._isClonerAPP()){
-            if(cc.vv.AlertView){
-                let str = cc.js.formatStr("%s can not run at this mode!",cc.vv.UserConfig.getAppName())
-                cc.vv.AlertView.showTips(str,()=>{
+        if (this._isClonerAPP()) {
+            if (cc.vv.AlertView) {
+                let str = cc.js.formatStr("%s can not run at this mode!", cc.vv.UserConfig.getAppName())
+                cc.vv.AlertView.showTips(str, () => {
                     cc.game.end()
                 })
             }
 
             return
-            
+
         }
 
         if (!cc.vv.NetCacheMgr) {
@@ -567,10 +588,10 @@ cc.Class({
             cc.vv.NetCacheMgr.init()
         }
 
-        if(!cc.vv.ChipPool){
+        if (!cc.vv.ChipPool) {
             cc.vv.ChipPool = require("Table_Chips_Nodepool")
             cc.vv.ChipPool.init()
-            
+
         }
 
         //淡出动画

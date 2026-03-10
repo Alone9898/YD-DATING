@@ -189,7 +189,7 @@
       "array": [
         0,
         0,
-        358.4497535902266,
+        263.3474946875009,
         0,
         0,
         0,
@@ -826,7 +826,7 @@
   {
     "__type__": "cc.Node",
     "_name": "btn_traveller_login",
-    "_objFlags": 0,
+    "_objFlags": 512,
     "_parent": {
       "__id__": 17
     },
@@ -1123,7 +1123,7 @@
   {
     "__type__": "cc.Node",
     "_name": "btn_login_phone_en",
-    "_objFlags": 0,
+    "_objFlags": 512,
     "_parent": {
       "__id__": 22
     },
