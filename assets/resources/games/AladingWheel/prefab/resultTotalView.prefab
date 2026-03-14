@@ -42,14 +42,14 @@
     "_active": true,
     "_components": [
       {
-        "__id__": 259
+        "__id__": 260
       },
       {
-        "__id__": 260
+        "__id__": 261
       }
     ],
     "_prefab": {
-      "__id__": 261
+      "__id__": 262
     },
     "_opacity": 255,
     "_color": {
@@ -356,6 +356,7 @@
       }
     ],
     "atlas": null,
+    "_frameName": "",
     "_id": ""
   },
   {
@@ -9451,10 +9452,13 @@
       },
       {
         "__id__": 257
+      },
+      {
+        "__id__": 258
       }
     ],
     "_prefab": {
-      "__id__": 258
+      "__id__": 259
     },
     "_opacity": 255,
     "_color": {
@@ -9544,6 +9548,17 @@
     },
     "_enabled": true,
     "_srcKey": "Only record the latest 10 winning records",
+    "_id": ""
+  },
+  {
+    "__type__": "8207aJ+O11KgKwU1LGfjzi+",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 255
+    },
+    "_enabled": true,
+    "dataID": "key374",
     "_id": ""
   },
   {

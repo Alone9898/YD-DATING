@@ -37,10 +37,13 @@
       },
       {
         "__id__": 96
+      },
+      {
+        "__id__": 97
       }
     ],
     "_prefab": {
-      "__id__": 97
+      "__id__": 98
     },
     "_opacity": 255,
     "_color": {
@@ -3504,6 +3507,17 @@
       "__id__": 1
     },
     "_enabled": true,
+    "_id": ""
+  },
+  {
+    "__type__": "8207aJ+O11KgKwU1LGfjzi+",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "dataID": "key457",
     "_id": ""
   },
   {

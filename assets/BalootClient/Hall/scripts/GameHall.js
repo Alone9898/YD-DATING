@@ -365,15 +365,14 @@ cc.Class({
         if (index == 0) {
             animName = "shop";
         } else if (index == 1) {
-            animName = "game";
+            animName = "leauge";
         } else if (index == 2) {
-            animName = "events";
+            animName = "game";
         } else if (index == 3) {
+            animName = "events";
+        } else if (index == 4) {
             animName = "social";
         }
-        // else if (index == 4) {
-        //     animName = "social";
-        // }
         return animName;
     },
     // 切换页面处理
@@ -395,12 +394,12 @@ cc.Class({
                 navigationPageView.showPage(0);
             }
         }
-        // if (index == 1) {
-        //     let cpt = item.pageNode.getComponentInChildren("LeftMenuCpt");
-        //     if (cpt) {
-        //         cpt.show = false;
-        //     }
-        // }
+        if (index == 1) {
+            let cpt = item.pageNode.getComponentInChildren("LeftMenuCpt");
+            if (cpt) {
+                cpt.show = false;
+            }
+        }
 
         if (index == 4) {
             // let isShowZC = Global.getLocal("IS_SHOW_ZC");
