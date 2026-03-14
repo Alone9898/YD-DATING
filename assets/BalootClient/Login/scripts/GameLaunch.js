@@ -379,8 +379,8 @@ cc.Class({
             if (jsonAsset && jsonAsset.json) {
                 let jsonData = jsonAsset.json;
                 cc.vv.LanguageData.language.set("Excel", jsonData);
-                console.log(cc.vv.LanguageData.language);
-                cc.vv.LanguageData.current = "pt";
+                let lan = cc.sys.localStorage.getItem("i18n_lang");
+                cc.vv.LanguageData.current = lan == 1 ? "pt" : "en"; //en 英语 pt印尼语言
             } else {
                 AppLog.err('jsonAsset or jsonData is null');
             }

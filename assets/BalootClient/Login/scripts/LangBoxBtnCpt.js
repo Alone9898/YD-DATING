@@ -19,6 +19,7 @@ cc.Class({
                         if (cc.isValid(this.hitIcon)) {
                             this.hitIcon.angle = 180;
                         }
+						
                         // 拿到世界坐标
                         let worldPos = this.node.convertToWorldSpaceAR(cc.v2(0, -this.node.height / 2 - 10));
                         let endPos = cc.find("Canvas").convertToNodeSpaceAR(worldPos);

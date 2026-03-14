@@ -33,6 +33,7 @@ cc.Class({
         // 进行多语言的切换
         cc.vv.i18nManager.setLanguage(lang);
         let lanConfig = cc.vv.i18nManager.getLanguageConfig(lang)
+        cc.vv.LanguageData.current = lang == 1 ? "pt" : "en"; //en 英语 pt印尼语言
         // 请求更换语言
         cc.vv.NetManager.send({ c: MsgId.CHANGE_LANGUAGE, language: lanConfig.id }, true);
         // 调转到一个中间场景
